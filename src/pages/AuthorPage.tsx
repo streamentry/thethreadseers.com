@@ -1,4 +1,3 @@
-import { withBase } from '../lib/siteBase'
 import PullQuote from '../components/PullQuote'
 import Reveal from '../components/Reveal'
 import ThreadDivider from '../components/ThreadDivider'
@@ -10,15 +9,13 @@ export default function AuthorPage() {
         <div className="lg:col-span-4">
           <Reveal>
             <figure className="lg:sticky lg:top-8">
-              <div className="overflow-hidden rounded-sm border border-text-primary/15">
-                <img
-                  src={withBase('/img/leviethong.png')}
-                  alt="Le Viet Hong, author of The Thread Seers"
-                  className="aspect-square w-full object-cover"
-                />
+              <div className="flex aspect-square w-full items-center justify-center overflow-hidden rounded-sm border border-text-primary/15 bg-background-secondary">
+                <span aria-hidden="true" className="font-display text-7xl font-light italic text-accent-thread">
+                  LVH
+                </span>
               </div>
               <figcaption className="mt-3 font-mono text-xs uppercase tracking-[0.18em] text-text-secondary">
-                Le Viet Hong · the hand holding the threads
+                Author photograph — to come
               </figcaption>
             </figure>
           </Reveal>

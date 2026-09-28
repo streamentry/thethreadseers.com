@@ -7,7 +7,36 @@ import RelationshipMap, { type ThreadNode } from '../components/RelationshipMap'
 import ThreadDivider from '../components/ThreadDivider'
 
 const coverImg = withBase('/img/the_thread_seer_book1.jpg')
-const authorImg = withBase('/img/leviethong.png')
+
+/** Inline type-height chips: zoomed cover details (thread knot, spire). */
+function InlineChip({ x, y, className = '' }: { x: number; y: number; className?: string }) {
+  return (
+    <span
+      aria-hidden="true"
+      className={`mx-[0.14em] hidden h-[0.68em] w-[1.5em] select-none rounded-full border border-text-primary/25 bg-background-secondary align-middle sm:inline-block ${className}`}
+      style={{
+        backgroundImage: `url(${coverImg})`,
+        backgroundSize: '380%',
+        backgroundPosition: `${x}% ${y}%`,
+      }}
+    />
+  )
+}
+
+function DetailPill({ x, y, label }: { x: number; y: number; label: string }) {
+  return (
+    <span
+      role="img"
+      aria-label={label}
+      className="h-20 w-32 select-none rounded-full border border-text-primary/25 bg-background-secondary"
+      style={{
+        backgroundImage: `url(${coverImg})`,
+        backgroundSize: '300%',
+        backgroundPosition: `${x}% ${y}%`,
+      }}
+    />
+  )
+}
 
 const quartet: ThreadNode[] = [
   {
@@ -109,27 +138,14 @@ export default function HomePage() {
             </Reveal>
             <Reveal delay={90}>
               <h1 className="mt-6 font-display text-hero font-light text-text-primary">
-                She drew the lines{' '}
-                <img
-                  src={coverImg}
-                  alt=""
-                  aria-hidden="true"
-                  className="mx-1 hidden h-[0.82em] w-[1.7em] rounded-full object-cover align-[-0.1em] sm:inline-block"
-                />
-                between people — then they began{' '}
-                <img
-                  src={authorImg}
-                  alt=""
-                  aria-hidden="true"
-                  className="mx-1 hidden h-[0.82em] w-[1.7em] rounded-full object-cover align-[-0.1em] sm:inline-block"
-                />
-                to glow.
+                She drew the lines <InlineChip x={51} y={62} /> between people — then
+                they began <InlineChip x={80} y={46} /> to glow.
               </h1>
             </Reveal>
             <Reveal delay={160} className="mt-6 sm:hidden">
               <div className="flex gap-3">
-                <img src={coverImg} alt="Book One cover detail" className="h-20 w-32 rounded-full object-cover" />
-                <img src={authorImg} alt="Author detail" className="h-20 w-32 rounded-full object-cover" />
+                <DetailPill x={51} y={62} label="Thread knot detail" />
+                <DetailPill x={80} y={46} label="Academy spire detail" />
               </div>
             </Reveal>
             <Reveal delay={180}>
