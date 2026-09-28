@@ -634,6 +634,18 @@ function buildRoutes() {
 
 /* ------------------------------------------------------------------ render */
 
+/**
+ * Vite emits root-absolute asset URLs (`/assets/x.js`), which only resolve when
+ * the site is mounted at the domain root. On GitHub project Pages it is mounted
+ * at a subpath, so those 404. Rewriting each route's asset URLs to a
+ * depth-relative path makes the build independent of the mount point.
+ */
+function relativizeAssetUrls(html, routePath) {
+  const depth = routePath === '/' ? 0 : routePath.replace(/^\//, '').split('/').length
+  const prefix = depth === 0 ? './' : '../'.repeat(depth)
+  return html.replace(/(["'])\/((?:assets|img|books)\/)/g, `$1${prefix}$2`)
+}
+
 function headFor(route) {
   const url = abs(route.path)
   const image = SITE.cover
@@ -734,6 +746,8 @@ function writeRoute(template, route) {
     '<div id="root"></div>',
     `<div id="root"><main class="prerender">${body}</main></div>`,
   )
+
+  html = relativizeAssetUrls(html, route.path)
 
   const outDir = route.path === '/' ? DIST : join(DIST, route.path.replace(/^\//, ''))
   mkdirSync(outDir, { recursive: true })

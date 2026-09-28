@@ -47,6 +47,12 @@
       }(window.location))
     </script>
 
+    <!--
+      Asset paths are rewritten to depth-relative form by scripts/prerender.mjs,
+      so this entry point resolves correctly whether the site is mounted at a
+      domain root or at a GitHub project-pages subpath.
+    -->
+
     <!-- Preload fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
