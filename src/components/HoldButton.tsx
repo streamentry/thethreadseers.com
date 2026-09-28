@@ -94,7 +94,7 @@ export default function HoldButton({ children, onHold, className = '', hint = 'p
         className="absolute inset-y-0 left-0 bg-text-primary/15"
         style={{ width: `${Math.round(progress * 100)}%` }}
       />
-      <span className="relative flex items-center gap-3">
+      <span className="relative flex flex-wrap items-center justify-center gap-x-3 gap-y-1 text-center">
         {children}
         <span className="font-mono text-[0.65rem] uppercase tracking-[0.2em] opacity-70">
           {progress >= 1 ? 'held' : hint}

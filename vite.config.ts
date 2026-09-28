@@ -24,5 +24,9 @@ export default defineConfig({
     port: 3000,
     open: true,
   },
-  base: './',
+  // Absolute asset base: SPA deep links (e.g. /series/book-one/read/prologue) are
+  // redirected by 404.html to /?/series/... — from which a relative './assets/...'
+  // URL would resolve against the nested path and 404. '/assets/...' is correct on
+  // both the custom domain and the project-pages root.
+  base: '/',
 })

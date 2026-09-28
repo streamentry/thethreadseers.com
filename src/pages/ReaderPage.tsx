@@ -155,7 +155,8 @@ export default function ReaderPage() {
           </Link>
 
           <p className="font-mono text-xs tracking-[0.18em] text-text-secondary uppercase">
-            {chapterIndex >= 0 ? `ch. ${chapterIndex + 1} / ${TOTAL}` : '—'} · coherence steady
+            {chapterIndex >= 0 ? `ch. ${chapterIndex + 1} / ${TOTAL}` : '—'}
+            <span className="hidden sm:inline"> · coherence steady</span>
           </p>
 
           <button
