@@ -1,39 +1,40 @@
-import {  Twitter, Instagram } from 'lucide-react'
+import { Twitter, Instagram } from 'lucide-react'
+import ThreadDivider from './ThreadDivider'
 
 const socialLinks = [
-  {
-    name: 'Twitter',
-    href: '#',
-    icon: Twitter,
-  },
-  {
-    name: 'Instagram', 
-    href: '#',
-    icon: Instagram,
-  }
-  
+  { name: 'Twitter', href: '#', icon: Twitter },
+  { name: 'Instagram', href: '#', icon: Instagram },
 ]
 
 export default function Footer() {
   return (
-    <footer className="mt-32 border-t border-text-secondary/20">
-      <div className="mx-auto max-w-7xl px-6 py-12 md:flex md:items-center md:justify-between lg:px-8">
-        <div className="flex justify-center space-x-6 md:order-2">
-          {socialLinks.map((item) => (
-            <a
-              key={item.name}
-              href={item.href}
-              className="text-text-secondary hover:text-accent-silver transition-colors duration-300"
-            >
-              <span className="sr-only">{item.name}</span>
-              <item.icon className="h-5 w-5" aria-hidden="true" />
-            </a>
-          ))}
-        </div>
-        <div className="mt-8 md:order-1 md:mt-0">
-          <p className="text-center text-sm text-text-secondary">
-            &copy; {new Date().getFullYear()} Le Viet Hong. All rights reserved.
-          </p>
+    <footer className="mt-24 px-6 pb-12 lg:px-8">
+      <div className="mx-auto max-w-canvas">
+        <ThreadDivider className="mb-10" />
+        <div className="md:flex md:items-end md:justify-between">
+          <div>
+            <p className="font-sans text-sm font-light uppercase tracking-[0.32em] text-text-primary">
+              The Thread Seers
+            </p>
+            <p className="mt-3 font-mono text-xs tracking-[0.14em] text-text-secondary">
+              SET IN FRAUNCES &amp; NEWSREADER · THREADS HOLD
+            </p>
+            <p className="mt-2 text-sm text-text-secondary">
+              &copy; {new Date().getFullYear()} Le Viet Hong. All rights reserved.
+            </p>
+          </div>
+          <div className="mt-8 flex space-x-2 md:mt-0">
+            {socialLinks.map((item) => (
+              <a
+                key={item.name}
+                href={item.href}
+                className="inline-flex min-h-[44px] min-w-[44px] items-center justify-center rounded-sm text-text-secondary hover:text-accent-thread transition-colors duration-300"
+              >
+                <span className="sr-only">{item.name}</span>
+                <item.icon className="h-5 w-5" aria-hidden="true" />
+              </a>
+            ))}
+          </div>
         </div>
       </div>
     </footer>

@@ -1,30 +1,41 @@
 import { Link } from 'react-router-dom'
+import { Download } from 'lucide-react'
 import { withBase } from '../lib/siteBase'
+import HoldButton from '../components/HoldButton'
+import Reveal from '../components/Reveal'
+import ThreadDivider from '../components/ThreadDivider'
+
+const EPUB_URL = withBase('/books/the_thread_seers_epub3.epub')
 
 const downloads = [
   {
-    label: 'PDF',
-    description: 'Best for print, sharing, and desktop reading.',
-    href: withBase('/books/the_thread_seers.pdf'),
+    format: 'EPUB3',
+    note: 'Recommended · most e-readers and apps',
+    size: '3.4 MB',
+    href: EPUB_URL,
   },
   {
-    label: 'EPUB3 (Recommended)',
-    description: 'Best for most e-readers and reading apps.',
-    href: withBase('/books/the_thread_seers_epub3.epub'),
-  },
-  {
-    label: 'EPUB2',
-    description: 'Compatibility format for older devices.',
+    format: 'EPUB2',
+    note: 'Older devices',
+    size: '3.4 MB',
     href: withBase('/books/the_thread_seers_epub2.epub'),
   },
   {
-    label: 'EPUB (Legacy)',
-    description: 'Alternate build for compatibility.',
+    format: 'EPUB',
+    note: 'Legacy build',
+    size: '3.4 MB',
     href: withBase('/books/the_thread_seers.epub'),
   },
   {
-    label: 'Markdown',
-    description: 'Plain-text edition (best for search/notes).',
+    format: 'PDF',
+    note: 'Print, sharing, desktop',
+    size: '627 KB',
+    href: withBase('/books/the_thread_seers.pdf'),
+  },
+  {
+    format: 'MD',
+    note: 'Plain text · search and notes',
+    size: '212 KB',
     href: withBase('/books/the_thread_seers.md'),
   },
 ]
@@ -39,78 +50,111 @@ const platformLinks = [
 
 export default function DownloadsPage() {
   return (
-    <div className="mx-auto max-w-4xl px-6 py-16 lg:px-8">
-      <div className="text-center mb-16">
-        <p className="text-caption text-text-secondary font-sans tracking-wide mb-4">
-          The Thread Seers: Book One
-        </p>
-        <h1 className="font-sans text-h1 font-light tracking-wider text-text-primary mb-6 luminous-text">
-          Free Downloads
-        </h1>
-        <p className="text-lg sm:text-xl font-serif text-text-body leading-relaxed max-w-3xl mx-auto">
-          Download the complete book in your preferred format. No gate, no sample. This is the full text.
-        </p>
-      </div>
-
-      <div className="grid gap-6 md:grid-cols-2">
-        {downloads.map((item) => (
-          <a
-            key={item.href}
-            href={item.href}
-            className="block border border-text-secondary/20 rounded-sm px-6 py-5 hover:border-accent-silver/30 hover:bg-accent-silver/5 transition-all duration-300"
-          >
-            <div className="font-sans text-base font-medium text-text-primary luminous-text">
-              Download {item.label}
-            </div>
-            <div className="mt-2 text-sm text-text-secondary font-sans tracking-wide">
-              {item.description}
-            </div>
-          </a>
-        ))}
-      </div>
-
-      <div className="mt-16 pt-10 border-t border-text-secondary/20">
-        <h2 className="font-sans text-h3 font-medium text-text-primary mb-4">
-          Read Online
-        </h2>
-        <div className="flex flex-col sm:flex-row gap-4">
-          <Link
-            to="/series/book-one/read/prologue"
-            className="minimal-button text-center text-accent-silver border border-accent-silver/30 rounded-sm px-6 py-3 hover:border-accent-silver hover:bg-accent-silver/5 transition-all duration-300"
-          >
-            Start at the Prologue
-          </Link>
-          <Link
-            to="/series/book-one"
-            className="minimal-button text-center text-text-body hover:text-accent-silver transition-all duration-300 border border-text-secondary/20 rounded-sm px-6 py-3 hover:border-accent-silver/30"
-          >
-            Book details
-          </Link>
-        </div>
-      </div>
-
-      <div className="mt-16 pt-10 border-t border-text-secondary/20">
-        <h2 className="font-sans text-h3 font-medium text-text-primary mb-4">
-          Kindle &amp; Play Books
-        </h2>
-        <div className="prose-dark mb-6">
-          <p>
-            Prefer reading inside a storefront app? The book is also listed on Kindle and Google Play Books.
-            If you ever see a price, you can still download the free editions above.
+    <div className="mx-auto max-w-canvas px-6 py-16 lg:px-8 lg:py-24">
+      <div className="max-w-3xl">
+        <Reveal>
+          <p className="eyebrow">Book one · the full text</p>
+        </Reveal>
+        <Reveal delay={80}>
+          <h1 className="mt-5 font-display text-h1 font-light text-text-primary">
+            No gate. No sample. Hold it all.
+          </h1>
+        </Reveal>
+        <Reveal delay={150}>
+          <p className="mt-6 max-w-prose font-serif text-body leading-relaxed text-text-body">
+            The complete book in your format of choice. Threads are meant to be shared
+            the way they&rsquo;re held — openly, and without charge.
           </p>
-        </div>
-        <div className="flex flex-col sm:flex-row gap-4">
-          {platformLinks.map((link) => (
-            <a
-              key={link.name}
-              href={link.url}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="minimal-button text-center text-text-body hover:text-accent-silver transition-all duration-300 border border-text-secondary/20 rounded-sm px-6 py-3 hover:border-accent-silver/30"
+        </Reveal>
+        <Reveal delay={220}>
+          <div className="mt-9">
+            <HoldButton
+              onHold={() => {
+                const a = document.createElement('a')
+                a.href = EPUB_URL
+                a.download = 'the_thread_seers_epub3.epub'
+                document.body.appendChild(a)
+                a.click()
+                a.remove()
+              }}
             >
-              Open on {link.name}
-            </a>
+              Hold the thread — EPUB3
+            </HoldButton>
+          </div>
+        </Reveal>
+      </div>
+
+      <Reveal>
+        <ThreadDivider className="mt-14 lg:mt-20" />
+      </Reveal>
+
+      {/* File ledger */}
+      <div className="mt-12 lg:mt-16">
+        <Reveal>
+          <p className="eyebrow">Ledger · every edition accounted for</p>
+        </Reveal>
+        <ol className="mt-6 border-t border-text-primary/10">
+          {downloads.map((item, i) => (
+            <Reveal key={item.format} delay={Math.min(i, 6) * 70}>
+              <li>
+                <a
+                  href={item.href}
+                  download
+                  className="group grid grid-cols-12 items-baseline gap-2 border-b border-text-primary/10 py-5 transition-colors duration-300 hover:bg-text-primary/[0.03]"
+                >
+                  <span className="col-span-4 font-mono text-sm tracking-[0.12em] text-text-primary sm:col-span-2">
+                    {item.format}
+                  </span>
+                  <span className="col-span-8 font-serif text-body text-text-body sm:col-span-7">
+                    {item.note}
+                  </span>
+                  <span className="col-span-6 font-mono text-xs text-text-secondary sm:col-span-2">
+                    {item.size} · full text
+                  </span>
+                  <span className="col-span-6 flex justify-end text-text-secondary transition-colors group-hover:text-accent-thread sm:col-span-1">
+                    <Download className="h-4 w-4" aria-hidden="true" />
+                  </span>
+                </a>
+              </li>
+            </Reveal>
           ))}
+        </ol>
+      </div>
+
+      <div className="mt-16 grid gap-12 lg:mt-24 lg:grid-cols-12">
+        <div className="lg:col-span-5">
+          <Reveal>
+            <h2 className="font-display text-h2 font-normal text-text-primary">Read online</h2>
+            <p className="mt-4 font-serif text-body leading-relaxed text-text-body">
+              Prefer to start here, in the browser? The prologue opens in Saigon, 1943 —
+              lanterns still lit, currents dragging.
+            </p>
+            <Link to="/series/book-one/read/prologue" className="ghost-link mt-5">
+              Start at the prologue
+            </Link>
+          </Reveal>
+        </div>
+        <div className="lg:col-span-5 lg:col-start-8">
+          <Reveal delay={100}>
+            <h2 className="font-display text-h2 font-normal text-text-primary">Storefronts</h2>
+            <p className="mt-4 font-serif text-body leading-relaxed text-text-body">
+              The book also lives on Kindle and Google Play Books. If you ever see a
+              price there, the free editions above are the same full text.
+            </p>
+            <div className="mt-5 flex flex-col items-start gap-1">
+              {platformLinks.map((link) => (
+                <a
+                  key={link.name}
+                  href={link.url}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="ghost-link"
+                >
+                  Open on {link.name}
+                </a>
+              ))}
+            </div>
+          </Reveal>
         </div>
       </div>
     </div>

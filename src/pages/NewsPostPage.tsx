@@ -1,4 +1,6 @@
 import { useParams, Link } from 'react-router-dom'
+import Reveal from '../components/Reveal'
+import ThreadDivider from '../components/ThreadDivider'
 
 const newsData = {
   'book-one-release': {
@@ -53,37 +55,42 @@ export default function NewsPostPage() {
 
   if (!post) {
     return (
-      <div className="mx-auto max-w-4xl px-6 py-16 lg:px-8 text-center">
-        <h1 className="font-sans text-h1 font-light text-text-primary mb-6">Post Not Found</h1>
-        <Link to="/news" className="minimal-button text-accent-silver">
-          Return to News
+      <div className="mx-auto max-w-reading px-6 py-24 text-center lg:px-8">
+        <p className="eyebrow">the weave · interrupted</p>
+        <h1 className="mt-4 font-display text-h1 font-light text-text-primary">Post Not Found</h1>
+        <p className="mx-auto mt-6 max-w-prose font-serif text-body text-text-body">
+          This thread comes loose here — no such post.
+        </p>
+        <Link to="/news" className="ghost-link mt-8">
+          Return to echoes
         </Link>
       </div>
     )
   }
 
   return (
-    <div className="mx-auto max-w-4xl px-6 py-16 lg:px-8">
-      {/* Post Header */}
-      <div className="text-center mb-16">
-        <time className="text-caption text-text-secondary font-sans tracking-wide mb-4 block">
+    <div className="mx-auto max-w-reading px-6 py-16 lg:py-24">
+      <Reveal>
+        <time className="eyebrow block">
           {new Date(post.date).toLocaleDateString('en-US', {
             year: 'numeric',
             month: 'long',
-            day: 'numeric'
+            day: 'numeric',
           })}
         </time>
-        <h1 className="font-sans text-h1 font-light tracking-wider text-text-primary mb-8 luminous-text">
-          {post.title}
-        </h1>
-      </div>
+      </Reveal>
+      <Reveal delay={80}>
+        <h1 className="mt-5 font-display text-h1 font-light text-text-primary">{post.title}</h1>
+      </Reveal>
+      <Reveal delay={140}>
+        <ThreadDivider className="mb-10 mt-10" />
+      </Reveal>
 
-      {/* Post Content */}
-      <div className="prose-dark">
+      <div className="prose-dark mx-0 max-w-none">
         {post.content.split('\n\n').map((paragraph, index) => {
           if (paragraph.startsWith('## ')) {
             return (
-              <h2 key={index} className="font-sans text-h2 font-normal text-text-primary mb-6 mt-12">
+              <h2 key={index} className="mb-6 mt-12 font-display text-h2 font-normal text-text-primary">
                 {paragraph.replace('## ', '')}
               </h2>
             )
@@ -91,9 +98,10 @@ export default function NewsPostPage() {
           if (paragraph.startsWith('- ')) {
             const listItems = paragraph.split('\n').filter(item => item.startsWith('- '))
             return (
-              <ul key={index} className="list-disc list-inside space-y-2 mb-6">
+              <ul key={index} className="mb-6 space-y-2">
                 {listItems.map((item, itemIndex) => (
-                  <li key={itemIndex} className="text-text-body">
+                  <li key={itemIndex} className="flex items-start gap-3 text-text-body">
+                    <span aria-hidden="true" className="mt-2.5 h-1.5 w-1.5 shrink-0 rotate-45 bg-accent-knot" />
                     {item.replace('- ', '')}
                   </li>
                 ))}
@@ -104,13 +112,9 @@ export default function NewsPostPage() {
         })}
       </div>
 
-      {/* Navigation */}
-      <div className="mt-16 pt-8 border-t border-text-secondary/20">
-        <Link
-          to="/news"
-          className="minimal-button text-text-secondary hover:text-accent-silver transition-all duration-300"
-        >
-          ← Back to News
+      <div className="mt-16 border-t border-text-primary/10 pt-6">
+        <Link to="/news" className="ghost-link text-text-secondary hover:text-text-primary">
+          ← Back to echoes
         </Link>
       </div>
     </div>

@@ -1,4 +1,6 @@
 import { Link } from 'react-router-dom'
+import Reveal from '../components/Reveal'
+import ThreadDivider from '../components/ThreadDivider'
 
 const newsData = [
   {
@@ -11,59 +13,60 @@ const newsData = [
     slug: 'series-announcement',
     title: 'Introducing The Thread Seers',
     date: '2024-01-01',
-    excerpt: 'A fantasy series about a girl who can see the threads connecting people, the hidden school that trains her, and the question of what those connections are actually for.',
+    excerpt: 'A series about a girl who can see the threads connecting people, the hidden school that trains her, and the question of what those connections are actually for.',
   },
 ]
 
 export default function NewsPage() {
   return (
-    <div className="mx-auto max-w-4xl px-6 py-16 lg:px-8">
-      <div className="text-center mb-16">
-        <h1 className="font-sans text-h1 font-light tracking-wider text-text-primary mb-6 luminous-text">
-          Echoes & Announcements
-        </h1>
-        <div className="prose-dark">
-          <p className="text-xl leading-relaxed max-w-3xl mx-auto">
-            Stay connected to the latest news from the world of The Thread Seers.
-          </p>
-        </div>
+    <div className="mx-auto max-w-canvas px-6 py-16 lg:px-8 lg:py-24">
+      <div className="max-w-3xl">
+        <Reveal>
+          <p className="eyebrow">Echoes · from the desk</p>
+        </Reveal>
+        <Reveal delay={80}>
+          <h1 className="mt-5 font-display text-h1 font-light text-text-primary">
+            Word travels along threads, too.
+          </h1>
+        </Reveal>
       </div>
 
-      <div className="elegant-spacing">
-        {newsData.map((post) => (
-          <article key={post.slug} className="border-b border-text-secondary/20 pb-12 last:border-b-0">
-            <div className="mb-4">
-              <time className="text-caption text-text-secondary font-sans tracking-wide">
+      <Reveal>
+        <ThreadDivider className="mt-14 lg:mt-20" />
+      </Reveal>
+
+      <div className="mt-4">
+        {newsData.map((post, i) => (
+          <Reveal key={post.slug} delay={Math.min(i, 4) * 80}>
+            <article className="grid gap-3 border-b border-text-primary/10 py-10 lg:grid-cols-12 lg:gap-8">
+              <time className="font-mono text-xs uppercase tracking-[0.18em] text-text-secondary lg:col-span-3 lg:pt-2">
                 {new Date(post.date).toLocaleDateString('en-US', {
                   year: 'numeric',
                   month: 'long',
-                  day: 'numeric'
+                  day: 'numeric',
                 })}
               </time>
-            </div>
-            
-            <h2 className="font-sans text-h2 font-normal text-text-primary mb-4 luminous-text">
-              <Link 
-                to={`/news/${post.slug}`}
-                className="hover:text-accent-silver transition-colors duration-300"
-              >
-                {post.title}
-              </Link>
-            </h2>
-            
-            <div className="prose-dark">
-              <p>{post.excerpt}</p>
-            </div>
-            
-            <div className="mt-6">
-              <Link
-                to={`/news/${post.slug}`}
-                className="minimal-button text-text-body hover:text-accent-silver transition-all duration-300"
-              >
-                Read More →
-              </Link>
-            </div>
-          </article>
+              <div className="lg:col-span-8">
+                <h2 className="font-display text-h2 font-normal text-text-primary">
+                  <Link
+                    to={`/news/${post.slug}`}
+                    className="transition-colors duration-300 hover:text-accent-thread"
+                  >
+                    {post.title}
+                  </Link>
+                </h2>
+                <p className="mt-3 max-w-prose font-serif text-body leading-relaxed text-text-body">
+                  {post.excerpt}
+                </p>
+                <Link
+                  to={`/news/${post.slug}`}
+                  className="ghost-link mt-4 text-text-secondary hover:text-text-primary"
+                >
+                  Read the post
+                </Link>
+              </div>
+            </article>
+          </Reveal>
         ))}
       </div>
     </div>

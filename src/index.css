@@ -31,116 +31,204 @@
   * {
     @apply border-border;
   }
-  
+
+  html {
+    scroll-behavior: smooth;
+  }
+
   body {
     @apply bg-background-primary text-text-body font-serif;
     @apply antialiased;
     font-feature-settings: "kern" 1, "liga" 1, "calt" 1;
   }
-  
+
   h1, h2, h3, h4, h5, h6 {
-    @apply font-sans text-text-primary;
-    @apply tracking-wide;
+    @apply font-display text-text-primary;
+    letter-spacing: -0.01em;
   }
-  
+
   h1 {
     @apply text-hero font-light;
   }
-  
+
   h2 {
     @apply text-h2 font-normal;
   }
-  
+
   h3 {
     @apply text-h3 font-medium;
   }
-  
+
   p {
     @apply text-body leading-relaxed;
     @apply mb-6;
   }
-  
+
   a {
-    @apply text-text-body transition-all duration-300;
-    @apply hover:text-accent-silver;
+    @apply text-text-body transition-colors duration-300;
   }
-  
-  /* Custom scrollbar for webkit browsers */
+
+  ::selection {
+    background: rgba(198, 161, 91, 0.35);
+    color: #F2EFE6;
+  }
+
+  :focus-visible {
+    outline: 2px solid #C6A15B;
+    outline-offset: 3px;
+    border-radius: 2px;
+  }
+
   ::-webkit-scrollbar {
     width: 8px;
   }
-  
+
   ::-webkit-scrollbar-track {
     @apply bg-background-secondary;
   }
-  
+
   ::-webkit-scrollbar-thumb {
-    @apply bg-text-secondary rounded-full;
+    background: #3a382f;
+    border-radius: 9999px;
   }
-  
+
   ::-webkit-scrollbar-thumb:hover {
-    @apply bg-accent-silver;
+    background: #C6A15B;
   }
 }
 
 @layer components {
-  .luminous-text {
-    @apply transition-all duration-500;
-    @apply hover:text-accent-silver;
-    text-shadow: 0 0 10px rgba(192, 192, 192, 0.2);
+  /* Silk-tooth grain over the whole canvas. Fixed, never animated. */
+  .grain::after {
+    content: "";
+    position: fixed;
+    inset: 0;
+    z-index: 60;
+    pointer-events: none;
+    opacity: 0.035;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2'/%3E%3C/filter%3E%3Crect width='160' height='160' filter='url(%23n)' opacity='1'/%3E%3C/svg%3E");
   }
-  
-  .luminous-text:hover {
-    text-shadow: 
-      0 0 10px rgba(168, 187, 220, 0.4),
-      0 0 20px rgba(192, 192, 192, 0.3),
-      0 0 30px rgba(160, 149, 181, 0.2);
+
+  /* Mono eyebrow label above section headers */
+  .eyebrow {
+    @apply font-mono text-xs tracking-[0.22em] uppercase text-text-secondary;
   }
-  
-  .thread-shimmer {
+
+  /* Primary CTA: flat gold, cut-silk radius, shimmer sweep, tactile press */
+  .hold-cta {
+    @apply relative inline-flex items-center justify-center overflow-hidden;
+    @apply font-sans font-medium text-background-primary;
+    background-color: #C6A15B;
+    border-radius: 2px;
+    min-height: 44px;
+    transition: transform 120ms ease-out, background-color 300ms ease;
+  }
+
+  .hold-cta::before {
+    content: "";
+    position: absolute;
+    inset: 0;
     background: linear-gradient(
-      90deg,
-      transparent,
-      rgba(192, 192, 192, 0.1),
-      transparent
+      100deg,
+      transparent 20%,
+      rgba(242, 239, 230, 0.35) 50%,
+      transparent 80%
     );
     background-size: 200% 100%;
-    animation: thread-shimmer 3s ease-in-out infinite;
+    animation: thread-shimmer 3.2s ease-in-out infinite;
+    pointer-events: none;
   }
-  
+
+  .hold-cta:hover {
+    background-color: #d3af66;
+  }
+
+  .hold-cta:active {
+    transform: translateY(1px) scale(0.99);
+  }
+
+  /* Ghost text-link with hairline that draws left-to-right */
+  .ghost-link {
+    @apply relative inline-flex items-center font-sans text-text-body;
+    @apply transition-colors duration-300 hover:text-text-primary;
+    min-height: 44px;
+  }
+
+  .ghost-link::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: 8px;
+    height: 1px;
+    width: 100%;
+    background: #C6A15B;
+    transform: scaleX(0);
+    transform-origin: left;
+    transition: transform 350ms cubic-bezier(0.22, 1, 0.36, 1);
+  }
+
+  .ghost-link:hover::after {
+    transform: scaleX(1);
+  }
+
+  /* Pull quote: Fraunces italic with red-knot diamond marker */
+  .pullquote {
+    @apply font-display italic font-light text-text-primary;
+    font-size: clamp(1.5rem, 3.4vw, 2.1rem);
+    line-height: 1.4;
+  }
+
+  .pullquote::before {
+    content: "";
+    display: block;
+    width: 9px;
+    height: 9px;
+    margin-bottom: 1.25rem;
+    background: #B34434;
+    transform: rotate(45deg);
+  }
+
+  /* Long-form reading column */
   .prose-dark {
-    @apply max-w-reading mx-auto;
+    @apply max-w-reading mx-auto font-serif text-text-body;
   }
-  
+
   .prose-dark p {
-    @apply text-text-body leading-relaxed mb-6;
+    @apply leading-relaxed mb-6;
   }
-  
+
   .prose-dark h1 {
     @apply text-text-primary text-h1 font-light mb-8;
   }
-  
+
   .prose-dark h2 {
     @apply text-text-primary text-h2 font-normal mb-6 mt-12;
   }
-  
+
   .prose-dark h3 {
     @apply text-text-primary text-h3 font-medium mb-4 mt-8;
   }
-  
+
   .elegant-spacing {
     @apply space-y-8 md:space-y-12 lg:space-y-16;
   }
-  
-  .minimal-button {
-    @apply font-sans font-medium text-text-body;
-    @apply transition-all duration-300;
-    @apply hover:text-accent-silver;
-    @apply focus:outline-none focus:ring-2 focus:ring-accent-silver focus:ring-opacity-50;
-    @apply px-6 py-3;
+
+  /* Skeletal loader block with thread shimmer */
+  .skeleton {
+    @apply rounded-sm bg-text-secondary/10 overflow-hidden relative;
   }
-  
-  .minimal-button:hover {
-    text-shadow: 0 0 15px rgba(192, 192, 192, 0.4);
+
+  .skeleton::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(
+      90deg,
+      transparent,
+      rgba(198, 161, 91, 0.12),
+      transparent
+    );
+    background-size: 200% 100%;
+    animation: thread-shimmer 2.4s ease-in-out infinite;
   }
 }
