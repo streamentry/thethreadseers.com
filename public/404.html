@@ -16,10 +16,11 @@
         // Note: this 404.html file must be at least 512 bytes for it to work
         // with Internet Explorer (it is currently > 512 bytes)
 
-        // Using custom domain, so no path segments to keep
-        // All routes should be handled at the root level
+        // Keep one path segment for the project-pages URL
+        // (https://streamentry.github.io/thethreadseers.com/...), zero for a
+        // custom domain (https://thethreadseers.com/...).
 
-        var pathSegmentsToKeep = 0;
+        var pathSegmentsToKeep = l.pathname.split('/')[1] === 'thethreadseers.com' ? 1 : 0;
 
         var l = window.location;
         var redirectUrl = l.protocol + '//' + l.hostname + (l.port ? ':' + l.port : '') +

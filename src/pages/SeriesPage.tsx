@@ -1,4 +1,5 @@
 import { Link } from 'react-router-dom'
+import { withBase } from '../lib/siteBase'
 
 const books = [
   {
@@ -9,7 +10,7 @@ const books = [
     blurb: 'Teen artist Lyra Chen sketches “relationship maps” in the margins of her notebooks until the lines begin glowing in the air: luminous threads binding people, places, and secrets. Recruited to Threadweaver Academy, Lyra learns her gift has a name, and that the institution is failing as students collapse with their connections hollowed out by an ashen black-silver contamination. With her father dying and her mother’s disappearance tied to the Academy’s hidden extraction research, Lyra must choose what kind of power she will become: control, or communion.',
     available: true,
     freeToRead: true,
-    coverImage: '/img/the_thread_seer_book1.jpg',
+    coverImage: withBase('/img/the_thread_seer_book1.jpg'),
   },
   {
     id: 2,

@@ -1,30 +1,31 @@
 import { Link } from 'react-router-dom'
+import { withBase } from '../lib/siteBase'
 
 const downloads = [
   {
     label: 'PDF',
     description: 'Best for print, sharing, and desktop reading.',
-    href: '/books/the_thread_seers.pdf',
+    href: withBase('/books/the_thread_seers.pdf'),
   },
   {
     label: 'EPUB3 (Recommended)',
     description: 'Best for most e-readers and reading apps.',
-    href: '/books/the_thread_seers_epub3.epub',
+    href: withBase('/books/the_thread_seers_epub3.epub'),
   },
   {
     label: 'EPUB2',
     description: 'Compatibility format for older devices.',
-    href: '/books/the_thread_seers_epub2.epub',
+    href: withBase('/books/the_thread_seers_epub2.epub'),
   },
   {
     label: 'EPUB (Legacy)',
     description: 'Alternate build for compatibility.',
-    href: '/books/the_thread_seers.epub',
+    href: withBase('/books/the_thread_seers.epub'),
   },
   {
     label: 'Markdown',
     description: 'Plain-text edition (best for search/notes).',
-    href: '/books/the_thread_seers.md',
+    href: withBase('/books/the_thread_seers.md'),
   },
 ]
 

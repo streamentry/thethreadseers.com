@@ -1,4 +1,5 @@
 import { useParams, Link } from 'react-router-dom'
+import { withBase } from '../lib/siteBase'
 
 // Book data from the series bible
 const bookData = {
@@ -13,11 +14,11 @@ With her father dying and her mother’s disappearance tied to the Academy’s h
     freeToRead: true,
     updated: '2026-02-12',
     downloads: [
-      { name: 'PDF', href: '/books/the_thread_seers.pdf' },
-      { name: 'EPUB3 (Recommended)', href: '/books/the_thread_seers_epub3.epub' },
-      { name: 'EPUB2', href: '/books/the_thread_seers_epub2.epub' },
-      { name: 'EPUB (Legacy)', href: '/books/the_thread_seers.epub' },
-      { name: 'Markdown', href: '/books/the_thread_seers.md' },
+      { name: 'PDF', href: withBase('/books/the_thread_seers.pdf') },
+      { name: 'EPUB3 (Recommended)', href: withBase('/books/the_thread_seers_epub3.epub') },
+      { name: 'EPUB2', href: withBase('/books/the_thread_seers_epub2.epub') },
+      { name: 'EPUB (Legacy)', href: withBase('/books/the_thread_seers.epub') },
+      { name: 'Markdown', href: withBase('/books/the_thread_seers.md') },
     ],
     platformLinks: [
       { name: 'Kindle', url: 'https://www.amazon.com/dp/B0FBHK972Q/' },
@@ -61,7 +62,7 @@ export default function BookPage() {
         <div className="lg:col-span-1">
           <div className="aspect-[2/3] rounded-sm border border-text-secondary/20 overflow-hidden mb-8">
             <img
-              src="/img/the_thread_seer_book1.jpg"
+              src={withBase('/img/the_thread_seer_book1.jpg')}
               alt="The Thread Seers: Book One"
               className="w-full h-full object-cover"
             />

@@ -1,5 +1,6 @@
-export default function AuthorPage() {
-  return (
+import { withBase } from '../lib/siteBase'
+
+export default function AuthorPage() {  return (
     <div className="mx-auto max-w-4xl px-6 py-16 lg:px-8">
       <div className="text-center mb-16">
         <h1 className="font-sans text-h1 font-light tracking-wider text-text-primary mb-6 luminous-text">
@@ -12,7 +13,7 @@ export default function AuthorPage() {
         <div className="lg:col-span-1">
           <div className="aspect-square rounded-sm border border-text-secondary/20 overflow-hidden mb-8">
             <img
-              src="/img/leviethong.png"
+              src={withBase('/img/leviethong.png')}
               alt="Le Viet Hong, author of The Thread Seers"
               className="w-full h-full object-cover"
             />
