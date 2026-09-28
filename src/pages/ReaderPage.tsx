@@ -2,6 +2,7 @@ import { useEffect, useMemo, useState } from 'react'
 import { useParams, Link } from 'react-router-dom'
 import { ChevronLeft, ChevronRight, Settings } from 'lucide-react'
 import ReactMarkdown from 'react-markdown'
+import ThreadDivider from '../components/ThreadDivider'
 
 type ChapterEntry = {
   slug: string
@@ -24,6 +25,8 @@ const chapterOrder: ChapterEntry[] = [
   ...numberedChapters,
   { slug: 'epilogue', fileName: 'epilogue.md' },
 ]
+
+const TOTAL = chapterOrder.length
 
 function getChapterIndex(slug: string): number {
   return chapterOrder.findIndex((chapter) => chapter.slug === slug)
@@ -55,11 +58,20 @@ function stripTopHeading(markdown: string): string {
   return lines.join('\n')
 }
 
+function chapterNumeral(slug: string): string {
+  const match = slug.match(/^chapter-(\d+)$/)
+  if (match) return match[1].padStart(2, '0')
+  if (slug === 'preface') return '§'
+  if (slug === 'prologue') return '◈'
+  if (slug === 'epilogue') return '❦'
+  return '·'
+}
+
 export default function ReaderPage() {
   const { bookSlug, chapterSlug } = useParams<{ bookSlug: string; chapterSlug: string }>()
   const [fontSize, setFontSize] = useState(18)
   const [showSettings, setShowSettings] = useState(false)
-  const [title, setTitle] = useState('Loading...')
+  const [title, setTitle] = useState('Loading…')
   const [markdown, setMarkdown] = useState<string | null>(null)
   const [loadError, setLoadError] = useState<string | null>(null)
 
@@ -84,15 +96,15 @@ export default function ReaderPage() {
       setMarkdown(null)
 
       if (!chapterEntry) {
-        setLoadError('Chapter not found.')
-        setTitle('Chapter Not Found')
+        setLoadError('This thread comes loose here — no such chapter.')
+        setTitle('Thread Not Found')
         return
       }
 
       const importer = getImporterByFileName(chapterEntry.fileName)
       if (!importer) {
-        setLoadError('Chapter file missing.')
-        setTitle('Chapter Not Found')
+        setLoadError('This thread comes loose here — the chapter file is missing.')
+        setTitle('Thread Not Found')
         return
       }
 
@@ -104,8 +116,8 @@ export default function ReaderPage() {
         setMarkdown(stripTopHeading(raw))
       } catch {
         if (cancelled) return
-        setLoadError('Failed to load chapter.')
-        setTitle('Chapter Not Found')
+        setLoadError('This thread comes loose here — the chapter failed to load.')
+        setTitle('Thread Not Found')
       }
     }
 
@@ -118,123 +130,133 @@ export default function ReaderPage() {
 
   if (loadError) {
     return (
-      <div className="mx-auto max-w-4xl px-6 py-16 lg:px-8 text-center">
-        <h1 className="font-sans text-h1 font-light text-text-primary mb-6">{title}</h1>
-        <p className="text-text-secondary font-sans mb-8">{loadError}</p>
-        <Link to={`/series/${effectiveBookSlug}`} className="minimal-button text-accent-silver">
-          Return to Book
+      <div className="mx-auto max-w-reading px-6 py-24 text-center lg:px-8">
+        <p className="eyebrow">the weave · interrupted</p>
+        <h1 className="mt-4 font-display text-h1 font-light text-text-primary">{title}</h1>
+        <p className="mx-auto mt-6 max-w-prose font-serif text-body text-text-body">{loadError}</p>
+        <Link to={`/series/${effectiveBookSlug}`} className="ghost-link mt-8">
+          Return to the book
         </Link>
       </div>
     )
   }
 
   return (
-    <div className="min-h-screen bg-background-primary">
-      {/* Reader Header */}
-      <div className="sticky top-0 bg-background-primary/95 backdrop-blur-sm border-b border-text-secondary/20 z-10">
-        <div className="mx-auto max-w-4xl px-6 py-4 flex items-center justify-between">
+    <div className="min-h-screen bg-background-secondary/40">
+      {/* Reader chrome */}
+      <div className="sticky top-0 z-10 border-b border-text-primary/10 bg-background-primary/95 backdrop-blur-sm">
+        <div className="mx-auto flex max-w-reading items-center justify-between px-6 py-4">
           <Link
             to={`/series/${effectiveBookSlug}`}
-            className="minimal-button text-text-secondary hover:text-accent-silver transition-all duration-300"
+            className="ghost-link text-sm text-text-secondary hover:text-text-primary"
           >
-            <ChevronLeft className="w-4 h-4 mr-2" />
-            Back to Book
+            <ChevronLeft className="mr-1 h-4 w-4" />
+            Book
           </Link>
 
-          <h1 className="font-sans text-lg font-medium text-text-primary tracking-wide">
-            {title}
-          </h1>
+          <p className="font-mono text-xs tracking-[0.18em] text-text-secondary uppercase">
+            {chapterIndex >= 0 ? `ch. ${chapterIndex + 1} / ${TOTAL}` : '—'} · coherence steady
+          </p>
 
           <button
             onClick={() => setShowSettings(!showSettings)}
-            className="minimal-button text-text-secondary hover:text-accent-silver transition-all duration-300"
+            className="inline-flex min-h-[44px] min-w-[44px] items-center justify-center rounded-sm text-text-secondary hover:text-accent-thread transition-colors"
+            aria-label="Reader settings"
           >
-            <Settings className="w-4 h-4" />
+            <Settings className="h-4 w-4" />
           </button>
         </div>
 
-        {/* Settings Panel */}
         {showSettings && (
-          <div className="border-t border-text-secondary/20 bg-background-secondary/50">
-            <div className="mx-auto max-w-4xl px-6 py-4">
-              <div className="flex items-center gap-6">
-                <span className="text-sm text-text-secondary font-sans">Font Size:</span>
-                <div className="flex items-center gap-2">
-                  <button
-                    onClick={() => setFontSize(Math.max(14, fontSize - 2))}
-                    className="minimal-button text-text-secondary hover:text-accent-silver text-sm px-2 py-1"
-                  >
-                    A-
-                  </button>
-                  <span className="text-sm text-text-body w-8 text-center">
-                    {fontSize}px
-                  </span>
-                  <button
-                    onClick={() => setFontSize(Math.min(24, fontSize + 2))}
-                    className="minimal-button text-text-secondary hover:text-accent-silver text-sm px-2 py-1"
-                  >
-                    A+
-                  </button>
-                </div>
+          <div className="border-t border-text-primary/10">
+            <div className="mx-auto flex max-w-reading items-center gap-6 px-6 py-4">
+              <span className="font-mono text-xs uppercase tracking-[0.18em] text-text-secondary">Type size</span>
+              <div className="flex items-center gap-2">
+                <button
+                  onClick={() => setFontSize(Math.max(14, fontSize - 2))}
+                  className="min-h-[44px] min-w-[44px] rounded-sm font-sans text-sm text-text-secondary hover:text-accent-thread transition-colors"
+                  aria-label="Decrease type size"
+                >
+                  A−
+                </button>
+                <span className="w-14 text-center font-mono text-sm text-text-body">
+                  {fontSize}px
+                </span>
+                <button
+                  onClick={() => setFontSize(Math.min(24, fontSize + 2))}
+                  className="min-h-[44px] min-w-[44px] rounded-sm font-sans text-sm text-text-secondary hover:text-accent-thread transition-colors"
+                  aria-label="Increase type size"
+                >
+                  A+
+                </button>
               </div>
             </div>
           </div>
         )}
       </div>
 
-      {/* Chapter Content */}
-      <div className="mx-auto max-w-reading px-6 py-12">
-        <div className="prose-dark" style={{ fontSize: `${fontSize}px` }}>
-          {!markdown ? (
-            <p className="text-text-secondary font-sans">Loading chapter...</p>
-          ) : (
-            <ReactMarkdown
-              components={{
-                hr: () => (
-                  <hr className="my-12 border-0 border-t border-text-secondary/20" />
-                ),
-                blockquote: ({ children }) => (
-                  <blockquote className="border-l border-text-secondary/20 pl-4 italic text-text-secondary">
-                    {children}
-                  </blockquote>
-                ),
-              }}
-            >
-              {markdown}
-            </ReactMarkdown>
-          )}
-        </div>
+      {/* The calm room */}
+      <div className="mx-auto max-w-reading px-6 py-14 lg:py-20">
+        {!markdown ? (
+          <div aria-label="Loading chapter">
+            <div className="skeleton mb-6 h-16 w-24" />
+            <div className="skeleton mb-4 h-5 w-full" />
+            <div className="skeleton mb-4 h-5 w-full" />
+            <div className="skeleton mb-4 h-5 w-11/12" />
+            <div className="skeleton mb-4 h-5 w-full" />
+            <div className="skeleton h-5 w-3/4" />
+          </div>
+        ) : (
+          <>
+            <p aria-hidden="true" className="font-display text-7xl font-light leading-none text-accent-thread/80">
+              {chapterNumeral(effectiveChapterSlug)}
+            </p>
+            <h1 className="mt-6 font-display text-h1 font-light text-text-primary">{title}</h1>
+            <ThreadDivider className="mb-10 mt-8" />
+            <div className="prose-dark mx-0 max-w-none" style={{ fontSize: `${fontSize}px` }}>
+              <ReactMarkdown
+                components={{
+                  hr: () => <ThreadDivider className="my-12" />,
+                  blockquote: ({ children }) => (
+                    <blockquote className="border-l border-accent-thread/60 pl-5 font-serif italic text-text-body">
+                      {children}
+                    </blockquote>
+                  ),
+                }}
+              >
+                {markdown}
+              </ReactMarkdown>
+            </div>
+          </>
+        )}
       </div>
 
-      {/* Chapter Navigation */}
-      <div className="border-t border-text-secondary/20 bg-background-secondary/30">
-        <div className="mx-auto max-w-4xl px-6 py-8 flex justify-between items-center">
+      {/* Chapter navigation */}
+      <div className="border-t border-text-primary/10">
+        <div className="mx-auto flex max-w-reading items-center justify-between px-6 py-6">
           {prevChapterSlug ? (
             <Link
               to={`/series/${effectiveBookSlug}/read/${prevChapterSlug}`}
-              className="minimal-button text-text-body hover:text-accent-silver transition-all duration-300 flex items-center"
+              className="ghost-link text-text-secondary hover:text-text-primary"
             >
-              <ChevronLeft className="w-4 h-4 mr-2" />
-              Previous Chapter
+              <ChevronLeft className="mr-1 h-4 w-4" />
+              Previous
             </Link>
           ) : (
-            <div></div>
+            <span />
           )}
 
           {nextChapterSlug ? (
             <Link
               to={`/series/${effectiveBookSlug}/read/${nextChapterSlug}`}
-              className="minimal-button text-text-body hover:text-accent-silver transition-all duration-300 flex items-center"
+              className="ghost-link text-text-secondary hover:text-text-primary"
             >
-              Next Chapter
-              <ChevronRight className="w-4 h-4 ml-2" />
+              Next
+              <ChevronRight className="ml-1 h-4 w-4" />
             </Link>
           ) : (
-            <Link
-              to="/download"
-              className="minimal-button text-accent-silver border border-accent-silver/30 rounded-sm px-6 py-3 hover:border-accent-silver hover:bg-accent-silver/5 transition-all duration-300"
-            >
-              Get the Full Book
+            <Link to="/download" className="ghost-link text-accent-thread">
+              Hold the whole book — free
             </Link>
           )}
         </div>

@@ -1,85 +1,99 @@
 import { withBase } from '../lib/siteBase'
+import PullQuote from '../components/PullQuote'
+import Reveal from '../components/Reveal'
+import ThreadDivider from '../components/ThreadDivider'
 
-export default function AuthorPage() {  return (
-    <div className="mx-auto max-w-4xl px-6 py-16 lg:px-8">
-      <div className="text-center mb-16">
-        <h1 className="font-sans text-h1 font-light tracking-wider text-text-primary mb-6 luminous-text">
-          About Le Viet Hong
-        </h1>
-      </div>
-
-      <div className="grid lg:grid-cols-3 gap-12">
-        {/* Author Photo */}
-        <div className="lg:col-span-1">
-          <div className="aspect-square rounded-sm border border-text-secondary/20 overflow-hidden mb-8">
-            <img
-              src={withBase('/img/leviethong.png')}
-              alt="Le Viet Hong, author of The Thread Seers"
-              className="w-full h-full object-cover"
-            />
-          </div>
+export default function AuthorPage() {
+  return (
+    <div className="mx-auto max-w-canvas px-6 py-16 lg:px-8 lg:py-24">
+      <div className="grid gap-12 lg:grid-cols-12">
+        <div className="lg:col-span-4">
+          <Reveal>
+            <figure className="lg:sticky lg:top-8">
+              <div className="overflow-hidden rounded-sm border border-text-primary/15">
+                <img
+                  src={withBase('/img/leviethong.png')}
+                  alt="Le Viet Hong, author of The Thread Seers"
+                  className="aspect-square w-full object-cover"
+                />
+              </div>
+              <figcaption className="mt-3 font-mono text-xs uppercase tracking-[0.18em] text-text-secondary">
+                Le Viet Hong · the hand holding the threads
+              </figcaption>
+            </figure>
+          </Reveal>
         </div>
 
-        {/* Author Bio */}
-        <div className="lg:col-span-2">
-          <div className="prose-dark">
-            <p>
-              Le Viet Hong grew up between cultures, which is probably why he ended up writing a book
-              about the things that connect people across distance and difference. The Thread Seers
-              started as a question he couldn't stop thinking about: what if the bonds between people
-              were something you could actually see?
-            </p>
+        <div className="lg:col-span-7 lg:col-start-6">
+          <Reveal>
+            <p className="eyebrow">The author</p>
+          </Reveal>
+          <Reveal delay={80}>
+            <h1 className="mt-5 font-display text-h1 font-light text-text-primary">
+              Between cultures, following the threads.
+            </h1>
+          </Reveal>
+          <Reveal delay={150}>
+            <div className="prose-dark mx-0 mt-8 max-w-prose">
+              <p>
+                Le Viet Hong grew up between cultures, which is probably why he ended up
+                writing a book about the things that connect people across distance and
+                difference. The Thread Seers started as a question he couldn&rsquo;t stop
+                thinking about: what if the bonds between people were something you could
+                actually see?
+              </p>
+              <p>
+                The series took years of research — into Buddhist philosophy, into how
+                different cultures around the world have understood connection and
+                interdependence, into the specific histories of the traditions represented
+                in the books. The Korean geometric patterns, the Indian meditation
+                techniques, the Yoruba thread-sensing practices — none of that is
+                decoration. Each tradition has its own logic and its own stakes.
+              </p>
+              <p>
+                The magic system is built on dependent origination, a Buddhist concept:
+                nothing exists independently, everything arises from causes and
+                conditions. That idea shapes every part of the story, from how
+                thread-sight works to why extraction is destructive to what Lyra
+                ultimately has to learn about power.
+              </p>
+              <p>
+                He writes for young readers because he thinks they&rsquo;re ready for
+                harder questions than most books ask them. The Thread Seers doesn&rsquo;t
+                simplify its ethics or pull its punches about what happens when people
+                treat relationships as resources.
+              </p>
+            </div>
+          </Reveal>
 
-            <p>
-              The series took years of research—into Buddhist philosophy, into how different cultures
-              around the world have understood connection and interdependence, into the specific histories
-              of the traditions represented in the books. The Korean geometric patterns, the Indian
-              meditation techniques, the Yoruba thread-sensing practices—none of that is decoration.
-              Each tradition has its own logic and its own stakes.
-            </p>
-
-            <p>
-              The magic system is built on dependent origination, a Buddhist concept: nothing exists
-              independently, everything arises from causes and conditions. That idea shapes every part
-              of the story, from how thread-sight works to why extraction is destructive to what
-              Lyra ultimately has to learn about power.
-            </p>
-
-            <p>
-              He writes for young readers because he thinks they're ready for harder questions than
-              most books ask them. The Thread Seers doesn't simplify its ethics or pull its punches
-              about what happens when people treat relationships as resources.
-            </p>
-
-
-          </div>
-
-          {/* Contact/Social */}
-          <div className="mt-12 pt-8 border-t border-text-secondary/20">
-            <h3 className="font-sans text-h3 font-medium text-text-primary mb-4">
-              Connect
-            </h3>
-            <div className="flex flex-col sm:flex-row gap-4">
-              <a
-                href="#"
-                className="minimal-button text-text-body hover:text-accent-silver transition-all duration-300"
-              >
+          <Reveal delay={80}>
+            <ThreadDivider className="mb-10 mt-12" />
+            <p className="eyebrow">Say their names · connect</p>
+            <div className="mt-3 flex flex-col items-start gap-1">
+              <a href="mailto:vh3969 at gmail.com" className="ghost-link">
                 vh3969 at gmail.com
               </a>
-              {/* <a
-                href="#"
-                className="minimal-button text-text-body hover:text-accent-silver transition-all duration-300"
-              >
-                Instagram
-              </a> */}
               <a
                 href="https://www.goodreads.com/author/show/56881390.Hong_Le_Viet"
-                className="minimal-button text-text-body hover:text-accent-silver transition-all duration-300"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="ghost-link"
               >
                 Goodreads
               </a>
             </div>
-          </div>
+          </Reveal>
+        </div>
+      </div>
+
+      <div className="mt-20 lg:mt-28">
+        <Reveal>
+          <ThreadDivider />
+        </Reveal>
+        <div className="mt-12 lg:ml-[16%] lg:mt-16 lg:max-w-3xl">
+          <PullQuote cite="Book One">
+            The Academy had learned how to look calm while it burned.
+          </PullQuote>
         </div>
       </div>
     </div>

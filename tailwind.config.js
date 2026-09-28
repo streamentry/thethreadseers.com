@@ -18,23 +18,23 @@ export default {
     },
     extend: {
       colors: {
-        // Thread Seers Color Palette
+        // Thread Seers palette (DESIGN.md §2) — one warm-gray family, one accent
         background: {
           primary: "#0A0A0C",
-          secondary: "#0F0F12",
+          secondary: "#101014",
         },
         text: {
-          primary: "#FAFAFA",
-          body: "#EAEAEA",
-          secondary: "#4A4A4A",
-          muted: "#555555",
+          primary: "#F2EFE6",
+          body: "#E3DFD2",
+          secondary: "#8E8C86",
+          muted: "#6B695F",
         },
         accent: {
+          thread: "#C6A15B",
+          "thread-deep": "#9A7A3E",
           silver: "#C0C0C0",
-          "silver-muted": "#B8B8B8",
-          blue: "#A8BBDC",
-          gold: "#B89B72",
-          violet: "#A095B5",
+          memory: "#7FA6C9",
+          knot: "#B34434",
         },
         border: "hsl(var(--border))",
         input: "hsl(var(--input))",
@@ -66,14 +66,16 @@ export default {
         },
       },
       fontFamily: {
-        sans: ['Inter', 'system-ui', 'sans-serif'],
-        serif: ['Lora', 'Georgia', 'serif'],
+        display: ['Fraunces', 'Georgia', 'serif'],
+        serif: ['Newsreader', 'Georgia', 'serif'],
+        sans: ['"Instrument Sans"', 'system-ui', 'sans-serif'],
+        mono: ['"IBM Plex Mono"', 'ui-monospace', 'monospace'],
       },
       fontSize: {
-        'hero': ['clamp(3.2rem, 8vw, 5rem)', { lineHeight: '1.1', letterSpacing: '0.02em' }],
-        'h1': ['clamp(2.4rem, 5vw, 3.2rem)', { lineHeight: '1.2', letterSpacing: '0.02em' }],
-        'h2': ['clamp(1.8rem, 4vw, 2.6rem)', { lineHeight: '1.3' }],
-        'h3': ['clamp(1.4rem, 3vw, 1.9rem)', { lineHeight: '1.4' }],
+        'hero': ['clamp(3rem, 7vw, 4.75rem)', { lineHeight: '1.05', letterSpacing: '-0.01em' }],
+        'h1': ['clamp(2.4rem, 5vw, 3.2rem)', { lineHeight: '1.15', letterSpacing: '-0.01em' }],
+        'h2': ['clamp(1.9rem, 4vw, 2.75rem)', { lineHeight: '1.2' }],
+        'h3': ['clamp(1.4rem, 3vw, 1.9rem)', { lineHeight: '1.35' }],
         'body': ['clamp(1.05rem, 2.5vw, 1.2rem)', { lineHeight: '1.7' }],
         'caption': ['clamp(0.85rem, 2vw, 0.95rem)', { lineHeight: '1.5' }],
       },
@@ -83,13 +85,14 @@ export default {
         '128': '32rem',
       },
       maxWidth: {
-        'reading': '70ch',
+        'reading': '65ch',
         'prose': '60ch',
+        'canvas': '1400px',
       },
       borderRadius: {
         lg: "var(--radius)",
         md: "calc(var(--radius) - 2px)",
-        sm: "calc(var(--radius) - 4px)",
+        sm: "2px",
       },
       keyframes: {
         "accordion-down": {
@@ -100,26 +103,32 @@ export default {
           from: { height: "var(--radix-accordion-content-height)" },
           to: { height: "0" },
         },
-        "luminous-pulse": {
-          "0%, 100%": {
-            textShadow: "0 0 10px rgba(192, 192, 192, 0.3)",
-            transform: "scale(1)"
-          },
-          "50%": {
-            textShadow: "0 0 20px rgba(168, 187, 220, 0.5), 0 0 30px rgba(192, 192, 192, 0.3)",
-            transform: "scale(1.02)"
-          },
+        "thread-breathe": {
+          "0%, 100%": { opacity: "0.45" },
+          "50%": { opacity: "1" },
+        },
+        "thread-drift": {
+          "0%": { transform: "translateX(-30%)", opacity: "0" },
+          "15%": { opacity: "1" },
+          "85%": { opacity: "1" },
+          "100%": { transform: "translateX(240%)", opacity: "0" },
         },
         "thread-shimmer": {
           "0%": { backgroundPosition: "-200% 0" },
           "100%": { backgroundPosition: "200% 0" },
         },
+        "reveal-rise": {
+          from: { opacity: "0", transform: "translateY(18px)" },
+          to: { opacity: "1", transform: "translateY(0)" },
+        },
       },
       animation: {
         "accordion-down": "accordion-down 0.2s ease-out",
         "accordion-up": "accordion-up 0.2s ease-out",
-        "luminous-pulse": "luminous-pulse 3s ease-in-out infinite",
-        "thread-shimmer": "thread-shimmer 3s ease-in-out infinite",
+        "thread-breathe": "thread-breathe 4s ease-in-out infinite",
+        "thread-drift": "thread-drift 7s ease-in-out infinite",
+        "thread-shimmer": "thread-shimmer 3.2s ease-in-out infinite",
+        "reveal-rise": "reveal-rise 0.7s cubic-bezier(0.22, 1, 0.36, 1) both",
       },
     },
   },

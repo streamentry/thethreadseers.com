@@ -149,39 +149,40 @@ export default function ThreadSeerQuiz() {
 
   if (showResult && result) {
     const resultType = threadSeerTypes[result as keyof typeof threadSeerTypes]
-    
+
     return (
-      <div className="bg-background-secondary/30 rounded-lg p-8 border border-text-secondary/20">
-        <div className="text-center mb-8">
-          <h3 className="font-sans text-h3 font-medium text-text-primary mb-4 luminous-text">
-            Your Thread Seer Type
-          </h3>
-          <div className="inline-block bg-accent-silver/10 border border-accent-silver/30 rounded-lg px-6 py-3 mb-6">
-            <h4 className="font-sans text-xl font-medium text-accent-silver">
+      <div className="rounded-sm border border-text-primary/15 bg-background-secondary/60 p-8 lg:p-10">
+        <div className="mb-8">
+          <p className="eyebrow">the weave · heard you</p>
+          <div className="mt-4 inline-block border border-accent-thread/50 px-6 py-3">
+            <h4 className="font-display text-xl font-normal text-accent-thread">
               {resultType.name}
             </h4>
           </div>
         </div>
 
-        <div className="prose-dark space-y-6">
+        <div className="prose-dark mx-0 max-w-none space-y-6">
           <p className="text-lg leading-relaxed">
             {resultType.description}
           </p>
 
           <div>
-            <h5 className="font-sans text-lg font-medium text-text-primary mb-3">
-              Your Abilities Include:
+            <h5 className="mb-3 font-sans text-lg font-medium text-text-primary">
+              Your threads hold:
             </h5>
-            <ul className="list-disc list-inside space-y-1">
+            <ul className="list-none space-y-2">
               {resultType.traits.map((trait, index) => (
-                <li key={index}>{trait}</li>
+                <li key={index} className="flex items-start gap-3">
+                  <span aria-hidden="true" className="mt-2.5 h-1.5 w-1.5 shrink-0 rotate-45 bg-accent-knot" />
+                  {trait}
+                </li>
               ))}
             </ul>
           </div>
 
-          <div className="bg-background-primary/50 rounded-lg p-4 border border-text-secondary/10">
-            <h5 className="font-sans text-lg font-medium text-text-primary mb-2">
-              Cultural Connection:
+          <div className="border-t border-text-primary/10 pt-5">
+            <h5 className="mb-2 font-mono text-xs uppercase tracking-[0.18em] text-text-secondary">
+              Cultural connection
             </h5>
             <p className="text-text-body">
               {resultType.culturalConnection}
@@ -189,13 +190,13 @@ export default function ThreadSeerQuiz() {
           </div>
         </div>
 
-        <div className="text-center mt-8">
+        <div className="mt-8">
           <button
             onClick={resetQuiz}
-            className="minimal-button text-accent-silver border border-accent-silver/30 rounded-sm px-6 py-3 hover:border-accent-silver hover:bg-accent-silver/5 transition-all duration-300 flex items-center mx-auto"
+            className="ghost-link text-text-secondary hover:text-text-primary"
           >
-            <RotateCcw className="w-4 h-4 mr-2" />
-            Take Quiz Again
+            <RotateCcw className="mr-2 h-4 w-4" />
+            Listen again
           </button>
         </div>
       </div>
@@ -206,43 +207,39 @@ export default function ThreadSeerQuiz() {
   const progress = ((currentQuestion + 1) / quizQuestions.length) * 100
 
   return (
-    <div className="bg-background-secondary/30 rounded-lg p-8 border border-text-secondary/20">
+    <div className="rounded-sm border border-text-primary/15 bg-background-secondary/60 p-8 lg:p-10">
       <div className="mb-8">
-        <div className="flex justify-between items-center mb-4">
-          <h3 className="font-sans text-h3 font-medium text-text-primary luminous-text">
-            Discover Your Thread Seer Type
-          </h3>
-          <span className="text-sm text-text-secondary">
-            {currentQuestion + 1} of {quizQuestions.length}
+        <div className="mb-5 flex items-baseline justify-between gap-4">
+          <p className="eyebrow">question {currentQuestion + 1} of {quizQuestions.length}</p>
+          <span className="font-mono text-xs text-text-secondary" aria-hidden="true">
+            {String(currentQuestion + 1).padStart(2, '0')}/{String(quizQuestions.length).padStart(2, '0')}
           </span>
         </div>
-        
-        <div className="w-full bg-background-primary rounded-full h-2 mb-6">
-          <div 
-            className="bg-accent-silver h-2 rounded-full transition-all duration-300"
+
+        <div className="relative mb-6 h-px w-full overflow-hidden bg-text-primary/10" aria-hidden="true">
+          <span
+            className="absolute inset-y-0 left-0 bg-accent-thread transition-all duration-500"
             style={{ width: `${progress}%` }}
           />
         </div>
       </div>
 
-      <div className="mb-8">
-        <h4 className="font-sans text-xl font-medium text-text-primary mb-6">
+      <div className="mb-2">
+        <h4 className="mb-6 font-display text-h3 font-normal text-text-primary">
           {question.question}
         </h4>
-        
-        <div className="space-y-3">
+
+        <div className="space-y-1">
           {question.options.map((option, index) => (
             <button
               key={index}
               onClick={() => handleAnswer(option.type)}
-              className="w-full text-left p-4 rounded-lg border border-text-secondary/20 hover:border-accent-silver/50 hover:bg-background-primary/50 transition-all duration-300 group"
+              className="group flex min-h-[44px] w-full items-center justify-between gap-4 border-b border-text-primary/10 py-4 text-left transition-colors duration-300 hover:bg-text-primary/[0.03]"
             >
-              <div className="flex items-center justify-between">
-                <span className="text-text-body group-hover:text-text-primary transition-colors">
-                  {option.text}
-                </span>
-                <ChevronRight className="w-4 h-4 text-text-secondary group-hover:text-accent-silver transition-colors" />
-              </div>
+              <span className="font-serif text-body text-text-body transition-colors group-hover:text-text-primary">
+                {option.text}
+              </span>
+              <ChevronRight className="h-4 w-4 shrink-0 text-text-secondary transition-all duration-300 group-hover:translate-x-1 group-hover:text-accent-thread" />
             </button>
           ))}
         </div>

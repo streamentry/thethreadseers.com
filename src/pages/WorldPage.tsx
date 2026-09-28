@@ -1,341 +1,261 @@
 import ThreadSeerQuiz from '../components/ThreadSeerQuiz'
+import Reveal from '../components/Reveal'
+import ThreadDivider from '../components/ThreadDivider'
+
+const threadColors = [
+  { name: 'Family · Silver', hex: '#C0C0C0', note: 'Luminous, rope-like bonds between family members. Dense like drawn wire — flares white at the core when protective.' },
+  { name: 'Friendship · Gold', hex: '#C6A15B', note: 'Bright, braided bonds between friends. Warm where the load is shared.' },
+  { name: 'Memory · Blue', hex: '#7FA6C9', note: 'Translucent, like light seen through water. Ghost images move inside.' },
+  { name: 'Nature · Green', hex: '#7D8F69', note: 'Organic, vine-like connections to the living world. Anchored, patient.' },
+  { name: 'Conflict · Red', hex: '#B34434', note: 'Jagged and barbed. Tightens like wire under load.' },
+  { name: 'Deception · Gray', hex: '#6B695F', note: 'Murky, twisted. Too clean where it should breathe.' },
+  { name: 'Animus Argenti · Pure Silver', hex: '#EDEAE0', note: 'The conscious core of the dimension itself. Internal luminosity — the Weave, awake.' },
+  { name: 'Contamination · Black-Silver', hex: '#1A1A1E', note: 'Ashen black with sickly silver edges. Consumes rather than connects. Cold, utilitarian, extractive.', dark: true },
+]
+
+const seerTypes = [
+  { name: 'Visualizers', note: 'See threads with high clarity; pattern recognition, visual language of the Weave.' },
+  { name: 'Resonators', note: 'Hear thread harmonics as musical tones — woodwinds, cello, chimes, clashing cymbals.' },
+  { name: 'Empaths', note: 'Feel the emotional content directly: warm wool and velvet, or icy chill and sharp stab.' },
+  { name: 'Navigators', note: 'Trace thread paths across distance — tug, pull, currents, rivers.' },
+  { name: 'Manipulators', note: 'Rarest of all: strengthen, redirect, or create new threads. Ask first. Never seize.' },
+  { name: 'Sensory Weavers', note: 'Evolved perception through non-visual senses — touch, texture, temperature, knowing.' },
+]
+
+const traditions = [
+  { name: 'Korean geometric patterns', note: 'Precise mathematical weaving — balance, symmetry, bojagi patchwork logic.' },
+  { name: 'Indian philosophical methods', note: 'Meditation-based technique; thread work as spiritual practice.' },
+  { name: 'Chinese communion practices', note: 'Ancestral silk work — harmony and reciprocal relationship with the Weave. Conversation, not domination.' },
+  { name: 'Egyptian thread hieroglyphics', note: 'Ancient symbolic systems for recording and transmitting thread knowledge.' },
+  { name: 'African pattern-speaking', note: 'Oral traditions encoding technique in story and song.' },
+  { name: 'Yoruba thread sensing', note: 'ẹ̀mí àgbájọ — gathered life. Artifacts like the Òwú Ìmọ̀lára amplify connection.' },
+  { name: 'Dreamline tracing', note: 'Following connections across vast distances and through time.' },
+  { name: 'Land-based practices', note: 'Understanding threads through specific places — songlines, Country, ground that remembers.' },
+  { name: 'Ancestral communication', note: 'Threads maintained with those who have passed. Say their names.' },
+]
+
+const glossary: [string, string][] = [
+  ['Animus Argenti', 'The “Silver Soul” — the conscious core of the thread dimension. Pure silver threads; a living interface between human consciousness and the Weave.'],
+  ['Tactile Communion', 'Evolved perception through touch, texture, temperature, full-body sensation — rather than visual sight. Shēn Céng Gòng Míng.'],
+  ['Thread Burn', 'Corrosion from forceful thread manipulation. Silver-white scarring along nerve pathways — burn lines brightening in disciplined routes.'],
+  ['The Weave', 'The collective network of all threads. A living ecosystem showing signs of its own consciousness — and attempts at communication.'],
+  ['Communion vs. Control', 'The central divide: working with the Weave in reciprocity, versus extracting thread energy for utilitarian ends.'],
+  ['Weave-Quake', 'Instability in the thread dimension — often from unethical harvesting — measured as disruption across the network.'],
+  ['Thread Nexus', 'Where many threads converge. Sites of power and cultural weight — Kyoto, Uluru, Stonehenge, the Academy.'],
+  ['Convergence Protocol', 'A collaborative ceremony: multiple traditions working together to stabilize the Weave in crisis.'],
+  ['Magnus Conduit', 'Harlow\u2019s extraction machine. The dangerous extreme of the Control philosophy — threads treated like wiring.'],
+  ['Òwú Ìdásílẹ̀', 'Foundation Thread — Yoruba name for the Animus Argenti, the foundational consciousness of the dimension.'],
+  ['Participatory Metaphysics', 'Lin Chen\u2019s theory: observer and observed co-create reality in the Weave. You cannot touch without being touched.'],
+  ['Silver Path', 'Lin Chen\u2019s approach — communion and reciprocity rather than extraction and control.'],
+]
 
 export default function WorldPage() {
   return (
-    <div className="mx-auto max-w-4xl px-6 py-16 lg:px-8">
-      <div className="text-center mb-16">
-        <h1 className="font-sans text-h1 font-light tracking-wider text-text-primary mb-6 luminous-text">
-          The World of the Weave
-        </h1>
-        <div className="prose-dark">
-          <p className="text-xl leading-relaxed max-w-3xl mx-auto">
-            The world of The Thread Seers looks like ours, but it has an extra layer. Luminous threads
-            run between people, places, and ideas—visible only to a rare few. The Thread Dimension is
-            a living network with its own rules and, increasingly, its own will. The magic system is
-            grounded in the Buddhist concept of dependent origination: nothing exists in isolation,
-            and pulling on one thread moves everything it touches.
+    <div className="mx-auto max-w-canvas px-6 py-16 lg:px-8 lg:py-24">
+      <div className="max-w-3xl">
+        <Reveal>
+          <p className="eyebrow">The world · the weave</p>
+        </Reveal>
+        <Reveal delay={80}>
+          <h1 className="mt-5 font-display text-h1 font-light text-text-primary">
+            An extra layer, laid over ours.
+          </h1>
+        </Reveal>
+        <Reveal delay={150}>
+          <p className="mt-6 font-serif text-body leading-relaxed text-text-body">
+            Luminous threads run between people, places, and ideas — visible only to a
+            rare few. The Thread Dimension is a living network with its own rules and,
+            increasingly, its own will. Nothing in it exists in isolation: pull one
+            thread without understanding what it touches, and you will feel the
+            consequences.
           </p>
+        </Reveal>
+      </div>
+
+      {/* Thread classification — canon color index */}
+      <section className="mt-16 lg:mt-24">
+        <Reveal>
+          <ThreadDivider />
+        </Reveal>
+        <div className="mt-12 grid gap-12 lg:mt-16 lg:grid-cols-12">
+          <div className="lg:col-span-4">
+            <Reveal>
+              <h2 className="font-display text-h2 font-normal text-text-primary">The thread index</h2>
+              <p className="mt-4 font-serif text-body leading-relaxed text-text-body">
+                Threads show their nature in color and texture. Thickness is strength,
+                brightness is intensity, clarity is health, movement is state — pulsing,
+                vibrating, still. Frayed where someone insisted they were fine.
+              </p>
+            </Reveal>
+          </div>
+          <ol className="lg:col-span-7 lg:col-start-6">
+            {threadColors.map((t, i) => (
+              <Reveal key={t.name} delay={Math.min(i, 8) * 60}>
+                <li className="flex items-start gap-5 border-t border-text-primary/10 py-5 last:border-b">
+                  <span
+                    aria-hidden="true"
+                    className="mt-1.5 h-3 w-3 shrink-0 rounded-full animate-thread-breathe"
+                    style={{
+                      backgroundColor: t.hex,
+                      border: t.dark ? '1px solid rgba(242,239,230,0.4)' : 'none',
+                      animationDelay: `${i * 0.5}s`,
+                    }}
+                  />
+                  <div>
+                    <p className="font-mono text-sm tracking-[0.1em] text-text-primary">{t.name}</p>
+                    <p className="mt-1.5 font-serif text-body leading-relaxed text-text-body">{t.note}</p>
+                  </div>
+                </li>
+              </Reveal>
+            ))}
+          </ol>
         </div>
-      </div>
+      </section>
 
-      <div className="elegant-spacing">
-        {/* The Thread Dimension */}
-        <section>
-          <h2 className="font-sans text-h2 font-normal text-text-primary mb-6 luminous-text">
-            The Thread Dimension
-          </h2>
-          <div className="prose-dark">
-            <h3 className="font-sans text-h3 font-medium text-text-primary mb-4">
-              The Weave
-            </h3>
-            <p>
-              The Thread Dimension sits on top of the physical world. Connections between living things
-              show up as luminous strands—carrying emotions, memories, the actual substance of relationships.
-              Together, all these threads form the Weave: a network that behaves less like a system and more
-              like an organism. It's started showing signs of awareness, maybe even trying to communicate.
-            </p>
-            <p>
-              Every thread arises from conditions and relationships—change one, and the effects ripple
-              outward through the network. Nothing in the Weave exists on its own. That's not just philosophy;
-              it's how the magic works. Pull a thread without understanding what it's connected to, and
-              you'll feel the consequences.
-            </p>
-
-            <h3 className="font-sans text-h3 font-medium text-text-primary mb-4">
-              Thread Classification System
-            </h3>
-            <p>
-              Threads manifest in distinct colors and textures that reveal their nature and purpose:
-            </p>
-            <ul className="list-disc list-inside space-y-2 mb-6">
-              <li><strong>Family Bonds (Silver):</strong> Luminous, rope-like connections between family members</li>
-              <li><strong>Friendship (Golden):</strong> Bright, vibrant bonds between friends</li>
-              <li><strong>Knowledge (Deep Blue):</strong> Pulsing, precise academic and wisdom connections</li>
-              <li><strong>Nature/Earth (Emerald):</strong> Organic, vine-like connections to the natural world</li>
-              <li><strong>Conflict (Ruby-red):</strong> Jagged, sharp threads indicating tension</li>
-              <li><strong>Compassion (Soft Pink/Gentle Gold):</strong> Warm, gentle glow of pure kindness</li>
-              <li><strong>Gratitude (Warm Amber/Honey):</strong> Radiant, soft pulse of thankfulness</li>
-              <li><strong>Animus Argenti (Pure Silver):</strong> The conscious core of the thread dimension itself</li>
-            </ul>
-
-            <h3 className="font-sans text-h3 font-medium text-text-primary mb-4">
-              Thread Seer Classifications
-            </h3>
-            <p>
-              Thread Seers are rare individuals born with the ability to perceive the Thread Dimension.
-              They fall into distinct categories based on their primary mode of perception:
-            </p>
-            <ul className="list-disc list-inside space-y-2 mb-6">
-              <li><strong>Visualizers:</strong> See threads with high clarity and excel at pattern recognition</li>
-              <li><strong>Resonators:</strong> Hear thread harmonics as musical tones and vibrations</li>
-              <li><strong>Empaths:</strong> Feel the emotional content of threads and relationship dynamics</li>
-              <li><strong>Navigators:</strong> Trace thread paths across distances to find connections</li>
-              <li><strong>Manipulators:</strong> The rarest ability—can strengthen, redirect, or create new threads</li>
-              <li><strong>Sensory Weavers:</strong> Evolved perception through non-visual senses, often developing after profound experiences</li>
-            </ul>
-
-            <h3 className="font-sans text-h3 font-medium text-text-primary mb-4">
-              Philosophical Foundations
-            </h3>
-            <p>
-              The magic system maps onto the twelve nidanas of dependent origination from Buddhist thought.
-              Characters don't just use thread abilities—they come to understand how suffering, attachment,
-              and perception feed into each other. The philosophical layer isn't separate from the plot;
-              it's the reason the plot works the way it does.
-            </p>
+      {/* Seer classifications */}
+      <section className="mt-16 lg:mt-24">
+        <Reveal>
+          <ThreadDivider />
+        </Reveal>
+        <div className="mt-12 grid gap-12 lg:mt-16 lg:grid-cols-12">
+          <div className="lg:col-span-4">
+            <Reveal>
+              <h2 className="font-display text-h2 font-normal text-text-primary">Six ways of perceiving</h2>
+              <p className="mt-4 font-serif text-body leading-relaxed text-text-body">
+                Not all seers meet the Weave the same way. Some see it, some hear it,
+                some feel it through their skin.
+              </p>
+            </Reveal>
           </div>
-        </section>
+          <ol className="lg:col-span-7 lg:col-start-6">
+            {seerTypes.map((s, i) => (
+              <Reveal key={s.name} delay={Math.min(i, 6) * 60}>
+                <li className="grid gap-1 border-t border-text-primary/10 py-5 last:border-b sm:grid-cols-12 sm:gap-4">
+                  <p className="font-mono text-sm tracking-[0.1em] text-accent-thread sm:col-span-4">{s.name}</p>
+                  <p className="font-serif text-body leading-relaxed text-text-body sm:col-span-8">{s.note}</p>
+                </li>
+              </Reveal>
+            ))}
+          </ol>
+        </div>
+      </section>
 
-        {/* Interactive Thread Seer Quiz */}
-        <section>
-          <h2 className="font-sans text-h2 font-normal text-text-primary mb-6 luminous-text">
-            Discover Your Thread Seer Abilities
-          </h2>
-          <div className="prose-dark mb-6">
-            <p>
-              Not all Thread Seers perceive the Weave the same way. Some see it, some hear it, some
-              feel it through their skin. Take the quiz to find out which type fits you.
-            </p>
+      {/* Quiz */}
+      <section className="mt-16 lg:mt-24">
+        <Reveal>
+          <ThreadDivider />
+        </Reveal>
+        <div className="mt-12 max-w-3xl lg:mt-16">
+          <Reveal>
+            <p className="eyebrow">Listen · which thread is yours</p>
+            <h2 className="mt-4 font-display text-h2 font-normal text-text-primary">
+              Discover how you would perceive the Weave.
+            </h2>
+          </Reveal>
+        </div>
+        <Reveal delay={120}>
+          <div className="mt-8 max-w-3xl">
+            <ThreadSeerQuiz />
           </div>
-          <ThreadSeerQuiz />
-        </section>
+        </Reveal>
+      </section>
 
-        {/* Cultural Thread Traditions */}
-        <section>
-          <h2 className="font-sans text-h2 font-normal text-text-primary mb-6 luminous-text">
-            Cultural Thread Traditions
-          </h2>
-          <div className="prose-dark">
-            <p>
-              People have been working with threads for thousands of years, in different places, using
-              different methods. These traditions developed independently and don't always agree with each
-              other. At Threadweaver Academy, they're taught side by side—sometimes productively,
-              sometimes not.
-            </p>
-
-            <h3 className="font-sans text-h3 font-medium text-text-primary mb-4">
-              Eastern Traditions
-            </h3>
-            <ul className="list-disc list-inside space-y-2 mb-6">
-              <li><strong>Korean Geometric Patterns:</strong> Precise mathematical approaches to thread weaving, emphasizing balance and symmetry</li>
-              <li><strong>Indian Philosophical Methods:</strong> Meditation-based techniques that integrate thread work with spiritual practice</li>
-              <li><strong>Chinese Communion Practices:</strong> Ancestral techniques focusing on harmony and reciprocal relationship with the Weave</li>
-            </ul>
-
-            <h3 className="font-sans text-h3 font-medium text-text-primary mb-4">
-              African & Middle Eastern Traditions
-            </h3>
-            <ul className="list-disc list-inside space-y-2 mb-6">
-              <li><strong>Egyptian Thread Hieroglyphics:</strong> Ancient symbolic systems for recording and transmitting thread knowledge</li>
-              <li><strong>African Pattern-Speaking:</strong> Oral traditions that encode thread techniques in storytelling and song</li>
-              <li><strong>Yoruba Thread Sensing:</strong> Artifacts like the Òwú Ìmọ̀lára (Thread Sensing Staff) that amplify connection to the Weave</li>
-            </ul>
-
-            <h3 className="font-sans text-h3 font-medium text-text-primary mb-4">
-              Indigenous Traditions
-            </h3>
-            <ul className="list-disc list-inside space-y-2 mb-6">
-              <li><strong>Dreamline Tracing:</strong> Following thread connections across vast distances and through time</li>
-              <li><strong>Land-Based Practices:</strong> Understanding threads through connection to specific places and natural features</li>
-              <li><strong>Ancestral Communication:</strong> Using threads to maintain connections with those who have passed</li>
-            </ul>
+      {/* Traditions */}
+      <section className="mt-16 lg:mt-24">
+        <Reveal>
+          <ThreadDivider />
+        </Reveal>
+        <div className="mt-12 grid gap-12 lg:mt-16 lg:grid-cols-12">
+          <div className="lg:col-span-4">
+            <Reveal>
+              <h2 className="font-display text-h2 font-normal text-text-primary">Old hands, many schools</h2>
+              <p className="mt-4 font-serif text-body leading-relaxed text-text-body">
+                People have worked threads for thousands of years, in different places,
+                by different methods. At the Academy they are taught side by side —
+                sometimes productively, sometimes not. Integrate, don&rsquo;t appropriate.
+              </p>
+            </Reveal>
           </div>
-        </section>
+          <ol className="lg:col-span-7 lg:col-start-6">
+            {traditions.map((t, i) => (
+              <Reveal key={t.name} delay={Math.min(i, 8) * 60}>
+                <li className="grid gap-1 border-t border-text-primary/10 py-5 last:border-b sm:grid-cols-12 sm:gap-4">
+                  <p className="font-mono text-sm tracking-[0.1em] text-text-primary sm:col-span-5">{t.name}</p>
+                  <p className="font-serif text-body leading-relaxed text-text-body sm:col-span-7">{t.note}</p>
+                </li>
+              </Reveal>
+            ))}
+          </ol>
+        </div>
+      </section>
 
-        {/* Threadweaver Academy */}
-        <section>
-          <h2 className="font-sans text-h2 font-normal text-text-primary mb-6 luminous-text">
-            Threadweaver Academy
-          </h2>
-          <div className="prose-dark">
-            <h3 className="font-sans text-h3 font-medium text-text-primary mb-4">
-              The Hidden School
-            </h3>
-            <p>
-              Founded in 1798 in the Berkshire Mountains of Massachusetts, Threadweaver Academy serves
-              as North America's oldest Thread Seer institution. Hidden within the prestigious Westbrook
-              Academy, it appears as an ordinary boarding school to non-seers, but reveals its true nature
-              to those with Thread Sight through perception filters and architectural impossibilities.
-            </p>
-
-            <h3 className="font-sans text-h3 font-medium text-text-primary mb-4">
-              The Great Loom
-            </h3>
-            <p>
-              The Academy's central chamber houses the Great Loom—a vast domed hall where historical
-              threads are preserved in living marble columns. This sacred space serves as both library
-              and living record of the collective actions and consequences within the Academy's history,
-              embodying the karmic traces of generations of Thread Seers.
-            </p>
-
-            <h3 className="font-sans text-h3 font-medium text-text-primary mb-4">
-              Cultural Traditions
-            </h3>
-            <p>
-              The Academy teaches Korean geometric patterns, Indian philosophical methods, Egyptian
-              hieroglyphic systems, African pattern-speaking, and Indigenous dreamline tracing. Each
-              tradition has a different understanding of what threads are and how you should work with
-              them. Those disagreements aren't smoothed over—they drive much of the story's conflict.
-            </p>
+      {/* Academy */}
+      <section className="mt-16 lg:mt-24">
+        <Reveal>
+          <ThreadDivider />
+        </Reveal>
+        <div className="mt-12 grid gap-10 lg:mt-16 lg:grid-cols-12">
+          <div className="lg:col-span-7">
+            <Reveal>
+              <p className="eyebrow">Threadweaver Academy · est. 1798</p>
+              <h2 className="mt-4 font-display text-h2 font-normal text-text-primary">
+                A school hiding inside a school.
+              </h2>
+              <div className="prose-dark mx-0 mt-6 max-w-prose">
+                <p>
+                  North America&rsquo;s oldest Thread Seer institution, hidden within
+                  Westbrook Academy in the Berkshire Mountains — an ordinary boarding
+                  school to non-seers, revealed through perception filters and
+                  architectural impossibilities to those with Thread Sight.
+                </p>
+                <p>
+                  Its central chamber holds the Great Loom: a vast domed hall where
+                  historical threads are preserved in living marble columns — library
+                  and living record both, the karmic traces of generations. The
+                  Historical Ceiling hangs above like constellations. Or frescoes of
+                  light.
+                </p>
+              </div>
+            </Reveal>
           </div>
-        </section>
-
-        {/* Key Characters */}
-        <section>
-          <h2 className="font-sans text-h2 font-normal text-text-primary mb-6 luminous-text">
-            Key Characters
-          </h2>
-          <div className="prose-dark">
-            <h3 className="font-sans text-h3 font-medium text-text-primary mb-4">
-              Lyra Mei Chen
-            </h3>
-            <p>
-              A sixteen-year-old Chinese-American protagonist who discovers her rare multi-spectrum Thread Sight.
-              Initially able to see all types of threads with unusual clarity, she undergoes a profound
-              transformation during the Convergence event. After losing her visual thread-sight, she develops
-              <em>Tactile Communion</em> (Shēn Céng Gòng Míng)—a full-bodied, multi-sensory perception of
-              the Weave through touch, texture, temperature, and intrinsic knowing. Her deep connection to
-              the Animus Argenti, amplified by her mother's jade and silver pendant, marks her as a bridge
-              between human consciousness and the awakening thread dimension.
-            </p>
-
-            <h3 className="font-sans text-h3 font-medium text-text-primary mb-4">
-              The Quartet
-            </h3>
-            <p>
-              Lyra's closest friends at the Academy represent the multicultural future of Thread Seer education:
-            </p>
-            <ul className="list-disc list-inside space-y-2 mb-6">
-              <li><strong>Milo Rodriguez:</strong> Empath/Resonator who develops Auditory Resonance after sonic trauma, hearing the "music" of the Weave</li>
-              <li><strong>Zara Washington:</strong> Egyptian/African-American heritage with pattern-speaking abilities and deep cultural knowledge</li>
-              <li><strong>Eli Park:</strong> Korean/Indian background specializing in geometric thread patterns and mathematical approaches</li>
-            </ul>
-
-            <h3 className="font-sans text-h3 font-medium text-text-primary mb-4">
-              Lin Chen (Lyra's Mother)
-            </h3>
-            <p>
-              A master Thread Seer who specialized in thread preservation and developed the "Silver Path"
-              approach emphasizing communion and reciprocity with the Weave. Her mysterious disappearance
-              was actually a sacrifice to protect crucial knowledge about the Animus Argenti and participatory
-              metaphysics. Her jade and silver pendant, passed down to Lyra, serves as both amplifier and
-              guide for advanced thread abilities.
-            </p>
-
-            <h3 className="font-sans text-h3 font-medium text-text-primary mb-4">
-              Professor Marcus Harlow
-            </h3>
-            <p>
-              A brilliant but corrupted Thread Seer whose unethical experiments with thread harvesting
-              represent the dangerous extreme of the "Control" philosophy. His repeated exposure to raw
-              thread energy has left him scarred by "thread burn"—silver-white marks that spread across
-              his body, indicating deep imbalance and trauma. His Magnus Conduit machine designed for
-              large-scale thread energy extraction threatens the stability of the entire Weave.
-            </p>
+          <div className="lg:col-span-4 lg:col-start-9">
+            <Reveal delay={120}>
+              <p className="eyebrow">Field notes</p>
+              <ul className="mt-4 space-y-4 font-serif text-body leading-relaxed text-text-body">
+                <li>Loom Tower catches morning sun like hammered brass.</li>
+                <li>The Boundary runs misty as a veil — like a watery surface, like heat haze.</li>
+                <li>The Tangle commons holds a living tapestry of student gold.</li>
+                <li>Emergency red holds. Ozone coats the throat.</li>
+              </ul>
+            </Reveal>
           </div>
-        </section>
+        </div>
+      </section>
 
-        {/* Glossary */}
-        <section>
-          <h2 className="font-sans text-h2 font-normal text-text-primary mb-6 luminous-text">
-            Thread Glossary
-          </h2>
-          <div className="prose-dark">
-            <dl className="space-y-4">
-              <div>
-                <dt className="font-sans font-medium text-text-primary">Animus Argenti</dt>
-                <dd className="text-text-body mt-1">
-                  The "Silver Soul"—the conscious core of the thread dimension, manifesting as pure silver threads that serve as a living interface between human consciousness and the Weave.
-                </dd>
-              </div>
-
-              <div>
-                <dt className="font-sans font-medium text-text-primary">Tactile Communion</dt>
-                <dd className="text-text-body mt-1">
-                  An evolved form of thread perception where the Seer experiences the Weave through touch, texture, temperature, and full-body sensation rather than visual sight.
-                </dd>
-              </div>
-
-              <div>
-                <dt className="font-sans font-medium text-text-primary">Thread Burn</dt>
-                <dd className="text-text-body mt-1">
-                  Physical and spiritual corrosion resulting from unethical or forceful thread manipulation, appearing as silver-white scars that spread across the body.
-                </dd>
-              </div>
-
-              <div>
-                <dt className="font-sans font-medium text-text-primary">The Weave</dt>
-                <dd className="text-text-body mt-1">
-                  The collective network of all threads—a vast, living ecosystem that shows signs of developing its own consciousness and attempts at communication.
-                </dd>
-              </div>
-
-              <div>
-                <dt className="font-sans font-medium text-text-primary">Communion vs. Control</dt>
-                <dd className="text-text-body mt-1">
-                  The central philosophical divide in thread manipulation: working with the Weave in harmony and reciprocity versus extracting and controlling thread energy for utilitarian purposes.
-                </dd>
-              </div>
-
-              <div>
-                <dt className="font-sans font-medium text-text-primary">Weave-Quake</dt>
-                <dd className="text-text-body mt-1">
-                  Significant instability in the thread dimension, often caused by unethical harvesting or dimensional damage, measured as a percentage of overall network disruption.
-                </dd>
-              </div>
-
-              <div>
-                <dt className="font-sans font-medium text-text-primary">Thread Nexus</dt>
-                <dd className="text-text-body mt-1">
-                  Locations where many threads converge, often sites of great magical power and cultural significance, such as Threadweaver Academy.
-                </dd>
-              </div>
-
-              <div>
-                <dt className="font-sans font-medium text-text-primary">Convergence Protocol</dt>
-                <dd className="text-text-body mt-1">
-                  A collaborative ceremony involving multiple thread traditions working together to stabilize the Weave during times of crisis.
-                </dd>
-              </div>
-
-              <div>
-                <dt className="font-sans font-medium text-text-primary">Magnus Conduit</dt>
-                <dd className="text-text-body mt-1">
-                  Harlow's machine designed for large-scale thread energy extraction, representing the dangerous extreme of the "Control" philosophy.
-                </dd>
-              </div>
-
-              <div>
-                <dt className="font-sans font-medium text-text-primary">Òwú Ìdásílẹ̀ (Foundation Thread)</dt>
-                <dd className="text-text-body mt-1">
-                  Yoruba term for the Animus Argenti—the foundational consciousness of the thread dimension that enables deep communion and understanding.
-                </dd>
-              </div>
-
-              <div>
-                <dt className="font-sans font-medium text-text-primary">Participatory Metaphysics</dt>
-                <dd className="text-text-body mt-1">
-                  Lin Chen's theory that observer and observed co-create reality in the Weave, emphasizing the interconnected nature of perception and existence.
-                </dd>
-              </div>
-
-              <div>
-                <dt className="font-sans font-medium text-text-primary">Silver Path</dt>
-                <dd className="text-text-body mt-1">
-                  Lin Chen's approach to the Weave based on communion and reciprocity rather than extraction and control.
-                </dd>
-              </div>
-
-              <div>
-                <dt className="font-sans font-medium text-text-primary">Thread Artifacts</dt>
-                <dd className="text-text-body mt-1">
-                  Objects that amplify or focus thread abilities, such as Lin Chen's jade and silver pendant or the Yoruba Òwú Ìmọ̀lára (Thread Sensing Staff).
-                </dd>
-              </div>
-            </dl>
-          </div>
-        </section>
-      </div>
+      {/* Glossary */}
+      <section className="mt-16 lg:mt-24">
+        <Reveal>
+          <ThreadDivider />
+        </Reveal>
+        <div className="mt-12 lg:mt-16">
+          <Reveal>
+            <p className="eyebrow">Glossary · say their names</p>
+            <h2 className="mt-4 font-display text-h2 font-normal text-text-primary">
+              Words the Weave answers to.
+            </h2>
+          </Reveal>
+          <dl className="mt-10">
+            {glossary.map(([term, def], i) => (
+              <Reveal key={term} delay={Math.min(i, 10) * 50}>
+                <div className="grid gap-1 border-t border-text-primary/10 py-5 last:border-b sm:grid-cols-12 sm:gap-4">
+                  <dt className="font-mono text-sm tracking-[0.1em] text-accent-thread sm:col-span-4">{term}</dt>
+                  <dd className="font-serif text-body leading-relaxed text-text-body sm:col-span-8">{def}</dd>
+                </div>
+              </Reveal>
+            ))}
+          </dl>
+        </div>
+      </section>
     </div>
   )
 }
