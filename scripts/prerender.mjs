@@ -16,7 +16,7 @@
  * plain Node without a TypeScript loader. Keep both in sync.
  */
 
-import { readFileSync, writeFileSync, mkdirSync, existsSync, readdirSync, statSync } from 'node:fs'
+import { readFileSync, writeFileSync, mkdirSync, existsSync } from 'node:fs'
 import { join, dirname } from 'node:path'
 import { fileURLToPath } from 'node:url'
 
@@ -134,7 +134,7 @@ const STATIC_ROUTES = {
   '/download': {
     title: 'Download Book One free — EPUB, PDF, Markdown',
     description:
-      'The complete The Thread Seers Book One, free in EPUB3, EPUB2, PDF, and Markdown. No gate, no sample, full text. Also on Kindle and Google Play Books.',
+      'The complete The Thread Seers Book One, free in EPUB3, PDF, and Markdown. No gate, no sample, full text. Also on Kindle and Google Play Books.',
     type: 'website',
     keywords: KEYWORDS + ', epub, pdf download, free ebook',
     body: {
@@ -142,7 +142,7 @@ const STATIC_ROUTES = {
       heading: 'No gate. No sample. Hold it all.',
       paragraphs: [
         'The complete book in your format of choice. Threads are meant to be shared the way they’re held — openly, and without charge.',
-        'Available as EPUB3 (recommended for most e-readers), EPUB2, EPUB, PDF, and Markdown. All five files contain the complete text, not a sample.',
+        'Available as EPUB3 (recommended for most e-readers), PDF, and Markdown. Every file contains the complete text, not a sample. All 46 chapters are also readable free online.',
         'The book also lives on Kindle and Google Play Books. If you ever see a price there, the free editions here are the same full text.',
       ],
       links: [
@@ -281,34 +281,30 @@ const STATIC_ROUTES = {
   },
 }
 
+/**
+ * Front- and back-matter overrides. Chapter titles/descriptions come from the
+ * manuscript itself via readChapters(), so only these need hand-written copy.
+ */
 const SPECIAL_ROUTES = {
   '/series/book-one/read/preface': {
-    file: 'preface.md',
-    kind: 'Preface',
-    title: 'Preface — The Thread Seers, Book One',
+    kind: 'Acknowledgments',
+    title: 'Acknowledgments — The Thread Seers, Book One',
     description:
-      'The preface to The Thread Seers, Book One, read online free. A note from the author before the story begins.',
+      'The acknowledgments to The Thread Seers, Book One, by Le Viet Hong. Read free online, or download the complete book in EPUB, PDF, and Markdown.',
   },
   '/series/book-one/read/prologue': {
-    file: 'saigon_1943.md',
     kind: 'Prologue',
-    title: 'Prologue: Saigon, 1943 — The Thread Seers',
+    title: 'Prologue: Saigon, 1943 — The Thread Seers, Book One',
     description:
-      'The Thread Seers opens in Saigon in 1943, where lanterns are still lit and the currents drag, thick with hunger and sorrow. Read the prologue free online.',
+      'The Thread Seers opens in Saigon in 1943, where lanterns are still lit and the currents drag, thick with hunger and sorrow. Read the prologue of Book One free online.',
   },
   '/series/book-one/read/epilogue': {
-    file: 'epilogue.md',
     kind: 'Epilogue',
-    title: 'Epilogue — The Thread Seers, Book One',
+    title: 'Epilogue: The Thing That Is Not Finished — The Thread Seers',
     description:
-      'The epilogue to The Thread Seers, Book One: what the quartet builds after the Convergence, and what it costs. Read it free online.',
+      'The epilogue to The Thread Seers, Book One: the Weave-Quake counter, the board with a number on it, and what the quartet builds after the Convergence. Read it free online.',
   },
 }
-
-const CHAPTER_COUNT = 36
-
-// Chapter numbers 1..CHAPTER_COUNT, matching ReaderPage's chapterOrder.
-const PAGES = Array.from({ length: CHAPTER_COUNT }, (_, i) => i + 1)
 
 /* ------------------------------------------------------------------ utils */
 
@@ -329,29 +325,43 @@ function mdToParagraphs(md) {
     .filter((block) => block.length > 0)
 }
 
-function findMarkdown(fileName) {
-  const stack = [CONTENT]
-  while (stack.length) {
-    const dir = stack.pop()
-    let entries
-    try {
-      entries = readdirSync(dir)
-    } catch {
+/**
+ * Reads every chapter in reading order, straight from the generated
+ * src/lib/chapters.ts manifest so the build can never drift from the reader.
+ * Each entry: slug, route, kind, label, title, position, paragraphs.
+ */
+function readChapters() {
+  const manifest = readFileSync(join(ROOT, 'src', 'lib', 'chapters.ts'), 'utf8')
+  const rowRe =
+    /\{\s*slug:\s*'([^']+)',\s*fileName:\s*'([^']+)',\s*path:\s*'([^']+)',\s*label:\s*'([^']+)',\s*title:\s*"((?:[^"\\]|\\.)*)",\s*kind:\s*'(\w+)'/g
+
+  const chapters = []
+  let match
+  let position = 0
+  while ((match = rowRe.exec(manifest)) !== null) {
+    const [, slug, , path, label, rawTitle, kind] = match
+    const file = join(CONTENT, path)
+    if (!existsSync(file)) {
+      console.warn(`prerender: missing manuscript file for ${slug} (${path})`)
       continue
     }
-    for (const entry of entries) {
-      const full = join(dir, entry)
-      const s = statSync(full)
-      if (s.isDirectory()) stack.push(full)
-      else if (entry === fileName) return full
-    }
+    const md = readFileSync(file, 'utf8')
+    const title = JSON.parse(`"${rawTitle}"`)
+    if (kind === 'chapter') position += 1
+    chapters.push({
+      slug,
+      route: `${READ_BASE}/${slug}`,
+      kind,
+      label,
+      title,
+      position: kind === 'chapter' ? position : 0,
+      paragraphs: mdToParagraphs(md),
+    })
   }
-  return null
-}
-
-function chapterTitle(md, fallback) {
-  const m = md.match(/^#\s+(.+)$/m)
-  return m ? m[1].trim() : fallback
+  if (!chapters.length) {
+    throw new Error('prerender: no chapters parsed from src/lib/chapters.ts')
+  }
+  return chapters
 }
 
 /* ------------------------------------------------------------------ JSON-LD */
@@ -470,19 +480,23 @@ function graph(route) {
     about: { '@id': bookId },
     author: { '@id': personId },
     ...(route.publishedTime ? { datePublished: route.publishedTime } : {}),
-    ...(route.breadcrumb ? { breadcrumb: { '@id': `${url}#breadcrumb` } } : {}),
+    ...(route.crumb ? { breadcrumb: { '@id': `${url}#breadcrumb` } } : {}),
   })
 
   if (route.type === 'article' && route.chapter) {
     nodes.push({
       '@type': 'Chapter',
       '@id': `${url}#chapter`,
-      name: route.title,
-      headline: route.title,
+      name: route.chapter.title,
+      headline: route.chapter.title,
       isPartOf: { '@id': bookId },
-      position: route.chapter.position,
+      position: route.chapter.position || 1,
       url,
       inLanguage: 'en-US',
+      isAccessibleForFree: true,
+      // Tells search engines and answer engines the whole chapter is readable
+      // at this URL, not gated behind a form or purchase.
+      potentialAction: { '@type': 'ReadAction', target: url },
     })
   }
 
@@ -515,11 +529,11 @@ function graph(route) {
     })
   }
 
-  if (route.breadcrumb) {
+  if (route.crumb) {
     nodes.push({
       '@type': 'BreadcrumbList',
       '@id': `${url}#breadcrumb`,
-      itemListElement: route.breadcrumb.map((item, i) => ({
+      itemListElement: route.crumb.map((item, i) => ({
         '@type': 'ListItem',
         position: i + 1,
         name: item.name,
@@ -533,55 +547,72 @@ function graph(route) {
 
 /* ------------------------------------------------------------------ routes */
 
+const READ_BASE = '/series/book-one/read'
+
 function chapterRoutes() {
   const routes = []
-  for (const [path, spec] of Object.entries(SPECIAL_ROUTES)) {
-    const file = findMarkdown(spec.file)
-    const md = file ? readFileSync(file, 'utf8') : ''
-    const paragraphs = md ? mdToParagraphs(md) : []
-    const title = chapterTitle(md, spec.title)
-    const isMain = path.endsWith('/prologue')
+  const chapters = readChapters()
+
+  chapters.forEach((chapter, i) => {
+    const spec = SPECIAL_ROUTES[chapter.route]
+    const isPrologue = chapter.slug === 'prologue'
+    const paragraphs = chapter.paragraphs
+
+    // Front/back matter gets hand-written copy; chapters derive their title
+    // from the manuscript heading and their description from the opening prose.
+    const title = spec
+      ? spec.title
+      : `${chapter.title} — The Thread Seers, Book One (read free)`
+
+    const description = spec
+      ? spec.description
+      : deriveDescription(chapter, paragraphs)
+
     routes.push({
-      path,
-      title: spec.title,
-      description: spec.description,
+      path: chapter.route,
+      title,
+      description,
       type: 'article',
       publishedTime: SITE.published,
       keywords: KEYWORDS + ', read online, free chapter, full text online',
-      chapter: { kind: spec.kind, position: 0, title },
-      paragraphs: paragraphs.slice(0, isMain ? 8 : 6),
-      crumb: isMain ? undefined : [{ name: 'Book One', href: '/series/book-one' }],
+      chapter: {
+        kind: chapter.kind,
+        position: chapter.position,
+        title: chapter.title,
+        slug: chapter.slug,
+      },
+      // Chapters ship a longer opening so a crawler (or a reader without JS)
+      // gets real prose, not just a heading.
+      paragraphs: paragraphs.slice(0, isPrologue ? 10 : 6),
+      crumb: isPrologue ? undefined : [{ name: 'Book One', href: '/series/book-one' }],
+      chapterNav: {
+        prev: chapters[i - 1]
+          ? { href: chapters[i - 1].route, label: chapters[i - 1].title }
+          : null,
+        next: chapters[i + 1]
+          ? { href: chapters[i + 1].route, label: chapters[i + 1].title }
+          : null,
+      },
       isBookOne: true,
     })
-  }
-  for (const n of PAGES) {
-    const path = `/series/book-one/read/chapter-${n}`
-    const file = findMarkdown(`${n}.md`)
-    const md = file ? readFileSync(file, 'utf8') : ''
-    const paragraphs = md ? mdToParagraphs(md) : []
-    const title = chapterTitle(md, `Chapter ${n}`)
-    routes.push({
-      path,
-      // `title` already carries the chapter number ("Chapter 12: The Kyoto
-      // Revelation"), so don't prefix it again.
-      title: title.startsWith('Chapter') ? title : `Chapter ${n} — ${title}`,
-      description: `Chapter ${n} of The Thread Seers, Book One by Le Viet Hong. Read the full text online, free, no sign-up — or download the whole book in EPUB, PDF, and Markdown.`,
-      type: 'article',
-      publishedTime: SITE.published,
-      keywords: KEYWORDS + ', read online, free chapter, full text online',
-      chapter: { kind: 'Chapter', position: n, title },
-      paragraphs: paragraphs.slice(0, 4),
-      crumb: [{ name: 'Book One', href: '/series/book-one' }],
-      isBookOne: true,
-    })
-  }
+  })
   return routes
+}
+
+/** Build a meta description from the chapter's own opening sentences. */
+function deriveDescription(chapter, paragraphs) {
+  const opening = paragraphs.find((p) => p.length > 80) ?? paragraphs[0] ?? ''
+  const trimmed = opening.length > 175 ? opening.slice(0, 175).replace(/\s+\S*$/, '') + '…' : opening
+  const lead = chapter.title
+    .replace(/^(Chapter \d+[AB]?)\s*[:—-]\s*/i, '')
+    .replace(/^Interlude:\s*/i, '')
+  return `${lead} — Chapter ${chapter.label} of The Thread Seers, Book One by Le Viet Hong. ${trimmed} Read free online, no sign-up.`
 }
 
 const FAQ = [
   [
     'Is The Thread Seers Book One free?',
-    'Yes. The complete Book One is free to read online at thethreadseers.com/series/book-one/read/prologue and free to download in EPUB3, EPUB2, EPUB, PDF, and Markdown at thethreadseers.com/download. There is no sample-only version and no paywall.',
+    'Yes. The complete Book One is free to read online at thethreadseers.com/series/book-one/read/prologue and free to download in EPUB3, PDF, and Markdown at thethreadseers.com/download. Every one of the 46 chapters is readable free online. There is no sample-only version and no paywall.',
   ],
   [
     'Who wrote The Thread Seers?',
@@ -706,8 +737,25 @@ function prerenderedBody(route) {
       )
     }
   } else if (route.chapter) {
-    parts.push(`<h1>${esc(route.chapter.kind)}</h1>`)
+    parts.push(`<h1>${esc(route.chapter.title)}</h1>`)
     for (const p of route.paragraphs) parts.push(`<p>${esc(p)}</p>`)
+    // Full-text readers follow these to the next and previous chapter; without
+    // JS a crawler cannot discover the rest of the book.
+    if (route.chapterNav) {
+      const links = []
+      if (route.chapterNav.prev) {
+        links.push(
+          `<a href="${esc(route.chapterNav.prev.href)}" rel="prev">${esc(route.chapterNav.prev.label)}</a>`,
+        )
+      }
+      links.push('<a href="/series/book-one">Book One — all chapters</a>')
+      if (route.chapterNav.next) {
+        links.push(
+          `<a href="${esc(route.chapterNav.next.href)}" rel="next">${esc(route.chapterNav.next.label)}</a>`,
+        )
+      }
+      parts.push(`<nav aria-label="Chapter navigation"><ul>${links.map((l) => `<li>${l}</li>`).join('')}</ul></nav>`)
+    }
     parts.push(
       `<p><a href="${esc('/download')}">Download the complete book free — EPUB, PDF, and Markdown</a></p>`,
     )
@@ -855,7 +903,7 @@ function main() {
   writeLlmsTxt(routes)
 
   console.log(
-    `prerender: ${routes.length} routes, sitemap.xml, robots.txt, llms.txt, ${CHAPTER_COUNT} chapter slots`,
+    `prerender: ${routes.length} routes (${readChapters().length} chapters), sitemap.xml, robots.txt, llms.txt`,
   )
 }
 

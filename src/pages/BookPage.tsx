@@ -18,8 +18,6 @@ With her father dying and her mother’s disappearance tied to the Academy’s h
     updated: '2026-02-12',
     downloads: [
       { name: 'EPUB3', note: 'Recommended', href: withBase('/books/the_thread_seers_epub3.epub') },
-      { name: 'EPUB2', note: 'Older devices', href: withBase('/books/the_thread_seers_epub2.epub') },
-      { name: 'EPUB', note: 'Legacy build', href: withBase('/books/the_thread_seers.epub') },
       { name: 'PDF', note: 'Print & desktop', href: withBase('/books/the_thread_seers.pdf') },
       { name: 'Markdown', note: 'Plain text', href: withBase('/books/the_thread_seers.md') },
     ],
