@@ -1,120 +1,185 @@
 # PROLOGUE: SAIGON, 1943
 
-The bullet cut the air past Mei-Hua's ear.
-She didn't flinch.
+The bullet passed close enough that Mei-Hua felt the draught of it on her ear.
 
-The threads had warned her a heartbeat earlier: a violent red line from rooftop to trigger, intention to consequence.
+She did not move. The threads had told her a heartbeat before: hot, quick, a scarlet line running from the second storey of the warehouse across to the roof of the Customs House opposite, and along that line an intention with a shape she had learned to read the way other people read a mouth.
 
-Mei-Hua pressed deeper into warehouse shadows, air thick with damp sacking and old metal. Her brother's last words haunted her: *"If the Japanese shipping manifest reaches Tokyo, a thousand families in Chợ Lớn will starve this winter."* Three months since his disappearance, and the threads that once held them together still hung broken and dark.
+*He is going to shoot.*
 
-Below, Japanese soldiers patrolled the quays along the Saigon River. Boots on cobblestone. Rifles in hand. To ordinary eyes: men with guns. To Mei-Hua: bodies trailing filament, fear and duty braided tight.
+"Hold," she said. "He has not fired yet."
 
-Under those threads, Hậu Giang's currents ran heavier than water. Her grandmother had taught her to listen for them: the soul of a street, the gathered life of a community. Tonight the currents dragged, thick with hunger and sorrow, and still they sparked with refusal.
+Zhang, flat against the crates beside her, did not ask what she meant. In eleven weeks of working together he had stopped asking. He had also stopped suggesting that she was exaggerating, which she valued more.
 
-A street remembers.
-Not the way a person remembers: no images, no narrative, no neat beginning and end. The way a riverbed remembers a flood: as shape.
-As altered capacity.
-As a groove worn by a thousand ordinary days of carrying each other.
+Below them the Saigon River moved the colour of a bruise. Two patrol boats idled at the quay. On the far bank, under tarpaulins the size of ballroom floors, the cargo was stacked and labelled and starving. Somewhere up on Hậu Giang Street the evening market was closing, and the smell of it — shrimp paste, burning sugar, jasmine — came across the water mixed with the sharper stink of the rice that was no longer in the paddies.
 
-Mei-Hua could feel where the currents used to run full: markets that had fed three blocks, kitchens that had kept extra rice in the tin for the neighbor who came late, alleys where arguments ended in bowls set down and doors left unlatched.
-Now those same routes felt tightened around absence, the way muscle tightens around a bruise.
-The buildings still stood.
-The lanterns still lit.
-But the current underneath had been thinned, siphoned, starved, not only by missing food, but by missing trust.
+"Third time this month," Zhang said. "They've taken the delta's whole allocation."
 
-The occupiers understood this.
-Starve the current and you didn't have to shoot every body.
-Neighbors would begin to hoard. Then to lie. Then to listen at doors.
-The street would start spending itself on fear until even a full bowl tasted like debt.
+"I know."
 
-Mei-Hua closed her eyes and steadied her breath.
-In through the nose, hold for three heartbeats, out through parted lips.
+He shifted, and the boards gave him. Mei-Hua put a hand flat on the wood without looking, feeling for the seam, and found it, and was grateful for the finding because her hands had started to shake and she needed something to be competent about.
 
-When she opened her eyes, the world layered itself again.
-Silk threads, bright against the dark. Currents underneath, older and slower.
+"Third time," he said again, differently. "And the fourth time they'll send the manifest to Tokyo."
 
-The Japanese headquarters pulsed with control. Sickly yellow-green filaments stretched across Saigon like a net; currents that should have fed markets and kitchens snagged and bled away. The rice lines from the Mekong Delta ran strained and thin.
+She turned her head a few degrees. On the water below, a knot of black-silver light ran from the Customs House down to a coaster tied at the second pier. It was thick as rope and it moved wrong: not the slow breathing of a bond between two people who had agreed to be bound, but the taut, purposeful pull of a line being paid out over a spool. Everything on it was being carried one way and nothing was being permitted to travel back.
 
-And there, just as intelligence from the Cochinchina General Association had warned, a black-silver cord ran from headquarters to a cargo ship moored at port.
-Not a passive connection, but a conduit: active and hungry.
+"Master Nguyễn's contacts in the General Association got hold of something in August," she said. "They gave me the shape of it. I wanted to see it for myself."
 
-"Do you see it? The threads, the… disturbances?" Zhang whispered beside her.
+"Can you see now?"
 
-"Yes," Mei-Hua said. "Stolen goods. Strategic materials. It's carrying more than rice."
+"Yes."
 
-She traced it and remembered another thread: a green line from her father's calligraphy brush to forged merchant licenses, steady as a pulse under paper, helping refugee families settle in Chợ Lớn. Thread-work could feed life. It could also starve it.
+"Then tell me what you see, and let us both be frightened in the same direction."
 
-"And?" Zhang asked.
+She almost liked him for that.
 
-"There's a hand in it." Mei-Hua swallowed. The pattern was too precise, too familiar. "It looks like Dr. Weber."
+---
 
-"The German researcher? Your grandmother's student?"
+The threads had two names in her family, and her grandmother had been very clear about the difference.
 
-Mei-Hua nodded once. "Before the war, he understood the balance. Then Berlin recalled him. His letters changed. After that it was quotas, routes, and what could be taken."
+*Connections* — 线 (xiàn) — ran between people. Between a daughter and a kitchen, a teacher and a classroom, a girl and a boy who had not yet managed to say a thing out loud. They were visible. Everyone in the trade could see them; some people saw them without trying.
 
-This cord carried his signature: methodical, surgical.
-And cold.
+*Currents* — 势 (shì) — belonged to places. They were the accumulated weight of a neighbourhood's living: who had been born there, who had died there, who had eaten and quarrelled and gone to the temple on the same street for four hundred years. They were not visible. They were not, she thought, exactly audible. They were the pressure of a place on your skin when you stood in it and knew it.
 
-"We have fifteen minutes before the patrol returns," Zhang said, checking his watch.
+Threads could be pulled. Currents could not. That was the whole of her training and the whole of her argument, and she had lost it more times than she could count.
 
-Mei-Hua reached into her jacket and drew out her silk pouch, worn smooth under her thumb. Inside: tools that had outlived dynasties. A jade needle. A red silk charm knotted into a pattern that meant choices you couldn't untie.
+She closed her eyes and put her thumb and two fingers on the crease of her left palm, and breathed in through the nose.
 
-She heard her grandmother's voice, clear enough to place at her shoulder.
+*In. Three. Out through the teeth.*
 
-"Sometimes the Western ways have wisdom too. Know when to apply precision," she'd said, lifting the needle, "and when to trust the currents to show the way."
+Her grandmother had walked up behind her once, when she was nine, and tapped her sternum with the flat of a wooden spoon — *again* — and had not said a word, and had gone back to her tea. Fourteen years, and she could still feel the tap.
 
-Mei-Hua chose the jade needle and a spool of red silk thread, soaked in herbs and one drop of her blood under the last full moon.
+She opened her eyes.
 
-"Keep watch," she whispered to Zhang.
+The world arrived in layers.
 
-Then she worked.
+The nearest layer was the small and the personal: Zhang's pulse in his throat, quick and stubborn; her own hands; the pouch at her hip where the tools were; the woman asleep two streets over whose thread to her grandson had gone thin as wet paper in the last fortnight. Below that, braided through the whole quarter, the current of Hậu Giang Street — not a sound but a leaning, the way a room leans when a lot of weight is in one corner. It had been leaning since March.
 
-She didn't cut the black-silver cord. That would ring every alarm in the currents. Instead she braided her red silk alongside it and coaxed a fork: the information would still flow to the harbor, but an echo would travel with her thread to the resistance.
+Under all of it, and this was the part that frightened her, the mains.
 
-*Silk Vision is not domination, but conversation,* her grandmother had said. *We do not break the threads. We persuade them. The space between two threads is not emptiness. It is the agreement that makes both real. And we listen to the place, because it remembers.*
+"You see the cord," she said. "The black one, from the Customs House to the ship."
 
-Sweat traced Mei-Hua's temple despite the night's cool.
-Delicate work. Quick work. One mistake and the street itself would scream.
+"I see nothing."
 
-The Japanese had their own thread-walkers, likely German-trained. They called the threads "Anima Filaments" and treated them like wiring.
+"A cord the colour of a knife gone dull. It's carrying the manifest and it's carrying the rice allocation and it is not carrying anything back." She swallowed. "It is being *paid out*. Somebody is drawing on it, and everything they take, they keep. Nothing comes back up the line. Do you understand what that means? It means the harvest is not shipping. It is being consumed where it is grown."
 
-The black-silver cord pulsed.
-A discordant ripple ran through the nearby currents.
+Zhang was quiet for a moment. "Then cut it."
 
-Mei-Hua froze.
-"Someone's coming."
+"No."
 
-She secured the final knot, near-invisible.
+"Then what?"
 
-A familiar resonance brushed the edge of her senses.
+---
 
-"No," she breathed. "It can't be."
+She took out the pouch.
 
-Zhang tensed. "What is it?"
+It had been her mother's, and her mother's mother's, and the box inside it was older than the Republic. Her mother had embroidered the outside in blue silk at a time when blue silk was a serious decision, and she had done it in a single unbroken line, and it had taken her four years, and she had died before the pouch was finished.
 
-"His touch," she whispered. "Like Weber. But twisted."
+Inside: a jade needle, worn smooth along one edge by her grandmother's thumb. A coil of red silk, unwaxed, undyed by anything but age. And a small knot of red silk, wound and re-wound so many times it had gone into a shape like a closed fist, which her grandmother had put in her hand on her sixteenth birthday and said nothing about at all.
 
-Footsteps on a roofline.
-A presence leaning into the cord she had just altered.
+*Choices that cannot be taken back*, her grandmother had said, when Mei-Hua finally asked. *You will know which ones they were.*
 
-"We need to warn the elders," Mei-Hua said. She had bitten the inside of her cheek hard enough to taste blood and kept her voice level anyway. "These machines, these methodologies, they're pulling too much, too quickly."
+"There is a way to do this that does not announce you," Mei-Hua said. "But you have to hold very still inside, and you are not a person who holds still."
 
-"First we finish this," Zhang said. "Then we warn them."
+"I can hold still."
 
-Mei-Hua nodded and followed him into darkness.
+"You held still for four counts yesterday and then you told the fish seller his account was wrong."
 
-Just before they turned the corner, she looked back.
+"That was true."
 
-A figure stood on the warehouse roof: tall, European, familiar in outline.
+"That is not the point."
 
-"Weber," she breathed.
+She drew the needle out. The jade was cool and it had a weight that belonged to a smaller hand.
 
-The threads connecting them flared with recognition.
-The currents around him did not.
+Zhang shifted his weight onto his other foot. "Tell me the plan. In order. Quickly."
 
-They felt wrong, distorted, like a beloved melody forced into a dead key.
+"I put a fork in the line." She unwound about a forearm's length of the red silk. "The manifest still goes where it is going. The ship still sails. But a copy of the flow — an echo of it — comes down my silk instead, into the water, and along the water to the General Association, because the current on Hậu Giang runs out to the river and the current is willing to carry it if I ask properly. That is the part that takes the work. The silk is easy. The current is not."
 
-The threads belonged to no one.
-The currents belonged to the communities they nurtured.
+"And the Japanese?"
 
-Around Weber, the currents pulled away.
+"They will feel it by morning. The pattern will not sit still. Their own thread-walkers will know something has been done to that cord before the sun is up."
+
+"Then we go now."
+
+"We go after I finish. If I go now, the fork is half made and a half-made fork is worse than no fork at all." She looked at him. "Fifteen minutes. Count them for me and tell me when you are at eight."
+
+---
+
+It is not a large thing, to describe.
+
+She knelt with the needle in her right hand and the silk in her left and she did not cut anything. Cutting would have been quicker and cutting would have been a declaration: a snapped line, a shock that ran backwards up the cord and lit up every ward the Japanese had laid between the river and the harbour, and every person on Hậu Giang Street would have felt the sky jerk like a held rope.
+
+Instead she persuaded.
+
+*You are carrying a list. You are only carrying a list. A list can be copied. Here is a second road. It goes to the same place. It is smaller and it is quieter and nobody has to know.*
+
+The silk was old and the spool was old and she had soaked the thread in the herbs her grandmother used, and once a month she pricked her palm for it, because a thing you have paid for in blood will hold an intention you did not mean. The Western academies would have called that unscientific. Dr. Weber, in the good years, had said it was the most rigorous thing he had ever seen, and then had spent twenty minutes trying to write down what she was doing in a form he could submit somewhere.
+
+She whispered in the dialect of the quarter — not a language, exactly; a way of putting the tones so the meaning leaned the right way — and the red silk began to pulse once, twice, and then at her own heartbeat, and the black-silver cord did not break.
+
+It *bent*.
+
+That was the whole trick, and the whole risk. A cord under tension will carry a great deal further than it should along a line you have introduced, if you are not careful, because a cord under tension wants to be straight more than it wants to be true. She felt it happen. She felt the Japanese have built that line to be efficient, and efficiency meant it took the path of least resistance, and she had just made a path of least resistance that went somewhere else.
+
+Sweat ran into her hair. The current under her knees shifted, resentful, the way a neighbour shifts when you lean on their wall.
+
+*Please,* she thought, and it was not addressed to the silk. It was addressed to Hậu Giang Street. *Please carry it. You have carried worse than a piece of paper for us.*
+
+And the quarter, which had been leaning since March, leaned very slightly the other way.
+
+---
+
+"Eight," Zhang said.
+
+She tied the last knot. She was aware of doing it and then she was aware of having done it, which is not the same thing and is usually the last useful sensation available to anyone doing this kind of work.
+
+*It is done,* she thought. *But it is not as I meant it.*
+
+The fork held. That was the good news. The echo was running — she could feel it going out under the river, thin and cold, toward the General Association, and somewhere up on Hậu Giang Street somebody who had been getting up every morning for two years to a market with nothing in it felt the current under her feet ease by a fraction, and did not know why, and slept a little better.
+
+The bad news was in her hands. She had asked the cord to carry a copy and it had carried a *tone* as well, and the tone was still in the red silk, and it was not subtle, and it was hers.
+
+"They will know by morning," she said. "Not what. Where. The disturbance will sit in the local current like a dropped stone."
+
+"Then we have tonight."
+
+"Then we have tonight," she agreed, and put the needle away, and put the red fist of a knot back in the pouch where it belonged, and noticed for the first time that her grandmother's hands in the embroidery, if you looked at them from this angle, were holding exactly the same thing.
+
+---
+
+They went out along the wall the way they had come in.
+
+Mei-Hua did not look back at the coaster. She looked up, instead, at the roof of the warehouse where the thread had told her somebody was standing, and she was not surprised to see him, and she was very frightened, which is a different thing and which the years had taught her to keep in its own place.
+
+He was tall. He was European. The lines around him were arranged the way they are arranged in a man who was once interested in something and then became efficient at it instead.
+
+"Hello, Dr. Weber," Mei-Hua said.
+
+She felt the shape of what he was doing to the mains under Hậu Giang before he had raised a hand. It was the same hand, and the same terrible competence, and the warmth that had once been in it had been taken out and replaced with something that worked.
+
+*He is not doing this for the Japanese,* she thought, and the thought was worse than if he were. *He is doing it because he has decided that what he understands is more important than what is there.*
+
+"We should warn the elders," Zhang said, when they were two streets down and the water was out of earshot. "All of them. Tonight."
+
+"Yes."
+
+"About the new thread-walkers. About the machines."
+
+"About all of it."
+
+"Will they listen?"
+
+Mei-Hua thought about her grandmother, who had listened to a young German man for two years and had been right to.
+
+"They will listen," she said. "They will not be quick. That is the other half of it, and it is the half that matters, and nobody ever warns you about it."
+
+They turned into a lane that smelled of jasmine and hot sugar and the particular dust of old plaster, and the thread behind her — the one that connected a man on a roof to a woman standing in a lane, and which had been, for one moment, the most honest thing in the whole night — thinned and thinned and did not break.
+
+It never broke. That was the trouble with it. It just got thinner, and thinner, and after a while there was nothing left on his side of it at all.
+
+---
+
+*Seventy years later, in a kitchen on the far side of the world, a girl of sixteen would sit at a table with a charcoal pencil and a bowl of jasmine tea, and an old woman who had her father's eyes would tell her that the silk threads ran through all things, and that the deep currents ran under the places themselves, and that both of these were true, and that the second one was the one the schools had thrown away. She would not believe her at first. She would believe her by the end of the afternoon. It would take her the rest of her life to work out what the believing had cost, and who had been asked to pay it.*
+
+*The girl had a great-grandmother on her mother's side, and that woman had done a very small version of this, in a lane not far from here, on a night when the rice was being taken and nobody could stop it. She had taken a fork in a line she was not strong enough to cut, and asked a street to carry the copy. It had worked. It had also told the enemy exactly where the street was, and it cost her thirty-one years of a life she would have preferred to keep, and four people she loved who are not in this story.*
+
+*Neither version is the whole of what happened next.*

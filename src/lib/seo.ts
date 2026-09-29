@@ -12,6 +12,8 @@
  * cannot import this file.
  */
 
+import { findChapter, type ChapterEntry } from './chapters'
+
 export const SITE = {
   name: 'The Thread Seers',
   shortName: 'Thread Seers',
@@ -59,7 +61,7 @@ export const ROUTES: Record<string, SeoMeta> = {
   '/download': {
     title: 'Download Book One free — EPUB, PDF, Markdown',
     description:
-      'The complete The Thread Seers Book One, free in EPUB3, EPUB2, PDF, and Markdown. No gate, no sample, full text. Also on Kindle and Google Play Books.',
+      'The complete The Thread Seers Book One, free in EPUB3, PDF, and Markdown. No gate, no sample, full text. Also on Kindle and Google Play Books.',
     path: '/download',
     keywords: COMMON_KEYWORDS + ', epub, pdf download, free ebook',
   },
@@ -100,25 +102,25 @@ export const ROUTES: Record<string, SeoMeta> = {
     keywords: COMMON_KEYWORDS + ', author updates',
   },
   '/series/book-one/read/preface': {
-    title: 'Preface — The Thread Seers, Book One',
+    title: 'Acknowledgments — The Thread Seers, Book One',
     description:
-      'The preface to The Thread Seers, Book One, read online free. A note from the author before the story begins.',
+      'The acknowledgments to The Thread Seers, Book One, by Le Viet Hong. Read free online, or download the complete book in EPUB, PDF, and Markdown.',
     path: '/series/book-one/read/preface',
     type: 'article',
     keywords: COMMON_KEYWORDS + ', read online',
   },
   '/series/book-one/read/prologue': {
-    title: 'Prologue: Saigon, 1943 — The Thread Seers',
+    title: 'Prologue: Saigon, 1943 — The Thread Seers, Book One',
     description:
-      'The Thread Seers opens in Saigon in 1943, where lanterns are still lit and the currents drag, thick with hunger and sorrow. Read the prologue free online.',
+      'The Thread Seers opens in Saigon in 1943, where lanterns are still lit and the currents drag, thick with hunger and sorrow. Read the prologue of Book One free online.',
     path: '/series/book-one/read/prologue',
     type: 'article',
     keywords: COMMON_KEYWORDS + ', read online, prologue, Saigon 1943',
   },
   '/series/book-one/read/epilogue': {
-    title: 'Epilogue — The Thread Seers, Book One',
+    title: 'Epilogue: The Thing That Is Not Finished — The Thread Seers',
     description:
-      'The epilogue to The Thread Seers, Book One: what the quartet builds after the Convergence, and what it costs. Read it free online.',
+      'The epilogue to The Thread Seers, Book One: the Weave-Quake counter, the board with a number on it, and what the quartet builds after the Convergence. Read it free online.',
     path: '/series/book-one/read/epilogue',
     type: 'article',
     keywords: COMMON_KEYWORDS + ', read online, epilogue',
@@ -128,14 +130,19 @@ export const ROUTES: Record<string, SeoMeta> = {
 const CHAPTER_KEYWORDS =
   COMMON_KEYWORDS + ', read online, free chapter, full text online'
 
-/** Chapter routes get a generated entry unless one is hand-written above. */
-export function chapterSeo(chapterNumber: number): SeoMeta {
-  // The prerendered HTML carries the full chapter title ("Chapter 12: The Kyoto
-  // Revelation"); client-side we only know the number, so keep the shape close.
+/**
+ * Chapter metadata for client-side navigation. The prerendered HTML carries the
+ * full title and a description drawn from the chapter's own opening prose, so
+ * these are only what a client-side transition can know without re-parsing.
+ */
+export function chapterSeo(chapter: ChapterEntry): SeoMeta {
+  const lead = chapter.title
+    .replace(/^(Chapter \d+[AB]?)\s*[:—-]\s*/i, '')
+    .replace(/^Interlude:\s*/i, '')
   return {
-    title: `Chapter ${chapterNumber}: read free online`,
-    description: `Chapter ${chapterNumber} of The Thread Seers, Book One by Le Viet Hong. Read the full text online, free, no sign-up — or download the whole book in EPUB, PDF, and Markdown.`,
-    path: `/series/book-one/read/chapter-${chapterNumber}`,
+    title: `${chapter.title} — The Thread Seers, Book One (read free)`,
+    description: `${lead} — Chapter ${chapter.label} of The Thread Seers, Book One by Le Viet Hong. Read the full text online, free, no sign-up — or download the whole book in EPUB, PDF, and Markdown.`,
+    path: `/series/book-one/read/${chapter.slug}`,
     type: 'article',
     keywords: CHAPTER_KEYWORDS,
   }
@@ -151,10 +158,18 @@ export function newsPostSeo(slug: string, title: string): SeoMeta {
   }
 }
 
-function resolveMeta(pathname: string): SeoMeta {
+function resolveMeta(rawPathname: string): SeoMeta {
+  // GitHub Pages serves /series/ as a directory, so the browser reports a
+  // trailing slash. Normalise before matching or every directory route misses
+  // the table and falls back to the homepage.
+  const pathname =
+    rawPathname.length > 1 ? rawPathname.replace(/\/+$/, '') || '/' : rawPathname
+
   if (ROUTES[pathname]) return ROUTES[pathname]
-  const chapter = pathname.match(/\/read\/chapter-(\d+)$/)
-  if (chapter) return chapterSeo(Number(chapter[1]))
+  // Chapter slugs carry A/B parts (chapter-12a, chapter-26b, chapter-34a),
+  // so match the manifest rather than parsing a number out of the URL.
+  const chapter = findChapter(pathname.replace(/^.*\/read\//, ''))
+  if (chapter) return chapterSeo(chapter)
   const post = pathname.match(/^\/news\/([a-z0-9-]+)$/)
   if (post) {
     const titles: Record<string, string> = {

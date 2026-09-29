@@ -4,38 +4,27 @@ import { withBase } from '../lib/siteBase'
 import HoldButton from '../components/HoldButton'
 import Reveal from '../components/Reveal'
 import ThreadDivider from '../components/ThreadDivider'
+import { TOTAL_CHAPTERS } from '../lib/chapters'
 
 const EPUB_URL = withBase('/books/the_thread_seers_epub3.epub')
 
 const downloads = [
   {
     format: 'EPUB3',
-    note: 'Recommended · most e-readers and apps',
-    size: '3.4 MB',
+    note: 'Recommended · most e-readers and reading apps',
+    size: '3.6 MB',
     href: EPUB_URL,
   },
   {
-    format: 'EPUB2',
-    note: 'Older devices',
-    size: '3.4 MB',
-    href: withBase('/books/the_thread_seers_epub2.epub'),
-  },
-  {
-    format: 'EPUB',
-    note: 'Legacy build',
-    size: '3.4 MB',
-    href: withBase('/books/the_thread_seers.epub'),
-  },
-  {
     format: 'PDF',
-    note: 'Print, sharing, desktop',
-    size: '627 KB',
+    note: 'Print, sharing, desktop reading',
+    size: '1.9 MB',
     href: withBase('/books/the_thread_seers.pdf'),
   },
   {
     format: 'MD',
-    note: 'Plain text · search and notes',
-    size: '212 KB',
+    note: 'Plain text · search, notes, and remixing',
+    size: '768 KB',
     href: withBase('/books/the_thread_seers.md'),
   },
 ]
@@ -62,8 +51,9 @@ export default function DownloadsPage() {
         </Reveal>
         <Reveal delay={150}>
           <p className="mt-6 max-w-prose font-serif text-body leading-relaxed text-text-body">
-            The complete book in your format of choice. Threads are meant to be shared
-            the way they&rsquo;re held — openly, and without charge.
+            The complete book in your format of choice — all {TOTAL_CHAPTERS} parts, no
+            sample. Threads are meant to be shared the way they&rsquo;re held: openly,
+            and without charge.
           </p>
         </Reveal>
         <Reveal delay={220}>

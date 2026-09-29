@@ -4,38 +4,26 @@ import { ChevronLeft, ChevronRight, Settings } from 'lucide-react'
 import ReactMarkdown from 'react-markdown'
 import ThreadDivider from '../components/ThreadDivider'
 
-type ChapterEntry = {
-  slug: string
-  fileName: string
-}
+import { chapterOrder, TOTAL_CHAPTERS, type ChapterEntry } from '../lib/chapters'
 
 const chapterFileImporters = import.meta.glob('../../content/03_BOOK_ONE/**/*.md', {
   query: '?raw',
   import: 'default',
 }) as Record<string, () => Promise<string>>
 
-const numberedChapters: ChapterEntry[] = Array.from({ length: 36 }, (_, index) => {
-  const chapterNumber = index + 1
-  return { slug: `chapter-${chapterNumber}`, fileName: `${chapterNumber}.md` }
-})
-
-const chapterOrder: ChapterEntry[] = [
-  { slug: 'preface', fileName: 'preface.md' },
-  { slug: 'prologue', fileName: 'saigon_1943.md' },
-  ...numberedChapters,
-  { slug: 'epilogue', fileName: 'epilogue.md' },
-]
-
-const TOTAL = chapterOrder.length
+const TOTAL = TOTAL_CHAPTERS
 
 function getChapterIndex(slug: string): number {
   return chapterOrder.findIndex((chapter) => chapter.slug === slug)
 }
 
-function getImporterByFileName(fileName: string): (() => Promise<string>) | null {
-  const match = Object.entries(chapterFileImporters).find(([path]) =>
-    path.endsWith(`/${fileName}`),
-  )
+/**
+ * Match on the exact path from chapter-order.txt. Matching by bare filename is
+ * ambiguous now that chapters split into A/B parts ("26.md" vs "26B.md").
+ */
+function getImporterByPath(path: string): (() => Promise<string>) | null {
+  const suffix = `/content/03_BOOK_ONE/${path}`
+  const match = Object.entries(chapterFileImporters).find(([key]) => key.endsWith(suffix))
   return match?.[1] ?? null
 }
 
@@ -58,13 +46,12 @@ function stripTopHeading(markdown: string): string {
   return lines.join('\n')
 }
 
-function chapterNumeral(slug: string): string {
-  const match = slug.match(/^chapter-(\d+)$/)
-  if (match) return match[1].padStart(2, '0')
-  if (slug === 'preface') return '§'
-  if (slug === 'prologue') return '◈'
-  if (slug === 'epilogue') return '❦'
-  return '·'
+function chapterNumeral(chapter: ChapterEntry | null): string {
+  if (!chapter) return '·'
+  if (chapter.slug === 'preface') return '§'
+  if (chapter.slug === 'prologue') return '◈'
+  if (chapter.slug === 'epilogue') return '❦'
+  return chapter.label.padStart(2, '0')
 }
 
 export default function ReaderPage() {
@@ -101,7 +88,7 @@ export default function ReaderPage() {
         return
       }
 
-      const importer = getImporterByFileName(chapterEntry.fileName)
+      const importer = getImporterByPath(chapterEntry.path)
       if (!importer) {
         setLoadError('This thread comes loose here — the chapter file is missing.')
         setTitle('Thread Not Found')
@@ -210,7 +197,7 @@ export default function ReaderPage() {
         ) : (
           <>
             <p aria-hidden="true" className="font-display text-7xl font-light leading-none text-accent-thread/80">
-              {chapterNumeral(effectiveChapterSlug)}
+              {chapterNumeral(chapterEntry)}
             </p>
             <h1 className="mt-6 font-display text-h1 font-light text-text-primary">{title}</h1>
             <ThreadDivider className="mb-10 mt-8" />
