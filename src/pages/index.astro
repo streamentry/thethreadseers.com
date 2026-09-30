@@ -125,6 +125,10 @@ const schema = jsonLd({
     <script is:inline>
       // Nudge to the visitor's preferred edition. Both links remain visible and
       // work without JS, so this is an enhancement, not a gate.
+      //
+      // Paths are relative, not "/en/": the site may be served from a domain
+      // root or from a GitHub project-pages subpath, and a root-absolute path
+      // resolves to the wrong place in the second case.
       (function () {
         try {
           if (localStorage.getItem('ts-locale')) return
@@ -132,11 +136,11 @@ const schema = jsonLd({
           for (var i = 0; i < langs.length; i++) {
             var l = (langs[i] || '').toLowerCase()
             if (l.indexOf('vi') === 0) {
-              location.replace('/vi/')
+              location.replace('./vi/')
               return
             }
             if (l.indexOf('en') === 0) {
-              location.replace('/en/')
+              location.replace('./en/')
               return
             }
           }
