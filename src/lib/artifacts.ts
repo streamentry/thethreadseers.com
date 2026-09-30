@@ -56,7 +56,10 @@ const defs: Omit<Artifact, 'bytes'>[] = [
     file: 'the_thread_seers_sach_mot.pdf',
     format: 'PDF',
     locale: 'vi',
-    note: { en: 'Bản tiếng Việt · 521 pages', vi: 'Bản tiếng Việt · 521 trang' },
+    // No hardcoded page count: it goes stale on the next rebuild, and a wrong
+    // number is worse than none. The byte size is read from disk above and
+    // rendered next to this note.
+    note: { en: 'Bản tiếng Việt', vi: 'Bản tiếng Việt · in ấn, chia sẻ' },
   },
   {
     file: 'the_thread_seers.md',

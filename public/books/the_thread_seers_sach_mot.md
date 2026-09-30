@@ -15,7 +15,7 @@ Gửi Katie, người đồng hành trong mọi cuộc phiêu lưu của tôi—
 
 Gửi Mia và Lana, hai cô con gái thông minh đã dạy tôi nhìn thế giới bằng đôi mắt tràn ngập ngỡ ngàng—sự tò mò, óc sáng tạo và niềm vui bất tận của các con được dệt vào từng trang sách. Mong các con mãi đi theo những sợi chỉ bạc của giấc mơ, dù chúng có dẫn đến đâu đi nữa.
 
-Và gửi bạn, độc giả thân mến, người đã nhấc cuốn sách này lên và hòa mình vào sợi chỉ rực sáng nối kết tất cả chúng ta qua câu chuyện. Chào mừng đến với mạng Weave.
+Và gửi bạn, độc giả thân mến, người đã nhấc cuốn sách này lên và hòa mình vào sợi chỉ rực sáng nối kết tất cả chúng ta qua câu chuyện. Chào mừng đến với Weave.
 
 # HỒI MỞ ĐẦU: SÀI GÒN, 1943
 
@@ -197,7 +197,7 @@ Nó không bao giờ đứt. Đó là cái phiền phức của nó. Nó chỉ m
 
 ---
 
-*Bảy mươi năm sau, trong một căn bếp ở phía bên kia thế giới, một cô gái mười sáu tuổi sẽ ngồi vào bàn với một cây bút chì than và một bát trà hoa lài, và một bà lão mang đôi mắt của bố cô sẽ kể cho cô rằng những sợi lụa chỉ xuyên qua vạn vật, rằng những dòng sâu chạy bên dưới chính từng nơi chốn, rằng cả hai điều ấy đều đúng, và rằng điều thứ hai chính là điều mà các ngôi trường đã vứt bỏ. Ban đầu cô sẽ không tin bà. Đến cuối buổi chiều cô sẽ tin bà. Phải mất phần đời còn lại cô mới tính ra cái sự tin ấy đã tốn giá gì, và ai là người đã bị gọi đến để trả.*
+*Bảy mươi năm sau, trong một căn bếp ở phía bên kia thế giới, một cô gái mười sáu tuổi sẽ ngồi vào bàn với một cây bút chì than và một bát trà hoa lài, và một bà lão mang đôi mắt của bố cô sẽ kể cho cô rằng những sợi chỉ lụa xuyên qua vạn vật, rằng những dòng sâu chạy bên dưới chính từng nơi chốn, rằng cả hai điều ấy đều đúng, và rằng điều thứ hai chính là điều mà các ngôi trường đã vứt bỏ. Ban đầu cô sẽ không tin bà. Đến cuối buổi chiều cô sẽ tin bà. Phải mất phần đời còn lại cô mới tính ra cái sự tin ấy đã tốn giá gì, và ai là người đã bị gọi đến để trả.*
 
 *Cô gái có một bà cố bên ngoại, và bà ấy đã làm một phiên bản rất nhỏ của việc này, trong một con hẻm không xa nơi đây, vào một đêm mà gạo đang bị lấy đi và không ai ngăn nổi. Bà đã rẽ một ngã rẽ trên một tuyến mà bà không đủ sức cắt, và đã xin một con đường mang giùm bản sao. Việc đó đã thành công. Việc đó cũng đã chỉ cho kẻ thù biết chính xác con đường ấy nằm ở đâu, và nó đã lấy đi của bà ba mươi mốt năm của một cuộc đời mà bà thà rằng được giữ lại, và bốn người bà yêu, những người không có mặt trong truyện này.*
 
@@ -399,7 +399,7 @@ Lyra ngồi trên ghế và nhìn những chỗ mà đường chỉ giữa hai n
 
 *Thứ Tư, 28 tháng Tám. Ngôi nhà ở Ellery Street.*
 
-*Bố ơi, trong tủ phía trên ấm đun nước có những gói trà xanh, còn trong hộp chỉ có đúng loại bố thích, và Lyra đã bỏ nhầm loại vào suốt hai năm, và bố chưa bao giờ nói ra điều đó, và sáng chủ Nhật cô hiểu ra rằng việc đó chính là cách bố nói ra.*
+*Bố ơi, trong tủ phía trên ấm đun nước có những gói trà xanh, còn trong hộp chỉ có đúng loại bố thích, và Lyra đã bỏ nhầm loại vào suốt hai năm, và bố chưa bao giờ nói ra điều đó, và sáng chủ nhật cô hiểu ra rằng việc đó chính là cách bố nói ra.*
 
 Mưa tràn vào từ hiên rồi chạy dọc khung cửa sổ theo cái kiểu nó vẫn chạy, và Lyra ngồi ở đầu bàn bếp, tay cầm cây than vẽ, trước mặt là một chồng hồ sơ năm nhất của cô Rivera, và đáng lẽ cô phải chấm chúng.
 
@@ -533,9 +533,9 @@ Và đó là hai tiếng đẹp nhất của Lyra kể từ bệnh viện, và c
 
 "Nó không nghiêm ngặt đâu."
 
-"Nó nghiêm ngặt vô cùng. Nó nghiêm ngặt theo một kiểu mà hiện tại bố chưa kiểm chứng được, đó là một bài toán khác và thú vị hơn, và bố định sẽ kiểm chứng." Ông đang viết. Ông không ngẩng đầu. "Chiều chủ Nhật con sang không? Mang theo than. Mang theo cách ký hiệu tệ hại. Bố mang cà phê, và hai bố con sẽ cùng sai với nhau trong hai tiếng."
+"Nó nghiêm ngặt vô cùng. Nó nghiêm ngặt theo một kiểu mà hiện tại bố chưa kiểm chứng được, đó là một bài toán khác và thú vị hơn, và bố định sẽ kiểm chứng." Ông đang viết. Ông không ngẩng đầu. "Chiều chủ nhật con sang không? Mang theo than. Mang theo cách ký hiệu tệ hại. Bố mang cà phê, và hai bố con sẽ cùng sai với nhau trong hai tiếng."
 
-Ông vẫn không chịu nói ra điều đó. Cô ghi nhận. Cô bỏ qua. Hôm nay là thứ Tư, giữa một căn bếp, và ông đã hứa với cô một ngày chủ Nhật.
+Ông vẫn không chịu nói ra điều đó. Cô ghi nhận. Cô bỏ qua. Hôm nay là thứ Tư, giữa một căn bếp, và ông đã hứa với cô một ngày chủ nhật.
 
 ---
 
@@ -871,7 +871,7 @@ Chuyến xe buýt đi Ellery Street mất năm mươi lăm phút, còn ngày tr�
 
 Cô không thể tắt nó đi. Đó mới là điều mới. Suốt hai năm nó cứ đến rồi lại đi — một tuần tệ, một tháng tệ, một buổi chiều trong hành lang khi mọi thứ đều hóa thành một sơ đồ đi dây, và cô đã về nhà ấn đầu xuống gối. Nhưng từ ngày mười lăm, nó đã ở hẳn vào và sinh sống luôn, và cứ như thể có ai đó đã vặn cái nút chỉnh sáng lên trong một căn phòng mà trước đó cô còn không biết là có tồn tại.
 
-Ở điểm dừng cuối cùng trước khi tới nhà bà, một người đàn ông khiên một chiếc xe đạp lên xe, và cả chiều dài lối đi từ cửa đến đuôi xe lập tức đầy ắp những sợi chỉ, và Lyra ngồi với hai tay để trên đùi, mắt nhắm, để mặc tất cả tràn qua người, và nó — cô phải thành thật, khi đang ngồi đó nhắm mắt — thực sự êm dịu. Đó là khoảng yên tĩnh duy nhất mà cô có được.
+Ở điểm dừng cuối cùng trước khi tới nhà bà, một người đàn ông khiêng một chiếc xe đạp lên xe, và cả chiều dài lối đi từ cửa đến đuôi xe lập tức đầy ắp những sợi chỉ, và Lyra ngồi với hai tay để trên đùi, mắt nhắm, để mặc tất cả tràn qua người, và nó — cô phải thành thật, khi đang ngồi đó nhắm mắt — thực sự êm dịu. Đó là khoảng yên tĩnh duy nhất mà cô có được.
 
 *Đó mới là vấn đề,* cô nghĩ. *Tôi đã tìm ra thứ giúp được mình, và nó lại chính là thứ nằm trong đầu bố tôi.*
 
@@ -983,7 +983,7 @@ Căn bếp im ắng tuyệt đối.
 
 "Rồi sau đó chuyện gì xảy ra," Lyra nói.
 
-"Nó bước qua cánh cửa này vào khoảng một giờ rưỡi sáng, và nó đã không quay lại, và tôi ngồi ở chiếc bàn này cho đến khi trời sáng, và tám giờ tôi gọi điện cho bố cháu, và bố cháu là điều tệ nhất từng xảy ra với tôi, vì ông ấy nói *tôi đã bảo trước rồi*." Hai bàn tay của bà không còn vững hẳn, và bà xử lý điều đó bằng cách với lấy ấm trà và rót rất dở. "Tôi chưa tha thứ cho ông ấy vì câu nói đó, và ông ấy chưa tha thứ cho tôi vì cú điện thoại đó, và chúng tôi đã có năm năm chỉ toàn những ngày chủ Nhật. Ông ấy vẫn đến. Ngồi ở đó. Đọc. Chúng tôi không nói về chuyện đó. Đó là gia đình văn minh nhất thành phố này, và nó được xây ngay trên một điều không ai có thể nói thành lời."
+"Nó bước qua cánh cửa này vào khoảng một giờ rưỡi sáng, và nó đã không quay lại, và tôi ngồi ở chiếc bàn này cho đến khi trời sáng, và tám giờ tôi gọi điện cho bố cháu, và bố cháu là điều tệ nhất từng xảy ra với tôi, vì ông ấy nói *tôi đã bảo trước rồi*." Hai bàn tay của bà không còn vững hẳn, và bà xử lý điều đó bằng cách với lấy ấm trà và rót rất dở. "Tôi chưa tha thứ cho ông ấy vì câu nói đó, và ông ấy chưa tha thứ cho tôi vì cú điện thoại đó, và chúng tôi đã có năm năm chỉ toàn những ngày chủ nhật. Ông ấy vẫn đến. Ngồi ở đó. Đọc. Chúng tôi không nói về chuyện đó. Đó là gia đình văn minh nhất thành phố này, và nó được xây ngay trên một điều không ai có thể nói thành lời."
 
 ---
 
@@ -1095,7 +1095,7 @@ Lyra cảm thấy bàn tay bà nội rời khỏi gáy mình rồi quay lại.
 
 "Giáo sư Chen." Giọng Weaver khác đi rất khẽ. "Cho phép tôi nói rằng tôi quen vợ ông."
 
-"Ông không được phép," bố Lyra nói, giọng rất dễ chịu. "Ông có thể nói rằng ông từng ở cùng một cơ sở với vợ tôi trong cùng một thời kỳ, và ông có thể nói điều đó trước mặt sáu mươi người, và tôi thà ông nói ngay bây giờ còn hơn là vào một lúc nào đó trong bốn năm tới, khi cái giá sẽ đắt hơn."
+"Bà không được phép," bố Lyra nói, giọng rất dễ chịu. "Bà có thể nói rằng bà từng ở cùng một cơ sở với vợ tôi trong cùng một thời kỳ, và bà có thể nói điều đó trước mặt sáu mươi người, và tôi thà bà nói ngay bây giờ còn hơn là vào một lúc nào đó trong bốn năm tới, khi cái giá sẽ đắt hơn."
 
 Không ai thở.
 
@@ -1415,7 +1415,7 @@ Sợi chỉ của Priya mang một màu xấu và đang tệ dần — một mà
 
 "Cậu có biết hôm nay thứ mấy không?"
 
-"chủ Nhật." Giọng Priya rất nhỏ và rất mỉa, và theo Elena nghĩ, điều đó tốt vô cùng. "Vì đồ ăn dở tệ, nhà nguyện đóng cửa, còn tớ không tài nào hiểu vì sao cả tòa nhà lại *sai*."
+"Chủ nhật." Giọng Priya rất nhỏ và rất mỉa, và theo Elena nghĩ, điều đó tốt vô cùng. "Vì đồ ăn dở tệ, nhà nguyện đóng cửa, còn tớ không tài nào hiểu vì sao cả tòa nhà lại *sai*."
 
 "Hôm nay thứ Bảy," Elena nói, "và cậu đang ở trong hành lang, và cậu không phải người đầu tiên trong tháng này nhầm như vậy, và tớ thà cậu nhầm còn hơn là cậu tự kết luận mình bị bệnh. Chuyện không phải tại cậu, và cũng không phải tại phòng tắm."
 
@@ -1693,7 +1693,7 @@ Cửa xe đưa đón đóng lại.
 >
 > *Cách tiếp cận tri thức sợi chỉ của Học viện vẫn sai lệch về bản chất. Cái họ gọi là "bảo tồn" chỉ là chiếm đoạt dưới lớp áo học thuật. Cái đã bị lấy đi khỏi gia đình tôi — khỏi vô số người hành nghề truyền thống — không thể đòi lại qua các kênh thể chế.*
 >
-> *Phương thức trích xuất của Syndicate mang đến một giải pháp trực tiếp hơn. Khi tri thức bị găm giữ, nó phải được thu hồi. Dự án Magnus Conduit vẫn tiến triển bất chấp sự kháng cự của Hội đồng. Nguồn tin của chúng ta giờ đã được cài cắm trọn vẹn và báo cáo những bước tiến đáng kể trong việc thu hoạch sợi chỉ.*
+> *Phương thức trích xuất của Syndicate mang đến một giải pháp trực tiếp hơn. Khi tri thức bị găm giữ, nó phải được thu hồi. Dự án Kênh Magnus vẫn tiến triển bất chấp sự kháng cự của Hội đồng. Nguồn tin của chúng ta giờ đã được cài cắm trọn vẹn và báo cáo những bước tiến đáng kể trong việc thu hoạch sợi chỉ.*
 >
 > *Sự xuất hiện của con bé nhà Chen mang đến cả cơ hội lẫn rủi ro. Chữ ký sợi chỉ của con bé giống đáng kể chữ ký của mẹ nó — tri giác đa phổ với cộng hưởng bạc. Quy trình giám sát đã được thiết lập. Nếu con bé hiện khuynh hướng Animus Argenti, mức ưu tiên trích xuất sẽ nâng lên Alpha.*
 >
@@ -2200,7 +2200,7 @@ Rồi cô đi tìm một chiếc điện thoại, gọi đến Westbrook, và y�
 
 *Ghi Chú Cộng Hưởng Sợi Chỉ: Chạy Song Ma, khóa 1, 6 tháng Chín. Bảy trên tám hoàn thành; 5 được giám thị hoãn vì lý do y tế (xem ghi chú). Trạm 7: lời đề nghị đưa ra trọn vẹn, các điều khoản được nêu rõ, bị từ chối ở một dạng được giám thị ghi lại nguyên văn. Đề nghị từ M.H. rằng hồ sơ của C-2214 nên được một người không phải văn phòng này xem xét lại. Đề nghị từ văn phòng này rằng hồ sơ C-2214 nên được một người xem xét lại, một người không phải là thành viên của văn phòng này, không phải là gia đình, và không phải là Hiệu trưởng. Tôi biết rằng đây giờ là một danh sách gồm hai người và không có hai người như thế. Tôi vẫn ghi nó vào biên bản.*
 
-# Chương 11: Magnus Conduit
+# Chương 11: Kênh Magnus
 
 *Bộ đếm Weave-Quake: 20% bất ổn. Dự phóng hỏng node: T+9 ngày, 14:00. Nguồn: khảo sát 1997, tái kiểm chứng 2009.*
 
@@ -2252,15 +2252,15 @@ Cổng vòm mát, và khối đá dưới tay cô mát, và không khí lọt v�
 
 Cô đặt tay lên trụ bên trái, nơi một nút thắt Trung Hoa đang tự thắt trong sắc đỏ thẫm, và nó *lỏng*.
 
-Đó là toàn bộ sự việc. Mọi thứ khác — ánh sáng, độ dày đặc, cái cách Maze dường như được làm nên từ một nghìn hệ thống chồng chéo tất cả cùng nói chuyện một lúc — là thứ phi thường nhất mà Lyra Chen từng đứng bên trong. Nhưng điều cô thực sự nhớ, suốt phần đời còn lại, là nút thắt trên trụ bên trái bị lỏng, và rằng không một ai trong tòa nhà nhìn nó suốt năm mươi chín năm.
+Đó là toàn bộ sự việc. Mọi thứ khác — ánh sáng, độ dày đặc, cái cách Mê Cung dường như được làm nên từ một nghìn hệ thống chồng chéo tất cả cùng nói chuyện một lúc — là thứ phi thường nhất mà Lyra Chen từng đứng bên trong. Nhưng điều cô thực sự nhớ, suốt phần đời còn lại, là nút thắt trên trụ bên trái bị lỏng, và rằng không một ai trong tòa nhà nhìn nó suốt năm mươi chín năm.
 
-"Cô Chen." Giọng nói không ở trong phòng. Nó đến từ khối đá, hoặc từ sau xương ức của cô, hoặc từ một nơi thứ ba mà cô sẽ phải dành phần lớn tuần kế tiếp để cố tả cho Osei nghe. "Maze nhìn thấy chữ ký của em. Đa quang phổ, với một thành phần bạc mạnh. Thức tỉnh muộn, bốn tháng, tức là muộn. Cấu trúc tổ tiên sâu — bốn dòng, hai dòng rất cũ và một dòng ở một quốc gia tôi sẽ không gọi tên." Một quãng ngừng cảm giác như một hơi thở đang nén lại trong một cỗ máy. "Bắt đầu."
+"Cô Chen." Giọng nói không ở trong phòng. Nó đến từ khối đá, hoặc từ sau xương ức của cô, hoặc từ một nơi thứ ba mà cô sẽ phải dành phần lớn tuần kế tiếp để cố tả cho Osei nghe. "Mê Cung nhìn thấy chữ ký của em. Đa quang phổ, với một thành phần bạc mạnh. Thức tỉnh muộn, bốn tháng, tức là muộn. Cấu trúc tổ tiên sâu — bốn dòng, hai dòng rất cũ và một dòng ở một quốc gia tôi sẽ không gọi tên." Một quãng ngừng cảm giác như một hơi thở đang nén lại trong một cỗ máy. "Bắt đầu."
 
 ---
 
 Nó không đáng sợ. Cô đã chuẩn bị để sợ trong mười một ngày.
 
-Gian thứ nhất có một cái bàn bên trong và ba vật trên bàn, và căn phòng yêu cầu cô tìm ra thứ nối chúng với nhau, và cô tìm ra trong mười một giây và không hề thấy thích. Gian thứ hai hỏi một điều gì đó về trọng lượng. Gian thứ ba về trình tự. Gian thứ tư về một việc cô từng làm, một cách dở, trong một phòng vẽ vào tháng Tư, và Maze có một bản sao của việc ấy, và nó cho cô xem bản sao, và Lyra đứng giữa một gian phòng dưới lòng núi, nhìn một sơ đồ về chính mình kéo hai đầu sợi lỏng lại với nhau và thắt chúng vào nhau, và phải ngồi xuống.
+Gian thứ nhất có một cái bàn bên trong và ba vật trên bàn, và căn phòng yêu cầu cô tìm ra thứ nối chúng với nhau, và cô tìm ra trong mười một giây và không hề thấy thích. Gian thứ hai hỏi một điều gì đó về trọng lượng. Gian thứ ba về trình tự. Gian thứ tư về một việc cô từng làm, một cách dở, trong một phòng vẽ vào tháng Tư, và Mê Cung có một bản sao của việc ấy, và nó cho cô xem bản sao, và Lyra đứng giữa một gian phòng dưới lòng núi, nhìn một sơ đồ về chính mình kéo hai đầu sợi lỏng lại với nhau và thắt chúng vào nhau, và phải ngồi xuống.
 
 *Nó vẫn lưu giữ hồ sơ.*
 
@@ -2280,7 +2280,7 @@ Cô làm sai trong khoảng bốn mươi giây, rồi cô làm đúng, và lý d
 
 *Con mắt nhìn thấy gợn. Bàn tay cảm nhận dòng triều.*
 
-Maze có vẻ cân nhắc câu đó một lát.
+Mê Cung có vẻ cân nhắc câu đó một lát.
 
 "Bài kiểm tra nhận thức. Cách tiếp cận không chính thống." Giọng nó đã đổi đi một phần rất nhỏ, một điều cô nhận ra và về sau sẽ không thể thuyết phục bất kỳ ai tin. "Tiếp tục."
 
@@ -2292,7 +2292,7 @@ Và giữa lúc ấy, một đường bạc.
 
 Không nằm trong tường. Không nằm trên sàn. Nằm trong không khí, trước hai đầu gối của cô chừng một foot, ở tầm cao của một người đang ngồi.
 
-Cô chưa từng thấy gì giống nó. Mọi thứ khác trong Maze đều *nói về* một thứ gì đó. Đường ấy tự nó là một thứ: lặng, mảnh, già hơn cả hòn đá, và tiếp diễn mà không cần cô, và nó không hề quan tâm chút nào việc cô có nhìn nó hay không.
+Cô chưa từng thấy gì giống nó. Mọi thứ khác trong Mê Cung đều *nói về* một thứ gì đó. Đường ấy tự nó là một thứ: lặng, mảnh, già hơn cả hòn đá, và tiếp diễn mà không cần cô, và nó không hề quan tâm chút nào việc cô có nhìn nó hay không.
 
 "Ồ," Lyra Chen nói.
 
@@ -2306,7 +2306,7 @@ Cô đi theo nó, và nó dẫn cô đến một cánh cửa không thuộc số
 
 Tinh thể lạnh. Nó cũng, không thể nhầm vào đâu được, đang *hài lòng*.
 
-"Một mảnh Animus Argenti," Maze nói, và giọng đã đến gần hơn rất nhiều. "Một cây cầu bạc. Phần còn lại. Vị khách trước để lại. Bà đã ở đây một giờ mười một phút và bà không lấy nó, và bà viết trên bức tường sau lưng em, bằng tiếng Anh, và tôi đã không cho ai xem nó trong mười một năm, và tôi sẽ cho em xem nó, rồi gian này sẽ ngừng tồn tại, và tôi muốn em hiểu rằng tôi không hề đang tử tế. Tôi đang đóng một hồ sơ."
+"Một mảnh Animus Argenti," Mê Cung nói, và giọng đã đến gần hơn rất nhiều. "Một cây cầu bạc. Phần còn lại. Vị khách trước để lại. Bà đã ở đây một giờ mười một phút và bà không lấy nó, và bà viết trên bức tường sau lưng em, bằng tiếng Anh, và tôi đã không cho ai xem nó trong mười một năm, và tôi sẽ cho em xem nó, rồi gian này sẽ ngừng tồn tại, và tôi muốn em hiểu rằng tôi không hề đang tử tế. Tôi đang đóng một hồ sơ."
 
 Lyra quay lại.
 
@@ -2320,7 +2320,7 @@ Cô với tay về phía tinh thể bằng bàn tay phải.
 
 Cô còn cách nó hai inch thì sàn nhà lao lên, và mọi thứ trắng xoá, và có một tiếng động như một thanh sắt đang bị bẻ cong, và bức tường sau lưng cô — bức tường có nét chì trên đó — sụp mất.
 
-"Ra khỏi đây ngay," Maze nói, và nó không còn bình tĩnh nữa. "Ra khỏi đây. *Ngay.*"
+"Ra khỏi đây ngay," Mê Cung nói, và nó không còn bình tĩnh nữa. "Ra khỏi đây. *Ngay.*"
 
 Cái bệ chìm xuống sàn. Một cái ngăn nổi lên từ nơi cái bệ vừa ở — một ngăn hẹp, một ngăn phụ trợ, với tiếng xì của khí nén — và bên trong có bốn ống giấy cuộn, và bàn tay Lyra với vào và rút ra mang theo một trong số chúng, và cái ngăn khép lại kẹp vào ngón tay cô, và tinh thể hạ xuống, và cổng vòm ở đầu kia đỏ lên.
 
@@ -2441,7 +2441,7 @@ Cô gõ một tin nhắn cho ba người, và nhìn nó, và thêm một dòng �
 >
 > *Eli — tớ có một danh sách. Mười một. Nó có một cột mang tiêu đề "đồng thuận". Chín cái đã ký. Hai cái "không thể xin được (đối tượng nguy kịch, không có người thân hiện diện)". Tớ muốn biết cái thứ hai là cái gì.*
 >
-> *Zara — tớ không còn nhìn thấy sợi chỉ trong đám đông nữa, hay trong một căn phòng từ đầu phòng bên này sang bên kia, hay nhìn thấy gì hết nếu không chạm vào một thứ gì đó, và tớ đã có ba ngày để tìm ra lý do và đó là vì Maze có một bản sao của việc tớ làm với Katie Doyle vào tháng Tư và đã cho tớ xem nó, và tớ đã ốm vì chuyện đó, và tớ muốn cậu hỏi tớ về chuyện đó trong một căn phòng, không phải qua điện thoại, vì tớ không nghĩ tớ sẽ vượt nổi nếu phải nói qua điện thoại.*
+> *Zara — tớ không còn nhìn thấy sợi chỉ trong đám đông nữa, hay trong một căn phòng từ đầu phòng bên này sang bên kia, hay nhìn thấy gì hết nếu không chạm vào một thứ gì đó, và tớ đã có ba ngày để tìm ra lý do và đó là vì Mê Cung có một bản sao của việc tớ làm với Katie Doyle vào tháng Tư và đã cho tớ xem nó, và tớ đã ốm vì chuyện đó, và tớ muốn cậu hỏi tớ về chuyện đó trong một căn phòng, không phải qua điện thoại, vì tớ không nghĩ tớ sẽ vượt nổi nếu phải nói qua điện thoại.*
 >
 > *Milo — cảm ơn cậu vì đã không hỏi. Tớ sẽ kể cho cậu nghe thôi, nhưng không phải tối nay. Trạm năm là về một cánh cửa. Đó là tất cả những gì tớ nói về chuyện đó tối nay.*
 >
@@ -2472,9 +2472,9 @@ Lyra đứng dậy, khoác áo lên bộ đồ ngủ, và đi xuống ba tầng 
 
 Không ai quay lại dưới cánh vòm vào tối thứ Ba.
 
-Kỹ sư Tư vấn đến vào thứ Tư với hai người đàn ông và một ngọn đèn pin, và những gì ông viết ra thì ngắn, và hồ sơ chứa toàn bộ điều đó. Những gì vẫn đi qua được thì được gọi tên, và việc gọi tên ấy là toàn bộ văn kiện: nhịp vòm, trụ bên trái, ngưỡng, và lối đi giữa chúng. Những gì không đi qua được thì được gọi tên theo cách ấy: phía đông, phần vành, hộp chứa, và gian thứ tám. Gian thứ tám không bị hư hại và không được chống đỡ và sẽ không được chống đỡ, vì chẳng còn gì của nó để mà chống đỡ.
+Kỹ sư Tư vấn đến vào thứ Tư với hai người đàn ông và một ngọn đèn pin, và những gì ông viết ra thì ngắn, và hồ sơ chứa toàn bộ điều đó. Những gì vẫn đi qua được thì được gọi tên, và việc gọi tên ấy là toàn bộ văn kiện: nhịp vòm, trụ bên trái, ngưỡng, và lối đi giữa chúng. Những gì không đi qua được thì được gọi tên theo cách ấy: phía đông, phần vành, buồng kín, và gian thứ tám. Gian thứ tám không bị hư hại và không được chống đỡ và sẽ không được chống đỡ, vì chẳng còn gì của nó để mà chống đỡ.
 
-Bộ dữ liệu tham chiếu nằm trong Maze. Đó là lý do bộ đếm của Hội đồng kể từ sáng thứ Tư ghi *dữ liệu một phần* ở mọi dòng đầu, và đó là lý do từ đó không ai có thể nói con số đó nghĩa là gì, và đó là lý do con số của một cậu bé trong một căn phòng ở Tháp Đông có thể bị lấy làm con số của Học viện.
+Bộ dữ liệu tham chiếu nằm trong Mê Cung. Đó là lý do bộ đếm của Hội đồng kể từ sáng thứ Tư ghi *dữ liệu một phần* ở mọi dòng đầu, và đó là lý do từ đó không ai có thể nói con số đó nghĩa là gì, và đó là lý do con số của một cậu bé trong một căn phòng ở Tháp Đông có thể bị lấy làm con số của Học viện.
 
 Họ giăng một vòng vây dọc hành lang cột và chống đỡ nhịp vòm vào thứ Tư, và thứ gỗ ấy được gọi là tạm thời trong mọi văn kiện nhắc tới nó, kể cả văn kiện mà một người nào đó đã đề nghị gọi nó bằng một cái tên khác và bị từ chối.
 
@@ -2482,11 +2482,11 @@ Cánh vòm không được tuyên bố là an toàn. Nó được tuyên bố l�
 
 ---
 
-*Ghi Chú Cộng Hưởng Sợi Chỉ: lượt chạy Maze, khóa 1, 10 tháng Chín. Chín ứng viên bước vào. Tám người quay ra. MƯỜI MỘT NĂM: thuật ngữ "Animus Argenti" đã bị tẩy khỏi vốn từ đánh giá vào 2009 theo chỉ thị của văn phòng này và tôi đã biết về chỉ thị đó. — rút lại 14 tháng Chín, xem biên bản 44-B/3. V/v C.L., năm nhất, không gắn với một dải nào. Khuôn mẫu của số đọc con bé là khuôn mẫu của một ứng viên cho một điều gì đó. Tôi không biết điều đó là gì và tôi đã không hỏi, và tôi muốn điều này được ghi biên bản rằng tôi đã chọn không hỏi, và đó là một quyết định, và rằng người cuối cùng chọn không hỏi trong tòa nhà này là mẹ của con bé, và rằng tôi từng là đồng nghiệp của mẹ con bé, và rằng tôi không quen mẹ con bé đủ để ngăn bà lại, và rằng tôi đã nghĩ về điều đó suốt mười một năm.*
+*Ghi Chú Cộng Hưởng Sợi Chỉ: lượt chạy Mê Cung, khóa 1, 10 tháng Chín. Chín ứng viên bước vào. Tám người quay ra. MƯỜI MỘT NĂM: thuật ngữ "Animus Argenti" đã bị tẩy khỏi vốn từ đánh giá vào 2009 theo chỉ thị của văn phòng này và tôi đã biết về chỉ thị đó. — rút lại 14 tháng Chín, xem biên bản 44-B/3. V/v C.L., năm nhất, không gắn với một dải nào. Khuôn mẫu của số đọc con bé là khuôn mẫu của một ứng viên cho một điều gì đó. Tôi không biết điều đó là gì và tôi đã không hỏi, và tôi muốn điều này được ghi biên bản rằng tôi đã chọn không hỏi, và đó là một quyết định, và rằng người cuối cùng chọn không hỏi trong tòa nhà này là mẹ của con bé, và rằng tôi từng là đồng nghiệp của mẹ con bé, và rằng tôi không quen mẹ con bé đủ để ngăn bà lại, và rằng tôi đã nghĩ về điều đó suốt mười một năm.*
 
 # Chương 12A: Buổi Thị Phạm
 
-*Bộ đếm Weave-Quake: 34% bất ổn. Dự phóng hỏng node: T+13 ngày, 14:00. Bộ dữ liệu tham chiếu đã bị phá hủy trong vụ sụp đổ Maze vào ngày mười tháng Chín; đây là lần chạy lại của Hội đồng trên dữ liệu một phần, và không ai nói thành lời rằng đó là một phỏng đoán.*
+*Bộ đếm Weave-Quake: 34% bất ổn. Dự phóng hỏng node: T+13 ngày, 14:00. Bộ dữ liệu tham chiếu đã bị phá hủy trong vụ sụp đổ Mê Cung vào ngày mười tháng Chín; đây là lần chạy lại của Hội đồng trên dữ liệu một phần, và không ai nói thành lời rằng đó là một phỏng đoán.*
 
 *Thứ Tư, ngày 11 tháng Chín. Hội trường Thị Phạm Lớn.*
 
@@ -2628,7 +2628,7 @@ Milo Reyes nói, "Ừ," bằng giọng của một người đã quyết định
 
 ---
 
-*Bộ đếm Weave-Quake: 34% bất ổn. Dự phóng hỏng node: T+13 ngày, 14:00. Bộ dữ liệu tham chiếu đã bị phá hủy trong vụ sụp đổ Maze vào ngày mười tháng Chín; đây là lần chạy lại của Hội đồng trên dữ liệu một phần, và không ai nói thành lời rằng đó là một phỏng đoán.*
+*Bộ đếm Weave-Quake: 34% bất ổn. Dự phóng hỏng node: T+13 ngày, 14:00. Bộ dữ liệu tham chiếu đã bị phá hủy trong vụ sụp đổ Mê Cung vào ngày mười tháng Chín; đây là lần chạy lại của Hội đồng trên dữ liệu một phần, và không ai nói thành lời rằng đó là một phỏng đoán.*
 
 *Thứ Tư, ngày 11 tháng Chín, 12:20. Hành lang ngoài Hội trường Thị Phạm Lớn.*
 
@@ -2778,7 +2778,7 @@ Và đây là phần mà bảy ngày nay tôi không thể viết, nó dài hai 
 
 # Chương 13: Sự Biến Mất Đầu Tiên
 
-*Bộ đếm Weave-Quake: 35% bất ổn. Dự phóng hỏng node: T+13 ngày, 14:00. Bộ dữ liệu tham chiếu đã bị phá hủy trong vụ sụp đổ của Maze vào ngày mười tháng Chín; đây là lần chạy lại của Hội đồng trên dữ liệu một phần, và không ai nói thành lời rằng nó là một phỏng đoán.*
+*Bộ đếm Weave-Quake: 35% bất ổn. Dự phóng hỏng node: T+13 ngày, 14:00. Bộ dữ liệu tham chiếu đã bị phá hủy trong vụ sụp đổ của Mê Cung vào ngày mười tháng Chín; đây là lần chạy lại của Hội đồng trên dữ liệu một phần, và không ai nói thành lời rằng nó là một phỏng đoán.*
 
 *Thứ Năm, 12 tháng Chín.*
 
@@ -2854,11 +2854,11 @@ Họ đi xuống lúc bốn giờ vì buổi thị phạm đã làm tòa nhà tr
 
 Họ tìm ra nó trong bốn mươi phút. Không phải cái conduit — conduit là một *thuật ngữ chuyên môn* mà họ không có, và Eli đã dành ba tuần để không tìm ra nó bằng cách đi tìm nó, và cái cậu tìm thấy thay vào đó là một địa điểm.
 
-"Có một thuật ngữ cho nó," cậu nói vào một chùm đèn pin rất nhỏ. "'Rim node.' Đó là cách nhật ký của Maze gọi tấm lưới phía đông. Và có bốn cái, và ba cái nằm trong tòa nhà này, và cái thứ tư không có trong bản kê khai, và *bản kê khai ghi ngày 2011*."
+"Có một thuật ngữ cho nó," cậu nói vào một chùm đèn pin rất nhỏ. "'Rim node.' Đó là cách nhật ký của Mê Cung gọi tấm lưới phía đông. Và có bốn cái, và ba cái nằm trong tòa nhà này, và cái thứ tư không có trong bản kê khai, và *bản kê khai ghi ngày 2011*."
 
 "Ở đâu?"
 
-"Trong Maze." Eli ngồi xuống sàn. "Lyra. Lyra, cái mà cậu bước vào hôm thứ Ba — căn phòng thứ tám, căn không có trong danh sách, căn mà Tanaka nói là một *cache*—"
+"Trong Mê Cung." Eli ngồi xuống sàn. "Lyra. Lyra, cái mà cậu bước vào hôm thứ Ba — căn phòng thứ tám, căn không có trong danh sách, căn mà Tanaka nói là một *cache*—"
 
 "Cậu bảo tớ đó là một cache."
 
@@ -2980,13 +2980,13 @@ Sáng hôm sau, lúc mười giờ mười phút, Eli Park đứng ở hành lan
 
 ---
 
-*Cuộc Điều tra Về Conduit, 2013, thẩm vấn chéo Chánh Văn phòng, ngày làm việc thứ sáu. Câu hỏi đặt ra là liệu có bất kỳ thành viên nào của Học viện biết rằng E. Vance đã bị đưa đi vào ngày mười một tháng Chín hay không. Phần trả lời chiếm hai ngày và không được trích toàn văn ở đây. Kết luận như sau:*
+*Cuộc Điều tra Về Kênh Magnus, 2013, thẩm vấn chéo Chánh Văn phòng, ngày làm việc thứ sáu. Câu hỏi đặt ra là liệu có bất kỳ thành viên nào của Học viện biết rằng E. Vance đã bị đưa đi vào ngày mười một tháng Chín hay không. Phần trả lời chiếm hai ngày và không được trích toàn văn ở đây. Kết luận như sau:*
 
 > *Không một ai trong Học viện biết. Trưởng An ninh biết, từ ngày mười một, và đã được một người bên ngoài tòa nhà này chỉ thị không được bước vào căn phòng, và đã vâng lời, và đã trải qua chín ngày viết những lời nhắn một dòng cho một người mà bà chưa từng gặp, hỏi xem liệu mình có nên giữ cánh cửa lại hay không, và những lời nhắn ấy nằm trong hồ sơ, và chúng là mười một lời nhắn, và lời cuối cùng ghi ngày mười chín, tức sáu ngày sau khi bốn sinh viên năm nhất kể Chánh Văn phòng nghe một điều gì đó trong một hành lang rồi đi ngược lên hành lang lần nữa vào thứ Năm, và lời đó viết: **Tôi sẽ giữ nó cho đến khi có một người đủ năng lực xuất hiện, hoặc cho đến khi tôi được thay thế. Dù Ngài là ai: chính là Ngài.***
 
 # Chương 14: Thứ Dưới Sàn Nhà
 
-*Bộ đếm Weave-Quake: 37% bất ổn. Dự phóng hỏng node: T+13 ngày, 14:00. Bộ dữ liệu tham chiếu đã bị phá hủy trong vụ sập Maze ngày mười tháng Chín; đây là lần chạy lại của Hội đồng trên dữ liệu một phần, và chưa ai nói to ra rằng đó là một phỏng đoán.*
+*Bộ đếm Weave-Quake: 37% bất ổn. Dự phóng hỏng node: T+13 ngày, 14:00. Bộ dữ liệu tham chiếu đã bị phá hủy trong vụ sập Mê Cung ngày mười tháng Chín; đây là lần chạy lại của Hội đồng trên dữ liệu một phần, và chưa ai nói to ra rằng đó là một phỏng đoán.*
 
 *Thứ Sáu, 13 tháng Chín, 10:52 sáng — Thứ Bảy, 14 tháng Chín, 4:40 sáng*
 
@@ -3014,7 +3014,7 @@ Rồi bà nói: "Bốn em. Hai em sắp làm một việc gì đó dũng cảm v
 
 ## CẬU BÉ VỚI TỜ GIẤY
 
-Khu đánh giá nằm ở dãy nhà phụ phía bắc của Tháp Đông và làm việc theo lịch luân phiên thứ Năm đến chủ Nhật, và sáng thứ Sáu, nơi đó có một sinh viên năm hai và một kỹ thuật viên trực, và Chánh Văn phòng Học viện Threadweaver bước vào lúc mười một giờ và đề nghị hai người ra ngoài, và họ ra ngoài, và một người đã khóc, và người kia thì không, và điều đó nằm trong biên bản vì người kia đã bị hỏi về chuyện đó.
+Khu đánh giá nằm ở dãy nhà phụ phía bắc của Tháp Đông và làm việc theo lịch luân phiên thứ Năm đến Chủ nhật, và sáng thứ Sáu, nơi đó có một sinh viên năm hai và một kỹ thuật viên trực, và Chánh Văn phòng Học viện Threadweaver bước vào lúc mười một giờ và đề nghị hai người ra ngoài, và họ ra ngoài, và một người đã khóc, và người kia thì không, và điều đó nằm trong biên bản vì người kia đã bị hỏi về chuyện đó.
 
 James Chen đang ngồi trên ghế với chiếc tai nghe đeo trên đầu, một tờ giấy trên đùi, và một phép tính dở dang trong quyển vở bài tập, và cậu mười bốn tuổi, và cậu đã ở trong tòa nhà được bốn mươi giờ.
 
@@ -3056,7 +3056,7 @@ Tên của Lyra Chen nằm trong đó vì một người đàn ông trong hội 
 
 ## VÒM CỬA
 
-Họ đi vào Thread Maze lúc 2:40 chiều thứ Sáu với sự cho phép của thể chế, đó là câu xuất hiện trong mọi bản kể lại, và đó là câu mà người đọc bản ghi năm 2013 nên dừng lại.
+Họ đi vào Mê Cung Sợi Chỉ lúc 2:40 chiều thứ Sáu với sự cho phép của thể chế, đó là câu xuất hiện trong mọi bản kể lại, và đó là câu mà người đọc bản ghi năm 2013 nên dừng lại.
 
 *Sự cho phép đã được Chánh Văn phòng Học viện cấp cho bốn sinh viên năm nhất để bước vào một kết cấu đánh giá đã bị niêm phong, dựa trên một số đọc, bằng văn bản, trên một tờ giấy, mà một tờ giấy thì chỉ là một tờ giấy. Nó được cấp bất chấp lời phản đối bằng văn bản của Kỹ sư Tư vấn, người đã nói sẽ không ký và sẽ không chịu trách nhiệm về nó, và nó được cấp kèm ba điều kiện: rằng vòm được ra vào bằng nhịp vòm chứ không bằng đống đổ nát, rằng không được tựa lưng vào gỗ, và rằng đây là sự cho phép để đọc thứ trong đó chứ không phải sự cho phép để mang bất cứ thứ gì ra khỏi đó.*
 
@@ -3064,13 +3064,13 @@ Họ đi vào Thread Maze lúc 2:40 chiều thứ Sáu với sự cho phép củ
 
 "Em là người duy nhất đọc được—"
 
-"Tôi biết thế. Đó không phải là vấn đề." Tanaka tiến lại gần hơn khoảng bốn bước. "Cô Chen, trong mười chín năm tôi đã đưa khoảng hai nghìn sinh viên qua cái vòm đó và tôi đã nhìn thấy khoảng chín người trong số họ *hữu ích* trong đó, và có lý do cho việc từ trước đến nay chỉ từng có chín người, và lý do là Maze được hiệu chỉnh theo bất kỳ ai ở trong nó, và nó hiệu chỉnh bằng *chạm*, và việc đó mất khoảng mười một phút, và nó không có trong lịch trình, và nếu em đi vào đó và nó hiệu chỉnh theo em ngay trước một số đọc ba mươi mốt phần trăm thì nó sẽ ở *trong người em* theo một cách mà chúng ta không thể lấy ra, và tôi đã thấy chuyện đó xảy ra một lần, năm 1997, với một người phụ nữ hai mươi bốn tuổi, và giờ bà ấy là một căn phòng ở tầng ba ký túc xá phía Đông với không một ai trong đó."
+"Tôi biết thế. Đó không phải là vấn đề." Tanaka tiến lại gần hơn khoảng bốn bước. "Cô Chen, trong mười chín năm tôi đã đưa khoảng hai nghìn sinh viên qua cái vòm đó và tôi đã nhìn thấy khoảng chín người trong số họ *hữu ích* trong đó, và có lý do cho việc từ trước đến nay chỉ từng có chín người, và lý do là Mê Cung được hiệu chỉnh theo bất kỳ ai ở trong nó, và nó hiệu chỉnh bằng *chạm*, và việc đó mất khoảng mười một phút, và nó không có trong lịch trình, và nếu em đi vào đó và nó hiệu chỉnh theo em ngay trước một số đọc ba mươi mốt phần trăm thì nó sẽ ở *trong người em* theo một cách mà chúng ta không thể lấy ra, và tôi đã thấy chuyện đó xảy ra một lần, năm 1997, với một người phụ nữ hai mươi bốn tuổi, và giờ bà ấy là một căn phòng ở tầng ba ký túc xá phía Đông với không một ai trong đó."
 
 Lyra đứng trên những phiến đá ướt và có bốn giây hữu ích duy nhất của đời mình.
 
 "Vậy thì cho một người không bị hiệu chỉnh vào," cô nói. "Cho anh Reyes vào. Cậu ấy không trực quan. Cho anh ấy vào, và cho cô Washington vào nữa, vì bạn ấy cảm nhận được một kết cấu ở khoảng cách chín feet, và cho anh Park vào, vì anh ấy có bản vẽ và anh ấy sẽ không đi qua cánh cửa thứ hai, còn *em* sẽ đọc tờ giấy, từ bên ngoài, qua bộ đàm, và nếu con số thay đổi em sẽ báo cô, và cô sẽ kéo bọn họ ra, và sẽ chẳng cần em ở trong đó chút nào."
 
-"Maze không hoạt động như—"
+"Mê Cung không hoạt động như—"
 
 "Cô Tanaka." Giọng Lyra thoát ra ổn định hơn mức cô có bất cứ quyền gì mong đợi ở một người đã thức hai mươi chín tiếng. "Mười một phút. Cô nói mười một phút. Em đã ở tòa nhà này chín ngày và em được bảo rằng con số trên bảng không phải là phần trăm của bất cứ thứ gì, rằng một tờ giấy trong quyển sổ phác họa không phải là một vật chuyển giao, và rằng một tấm ảnh là một tấm ảnh. Em được bảo rằng *việc phát hiện ra một thứ không làm thứ đó lớn hơn.* Có người nói với em điều đó trong một hiệu sách vào tháng Tám, trước mặt bố em, to tiếng, và em đã nghĩ về nó mỗi ngày."
 
@@ -3100,7 +3100,7 @@ Lúc 3:52 con số trên tờ giấy nhảy lên bốn mươi bốn, và vòm c�
 
 ## BÊN TRONG
 
-Milo Reyes đã viết bốn trang về bên trong Thread Maze và chúng nằm trong biên bản và chúng là bốn trang duy nhất trong toàn bộ Ủy ban Điều tra mà từng có người yêu cầu rút khỏi hồ sơ, và người yêu cầu là chính anh, năm 2016, và yêu cầu đó bị từ chối, và anh yêu cầu lại, và lý do nó bị từ chối nằm trong bản ghi chú của Chủ tịch, và Chủ tịch tự mình viết nó, trong cùng ngày, hai mươi chín năm sau buổi chiều hôm đó, và đó cũng không phải là một sự tình cờ:
+Milo Reyes đã viết bốn trang về bên trong Mê Cung Sợi Chỉ và chúng nằm trong biên bản và chúng là bốn trang duy nhất trong toàn bộ Ủy ban Điều tra mà từng có người yêu cầu rút khỏi hồ sơ, và người yêu cầu là chính anh, năm 2016, và yêu cầu đó bị từ chối, và anh yêu cầu lại, và lý do nó bị từ chối nằm trong bản ghi chú của Chủ tịch, và Chủ tịch tự mình viết nó, trong cùng ngày, hai mươi chín năm sau buổi chiều hôm đó, và đó cũng không phải là một sự tình cờ:
 
 > *Ông Reyes đề nghị xóa bỏ bản ghi về trải nghiệm của ông. Ông Reyes nay bốn mươi lăm tuổi, giảng dạy tại một nhạc viện, và là chuyên gia hàng đầu trong lĩnh vực của mình, và ông đã giải thích với tôi rằng lý do ông muốn nó bị xóa không phải là xấu hổ, mà là ông đã giảng tài liệu này mười hai năm và có một phiên bản của buổi chiều hôm đó trong đó ông là một cậu bé đã sợ hãi, và ông không muốn đó là điều được nhớ đến.*
 >
@@ -3114,7 +3114,7 @@ Milo Reyes đã viết bốn trang về bên trong Thread Maze và chúng nằm 
 
 ---
 
-Cả ba người vào lúc 2:40 và ra lúc 3:53, tức là một giờ mười ba phút, và Tanaka đã nói mười một, và Eli Park đã nói mười một, và Tiến sĩ Mei-Hua Chen đã nói việc hiệu chỉnh mất khoảng mười một phút, và nó mất một giờ mười ba vì Maze đã tái cấu hình quanh họ trong suốt thời gian đó và một kết cấu dưới ký túc xá phía Đông đang kéo nó.
+Cả ba người vào lúc 2:40 và ra lúc 3:53, tức là một giờ mười ba phút, và Tanaka đã nói mười một, và Eli Park đã nói mười một, và Tiến sĩ Mei-Hua Chen đã nói việc hiệu chỉnh mất khoảng mười một phút, và nó mất một giờ mười ba vì Mê Cung đã tái cấu hình quanh họ trong suốt thời gian đó và một kết cấu dưới ký túc xá phía Đông đang kéo nó.
 
 Lời kể của Milo Reyes, một phần, vì kết luận của Ủy ban Điều tra dựa trên nó và vì Lyra Chen đã yêu cầu nó được đọc trọn vẹn tại mọi hội thảo mà cô từng phát biểu, điều mà cô đã làm bốn lần:
 
@@ -3160,9 +3160,9 @@ Nó không phải là một cỗ máy trong một căn phòng. Đó là một c�
 
 "Có hai thứ," người kỹ thuật viên nói, năm 2019, tại một phiên điều trần mà chẳng ai ngờ là sẽ cần đến, trong một căn phòng ở Lyon. "Tôi muốn nói điều mà không ai nói năm 2013 và mà tôi đã có sáu năm để sống chung với nó.
 
-"Có cái thiết bị, trong căn phòng, trong ký túc xá phía Đông, với một cậu bé mười bốn tuổi nằm trên sàn của nó. Và có cái *khác*, dưới thiết bị, ở phần không có trong bản kiểm kê, trong một hộp chứa mà không phải là hộp chứa, thứ đã được *nuôi lớn lên* — và từ tôi muốn dùng là nuôi lớn, vì tôi đã xem rất nhiều công trình kỹ thuật và tôi chưa từng thấy bất cứ thứ gì được nuôi lớn, và tôi chưa từng thấy bất cứ thứ gì được một con người niêm phong lại rồi nằm dưới một khuôn viên trường bảy mươi hai năm, cực kỳ biết điều và cực kỳ tốn kém để bảo trì.
+"Có cái thiết bị, trong căn phòng, trong ký túc xá phía Đông, với một cậu bé mười bốn tuổi nằm trên sàn của nó. Và có cái *khác*, dưới thiết bị, ở phần không có trong bản kiểm kê, trong một buồng kín mà không phải là buồng kín, thứ đã được *nuôi lớn lên* — và từ tôi muốn dùng là nuôi lớn, vì tôi đã xem rất nhiều công trình kỹ thuật và tôi chưa từng thấy bất cứ thứ gì được nuôi lớn, và tôi chưa từng thấy bất cứ thứ gì được một con người niêm phong lại rồi nằm dưới một khuôn viên trường bảy mươi hai năm, cực kỳ biết điều và cực kỳ tốn kém để bảo trì.
 
-"Và vào ngày mười ba tháng Chín năm 2013, vào khoảng bốn giờ chiều, thiết bị trên sàn phòng thứ bảy và hộp chứa bên dưới nó *đều đang chạy*, và chúng đã chạy *đối nghịch nhau*, và đó là lý do bộ đếm di chuyển, và đó là lý do cậu bé nghe được nó, và đó là lý do vòm cửa di chuyển.
+"Và vào ngày mười ba tháng Chín năm 2013, vào khoảng bốn giờ chiều, thiết bị trên sàn phòng thứ bảy và buồng kín bên dưới nó *đều đang chạy*, và chúng đã chạy *đối nghịch nhau*, và đó là lý do bộ đếm di chuyển, và đó là lý do cậu bé nghe được nó, và đó là lý do vòm cửa di chuyển.
 
 "Và khi vòm cửa sập xuống phía Đông lúc bốn giờ hai mươi chiều thứ Sáu, nó sập xuống *cả hai thứ*, và đó là lần duy nhất trong lịch sử tòa nhà này mà một sự sụp kết cấu lại làm một vấn đề tốt lên, và tôi đã làm kỹ thuật viên hai mươi chín năm và tôi chưa từng nói một câu như thế trong một căn phòng, và tôi muốn nó vào bản ghi, và tôi muốn sau đó có ai đó giải thích cho tôi vì sao một tai nạn bảy mươi hai tuổi trong một căn phòng dưới một tòa nhà đầy trẻ con lại là điều tốt nhất từng xảy ra với bất kỳ ai trong chúng tôi."
 
@@ -3200,7 +3200,7 @@ Và đó là điều cuối cùng xảy ra trong Sách Một mà là một *quy�
 
 *Bộ đếm Weave-Quake: 42% bất ổn. Dự phóng hỏng node: T+20 ngày. Đã tái chuẩn cơ sở. Chú thích do cán bộ kỹ thuật của Hội đồng thêm vào, và chú thích nằm trong biên bản họp đã công bố, và đó là chú thích duy nhất trong biên bản họp đã công bố suốt mười chín năm:*
 
-> *Ngày mười bốn tháng Chín năm 2013, thiết bị dưới ký túc xá phía Đông và hộp chứa bên dưới nó đã bị phá hủy trong một vụ sụp kết cấu duy nhất. Dự phóng hỏng node đã được tái chuẩn cơ sở hai lần kể từ đó và hiện là một con số mà tôi không có chút tin tưởng nào, và tôi đã nói điều đó bằng văn bản, và cách nói đang lưu hành là "một phỏng đoán", và tôi muốn ghi vào biên bản rằng tôi đã nói "một phỏng đoán" trong một cuộc họp Hội đồng vào ngày hai tháng Mười, và rằng văn phòng này đã trải qua mười chín năm không nói từ đó trong căn phòng đó, và rằng lý do tôi nói nó là một tòa nhà đầy trẻ con đã sập xuống một cái lồng vào buổi chiều ngày mười bốn tháng Chín và dự báo đã tốt lên bốn ngày, và rằng lý do dự báo tốt lên là có một thiết bị *thứ hai* dưới thiết bị đầu tiên đã rút đối nghịch với nó suốt bảy mươi hai năm, và rằng theo ý kiến của tôi, từ diễn tả trạng thái của mạng lưới này không phải là "nghiêm trọng".*
+> *Ngày mười bốn tháng Chín năm 2013, thiết bị dưới ký túc xá phía Đông và buồng kín bên dưới nó đã bị phá hủy trong một vụ sụp kết cấu duy nhất. Dự phóng hỏng node đã được tái chuẩn cơ sở hai lần kể từ đó và hiện là một con số mà tôi không có chút tin tưởng nào, và tôi đã nói điều đó bằng văn bản, và cách nói đang lưu hành là "một phỏng đoán", và tôi muốn ghi vào biên bản rằng tôi đã nói "một phỏng đoán" trong một cuộc họp Hội đồng vào ngày hai tháng Mười, và rằng văn phòng này đã trải qua mười chín năm không nói từ đó trong căn phòng đó, và rằng lý do tôi nói nó là một tòa nhà đầy trẻ con đã sập xuống một cái lồng vào buổi chiều ngày mười bốn tháng Chín và dự báo đã tốt lên bốn ngày, và rằng lý do dự báo tốt lên là có một thiết bị *thứ hai* dưới thiết bị đầu tiên đã rút đối nghịch với nó suốt bảy mươi hai năm, và rằng theo ý kiến của tôi, từ diễn tả trạng thái của mạng lưới này không phải là "nghiêm trọng".*
 >
 > *Là "bị diễn tả sai."*
 
@@ -3208,9 +3208,9 @@ Và đó là điều cuối cùng xảy ra trong Sách Một mà là một *quy�
 
 *Thứ Bảy, 14 tháng Chín, 07:20. Hội Trường Di Sản Văn Hóa.*
 
-*Bộ đếm Weave-Quake: 43% bất ổn. Dự phóng hỏng node: T+13 ngày. Bộ dữ liệu tham chiếu đã bị phá hủy trong vụ sụp Maze ngày mười tháng Chín; đây là lần Hội đồng chạy lại trên dữ liệu một phần, và không ai nói thành lời rằng đó là một phỏng đoán.*
+*Bộ đếm Weave-Quake: 43% bất ổn. Dự phóng hỏng node: T+13 ngày. Bộ dữ liệu tham chiếu đã bị phá hủy trong vụ sụp Mê Cung ngày mười tháng Chín; đây là lần Hội đồng chạy lại trên dữ liệu một phần, và không ai nói thành lời rằng đó là một phỏng đoán.*
 
-> "Khi các chiều sợi chỉ rơi vào bất ổn, các thể chế phương Tây thường phản ứng bằng các giải pháp dựa trên trích xuất—rút năng lượng từ mạng Weave để củng cố những vùng suy yếu. Các hành giả truyền thống thay vào đó xem bất ổn là một sự giao tiếp, đòi hỏi sự có đi có lại thay vì trích xuất. Khác biệt căn bản trong cách tiếp cận này có thể giải thích vì sao các 'giải pháp' của thể chế thường đẩy nhanh sự sụp đổ thay vì ngăn chặn nó."
+> "Khi các chiều sợi chỉ rơi vào bất ổn, các thể chế phương Tây thường phản ứng bằng các giải pháp dựa trên trích xuất—rút năng lượng từ Weave để củng cố những vùng suy yếu. Các hành giả truyền thống thay vào đó xem bất ổn là một sự giao tiếp, đòi hỏi sự có đi có lại thay vì trích xuất. Khác biệt căn bản trong cách tiếp cận này có thể giải thích vì sao các 'giải pháp' của thể chế thường đẩy nhanh sự sụp đổ thay vì ngăn chặn nó."
 >
 > — Lin Chen, "Giao Hòa hay Kiểm Soát: Những Cách Tiếp Cận Khác Cho Sự Ổn Định Chiều Sợi Chỉ", Bản Thảo Chưa Xuất Bản
 
@@ -3312,7 +3312,7 @@ Hai lông mày của Adeyemi nhấc lên chừng một milimet, và với ông �
 
 Eli đã rút ra một cuốn sổ tay và đang ghi vào đó bằng cả hai tay.
 
-"Magnus Conduit," cậu nói.
+"Kênh Magnus," cậu nói.
 
 Adeyemi quay đầu lại.
 
@@ -3368,13 +3368,13 @@ Lyra ngồi xuống.
 
 "Một điều nữa, rồi tôi phải đi và làm người nói điều đó trong căn phòng sai." Ông đã quay đi từ lúc nào. "Em đã hỏi tôi em có thể làm gì. Hôm nay đừng trả lời câu hỏi đó. Đó là một câu hỏi tốt, và nó rất lớn, và nếu em trả lời nó hôm nay thì em sẽ trả lời nó trước mặt mười một người không dính dáng gì đến nó. Chủ Nhật quay lại hỏi tôi lần nữa, và tôi sẽ đã có ba ngày để sợ, và câu trả lời sẽ hay hơn, và cũng tệ hơn."
 
-*Bộ đếm Weave-Quake: 45% bất ổn. Dự phóng hỏng node: T+13 ngày. Bộ dữ liệu tham chiếu đã bị phá hủy trong vụ sụp Maze ngày mười tháng Chín; đây là lần Hội đồng chạy lại trên dữ liệu một phần, và không ai nói thành lời rằng đó là một phỏng đoán.*
+*Bộ đếm Weave-Quake: 45% bất ổn. Dự phóng hỏng node: T+13 ngày. Bộ dữ liệu tham chiếu đã bị phá hủy trong vụ sụp Mê Cung ngày mười tháng Chín; đây là lần Hội đồng chạy lại trên dữ liệu một phần, và không ai nói thành lời rằng đó là một phỏng đoán.*
 
 # Chương 15B: Chín Phút
 
 *Thứ Bảy, 14 tháng Chín, 06:20. Cách Học viện ba phẩy hai ki-lô-mét về phía đông bắc.*
 
-*Bộ đếm Weave-Quake: 45% bất ổn. Dự phóng hỏng node: T+13 ngày. Bộ dữ liệu tham chiếu đã bị phá hủy trong vụ sụp đổ Maze vào ngày mười tháng Chín; đây là lần Hội đồng chạy lại trên dữ liệu một phần, và chưa ai nói thành lời rằng đó là một phỏng đoán.*
+*Bộ đếm Weave-Quake: 45% bất ổn. Dự phóng hỏng node: T+13 ngày. Bộ dữ liệu tham chiếu đã bị phá hủy trong vụ sụp đổ Mê Cung vào ngày mười tháng Chín; đây là lần Hội đồng chạy lại trên dữ liệu một phần, và chưa ai nói thành lời rằng đó là một phỏng đoán.*
 
 > "Điều tàn nhẫn nhất của tình yêu là đôi khi muốn bảo vệ một người lại đòi hỏi trở thành chính thứ người đó sẽ học cách sợ hãi."
 >
@@ -3480,7 +3480,7 @@ Rồi bốn giây ấy kết thúc, như mọi khi, và ông đi đến Kho Lưu
 
 *Thứ Bảy, 14 tháng Chín, 21:40. Phòng thí nghiệm của Harlow, Tháp Đông.*
 
-*Bộ đếm Weave-Quake: 47% bất ổn. Dự phóng hỏng node: T+13 ngày. Bộ dữ liệu tham chiếu đã bị phá hủy trong vụ sụp Maze ngày mười tháng Chín; đây là lần chạy lại của Hội đồng trên dữ liệu một phần, và không ai nói thành lời rằng đó là một phỏng đoán.*
+*Bộ đếm Weave-Quake: 47% bất ổn. Dự phóng hỏng node: T+13 ngày. Bộ dữ liệu tham chiếu đã bị phá hủy trong vụ sụp Mê Cung ngày mười tháng Chín; đây là lần chạy lại của Hội đồng trên dữ liệu một phần, và không ai nói thành lời rằng đó là một phỏng đoán.*
 
 > "Những kẻ thao túng sợi chỉ nguy hiểm nhất không phải là những kẻ nắm giữ quyền năng lớn nhất, mà là những kẻ đã chịu những mất mát lớn nhất. Bởi trong tay họ, phép thuật sợi chỉ không còn là công cụ để kiến tạo, mà là một nỗ lực tuyệt vọng nhằm hoàn nguyên điều không thể hoàn nguyên."
 >
@@ -3612,13 +3612,13 @@ Thứ ba là một danh sách tên, và cái tên thứ hai trên đó được 
 
 Ông lấy con hạc giấy ra khỏi hộp và bỏ vào túi ngực áo, nơi nó đã ở kể từ năm một nghìn chín trăm chín mươi bốn, và đó là thứ duy nhất trong đời ông mà ông chưa từng một lần bị cám dỗ đem ra dùng.
 
-*Bộ đếm Weave-Quake: 47% bất ổn. Dự phóng hỏng node: T+13 ngày. Bộ dữ liệu tham chiếu đã bị phá hủy trong vụ sụp Maze ngày mười tháng Chín; đây là lần chạy lại của Hội đồng trên dữ liệu một phần, và không ai nói thành lời rằng đó là một phỏng đoán.*
+*Bộ đếm Weave-Quake: 47% bất ổn. Dự phóng hỏng node: T+13 ngày. Bộ dữ liệu tham chiếu đã bị phá hủy trong vụ sụp Mê Cung ngày mười tháng Chín; đây là lần chạy lại của Hội đồng trên dữ liệu một phần, và không ai nói thành lời rằng đó là một phỏng đoán.*
 
 # Chương 17A: Bốn Người Và Một Chiếc Hộp
 
 *Thứ Bảy, ngày 14 tháng Chín, 23:47. Kho Lưu Trữ Hạn Chế, sâu ba tầng dưới thư viện.*
 
-*Bộ đếm Weave-Quake: 47% bất ổn. Dự phóng hỏng node: T+13 ngày. Bộ dữ liệu tham chiếu đã bị phá hủy trong vụ sụp đổ của Maze vào ngày mười tháng Chín; đây là lần chạy lại của Hội đồng trên dữ liệu một phần, và chưa ai nói thành lời rằng đó là một phỏng đoán.*
+*Bộ đếm Weave-Quake: 47% bất ổn. Dự phóng hỏng node: T+13 ngày. Bộ dữ liệu tham chiếu đã bị phá hủy trong vụ sụp đổ của Mê Cung vào ngày mười tháng Chín; đây là lần chạy lại của Hội đồng trên dữ liệu một phần, và chưa ai nói thành lời rằng đó là một phỏng đoán.*
 
 ## KHO SÁCH
 
@@ -3706,7 +3706,7 @@ Eli úp điện thoại xuống mặt bàn, đè cả hai tay lên nó, rất c�
 
 ## THỨ THỨ HAI, TỨC LÀ MỘT BẢN VẼ
 
-Bản vẽ của Conduit nằm dưới báo cáo sự cố, gấp làm đôi, và tờ giấy đã bốn mươi năm tuổi, đã bị mở ra rồi gấp lại nhiều lần đến mức mềm nhũn.
+Bản vẽ của Kênh Magnus nằm dưới báo cáo sự cố, gấp làm đôi, và tờ giấy đã bốn mươi năm tuổi, đã bị mở ra rồi gấp lại nhiều lần đến mức mềm nhũn.
 
 Eli trải phẳng chúng ra, đặt hai tay lên mặt bàn hai bên, và không đụng vào chúng trong mười một giây, khoảng thời gian dài nhất mà bất kỳ ai trong bọn từng thấy cậu không đụng vào một thứ gì.
 
@@ -3796,13 +3796,13 @@ Chưa ai nói cho bọn họ.
 
 "Vậy thì ngừng đi, vì tớ có làm gì đâu, Eli đang chụp ảnh, Lyra đang đứng đó, còn cậu thì cảm nhận được cái tường. Vậy là đủ. Vậy là hơn cả đủ." Giọng Milo vỡ ra giữa câu. "Tớ không — Eli. Bảo cậu ấy ngừng cảm nhận cái tường."
 
-*Bộ đếm Weave-Quake: 48% bất ổn. Dự phóng hỏng node: T+13 ngày. Bộ dữ liệu tham chiếu đã bị phá hủy trong vụ sụp đổ của Maze vào ngày mười tháng Chín; đây là lần chạy lại của Hội đồng trên dữ liệu một phần, và chưa ai nói thành lời rằng đó là một phỏng đoán.*
+*Bộ đếm Weave-Quake: 48% bất ổn. Dự phóng hỏng node: T+13 ngày. Bộ dữ liệu tham chiếu đã bị phá hủy trong vụ sụp đổ của Mê Cung vào ngày mười tháng Chín; đây là lần chạy lại của Hội đồng trên dữ liệu một phần, và chưa ai nói thành lời rằng đó là một phỏng đoán.*
 
 # Chương 17B: Bốn Mươi Chín Phút
 
 *Thứ Bảy, 14 tháng Chín, 23:52. Kho Lưu Trữ Hạn Chế, rồi sau đó là cầu thang.*
 
-*Bộ đếm Weave-Quake: 48% bất ổn. Dự phóng hỏng node: T+13 ngày. Bộ dữ liệu tham chiếu đã bị phá hủy trong vụ sụp đổ Maze ngày mười tháng Chín; đây là lần chạy lại của Hội đồng trên dữ liệu một phần, và không ai nói thành lời rằng đó là một phỏng đoán.*
+*Bộ đếm Weave-Quake: 48% bất ổn. Dự phóng hỏng node: T+13 ngày. Bộ dữ liệu tham chiếu đã bị phá hủy trong vụ sụp đổ Mê Cung ngày mười tháng Chín; đây là lần chạy lại của Hội đồng trên dữ liệu một phần, và không ai nói thành lời rằng đó là một phỏng đoán.*
 
 ## BỨC TƯỜNG ĐÃ LÀM GÌ
 
@@ -3812,7 +3812,7 @@ Cầu thang tự sắp xếp lại chính nó.
 
 Không kịch tính gì cả. Cái đó mới là điều đáng sợ. Một giây trước còn có một chiếu nghỉ với một cây đèn đặt trên đó và một ô cửa sổ ở dưới, giây tiếp theo vẫn là một chiếu nghỉ, một cây đèn và một ô cửa sổ, nhưng ô cửa sổ đã cao hơn chín feet, và chạy thang họ đang đứng đã biến thành hai chạy thang với một khúc rẽ ở giữa mà trước đó không hề có.
 
-"Nghị trình," Milo nói. "Nghị trình của cả khu học viện. Đó không phải Maze, đó là *Nghị trình*, Maze là tòa nhà trong sân, còn đây là cả *tòa nhà*—"
+"Nghị trình," Milo nói. "Nghị trình của cả khu học viện. Đó không phải Mê Cung, đó là *Nghị trình*, Mê Cung là tòa nhà trong sân, còn đây là cả *tòa nhà*—"
 
 "Tớ biết nó là gì." Eli đã rút điện thoại ra và nó đang chụp ảnh, và đôi tay cậu hoàn toàn vững, còn gương mặt thì không. "Bốn mươi mốt. Bốn mươi ba. Tớ có bản ủy quyền, có bốn mươi ba, và có hai tấm ảnh. Đó là tất cả những gì tớ có. Mọi thứ khác trong căn phòng này đều là của Học viện."
 
@@ -3828,7 +3828,7 @@ Và rồi hành lang bắt đầu phát ra những âm thanh, và những âm th
 
 Milo dẫn bọn họ vào hành lang kho lưu trữ, một cánh cửa sai, rồi vào một cái cầu thang đi xuống, cái đó còn tệ hơn, và Lyra khiến bọn họ dừng lại ở một chiếu nghỉ và bắt bọn họ ngồi xuống, và không ai trong bọn muốn ngồi, và cô vẫn bắt ngồi.
 
-"Bốn điều," cô nói. "Một, chúng ta không tách nhau ra, vì Maze tác động lên những người ở một mình, và tớ không biết chắc điều đó, tớ đang đoán, nhưng tớ không đánh cược. Hai, Eli, điện thoại vào túi, ảnh đã chụp rồi, tối nay cậu không cần đến nó nữa. Ba, chúng ta sẽ phải chậm hơn những gì chúng ta muốn. Bốn—"
+"Bốn điều," cô nói. "Một, chúng ta không tách nhau ra, vì Mê Cung tác động lên những người ở một mình, và tớ không biết chắc điều đó, tớ đang đoán, nhưng tớ không đánh cược. Hai, Eli, điện thoại vào túi, ảnh đã chụp rồi, tối nay cậu không cần đến nó nữa. Ba, chúng ta sẽ phải chậm hơn những gì chúng ta muốn. Bốn—"
 
 Cô đã không kịp đến điều bốn.
 
@@ -3976,17 +3976,17 @@ Milo ngồi xuống bậc thang dưới cùng, đặt cánh tay còn lành lên 
 
 "Hôm nay là thứ mấy?"
 
-"chủ Nhật," Zara nói.
+"Chủ nhật," Zara nói.
 
 "Vậy thứ Hai là ngày mai." Eli lấy lại hơi. "Tớ sẽ đi gặp Chánh Văn phòng. Bà là một nhân viên đăng ký, và đó là công việc của bà, và bà không nằm trong cỗ máy. Eli Park không quan trọng đến mức bị đưa vào trong cỗ máy."
 
-*Bộ đếm Weave-Quake: 50% bất ổn. Dự phóng hỏng node: T+13 ngày. Bộ dữ liệu tham chiếu đã bị phá hủy trong vụ sụp đổ Maze ngày mười tháng Chín; đây là lần chạy lại của Hội đồng trên dữ liệu một phần, và không ai nói thành lời rằng đó là một phỏng đoán.*
+*Bộ đếm Weave-Quake: 50% bất ổn. Dự phóng hỏng node: T+13 ngày. Bộ dữ liệu tham chiếu đã bị phá hủy trong vụ sụp đổ Mê Cung ngày mười tháng Chín; đây là lần chạy lại của Hội đồng trên dữ liệu một phần, và không ai nói thành lời rằng đó là một phỏng đoán.*
 
 # Chương 18A: Qua Cửa Thông Gió
 
 *Chủ nhật, 15 tháng Chín, 03:47. Một hành lang dịch vụ phía trên khu An ninh, một tầng bên dưới Hiệu trưởng.*
 
-*Bộ đếm Weave-Quake: 50% bất ổn. Dự phóng hỏng node: T+13 ngày. Bộ dữ liệu tham chiếu đã bị phá hủy trong vụ sụp đổ của Maze vào ngày mười tháng Chín; đây là lần chạy lại của Hội đồng dựa trên dữ liệu một phần, và chưa ai nói thành lời rằng đó là một phỏng đoán.*
+*Bộ đếm Weave-Quake: 50% bất ổn. Dự phóng hỏng node: T+13 ngày. Bộ dữ liệu tham chiếu đã bị phá hủy trong vụ sụp đổ của Mê Cung vào ngày mười tháng Chín; đây là lần chạy lại của Hội đồng dựa trên dữ liệu một phần, và chưa ai nói thành lời rằng đó là một phỏng đoán.*
 
 ## CÁNH CỬA KHÓA
 
@@ -4080,13 +4080,13 @@ Chánh Văn phòng của Học viện Threadweaver là Tiến sĩ Mei-Hua Chen, 
 
 *Điều mà không một ai trong cả bốn người biết lúc bảy giờ hai mươi mốt phút, ngày mười lăm tháng Chín, là Tiến sĩ Chen đã từng được một người bà ở Westbrook hỏi mười một câu hỏi về tòa nhà này, vào mùa xuân năm 2007, và đã không trả lời câu nào trong số đó, và đã biết có một cỗ máy nằm ngay dưới chân bà suốt mười một năm, và đã chờ đợi, kể từ ngày mười một tháng Chín, chờ một ai đó trao vào tay bà một thứ mà bà được phép dùng để hành động.*
 
-*Bộ đếm Weave-Quake: 52% bất ổn. Dự phóng hỏng node: T+13 ngày. Bộ dữ liệu tham chiếu đã bị phá hủy trong vụ sụp đổ của Maze vào ngày mười tháng Chín; đây là lần chạy lại của Hội đồng dựa trên dữ liệu một phần, và chưa ai nói thành lời rằng đó là một phỏng đoán.*
+*Bộ đếm Weave-Quake: 52% bất ổn. Dự phóng hỏng node: T+13 ngày. Bộ dữ liệu tham chiếu đã bị phá hủy trong vụ sụp đổ của Mê Cung vào ngày mười tháng Chín; đây là lần chạy lại của Hội đồng dựa trên dữ liệu một phần, và chưa ai nói thành lời rằng đó là một phỏng đoán.*
 
 # Chương 18B: Cái Tên Trong Hộp
 
 *Chủ nhật, 15 tháng Chín, 06:05. Đài thiên văn, rồi phòng thí nghiệm của Harlow.*
 
-*Bộ đếm Weave-Quake: 52% bất ổn. Dự phóng hỏng node: T+13 ngày. Bộ dữ liệu tham chiếu đã bị phá hủy trong vụ sụp đổ Maze hôm mười tháng Chín; đây là lần Hội đồng chạy lại trên dữ liệu không đầy đủ, và chưa ai nói thành lời rằng nó là một phỏng đoán.*
+*Bộ đếm Weave-Quake: 52% bất ổn. Dự phóng hỏng node: T+13 ngày. Bộ dữ liệu tham chiếu đã bị phá hủy trong vụ sụp đổ Mê Cung hôm mười tháng Chín; đây là lần Hội đồng chạy lại trên dữ liệu không đầy đủ, và chưa ai nói thành lời rằng nó là một phỏng đoán.*
 
 > "Nhìn lòng can đảm của em nở hoa, tôi thấy bóng ma của nụ cười con gái mình—và nhớ lại việc hy vọng vào một điều gì đó vượt ngoài sự cứu chuộc của chính mình là thế nào."
 >
@@ -4188,13 +4188,13 @@ Thế là tin nhắn đến lúc bảy giờ mười hai, vào chiếc điện t
 >
 > *Mang bà của em đến đây. Mang luôn vị trưởng lão của Hội trường Thực Hành Thừa Truyền, người mà ông ấy không chịu nói tên với tôi và đến giờ tôi đã đoán ra là ai. Đừng mang người còn lại.*
 
-*Bộ đếm Weave-Quake: 52% bất ổn. Dự phóng hỏng node: T+13 ngày. Bộ dữ liệu tham chiếu đã bị phá hủy trong vụ sụp đổ Maze hôm mười tháng Chín; đây là lần Hội đồng chạy lại trên dữ liệu không đầy đủ, và chưa ai nói thành lời rằng nó là một phỏng đoán.*
+*Bộ đếm Weave-Quake: 52% bất ổn. Dự phóng hỏng node: T+13 ngày. Bộ dữ liệu tham chiếu đã bị phá hủy trong vụ sụp đổ Mê Cung hôm mười tháng Chín; đây là lần Hội đồng chạy lại trên dữ liệu không đầy đủ, và chưa ai nói thành lời rằng nó là một phỏng đoán.*
 
 # Chương 19: Kênh Truyền
 
-*chủ Nhật, 15 tháng Chín, 07:12. Phòng sinh hoạt chung ký túc xá phía Đông.*
+*Chủ nhật, 15 tháng Chín, 07:12. Phòng sinh hoạt chung ký túc xá phía Đông.*
 
-*Bộ đếm Weave-Quake: 52% bất ổn. Dự phóng hỏng node: T+13 ngày. Bộ dữ liệu tham chiếu đã bị phá hủy trong vụ sụp đổ Maze ngày mười tháng Chín; đây là lần Hội đồng chạy lại trên dữ liệu một phần, và không ai nói to rằng đó là một phỏng đoán.*
+*Bộ đếm Weave-Quake: 52% bất ổn. Dự phóng hỏng node: T+13 ngày. Bộ dữ liệu tham chiếu đã bị phá hủy trong vụ sụp đổ Mê Cung ngày mười tháng Chín; đây là lần Hội đồng chạy lại trên dữ liệu một phần, và không ai nói to rằng đó là một phỏng đoán.*
 
 > "Khi nền móng nứt, người khôn không bỏ qua những cơn rung. Họ chuẩn bị cho trận động đất."
 >
@@ -4316,12 +4316,12 @@ Thế là cô đã không viết ra, và lúc bảy giờ mười chín phút s�
 *Tham Dự Bắt Buộc. Không Ngoại Lệ.*
 *Chủ đề: Các Quy Trình Ổn Định Sợi Chỉ Khẩn Cấp.*
 
-*Bộ đếm Weave-Quake: 54% bất ổn. Dự phóng hỏng node: T+13 ngày. Bộ dữ liệu tham chiếu đã bị phá hủy trong vụ sụp đổ Maze ngày mười tháng Chín; đây là lần Hội đồng chạy lại trên dữ liệu một phần, và không ai nói to rằng đó là một phỏng đoán.*
+*Bộ đếm Weave-Quake: 54% bất ổn. Dự phóng hỏng node: T+13 ngày. Bộ dữ liệu tham chiếu đã bị phá hủy trong vụ sụp đổ Mê Cung ngày mười tháng Chín; đây là lần Hội đồng chạy lại trên dữ liệu một phần, và không ai nói to rằng đó là một phỏng đoán.*
 
 # Chương 20: Cái Bẫy Sập Xuống
 
-*chủ Nhật, 15 tháng Chín, 08:00. Hội trường Thị Phạm Bảy.*
-*Bộ đếm Weave-Quake: 54% bất ổn. Dự phóng hỏng node: T+13 ngày. Bộ dữ liệu tham chiếu đã bị phá hủy trong vụ sập Maze hôm mười tháng Chín; đây là lần chạy lại của Hội đồng trên dữ liệu một phần, và chưa ai nói thành lời rằng đó là một phỏng đoán.*
+*Chủ nhật, 15 tháng Chín, 08:00. Hội trường Thị Phạm Bảy.*
+*Bộ đếm Weave-Quake: 54% bất ổn. Dự phóng hỏng node: T+13 ngày. Bộ dữ liệu tham chiếu đã bị phá hủy trong vụ sập Mê Cung hôm mười tháng Chín; đây là lần chạy lại của Hội đồng trên dữ liệu một phần, và chưa ai nói thành lời rằng đó là một phỏng đoán.*
 
 ## LỜI TRIỆU TẬP
 
@@ -4420,7 +4420,7 @@ Cậu hiểu. Khi thời khắc đến, bọn họ phải ra khỏi tòa nhà n�
 
 ## SỰ BẬT LỘ
 
-"Magnus Conduit," Harlow giải thích trong lúc các kỹ thuật viên đẩy vào một phiên bản nhỏ hơn của thiết bị Lyra từng thấy trong phòng thí nghiệm của ông ta, "là đỉnh cao của công nghệ ổn định sợi chỉ. Bằng cách tạo ra một ma trận trích xuất và tái phân phối có kiểm soát, chúng ta có thể ngăn chặn những cú sụp đổ Nexus thảm khốc."
+"Kênh Magnus," Harlow giải thích trong lúc các kỹ thuật viên đẩy vào một phiên bản nhỏ hơn của thiết bị Lyra từng thấy trong phòng thí nghiệm của ông ta, "là đỉnh cao của công nghệ ổn định sợi chỉ. Bằng cách tạo ra một ma trận trích xuất và tái phân phối có kiểm soát, chúng ta có thể ngăn chặn những cú sụp đổ Nexus thảm khốc."
 
 Chiếc thiết bị ù lên sống dậy. Đó là một mô hình chạy thật, kích cỡ chỉ bằng một phần tư, và trong nó vẫn có đúng những đường nứt ấy, và bạc đen thoát ra khỏi nó thành từng luồng cuộn chậm, và những luồng cuộn ấy trườn về phía Lyra rồi dừng lại cách cô chừng một gang tay, và đậu yên ở đó, kiên nhẫn, như nước đứng lặng trên miệng một con đập tràn.
 
@@ -4442,7 +4442,7 @@ Trường ngăn giữ lại được dựng lên và không khí trong nó đặ
 
 ## NƯỚC ĐI LIỀU LĨNH
 
-Tiếng ù của Magnus Conduit lún sâu hơn, và cuộc rút bắt đầu. Nó giống như một bồn tắm đang đầy lên ở phía bên kia bức tường — không nhiều, và tất cả đều chảy một chiều, và không còn cách nào khiến nó chảy ngược.
+Tiếng ù của Kênh Magnus lún sâu hơn, và cuộc rút bắt đầu. Nó giống như một bồn tắm đang đầy lên ở phía bên kia bức tường — không nhiều, và tất cả đều chảy một chiều, và không còn cách nào khiến nó chảy ngược.
 
 Một nhát đau đâm xéo qua lồng ngực cô khi cuộc trích xuất dữ dội thêm. Đây không phải sự giao hòa dịu dàng mà mẹ từng dạy cô — cái này bạo lực, xâm nhập, sai sai. Và dòng chảy, dòng vốn đang tràn về phía cô, đã quay đi.
 
@@ -4452,11 +4452,11 @@ Nhưng trong khoảnh khắc kết nối ấy, Lyra thấy ra cơ hội của m�
 
 "Dừng lại," cô thở hổn hển, nhưng không phải với Harlow. Cô đang nói với chính mình, gom hết can đảm cho điều sắp làm.
 
-"Kỳ thú," Harlow lẩm bẩm, nhìn các số đọc năng lượng vọt lên. "Sự cộng hưởng của em còn mạnh hơn cả dự tính. Conduit đang đạt độ ổn định chưa từng có."
+"Kỳ thú," Harlow lẩm bẩm, nhìn các số đọc năng lượng vọt lên. "Sự cộng hưởng của em còn mạnh hơn cả dự tính. Kênh Magnus đang đạt độ ổn định chưa từng có."
 
 Qua các ô kính quan sát, Lyra nhìn thấy các bạn mình đang giằng co với các rào chắn an ninh, gương mặt méo mó vì cơn giận bất lực. Những sợi chỉ âm nhạc của Milo đang với về phía cô, tìm cách gửi chút an ủi. Năng lực thấu cảm của Zara đang phát tán cơn đau của cô tới mọi người trong phòng. Bộ óc phân tích của Eli quay cuồng, lùng sục một lối thoát.
 
-*Xin lỗi,* cô nghĩ, dồn toàn bộ ý chí vào mối nối với Magnus Conduit. *Xin lỗi nhiều lắm.*
+*Xin lỗi,* cô nghĩ, dồn toàn bộ ý chí vào mối nối với Kênh Magnus. *Xin lỗi nhiều lắm.*
 
 ## NỖ LỰC ĐẢO CHIỀU
 
@@ -4606,7 +4606,7 @@ Cô mở mắt.
 
 Cô nằm trên một chiếc bàn, trong một căn phòng cô chưa từng bước vào, và đó không phải phòng thí nghiệm ở Tháp Đông của Harlow, và nó lớn hơn xa bất kỳ căn phòng nào cô được phép tồn tại trong đó.
 
-Conduit đứng ở chính giữa căn phòng. Cô nhận ra nó qua âm thanh. Sáng nay cô đã nghe tiếng đó xuyên qua một bức tường và ba trăm mét đá, trong lúc nó đang được chính cô viết lại.
+Kênh Magnus đứng ở chính giữa căn phòng. Cô nhận ra nó qua âm thanh. Sáng nay cô đã nghe tiếng đó xuyên qua một bức tường và ba trăm mét đá, trong lúc nó đang được chính cô viết lại.
 
 Những sợi mảnh bạc đen tách khỏi bề mặt nó thành từng vòng xoáy chậm, và ở những chỗ chúng chạm vào không khí, chúng *cong lại*, và Lyra hiểu mà không cần ai nói rằng đây không phải một cỗ máy kéo. Nó là một cỗ máy lắng nghe. Và rằng nó vốn được dựng nên để kéo, và rằng mới đây đã có thứ gì đó chui vào căn phòng.
 
@@ -4628,7 +4628,7 @@ Cô cảm nhận được ông quyết định sẽ không tỏ ra bị xúc ph�
 
 ---
 
-*chủ Nhật, 15 tháng Chín, một lúc nào đó đã quá trưa.*
+*Chủ nhật, 15 tháng Chín, một lúc nào đó đã quá trưa.*
 
 Cô đã bất tỉnh từ sáng. Cô suy ra điều đó từ túi dịch truyền, từ ánh sáng ở giếng thang, và từ trạng thái của chính đôi tay mình, và việc suy ra đó ngốn của cô một khoảng thời gian, và cô ép mình làm chậm, vì đó là thứ duy nhất trong tầm với của cô thuộc hoàn toàn về cô.
 
@@ -4646,7 +4646,7 @@ Cô đã bất tỉnh từ sáng. Cô suy ra điều đó từ túi dịch truy�
 
 "Và cỗ máy của ông chặn được điều đó."
 
-"Cỗ máy của tôi *gánh* nó. Chỉ có thế. Không phải chặn — là gánh. Nó dời tải trọng khỏi bức tường, chuyển lên một mạch được giữ. Sáu mươi năm của dự án này là vì điều đó, và nó chạy được, và tôi đã tính lại các con số bốn nghìn lần." Ông bỏ tay khỏi bàn điều khiển. "Nó cần một cộng hưởng để giữ mạch mở. Không phải năng lượng. Một *âm thoa.* Một thứ gì trong căn phòng này mà chính mạng Weave thừa nhận, để khi tải trọng rời khỏi tường thì mạch không tự rung tan ra."
+"Cỗ máy của tôi *gánh* nó. Chỉ có thế. Không phải chặn — là gánh. Nó dời tải trọng khỏi bức tường, chuyển lên một mạch được giữ. Sáu mươi năm của dự án này là vì điều đó, và nó chạy được, và tôi đã tính lại các con số bốn nghìn lần." Ông bỏ tay khỏi bàn điều khiển. "Nó cần một cộng hưởng để giữ mạch mở. Không phải năng lượng. Một *âm thoa.* Một thứ gì trong căn phòng này mà chính Weave thừa nhận, để khi tải trọng rời khỏi tường thì mạch không tự rung tan ra."
 
 "Ý ông là em."
 
@@ -4670,7 +4670,7 @@ Cô đã bất tỉnh từ sáng. Cô suy ra điều đó từ túi dịch truy�
 
 Một chuyện khác đang diễn ra trong căn phòng, và Lyra không thể ngừng để ý.
 
-Lõi của Conduit đã nổi gân. Nơi nào từng là hắc diện thạch thì giờ bạc một nửa, thành những vết gãy dài vằn như cẩm thạch, và những sợi mảnh tách khỏi nó đã đổi cách cư xử. Chúng cong lại. Chúng lắng nghe. Chúng quay, rất khẽ, về phía cô, theo kiểu một con chó quay đầu về phía một cánh cửa.
+Lõi của Kênh Magnus đã nổi gân. Nơi nào từng là hắc diện thạch thì giờ bạc một nửa, thành những vết gãy dài vằn như cẩm thạch, và những sợi mảnh tách khỏi nó đã đổi cách cư xử. Chúng cong lại. Chúng lắng nghe. Chúng quay, rất khẽ, về phía cô, theo kiểu một con chó quay đầu về phía một cánh cửa.
 
 "Trong nó có bạc," cô nói.
 
@@ -4682,13 +4682,13 @@ Lõi của Conduit đã nổi gân. Nơi nào từng là hắc diện thạch th
 
 "Em đã định đốt cháy nó."
 
-"Tôi biết. Tôi đã xem. Tôi đã xem đoạn ghi hình đó bốn lần và không tài nào ngừng xem nổi." Ông dừng lại cách cô chừng một mét. "Em đã với *ngược lên dọc dây*. Em có hiểu điều đó là gì không? Mọi ca khác trong tài liệu, đối tượng đều bị *đút*. Em đảo ngược dòng chảy. Em đẩy một trăm tám mươi kilovolt trích xuất ngược trở lại xuống một cỗ máy đang kéo nó, và nó chảy vào lưới kết giới thay vì vào em, rồi nó đi vào *mạng lưới*." Ông nói chữ mạng lưới như người ta nói lời cầu nguyện. "Trong mười sáu năm. Xuyên qua em. Vào một *ngày chủ Nhật*."
+"Tôi biết. Tôi đã xem. Tôi đã xem đoạn ghi hình đó bốn lần và không tài nào ngừng xem nổi." Ông dừng lại cách cô chừng một mét. "Em đã với *ngược lên dọc dây*. Em có hiểu điều đó là gì không? Mọi ca khác trong tài liệu, đối tượng đều bị *đút*. Em đảo ngược dòng chảy. Em đẩy một trăm tám mươi kilovolt trích xuất ngược trở lại xuống một cỗ máy đang kéo nó, và nó chảy vào lưới kết giới thay vì vào em, rồi nó đi vào *mạng lưới*." Ông nói chữ mạng lưới như người ta nói lời cầu nguyện. "Trong mười sáu năm. Xuyên qua em. Vào một *ngày Chủ nhật*."
 
 Lyra nghĩ về Milo, đang nằm ở Khoang Bốn, và về tiếng động cậu đã phát ra khi bàn tay cậu với hụt.
 
 "Vậy sao ông lại làm theo cách chậm," cô nói.
 
-"Vì một ngày chủ Nhật không phải là một phương pháp," Harlow nói. "Nó là một tai nạn có nhân chứng. Tôi muốn thứ Năm là một *quy trình*, có văn bản, tái lập được, và chống đỡ được trước một Hội đồng mà nếu không sẽ treo tôi cùng tất cả những gì tôi đã học được. Và vì—" và ở đây, lần đầu tiên, một cái gì trong giọng ông bước ra khỏi mặt phẳng của lời giảng — "vì một quy trình là thứ tôi có thể dạy. Một ngày chủ Nhật thì tôi chỉ có thể đứng nhìn nó xảy ra với một cô gái mười sáu tuổi đang vội muốn kịp một cuộc hẹn."
+"Vì một ngày Chủ nhật không phải là một phương pháp," Harlow nói. "Nó là một tai nạn có nhân chứng. Tôi muốn thứ Năm là một *quy trình*, có văn bản, tái lập được, và chống đỡ được trước một Hội đồng mà nếu không sẽ treo tôi cùng tất cả những gì tôi đã học được. Và vì—" và ở đây, lần đầu tiên, một cái gì trong giọng ông bước ra khỏi mặt phẳng của lời giảng — "vì một quy trình là thứ tôi có thể dạy. Một ngày Chủ nhật thì tôi chỉ có thể đứng nhìn nó xảy ra với một cô gái mười sáu tuổi đang vội muốn kịp một cuộc hẹn."
 
 Lyra nằm trong những dây đeo, nhìn ông, và hiểu, với một sự rõ ràng gần như có thể sờ được, rằng bây giờ ông không nói dối cô, và rằng điều đó còn tệ hơn, và rằng cô tuyệt đối không có cách nào hành động theo sự khác biệt ấy.
 
@@ -4796,7 +4796,7 @@ Harlow nhìn bà một khoảng lâu.
 
 "Không," ông nói.
 
-"Bác sĩ Osei," Weaver nói với thiết bị. "Tôi muốn quét thần kinh toàn diện cho mọi học sinh đã tiếp xúc với một Conduit, Giai đoạn Một, trong ba mươi ngày qua. Tôi muốn có nó trước thứ Sáu. Tôi muốn các cái tên nằm trong một hồ sơ khóa, không phải hồ sơ dùng chung. Và tôi muốn bà gọi điện đến Viện Thần kinh Westbrook, hỏi họ bằng văn bản rằng trong hai năm qua chính xác đã có những gì được ghi vào hồ sơ y tế của một cô Chen, và do ai, và tôi muốn câu trả lời trước khi Hội đồng họp vào thứ Năm."
+"Bác sĩ Osei," Weaver nói với thiết bị. "Tôi muốn quét thần kinh toàn diện cho mọi học sinh đã tiếp xúc với một Kênh Magnus, Giai đoạn Một, trong ba mươi ngày qua. Tôi muốn có nó trước thứ Sáu. Tôi muốn các cái tên nằm trong một hồ sơ khóa, không phải hồ sơ dùng chung. Và tôi muốn bà gọi điện đến Viện Thần kinh Westbrook, hỏi họ bằng văn bản rằng trong hai năm qua chính xác đã có những gì được ghi vào hồ sơ y tế của một cô Chen, và do ai, và tôi muốn câu trả lời trước khi Hội đồng họp vào thứ Năm."
 
 Bà quay lưng và bước ra ngoài.
 
@@ -4818,7 +4818,7 @@ Cô lấy nó ra lúc đó, trong căn phòng, và nắm chặt, và không buô
 
 # Chương 22: Sự Hy Sinh
 
-*chủ Nhật, 15 tháng Chín, 23:20. Tầng ngầm 7.*
+*Chủ nhật, 15 tháng Chín, 23:20. Tầng ngầm 7.*
 *Bộ đếm Weave-Quake: 43% bất ổn. Dự phóng hỏng node: T+34 ngày. Tái chuẩn cơ sở trên một mạch đang được giữ. Tải đã rời khỏi bức tường và chuyển lên một cỗ máy, và mô hình chưa từng được chạy trên cơ sở này trước đây.*
 
 ## BUỔI CHIỀU DÀI
@@ -4881,7 +4881,7 @@ Hai vết đo.
 
 Một vết là của cô: một đường bạc, chạy từ lõi của cỗ máy đến những dây dẫn trên người cô, đang đập, và làm đúng điều người đàn ông kia đã nói nó sẽ làm — giữ cho một mạch mở, gánh lấy tải, tiêu hao chính nó. Nó đẹp. Đó là thứ đẹp nhất mà cô từng được kết nối tới.
 
-Vết kia chạy *bên dưới* nó. Nó xuất phát từ một hộp chứa dưới bàn điều khiển không hề có trên bản vẽ, đi xuống vào sàn nhà, rồi quay về ở một nơi nào đó bên dưới đế của Conduit — và nó màu đen bạc, và nó *lạnh*, và nó đang chuyên chở một lượng năng lượng mà vết đo trích xuất bên cạnh nó không thể nào tạo ra nổi trong một trăm năm.
+Vết kia chạy *bên dưới* nó. Nó xuất phát từ một buồng kín dưới bàn điều khiển không hề có trên bản vẽ, đi xuống vào sàn nhà, rồi quay về ở một nơi nào đó bên dưới đế của Kênh Magnus — và nó màu đen bạc, và nó *lạnh*, và nó đang chuyên chở một lượng năng lượng mà vết đo trích xuất bên cạnh nó không thể nào tạo ra nổi trong một trăm năm.
 
 Và nó không được kết nối với cô.
 
@@ -4909,7 +4909,7 @@ Một lúc không ai nói gì. Ở đâu đó xa xa, một cánh cửa đang b�
 
 "Đó không phải điều tôi hỏi, và ông biết rằng đó không phải điều tôi hỏi."
 
-"Đúng," Harlow nói. "Tôi biết. Bốn tháng nay tôi biết là dưới này có một thứ mà tôi không đọc được, và tôi đã không hỏi về nó, vì tôi đang làm việc, và vì công việc quan trọng hơn, và vì tôi là một kẻ hèn." Ông đặt cả hai bàn tay sấp xuống bàn điều khiển. "Mở nó ra. Tháo cỗ máy khỏi em. Mở hộp chứa, và bất kể trong hộp chứa là gì, đặt nó trước mặt một người canh vào chín giờ sáng mai và ghi tên tôi lên đó."
+"Đúng," Harlow nói. "Tôi biết. Bốn tháng nay tôi biết là dưới này có một thứ mà tôi không đọc được, và tôi đã không hỏi về nó, vì tôi đang làm việc, và vì công việc quan trọng hơn, và vì tôi là một kẻ hèn." Ông đặt cả hai bàn tay sấp xuống bàn điều khiển. "Mở nó ra. Tháo cỗ máy khỏi em. Mở buồng kín, và bất kể trong buồng kín là gì, đặt nó trước mặt một người canh vào chín giờ sáng mai và ghi tên tôi lên đó."
 
 "Giáo sư—"
 
@@ -4925,7 +4925,7 @@ Và rồi một cô gái mười chín tuổi với bạc trong mái tóc bướ
 
 "Mila," Weaver nói. "Cô không có thẩm quyền ở trong phòng này."
 
-"Tôi là người duy nhất trong tòa nhà này mà phạm vi thẩm quyền của tôi bao gồm thứ đang nằm trong hộp chứa đó, và bà Chen vừa nhờ tôi làm chứng cho nó, nên đúng thế, tôi có." Giọng cô gái vỡ ra ngay giữa chữ. "Tôi xin lỗi. Tôi không — tôi xin lỗi. Tôi không giỏi mấy việc này đâu."
+"Tôi là người duy nhất trong tòa nhà này mà phạm vi thẩm quyền của tôi bao gồm thứ đang nằm trong buồng kín đó, và bà Chen vừa nhờ tôi làm chứng cho nó, nên đúng thế, tôi có." Giọng cô gái vỡ ra ngay giữa chữ. "Tôi xin lỗi. Tôi không — tôi xin lỗi. Tôi không giỏi mấy việc này đâu."
 
 "Cô là người giỏi nhất tòa nhà trong việc đó," giọng của Mei-Hua Chen nói từ đầu dây, và Lyra hiểu rằng cô gái này là học trò của Mei-Hua Chen, hoặc cấp dưới của bà, hoặc một thứ không có tên, và rằng đây là em gái của Lin, đang ở trong một hành lang lúc chín giờ đêm, chọn ra một người để cử đi.
 
@@ -4937,13 +4937,13 @@ Mười một người khựng lại.
 
 Cô đã không tính trước bất kỳ điều nào trong đó. Nó tuôn ra như một nốt ngân được thổi ra khỏi một nhạc cụ đã bị chơi quá sức.
 
-"Hoặc là," cô nói, "các người mở hộp chứa *với tôi trong mạch* — và tôi tìm ra trong đó có gì, và các người tìm ra trong đó có gì, và dù nó hóa ra là gì, nó sẽ hóa ra nằm trước mặt Hội đồng vào thứ Năm cùng với phần còn lại, thay vì nằm trong một cái hộp vào thứ Sáu."
+"Hoặc là," cô nói, "các người mở buồng kín *với tôi trong mạch* — và tôi tìm ra trong đó có gì, và các người tìm ra trong đó có gì, và dù nó hóa ra là gì, nó sẽ hóa ra nằm trước mặt Hội đồng vào thứ Năm cùng với phần còn lại, thay vì nằm trong một cái hộp vào thứ Sáu."
 
 Im lặng.
 
 "Cô Chen," chuyên viên tuân thủ nói, bằng một giọng kinh hoàng mang đậm chất hành chính, "điều đó hoàn toàn không—"
 
-"Ông Tarrant." Giọng của bà Chen, từ đầu dây bên kia, rất khẽ. "Tôi muốn ghi vào biên bản rằng tôi đã được đề nghị mở một hộp chứa mà tôi chưa bao giờ được trao thẩm quyền mở. Rồi. Tôi đã ghi vào biên bản rồi. Ông Tarrant, tôi cũng đã ghi vào biên bản rằng người phụ nữ trên bàn đó vừa đề nghị trở thành phương tiện của một cuộc điều tra không kiểm soát vào một thiết bị mà Học viện này đã phủ nhận sự tồn tại suốt bốn tháng, rằng bà ấy đã làm điều đó trước mặt bốn người canh, và rằng nếu tôi từ chối, thì dưới ngọn núi này có một hệ thống thứ hai mà không ai trong tòa nhà này đọc được."
+"Ông Tarrant." Giọng của bà Chen, từ đầu dây bên kia, rất khẽ. "Tôi muốn ghi vào biên bản rằng tôi đã được đề nghị mở một buồng kín mà tôi chưa bao giờ được trao thẩm quyền mở. Rồi. Tôi đã ghi vào biên bản rồi. Ông Tarrant, tôi cũng đã ghi vào biên bản rằng người phụ nữ trên bàn đó vừa đề nghị trở thành phương tiện của một cuộc điều tra không kiểm soát vào một thiết bị mà Học viện này đã phủ nhận sự tồn tại suốt bốn tháng, rằng bà ấy đã làm điều đó trước mặt bốn người canh, và rằng nếu tôi từ chối, thì dưới ngọn núi này có một hệ thống thứ hai mà không ai trong tòa nhà này đọc được."
 
 "Bà Chen—"
 
@@ -4959,7 +4959,7 @@ Chuyên viên tuân thủ nhìn về phía Hiệu trưởng.
 
 "Nửa giờ, thưa bà," Tarrant nói.
 
-"Và ông Tarrant." Giọng Weaver không thay đổi chút nào. "Bất kể hộp chứa đó đựng gì, ông không được mở nó một mình. Ông mở nó trong một căn phòng có người quan sát của Hội đồng, có nhân viên y tế, và có một sinh viên bảo vệ quyền lợi, và ông ghi biên bản cả bốn, và tôi sẽ ngồi trong phòng đó nếu còn đâu đó một chỗ để ngồi. Ông có hiểu tôi không."
+"Và ông Tarrant." Giọng Weaver không thay đổi chút nào. "Bất kể buồng kín đó đựng gì, ông không được mở nó một mình. Ông mở nó trong một căn phòng có người quan sát của Hội đồng, có nhân viên y tế, và có một sinh viên bảo vệ quyền lợi, và ông ghi biên bản cả bốn, và tôi sẽ ngồi trong phòng đó nếu còn đâu đó một chỗ để ngồi. Ông có hiểu tôi không."
 
 "Sẽ chật, thưa bà."
 
@@ -4983,11 +4983,11 @@ Lyra nằm giữa những vết đo năm mươi phút, với cổ tay của chuy
 
 ## HỘP CHỨA
 
-Khi cô quay lại phòng, hộp chứa đã được tháo ra rồi.
+Khi cô quay lại phòng, buồng kín đã được tháo ra rồi.
 
 Họ đã phải dùng đục tới nó. Nó không hề được bắt vít; nó là thứ *mọc* ra — một lớp tích tụ đen bạc bao quanh một hình dạng từng là một tấm cửa bảo trì, và nó rời ra thành từng mảng như san hô khô, và bên trong nó là một tấm lưới.
 
-Không phải một cỗ máy. Một *lồng*. Một tấm lưới cùng thứ đen bạc với những sợi tơ của Conduit, xuyên thấu bởi một thứ ánh sáng lạnh không cùng màu với bất kỳ thứ ánh sáng nào Lyra từng nhìn thấy, và đan xuyên suốt bên trong bằng —
+Không phải một cỗ máy. Một *lồng*. Một tấm lưới cùng thứ đen bạc với những sợi tơ của Kênh Magnus, xuyên thấu bởi một thứ ánh sáng lạnh không cùng màu với bất kỳ thứ ánh sáng nào Lyra từng nhìn thấy, và đan xuyên suốt bên trong bằng —
 
 *Những tiếng nói.*
 
@@ -5021,7 +5021,7 @@ Và cô cảm thấy cả dòng sông bạc của chính mình trở mình, và 
 
 Cơn đau lách lên cánh tay cô và cô không hét lên, một điều mà cô sẽ còn suy nghĩ rất lâu về sau, vì trong cô không còn chỗ nào cho nó — toàn bộ cô đang ở dưới đó, trong một mạch, đang làm điều cô đã nói mình sẽ làm, điều duy nhất cô từng được nhờ làm, và cô đang làm điều đó cho một căn phòng đầy những người lạ mà cô không nhìn thấy, chứ không phải, trong khoảnh khắc đó, cho bố cô chút nào.
 
-Phần bạc tràn vào lõi của Conduit và không bị chống trả.
+Phần bạc tràn vào lõi của Kênh Magnus và không bị chống trả.
 
 Đó mới là điều. Cô đã dành chín ngày để gồng mình chờ một trận chiến, và không có trận chiến nào. Lõi mở ra cho cô như một bàn tay mở ra. Phần đen bạc trong mạch trên — ma trận trích xuất, phép số học đẹp đẽ mà tàn nhẫn của Harlow, hai mươi năm của nó — tách rời theo chính những đường nứt của nó và được *cất đi*, nhẹ nhàng, như người ta đặt xuống một thứ rất mệt và đã bị giữ quá lâu.
 
@@ -5029,7 +5029,7 @@ Và bên dưới nó, tấm lưới — cái lồng, thứ ánh sáng lạnh, n�
 
 *Không. Không phải các bạn. Các bạn không phải thứ tôi đến đây để tìm.*
 
-Cô đã đi vào nhầm mạch. Cô đã đưa mình vào ma trận trên của cỗ máy vì đó là nơi những dây dẫn từng nằm, còn tấm lưới nằm ở một nơi khác, xuống dưới, sâu hơn, trong một hộp chứa đã mọc kín từ 1941, và để chạm tới nó, cô sẽ phải đi xuyên qua phần duy nhất của cỗ máy này chưa từng được mở ra dù chỉ một lần.
+Cô đã đi vào nhầm mạch. Cô đã đưa mình vào ma trận trên của cỗ máy vì đó là nơi những dây dẫn từng nằm, còn tấm lưới nằm ở một nơi khác, xuống dưới, sâu hơn, trong một buồng kín đã mọc kín từ 1941, và để chạm tới nó, cô sẽ phải đi xuyên qua phần duy nhất của cỗ máy này chưa từng được mở ra dù chỉ một lần.
 
 *Nguyên tắc của Weaver. Chật.*
 
@@ -5093,7 +5093,7 @@ Cái lõi, ông nói, mà không hề chạm vào nó: đó là một bài toán
 
 "Tarrant," Harlow nói. Ông ta đã không nhúc nhích. "Điều đó không thể xảy ra. Riêng chênh lệch sức căng đã—"
 
-"Ông Harlow, tôi là một nhà thống kê và là học trò của vợ ông, và tôi đã làm việc này chín ngày, và tôi sắp nói ra điều mà tôi nghĩ ông đã biết suốt bốn tháng và chưa nói." Giọng Wei không hề lên cao. "Ông không đọc được hộp chứa vì ông không có khả năng đọc nó. Điều đó đúng. Nhưng ông không có khả năng đọc nó vì trong mạch không có *con gái* của ông. Mười một năm một mình và ông không đọc được nó. Bốn tháng với một cô mười lăm tuổi trong đội ngũ của mình và ông vẫn không đọc được nó, và lần thứ hai là vì ông đã nhìn vào cô bé chứ không nhìn vào tấm lưới, và tôi xin ông — với tư cách một đồng nghiệp — đừng nhìn cô bé lúc này."
+"Ông Harlow, tôi là một nhà thống kê và là học trò của vợ ông, và tôi đã làm việc này chín ngày, và tôi sắp nói ra điều mà tôi nghĩ ông đã biết suốt bốn tháng và chưa nói." Giọng Wei không hề lên cao. "Ông không đọc được buồng kín vì ông không có khả năng đọc nó. Điều đó đúng. Nhưng ông không có khả năng đọc nó vì trong mạch không có *con gái* của ông. Mười một năm một mình và ông không đọc được nó. Bốn tháng với một cô mười lăm tuổi trong đội ngũ của mình và ông vẫn không đọc được nó, và lần thứ hai là vì ông đã nhìn vào cô bé chứ không nhìn vào tấm lưới, và tôi xin ông — với tư cách một đồng nghiệp — đừng nhìn cô bé lúc này."
 
 Căn phòng im phăng phắc.
 
@@ -5119,7 +5119,7 @@ Và đi xuống qua vết nứt, vào một mạch không còn là một cỗ m�
 
 Những gì cô tìm thấy ở trong đó không nằm trong bản ghi này, vì phần lớn những gì cô tìm thấy thuộc về những người mà cô không có quyền công bố thay, và vì phần duy nhất cô chịu được khi nói thành lời sau đó — với bốn người trong một hành lang, ba tháng sau — là điều này:
 
-*Họ đã ở đó suốt bảy mươi hai năm. Không phải vì có ai cố ý đặt họ vào đó. Mà vì một người đàn ông năm 1941 đã dựng lên một cái lồng và đặt người anh em ruột đang hấp hối của mình vào trong, rồi chết, rồi niêm kín hộp chứa, rồi để lại một tờ giấy viết bằng chính tay mình nói rằng ông ta đã làm một việc lớn lao và cần thiết, và rằng ông ta lấy làm tiếc.*
+*Họ đã ở đó suốt bảy mươi hai năm. Không phải vì có ai cố ý đặt họ vào đó. Mà vì một người đàn ông năm 1941 đã dựng lên một cái lồng và đặt người anh em ruột đang hấp hối của mình vào trong, rồi chết, rồi niêm kín buồng kín, rồi để lại một tờ giấy viết bằng chính tay mình nói rằng ông ta đã làm một việc lớn lao và cần thiết, và rằng ông ta lấy làm tiếc.*
 
 *Và tấm lưới đã nuôi sống nhờ họ từ đó đến nay, và chuyển năng lượng lên trên, và năng lượng được đem đi đếm, và việc đếm đã trở thành lý do duy nhất khiến bất cứ thứ gì còn giữ được, và lý do nó giữ được là vì nó là lý do duy nhất khiến cái lồng không mở ra.*
 
@@ -5143,7 +5143,7 @@ Những gì cô tìm thấy ở trong đó không nằm trong bản ghi này, v�
 
 Và đó là phần đã làm cho mọi phần còn lại trở nên khả thi, và là phần không ai ở Hội đồng có một cái hộp nào để đựng.
 
-Conduit, khi bốn người canh và chuyên viên tuân thủ và một Hiệu trưởng và một cô gái tóc bạc đưa cô trở ra khỏi nó, không còn là một cỗ máy nữa. Nó là một căn phòng kết tinh dài, ngân vang trong một cung thứ, và nó đang *chuyển dịch* — gánh tải, giữ mạch, và làm điều đó mà hoàn toàn không có cơ chế thu phí, vì thứ đã trả giá suốt bảy mươi hai năm đang được đưa ra khỏi tòa nhà trong một hộp niêm kín, trên đó có một số kiểm kê và trên phiếu có chữ ký của một cô gái.
+Kênh Magnus, khi bốn người canh và chuyên viên tuân thủ và một Hiệu trưởng và một cô gái tóc bạc đưa cô trở ra khỏi nó, không còn là một cỗ máy nữa. Nó là một căn phòng kết tinh dài, ngân vang trong một cung thứ, và nó đang *chuyển dịch* — gánh tải, giữ mạch, và làm điều đó mà hoàn toàn không có cơ chế thu phí, vì thứ đã trả giá suốt bảy mươi hai năm đang được đưa ra khỏi tòa nhà trong một hộp niêm kín, trên đó có một số kiểm kê và trên phiếu có chữ ký của một cô gái.
 
 Harlow bị giữ lại vào lúc mười giờ hai mươi, trong một căn phòng, với đôi tay không bị trói, vì Weaver không cho phép trói và Tarrant cho rằng bà đúng, và không ai trong hai người nói cho ông ta biết lý do.
 
@@ -5312,7 +5312,7 @@ Zara đến bên giường thứ tư. Maya Sandoval, học sinh năm ba, ngườ
 
 Bốn người nhìn nhau trong thứ im lặng đặc trưng của những người đều đã, theo cách riêng của mình, nghĩ về một hộp cách ly niêm phong nằm ở một tầng ngầm, có số kiểm kê ghi trên thân.
 
-"Có một hộp cách ly," bác sĩ Chen nói chậm rãi, "đã được đưa khỏi một tầng ngầm vào khoảng mười giờ rưỡi đêm qua, theo lệnh của văn phòng tuân thủ Hội đồng, và bên trong nó là một vật thể có chức năng chưa rõ, được tìm thấy nằm trong một hộp chứa không hề có trên bất cứ bản kiểm kê nào, và cái mà từ sáu giờ sáng nay tôi đã cố đưa vào một kho có khóa."
+"Có một hộp cách ly," bác sĩ Chen nói chậm rãi, "đã được đưa khỏi một tầng ngầm vào khoảng mười giờ rưỡi đêm qua, theo lệnh của văn phòng tuân thủ Hội đồng, và bên trong nó là một vật thể có chức năng chưa rõ, được tìm thấy nằm trong một buồng kín không hề có trên bất cứ bản kiểm kê nào, và cái mà từ sáu giờ sáng nay tôi đã cố đưa vào một kho có khóa."
 
 "Vậy nó có phải—?" Zara mới mở lời.
 
@@ -5555,7 +5555,7 @@ Ngày hai mươi chín tháng Mười, Hội đồng Truyền Thống nhóm họ
 
 ## 04:23
 
-Ông đứng trước một cỗ máy mà ông không phải người dựng nên, trong một căn phòng ông chưa từng được cấp quyền vào, lúc bốn giờ hai mươi sáng, và ông đặt bàn tay phẳng lên chiếc hộp chứa pha lê lạnh ngắt, rồi nói ra từ khởi đầu cho đoạn kết của dự án quan trọng nhất đời ông.
+Ông đứng trước một cỗ máy mà ông không phải người dựng nên, trong một căn phòng ông chưa từng được cấp quyền vào, lúc bốn giờ hai mươi sáng, và ông đặt bàn tay phẳng lên buồng kín pha lê lạnh ngắt, rồi nói ra từ khởi đầu cho đoạn kết của dự án quan trọng nhất đời ông.
 
 "Hủy."
 
@@ -5587,7 +5587,7 @@ Câu thứ nhất, đến ngày thứ năm ông mới nói ra được. Câu th�
 
 Và ở giữa — trong quãng giữa dài dằng dặc, không khuôn mẫu, có người giám sát — ông đã bắt đầu, bất lực và ngớ ngẩn, *làm đúng cái việc mà ông vẫn luôn tự nhủ là mình đang làm*.
 
-Ông đã viết thư vào danh sách kiểm kê niêm phong của Emerson Harlow. Ông đã bắt đầu dựng một cuốn biên niên về hộp chứa năm 1941, từ các nguồn thứ cấp và từ giấy tờ của chính gia đình mình, và trong một cuốn sổ ở phòng đọc năm 1943, ông đã tìm thấy một dòng chữ viết bằng một nét tay không phải của cụ cố ông, ghi lại việc di dời một tấm lưới "ở tình trạng không đạt yêu cầu" và việc chuyển nhượng nó. Ông đã tìm ra trên đời còn ai giữ một tấm lưới 1941: có bốn tấm, ba tấm nằm trong các bảo tàng, còn tấm thứ tư nằm dưới một bãi đỗ xe ở Lyon.
+Ông đã viết thư vào danh sách kiểm kê niêm phong của Emerson Harlow. Ông đã bắt đầu dựng một cuốn biên niên về buồng kín năm 1941, từ các nguồn thứ cấp và từ giấy tờ của chính gia đình mình, và trong một cuốn sổ ở phòng đọc năm 1943, ông đã tìm thấy một dòng chữ viết bằng một nét tay không phải của cụ cố ông, ghi lại việc di dời một tấm lưới "ở tình trạng không đạt yêu cầu" và việc chuyển nhượng nó. Ông đã tìm ra trên đời còn ai giữ một tấm lưới 1941: có bốn tấm, ba tấm nằm trong các bảo tàng, còn tấm thứ tư nằm dưới một bãi đỗ xe ở Lyon.
 
 Ông đã viết thư cho Aiko.
 
@@ -5734,19 +5734,19 @@ Thế giới nằm ngang thì không sao. Thế giới chứa đầy một thứ
 
 Ông bước vào lúc ba giờ rưỡi, với một chiếc ghế.
 
-Đó là điều đầu tiên. Ông bước vào với một chiếc ghế, rồi ngồi xuống trong nó, rồi đặt một quy nhật ký da đã sờn lên mặt chăn, và Lyra úp bàn tay lên tấm chăn cạnh quy nhật ký mà không đụng vào nó, và cảm nhận được khoảng sáu inch vải bông bệnh viện, và rất nhiều *ông ấy*.
+Đó là điều đầu tiên. Ông bước vào với một chiếc ghế, rồi ngồi xuống trong nó, rồi đặt một quyển nhật ký da đã sờn lên mặt chăn, và Lyra úp bàn tay lên tấm chăn cạnh quyển nhật ký mà không đụng vào nó, và cảm nhận được khoảng sáu inch vải bông bệnh viện, và rất nhiều *ông ấy*.
 
 Ông ấy khác mà cũng không khác. Chính cái đó, sau cùng, là điều làm cô sụp đổ, chứ không phải lời xin lỗi.
 
 Ông ấy mang mùi sân ga. Ông đi chuyến 14:40, một chuyến tàu từ Westbrook, nghĩa là ông đã rời nhà lúc sáu giờ sáng, nghĩa là ông đã bắt taxi hoặc đi bộ hết đường Maple Street ra ga, và Lyra biết bếp nhà mình lúc sáu giờ sáng trông thế nào, vì bốn ngày trước cô đã đứng trong đó.
 
-Ông ấy đã đánh mất một thứ gì đó. Cô cảm nhận được hình dáng của nó ở bàn tay ông đang thả trên quy nhật ký — một chỗ mỏng đi, một chỗ đã từng có người níu giữ rồi ngừng lại.
+Ông ấy đã đánh mất một thứ gì đó. Cô cảm nhận được hình dáng của nó ở bàn tay ông đang thả trên quyển nhật ký — một chỗ mỏng đi, một chỗ đã từng có người níu giữ rồi ngừng lại.
 
 Ông ấy sợ. Cô biết điều đó từ mười một năm nay. Nó chưa bao giờ trồi lên *bề mặt*.
 
 "Mila," ông nói, rồi dừng, rồi bắt đầu lại theo cái kiểu ông hay làm khi đã chuẩn bị trước điều gì đó. "Bố đã đọc hết mọi thứ. Bố muốn nói rõ điều đó trước tiên, vì bố biết nó nghe như một từ suông, mà nó không phải từ suông, nó là năm ngày. Bố đã đọc hết mọi thứ trong thư từ của Phòng khám, hết mọi thứ trong bản công bố của Học viện, và hết mọi phần của mẹ con chưa bị niêm phong, và bố đọc chúng theo thứ tự mẹ con sẽ đọc, tức theo dòng thời gian, vì mẹ con vốn khắt khe về trật tự, và bố đã khá rành việc đó."
 
-Ông mở quy nhật ký. Tờ giấy kêu lên tiếng khô quen thuộc của nó.
+Ông mở quyển nhật ký. Tờ giấy kêu lên tiếng khô quen thuộc của nó.
 
 "Bố muốn nói ba điều, và bố đã viết ra giấy để không thể làm cái tật của mình, tức là nặn thêm một điều thứ tư toàn về bố."
 
@@ -5756,7 +5756,7 @@ Thế giới nằm ngang thì không sao. Thế giới chứa đầy một thứ
 
 "Mẹ vẽ tranh chúng con," Lyra nói.
 
-"Mẹ vẽ tranh chúng con và mẹ ghi lại những gì mẹ xác lập được và không xác lập được, và mẹ đánh số từng trang, và mẹ có *ba* trang trong quy nhật ký này về đạo đức của việc đo một đứa trẻ mà không cho trẻ biết, và ba trang ấy có ghi ngày, vào tháng Hai trước khi con chào đời, và chúng viết về một *người nhìn thấu mười một tuổi* mà mẹ đang theo dõi, và không có một ghi chú nào cho biết đứa trẻ mười một tuổi ấy là con nhà ai, và bố đã bỏ ra hai ngày cho nó, và bố sẽ không tìm ra được, và bố muốn nói thành lời rằng bố đã tìm rồi."
+"Mẹ vẽ tranh chúng con và mẹ ghi lại những gì mẹ xác lập được và không xác lập được, và mẹ đánh số từng trang, và mẹ có *ba* trang trong quyển nhật ký này về đạo đức của việc đo một đứa trẻ mà không cho trẻ biết, và ba trang ấy có ghi ngày, vào tháng Hai trước khi con chào đời, và chúng viết về một *người nhìn thấu mười một tuổi* mà mẹ đang theo dõi, và không có một ghi chú nào cho biết đứa trẻ mười một tuổi ấy là con nhà ai, và bố đã bỏ ra hai ngày cho nó, và bố sẽ không tìm ra được, và bố muốn nói thành lời rằng bố đã tìm rồi."
 
 "Mẹ theo dõi con của người khác," Lyra nói. "Mẹ đã làm thế với con."
 
@@ -5766,7 +5766,7 @@ Thế giới nằm ngang thì không sao. Thế giới chứa đầy một thứ
 
 "Bố biết."
 
-"Mẹ đem nó vào trong một *quy nhật ký*."
+"Mẹ đem nó vào trong một *quyển nhật ký*."
 
 "Bố biết," cha cô nói, và đưa tay che mắt một lúc, và Lyra cảm nhận được cái giá của cái động tác ấy đối với ông, và không với tay sang, vì mười một ngày trước cô đã học được rằng với tay sang phía người khác là thứ cô đã làm với người khác suốt ba năm.
 
@@ -5780,7 +5780,7 @@ Thế giới nằm ngang thì không sao. Thế giới chứa đầy một thứ
 
 "Bố đã *ngạo mạn*," cha cô nói. "Hai cái đó khác nhau, và cái khác nhau ấy là toàn bộ đề tài của công trình của mẹ con, và bố đã nắm nó trong tay suốt mười một năm mà đọc nó như một ẩn dụ về sông ngòi. Vì một ẩn dụ về sông ngòi không buộc bố phải thay đổi bất cứ điều gì."
 
-Ông lật tới một trang gần giữa quy sách và đặt một ngón tay lên đó, và Lyra nghiêng người, và đọc chữ ngược.
+Ông lật tới một trang gần giữa quyển sách và đặt một ngón tay lên đó, và Lyra nghiêng người, và đọc chữ ngược.
 
 > *控制不是解决方案。共融是唯一的道路。*
 >
@@ -5788,17 +5788,17 @@ Thế giới nằm ngang thì không sao. Thế giới chứa đầy một thứ
 >
 > *Ông ấy nói điều này là sến sáo. Nó không sến sáo. Nó là phép tính duy nhất còn sống sót sau khi chạm vào một con người. Một hệ thống đòi một người chưa từng đồng ý phải trả giá thì không phải là một hệ thống. Nó là một hàng chờ.*
 
-"Đó là lập luận," cha cô nói. "Đó là toàn bộ sự việc. Nó là *phép tính*. Nó không phải chuyện tử tế. Một phép đo khiến một người trả cái giá mà người ấy không hề đồng ý trả là một *khoản nợ*, và không thể có một nền khoa học về một thứ phá sản mỗi khi có người khám phá ra nó được làm bằng gì, và câu ấy nằm ngay *trong quy nhật ký của mẹ con*, bằng chính tay mẹ, vào tháng Hai, và ông ta là đồng nghiệp của mẹ, và ông ta đã đọc cái này, và ông ta đã xây một cỗ máy lấy trả giá từ những người không hề đồng ý, và ông ta gọi nó là *cần thiết*."
+"Đó là lập luận," cha cô nói. "Đó là toàn bộ sự việc. Nó là *phép tính*. Nó không phải chuyện tử tế. Một phép đo khiến một người trả cái giá mà người ấy không hề đồng ý trả là một *khoản nợ*, và không thể có một nền khoa học về một thứ phá sản mỗi khi có người khám phá ra nó được làm bằng gì, và câu ấy nằm ngay *trong quyển nhật ký của mẹ con*, bằng chính tay mẹ, vào tháng Hai, và ông ta là đồng nghiệp của mẹ, và ông ta đã đọc cái này, và ông ta đã xây một cỗ máy lấy trả giá từ những người không hề đồng ý, và ông ta gọi nó là *cần thiết*."
 
 Hai người ngồi yên với câu đó một lúc.
 
 "Ba," Wei Chen nói.
 
-Ông không nhìn cô. Ông nhìn vào quy nhật ký, vào nét chữ của chính mình ở lề một trang, một nét chữ nhỏ nhăn nhúm mà Lyra không hề biết và lại nhận ra hoàn toàn, vì đó là nét chữ cha cô dùng ở mặt sau những tờ giấy ghi chợ mỗi khi ông lo lắng.
+Ông không nhìn cô. Ông nhìn vào quyển nhật ký, vào nét chữ của chính mình ở lề một trang, một nét chữ nhỏ nhăn nhúm mà Lyra không hề biết và lại nhận ra hoàn toàn, vì đó là nét chữ cha cô dùng ở mặt sau những tờ giấy ghi chợ mỗi khi ông lo lắng.
 
 "Bố nợ con một lời xin lỗi không liên quan gì đến mẹ con và cũng không liên quan đến khoa học, và bố đã né tránh nó từ ngày mười một tháng Chín, vì bố cứ tự nhủ rằng nó lớn quá không nói nổi, trong khi đó lại là điều những người cha hay nói khi lời xin lỗi không phải quá lớn, mà là quá *xấu hổ*."
 
-Ông xoay trang lại và đẩy quy nhật ký qua mặt chăn, và cô đặt tay lên bìa, và cảm nhận qua lớp da trọn hai tuần của ông — chuyến tàu, và một căn bếp lúc sáu giờ sáng, và một cuộc điện thoại hôm thứ Sáu với một người phụ nữ ở bang khác, người mà, theo đúng lời ông, *đang vô cùng dũng cảm trước tất cả những chuyện đó*.
+Ông xoay trang lại và đẩy quyển nhật ký qua mặt chăn, và cô đặt tay lên bìa, và cảm nhận qua lớp da trọn hai tuần của ông — chuyến tàu, và một căn bếp lúc sáu giờ sáng, và một cuộc điện thoại hôm thứ Sáu với một người phụ nữ ở bang khác, người mà, theo đúng lời ông, *đang vô cùng dũng cảm trước tất cả những chuyện đó*.
 
 "Bố đã gạt bỏ con," Wei Chen nói.
 
@@ -5834,7 +5834,7 @@ Mắt Lyra ngước lên.
 
 "Sao lại không."
 
-"Vì con chưa từng *làm* gì với bố mà có thể được tha thứ, nên chẳng có gì để bố được tha thứ cả, và nếu bố nói cái từ ấy thì bố đã biến chuyện này thành chuyện của bố." Ông xoay quy nhật ký trở lại. "Điều bố đã làm là rút lui khỏi một đứa trẻ chín tuổi. Không có sự tha thứ nào cho việc đó. Chỉ có một đứa trẻ buộc phải sống chung với nó trong một ngôi nhà, rồi thành một cô thiếu niên, rồi thành một người phụ nữ. Và thứ duy nhất còn lại là những gì đến sau, tức là cứ xuất hiện lúc ba giờ rưỡi với một chiếc ghế cho đến hết đời bố."
+"Vì con chưa từng *làm* gì với bố mà có thể được tha thứ, nên chẳng có gì để bố được tha thứ cả, và nếu bố nói cái từ ấy thì bố đã biến chuyện này thành chuyện của bố." Ông xoay quyển nhật ký trở lại. "Điều bố đã làm là rút lui khỏi một đứa trẻ chín tuổi. Không có sự tha thứ nào cho việc đó. Chỉ có một đứa trẻ buộc phải sống chung với nó trong một ngôi nhà, rồi thành một cô thiếu niên, rồi thành một người phụ nữ. Và thứ duy nhất còn lại là những gì đến sau, tức là cứ xuất hiện lúc ba giờ rưỡi với một chiếc ghế cho đến hết đời bố."
 
 "Đó không phải là một câu trả lời," Lyra nói.
 
@@ -5848,7 +5848,7 @@ Cha cô đặt cả hai bàn tay ép xuống bàn.
 
 "Lẽ ra bố phải như thế."
 
-"Bố biết. Đó là điều bố đã viết lên mặt sau của những trang giấy suốt mười một ngày." Ông xoay quy nhật ký lại lần nữa. "Ngồi xuống chiếc ghế này. Đừng làm anh hùng. Con tệ lắm trong việc làm anh hùng, và mọi điều đã xảy ra trong tòa nhà này từ ngày mười bốn đều xảy ra *bởi vì* con tệ trong việc đó và phải có người khác đến giữ lấy đầu bên kia. Đó không phải là một lời chỉ trích. Đó là một bản mô tả công việc. Của bố."
+"Bố biết. Đó là điều bố đã viết lên mặt sau của những trang giấy suốt mười một ngày." Ông xoay quyển nhật ký lại lần nữa. "Ngồi xuống chiếc ghế này. Đừng làm anh hùng. Con tệ lắm trong việc làm anh hùng, và mọi điều đã xảy ra trong tòa nhà này từ ngày mười bốn đều xảy ra *bởi vì* con tệ trong việc đó và phải có người khác đến giữ lấy đầu bên kia. Đó không phải là một lời chỉ trích. Đó là một bản mô tả công việc. Của bố."
 
 ---
 
@@ -5860,7 +5860,7 @@ Cha cô đặt cả hai bàn tay ép xuống bàn.
 
 "Lần sau," Lyra nói, "hỏi con. Trước khi bố quyết định bất cứ điều gì. Về bất cứ chuyện gì hết. Đến cả chuyện nhỏ."
 
-Bàn tay Wei Chen dừng lại trên quy nhật ký.
+Bàn tay Wei Chen dừng lại trên quyển nhật ký.
 
 "Bố sẽ không làm được điều đó ngay," ông nói, "và bố thích nói với con phiên bản thật hơn là phiên bản can đảm, vì con sẽ nhìn thấu phiên bản can đảm, và vì đó là thứ bố sẽ phải tập như tập một bài âm giai, và bố đã không dùng đến nó từ 1998."
 
@@ -5868,7 +5868,7 @@ Bàn tay Wei Chen dừng lại trên quy nhật ký.
 
 "Gì cơ?"
 
-"Một chuyện *nhỏ*," Lyra nói. "Một chuyện không quan trọng. Luyện trên chuyện bố quyết định thay con có ăn nốt phần cơm cuối không, và xem bố có nhận ra là mình đã quyết định không. Rồi làm lại lần nữa, rồi một ngày nào đó thử trên một chuyện thực sự quan trọng." Cô đẩy quy nhật ký trở lại qua tấm chăn. "Vì con sẽ không — con sẽ không thể ổn với bố ngay được, Bàba. Và con nghĩ bố đã quyết định rằng mình sẽ được tha thứ, hoặc rằng con sẽ *ổn*, mà cả hai điều đó đều không phải thứ con có thể cho bố, và con thích nói với bố ngay bây giờ hơn là sáu tuần nữa khi bố đã viết thêm mười một trang về chuyện đó."
+"Một chuyện *nhỏ*," Lyra nói. "Một chuyện không quan trọng. Luyện trên chuyện bố quyết định thay con có ăn nốt phần cơm cuối không, và xem bố có nhận ra là mình đã quyết định không. Rồi làm lại lần nữa, rồi một ngày nào đó thử trên một chuyện thực sự quan trọng." Cô đẩy quyển nhật ký trở lại qua tấm chăn. "Vì con sẽ không — con sẽ không thể ổn với bố ngay được, Bàba. Và con nghĩ bố đã quyết định rằng mình sẽ được tha thứ, hoặc rằng con sẽ *ổn*, mà cả hai điều đó đều không phải thứ con có thể cho bố, và con thích nói với bố ngay bây giờ hơn là sáu tuần nữa khi bố đã viết thêm mười một trang về chuyện đó."
 
 Cha cô im lặng một khoảng lâu.
 
@@ -5894,7 +5894,7 @@ Cha cô lặng hẳn đi.
 
 "Cô Vance đang ở trong một chương trình học tập ở Bellhaven vì một người đàn ông trong tòa nhà này đã không đọc một tấm thẻ. Cậu Reyes không nghe được các căn phòng. Một cô gái tên Maya Sandoval chưa mở mắt lại từ ngày mười. Một cậu bé tên James Chen, là em họ, nằm ở Khu C từ ngày hai mươi với một chữ ký mà mô hình không đọc được, và tên của cậu bé đã nằm trong tòa nhà này suốt từ đầu, và việc đó đã không tốn kém gì cả, và chưa ai nói tên cậu bé thành lời với một người không phải là kế toán." Cô nghe thấy giọng mình dâng lên và không ngăn nó lại. "Có một cậu bé trong bệnh viện này phải được nghe con nói xin lỗi, và con chưa nói với cậu ấy, và nhiều tuần nữa con cũng sẽ không nói được. Và con muốn bố biết rằng con sẽ không nói được. Và con muốn bố *đừng sửa nó*, Bàba, vì bố sẽ muốn làm, mà nó không phải của bố."
 
-Wei Chen nhấc tay khỏi quy nhật ký.
+Wei Chen nhấc tay khỏi quyển nhật ký.
 
 "Mười một cái tên," ông nói.
 
@@ -5906,7 +5906,7 @@ Wei Chen nhấc tay khỏi quy nhật ký.
 
 ---
 
-Ông ở lại đến khi hết giờ thăm bệnh. Ông đọc to từ quy nhật ký — không phải tất cả; có những trang mà cô chưa sẵn sàng, và ông không đọc chúng, và không bình luận gì, và sự không bình luận ấy trọn vẹn đến mức Lyra nhận ra nó và không thể ngừng nhận ra nó suốt một tuần.
+Ông ở lại đến khi hết giờ thăm bệnh. Ông đọc to từ quyển nhật ký — không phải tất cả; có những trang mà cô chưa sẵn sàng, và ông không đọc chúng, và không bình luận gì, và sự không bình luận ấy trọn vẹn đến mức Lyra nhận ra nó và không thể ngừng nhận ra nó suốt một tuần.
 
 Ở cửa, ông dừng lại, bàn tay đặt lên khung cửa.
 
@@ -5924,7 +5924,7 @@ Wei Chen nhấc tay khỏi quy nhật ký.
 
 *Thứ Tư, 25 tháng Chín, 21:00.*
 
-> "Nhận thức sợi chỉ không giới hạn ở thị giác. Khi một con đường đóng lại, mạng Weave thường tìm ra một con đường khác. Điều mà lưu trữ của mọi truyền thống đều thống nhất, và điều mà không một giáo trình nào ở Học viện này nói ra, là con đường thứ hai không bao giờ là con đường thứ nhất một lần nữa."
+> "Nhận thức sợi chỉ không giới hạn ở thị giác. Khi một con đường đóng lại, Weave thường tìm ra một con đường khác. Điều mà lưu trữ của mọi truyền thống đều thống nhất, và điều mà không một giáo trình nào ở Học viện này nói ra, là con đường thứ hai không bao giờ là con đường thứ nhất một lần nữa."
 >
 > — Lin Chen, "Vượt Ngoài Nhận Thức Sợi Chỉ Bằng Thị Giác", ghi chú chưa xuất bản, 2001
 
@@ -6018,7 +6018,7 @@ Kể từ ngày mười lăm, cô đã gặp ông đúng một lần, trong mộ
 
 **Thứ nhất.** Có hai cỗ máy. Cỗ máy mà Hội đồng đang phê chuẩn đặt ở Tầng ngầm 2 và đã chạy từ ngày mười lăm chỉ bằng riêng tải của tấm lưới, vì vào ngày hai mươi bốn — *Thứ Ba tuần trước, lúc bốn giờ sáng, bằng thẩm quyền của chính tôi, không có tờ lệnh* — ông đã hủy lịch rút trên toàn bộ hệ thống, và lệnh hủy đã giữ vững.
 
-**Thứ hai.** Cỗ máy còn lại nằm dưới Tháp Đông, cách nơi cô từng tỉnh dậy, bị trói chặt lên một chiếc bàn, đúng ba trăm mét, và nó đã chạy liên tục từ ngày mười tám tháng Năm, và nó có một hộp chứa thứ hai, và nó đã lấy đi bốn người, trung bình khoảng một người mỗi tháng.
+**Thứ hai.** Cỗ máy còn lại nằm dưới Tháp Đông, cách nơi cô từng tỉnh dậy, bị trói chặt lên một chiếc bàn, đúng ba trăm mét, và nó đã chạy liên tục từ ngày mười tám tháng Năm, và nó có một buồng kín thứ hai, và nó đã lấy đi bốn người, trung bình khoảng một người mỗi tháng.
 
 **Thứ ba.** Không một ai trong tòa nhà biết về cỗ máy thứ hai, trừ ông và người điều hành nó, và người đó đã nói dối ông về nó từ tháng Năm để giữ được nguồn kinh phí cho ông, và ông đã tin, vì phương án còn lại là mạng lưới bỏ đi và mười một nghìn người có một tuần tồi tệ.
 
@@ -6093,7 +6093,7 @@ Cô nhận ra, bực bội thay, rằng nó đúng.
 
 ## ĐIỀU ÔNG TA KHÔNG THỂ DỪNG LẠI
 
-"Hội đồng có một cỗ máy," Harlow nói. "Nó được gọi là một bộ chuyển dịch. Nó đang chạy. Nó được giữ mở nhờ một thứ nằm trong hộp chứa dưới sàn, một thứ suốt mười một năm tôi không tài nào đọc nổi và mà một sinh viên bảo vệ quyền lợi mười chín tuổi sẽ đọc trong bốn tiếng, vào tháng Mười, trong lúc tôi ngồi trong một căn phòng tử tế viết thư."
+"Hội đồng có một cỗ máy," Harlow nói. "Nó được gọi là một bộ chuyển dịch. Nó đang chạy. Nó được giữ mở nhờ một thứ nằm trong buồng kín dưới sàn, một thứ suốt mười một năm tôi không tài nào đọc nổi và mà một sinh viên bảo vệ quyền lợi mười chín tuổi sẽ đọc trong bốn tiếng, vào tháng Mười, trong lúc tôi ngồi trong một căn phòng tử tế viết thư."
 
 "Tôi biết tấm lưới là gì."
 
@@ -6121,7 +6121,7 @@ Cái lạnh của mặt bàn chạy dọc lên cánh tay cô và đậu lại �
 
 "Cỗ máy ở Tầng ngầm 7 nằm ở đâu."
 
-"Bên dưới Tháp Đông, ba trăm mét tính từ nơi em tỉnh dậy trong một khu giam bị khóa vào tháng Chín, và nó đang chạy, và nó là cái có hộp chứa thứ hai, và nó đã chạy liên tục kể từ ngày mười tám tháng Năm." Ông ta nói bằng giọng của một người đàn ông đang đọc bản cáo trạng. "Tôi bị nhốt trong một căn phòng khóa kín kể từ ngày mười lăm tháng Chín. Tôi không khởi động nó. Tôi không thể dừng nó. Không một ai trong tòa nhà này biết về nó, vì người duy nhất biết về nó đã nói dối tôi về nó kể từ tháng Năm để giữ cho tôi được cấp kinh phí, và bốn tháng qua tôi đã tin một người phụ nữ có một thiết bị đeo tay, một lá bùa lụa, và không hề có nguồn sống nhìn thấy được."
+"Bên dưới Tháp Đông, ba trăm mét tính từ nơi em tỉnh dậy trong một khu giam bị khóa vào tháng Chín, và nó đang chạy, và nó là cái có buồng kín thứ hai, và nó đã chạy liên tục kể từ ngày mười tám tháng Năm." Ông ta nói bằng giọng của một người đàn ông đang đọc bản cáo trạng. "Tôi bị nhốt trong một căn phòng khóa kín kể từ ngày mười lăm tháng Chín. Tôi không khởi động nó. Tôi không thể dừng nó. Không một ai trong tòa nhà này biết về nó, vì người duy nhất biết về nó đã nói dối tôi về nó kể từ tháng Năm để giữ cho tôi được cấp kinh phí, và bốn tháng qua tôi đã tin một người phụ nữ có một thiết bị đeo tay, một lá bùa lụa, và không hề có nguồn sống nhìn thấy được."
 
 "Elara Vance không phải là tài sản," Lyra nói chậm rãi. "Elara Vance mười lăm tuổi, cậu ấy đã ký một tấm thẻ mà mình không hiểu, và từ đó đến giờ cậu ấy ở trong cỗ máy."
 
@@ -6193,11 +6193,11 @@ Cô có một cái tên. Cô đã có nó từ ngày mười tám tháng Năm, n
 
 > "Nó không gọi. Đó chính là chỗ người ta hiểu sai, vì người ta muốn nó gọi. Nó đang nói rồi, và nó đã nói mãi, suốt cả quãng thời gian bạn đứng đấy phân vân có nên lắng nghe hay không, và điều nó nói không phải một cái tên. Nó nói *bây giờ*, và nó nói bằng chính giọng của sự vật ấy, và chưa một lần nó thốt ra lời nào bằng bất cứ thứ tiếng nào mà có ai ở đây từng biết."
 >
-> — Adeyemi, tại Hội trường Thực Hành Thừa Truyền, khi được hỏi mạng Weave làm gì khi nó sợ hãi
+> — Adeyemi, tại Hội trường Thực Hành Thừa Truyền, khi được hỏi Weave làm gì khi nó sợ hãi
 
 *Bộ đếm Weave-Quake: 51% bất ổn. Dự phóng hỏng node: T+34 ngày. Đã tái chuẩn cơ sở đối chiếu một mạch đang bị giữ. Tải trọng đã rời bức tường, chuyển sang một cỗ máy, và mô hình chưa từng được chạy trên cơ sở này.*
 
-Cái hòa bình mong manh ở Học viện Threadweaver sau khi Thread Maze sụp đổ vỡ tan lúc 2:17 sáng, và điều đầu tiên Lyra để ý là sàn hành lang đã chuyển từ *sai* sang *ồn*, và cái ồn nằm trong răng cô.
+Cái hòa bình mong manh ở Học viện Threadweaver sau khi Mê Cung Sợi Chỉ sụp đổ vỡ tan lúc 2:17 sáng, và điều đầu tiên Lyra để ý là sàn hành lang đã chuyển từ *sai* sang *ồn*, và cái ồn nằm trong răng cô.
 
 Cô không cần nhìn thấy bất cứ điều gì. Tiếng báo động mang một hình dạng sai với một tòa nhà — không phải tiếng chuông, mà là tiếng rít — và tảng đá đang làm cái việc nó đã làm hôm vòm đá sụp xuống, và ở đâu đó về phía đông và phía dưới, một thứ gì đó đang được bật lên sau một quãng thời gian dài nằm tắt.
 
@@ -6219,7 +6219,7 @@ Cả bọn len qua những hành lang đầy học sinh và nhân viên — nh�
 
 Một học sinh năm ba gục xuống cầu thang Cánh Đông với kết giới giương cao và kết giới rã tung, và một gã đàn ông cầm đũa phép đi ngang qua cô mà không hề chậm lại, và chín giây mà điều đó mua được cho mười bốn học sinh năm nhất phía sau chính là toàn bộ những gì cô làm mà kể từ đó đã được ai đó ghi lại. Sâu vào trong hơn, một người từ khoa Lý Thuyết giữ một giao lộ đúng bằng chiều dài một hành lang và được ba học sinh năm bốn khuân ra khỏi đó — và cả ba hiện vẫn đang cực kỳ bực bội vì chuyện đó.
 
-Cái áp lực lên da Lyra sai một kiểu mà cô không tìm nổi lời gọi tên, và sự sai ấy không mới; nó là cái vị của thứ nằm trong hộp chứa dưới sàn, cái vị của một người có thể làm được việc này và đã làm việc này suốt bao nhiêu năm. Giác quan mới của cô bùng theo nó — hơi nóng, phía sau đôi mắt, tiếng tĩnh điện trắng ăng ăng — và cô ép mình phải đi tiếp, vì dừng lại là việc cô đã quyết không làm trong đêm nay.
+Cái áp lực lên da Lyra sai một kiểu mà cô không tìm nổi lời gọi tên, và sự sai ấy không mới; nó là cái vị của thứ nằm trong buồng kín dưới sàn, cái vị của một người có thể làm được việc này và đã làm việc này suốt bao nhiêu năm. Giác quan mới của cô bùng theo nó — hơi nóng, phía sau đôi mắt, tiếng tĩnh điện trắng ăng ăng — và cô ép mình phải đi tiếp, vì dừng lại là việc cô đã quyết không làm trong đêm nay.
 
 "Đi bên này," cô nói, rồi dẫn cả bọn vào một lối đi kỹ thuật mà cô đã tìm ra trong những ngày sau khi thị giác tắt, những ngày cô không có việc gì để làm ngoài đi khắp tòa nhà và học thuộc hình dạng của nó, và cô đã học nó hoàn toàn bằng tay.
 
@@ -6253,7 +6253,7 @@ Chuyện gì xảy ra tiếp theo kéo dài khoảng chín mươi giây, và Lyr
 
 "Tớ nghe không ra đám cáp," Milo nói. "Tớ đang nói với cậu rằng tớ nghe không ra đám cáp, và cậu vẫn sẽ làm thế đằng nào, và tớ muốn điều này được ghi vào biên bản rằng tớ đã nói phần hữu ích trước."
 
-Cô trèo lên trên hộp chứa, với bộ điều tiết ngay trước mặt, và đặt cả hai tay lên nó, và sợi chỉ bạc tuôn ra khỏi cô và chui vào tảng đá — lộ rõ, suốt chiều dài của nó, một sợi dây mà bất kỳ ai trong phòng có mắt cũng nhìn thấy được và mà cả bốn người bạn chưa từng thấy cô làm dù chỉ một lần — và những gì cô làm với nó không phải một cú đẩy.
+Cô trèo lên trên buồng kín, với bộ điều tiết ngay trước mặt, và đặt cả hai tay lên nó, và sợi chỉ bạc tuôn ra khỏi cô và chui vào tảng đá — lộ rõ, suốt chiều dài của nó, một sợi dây mà bất kỳ ai trong phòng có mắt cũng nhìn thấy được và mà cả bốn người bạn chưa từng thấy cô làm dù chỉ một lần — và những gì cô làm với nó không phải một cú đẩy.
 
 Cô đã được hỏi về việc này nhiều hơn mọi thứ khác, và cô chưa từng một lần đưa ra được một câu trả lời tạm được, và điều gần nhất cô đạt tới là: đường dẫn cũ là một thứ đã *được cho ăn* suốt năm mươi năm bởi những người không hề hỏi nó bất cứ điều gì, và nó có một hình dạng, và cô đã đi tìm hình dạng đó như người ta đi tìm một cánh cửa trên một bức tường mà mình đã mò mẫm trong bóng tối.
 
@@ -6357,13 +6357,13 @@ Milo không có gì để đóng góp và đã nói thẳng như vậy, chuyện
 
 Bọn họ bước ra vào một gian phòng rộng lớn đi ngược lại mọi kiến trúc cổ xưa của Học viện. Những khối tinh thể mọc lên từ sàn như những tia sét bị đóng băng, nối vào nhau bằng những dây cáp to bằng thân cây. Ở chính giữa có một chiếc ghế. Đó là một chiếc ghế theo đúng nghĩa một chiếc còng tay là một chiếc còng tay: một hình dạng chỉ có một mục đích, do một ai đó có bản thông số trong tay và không có chút tình cảm gì về nó mà làm ra.
 
-"Đây rồi," Eli thở ra, đối chiếu những bản vẽ bọn nó đã trộm từ kho lưu trữ. "Magnus Conduit."
+"Đây rồi," Eli thở ra, đối chiếu những bản vẽ bọn nó đã trộm từ kho lưu trữ. "Kênh Magnus."
 
 ## DƯỚI TẤM ĐẾ
 
 Cỗ máy ở ngay trước mặt cô. Đó là điều thứ nhất.
 
-Điều thứ hai là cô chẳng nhìn thấy nó chút nào, và buộc phải làm việc này theo cách chậm, bằng đôi tay, trên hộp chứa, ở cự ly gần, trong khoảng bốn phút, với một lượt đọc đến thành từng lớp và phải lấy từng lớp một, hoặc không lấy gì cả.
+Điều thứ hai là cô chẳng nhìn thấy nó chút nào, và buộc phải làm việc này theo cách chậm, bằng đôi tay, trên buồng kín, ở cự ly gần, trong khoảng bốn phút, với một lượt đọc đến thành từng lớp và phải lấy từng lớp một, hoặc không lấy gì cả.
 
 Điều thứ ba là Eli, ở phía bên kia, trước một màn hình, với chất giọng đã phẳng lì hẳn:
 
@@ -6419,7 +6419,7 @@ Vẻ điềm tĩnh đã rời ông theo đúng cái cách một người đàn �
 
 "Thật sao," ông nói. "Nhưng không phải phần phép tính. Phần tôi đã quyết định."
 
-Ông đặt bàn tay phẳng lên hộp chứa, như cái cách ông đã đặt nó phẳng lên một chiếc bàn ở Kyoto, và không nhìn nó.
+Ông đặt bàn tay phẳng lên buồng kín, như cái cách ông đã đặt nó phẳng lên một chiếc bàn ở Kyoto, và không nhìn nó.
 
 "Tôi không xin các em cỗ máy," Harlow nói. "Tôi chưa từng một lần xin bất cứ ai cỗ máy. Tôi đã xin một lá phiếu của Hội đồng. Lá phiếu là thứ mà câu trả lời có thể là không. Nếu thứ Năm câu trả lời là không thì bức tường tiếp tục mang nó, và bức tường còn trụ được sáu năm nữa, và mùa xuân tới tôi sẽ có một cuộc trò chuyện khác với Hội đồng, và tôi sẽ thua nốt cuộc đó."
 
@@ -6433,7 +6433,7 @@ Vẻ điềm tĩnh đã rời ông theo đúng cái cách một người đàn �
 
 "Họ muốn được an toàn," Harlow cộc lại. "Họ muốn được tồn tại trong một thực tại không sụp đổ quanh họ. Và đây là cách duy nhất để bảo đảm điều đó."
 
-Tiếng vo ve của Conduit đổi tông. Eli ngước nhìn con số, rồi nhìn sang dòng của con số trên màn hình, và Lyra nhìn nó quyết định không nói ra điều thứ hai nó đang nghĩ: rằng tiếng vo ve và con số không phải là cùng một phép đo, và nó chưa biết trong hai thứ thì cái nào đang nói dối.
+Tiếng vo ve của Kênh Magnus đổi tông. Eli ngước nhìn con số, rồi nhìn sang dòng của con số trên màn hình, và Lyra nhìn nó quyết định không nói ra điều thứ hai nó đang nghĩ: rằng tiếng vo ve và con số không phải là cùng một phép đo, và nó chưa biết trong hai thứ thì cái nào đang nói dối.
 
 Nhưng ngay trong lúc nỗi sợ siết chặt lấy tim, Lyra cảm thấy một cái gì khác đang trỗi dậy — một sự chắc chắn sâu xa và không thể lay chuyển rằng phải còn có một cách khác. Những linh hồn bị nhốt không chỉ là nhiên liệu cho cỗ máy của Harlow; họ là những con người, với hy vọng và ước mơ của riêng họ, và với quyền được tự chọn số phận của mình.
 
@@ -6443,7 +6443,7 @@ Cô đặt tay trở lại lên tấm đế.
 
 Cô mất hai phút mười một giây, và đó là lần đầu tiên kể từ ngày mười lăm tháng Chín cô là người có năng lực nhất trong một căn phòng, và cô muốn cả điều đó được ghi vào biên bản.
 
-Cái cô tìm thấy dưới những ngón tay là hình dáng của việc hộp chứa thực ra đang làm gì. Nó không phải một bình điện. Nó là một *bàn tay* — một bàn tay có thể giữ một trọng lượng vô thời hạn, trong một hình dạng cố định, không biết mỏi, sẽ không đặt nó xuống, và không thể làm bất cứ việc gì khác trong cùng lúc đó. Bộ chuyển dịch phía trên nó là một cỗ máy hoàn toàn khác. Bộ chuyển dịch có thể *mang*: nó có thể nhấc tải khỏi bức tường, di chuyển nó, phân phối nó, và, theo mọi nghĩa, thông minh. Nhưng mang là một động từ khác với giữ, và từ khoảnh khắc tải ngừng chảy ra khỏi bức tường mà được đặt lên một mạch điện phải giữ nó yên tại chỗ, cái thông minh của bộ chuyển dịch trị giá đúng bằng con số không.
+Cái cô tìm thấy dưới những ngón tay là hình dáng của việc buồng kín thực ra đang làm gì. Nó không phải một bình điện. Nó là một *bàn tay* — một bàn tay có thể giữ một trọng lượng vô thời hạn, trong một hình dạng cố định, không biết mỏi, sẽ không đặt nó xuống, và không thể làm bất cứ việc gì khác trong cùng lúc đó. Bộ chuyển dịch phía trên nó là một cỗ máy hoàn toàn khác. Bộ chuyển dịch có thể *mang*: nó có thể nhấc tải khỏi bức tường, di chuyển nó, phân phối nó, và, theo mọi nghĩa, thông minh. Nhưng mang là một động từ khác với giữ, và từ khoảnh khắc tải ngừng chảy ra khỏi bức tường mà được đặt lên một mạch điện phải giữ nó yên tại chỗ, cái thông minh của bộ chuyển dịch trị giá đúng bằng con số không.
 
 *Nó là một căn phòng có một cái xô bên trong,* cô nghĩ, *và phải có một ai đó đứng trong cái xô.*
 
@@ -6457,17 +6457,17 @@ Eli chép lại. Nó chép hai lần, rồi lần thứ ba, rồi đọc lại c
 
 "Đúng."
 
-"Còn hộp chứa—" Nó nhìn tấm lưới, nhìn ánh sáng lạnh, và không nói hết câu, vì chỉ có đúng một từ có sẵn và không ai trong bọn muốn nói ra từ đó.
+"Còn buồng kín—" Nó nhìn tấm lưới, nhìn ánh sáng lạnh, và không nói hết câu, vì chỉ có đúng một từ có sẵn và không ai trong bọn muốn nói ra từ đó.
 
 "Hộp chứa giữ nó," Lyra nói. "Đó chính là tấm lưới. Nó là một sự giữ. Nó là một sự giữ vận hành bằng việc không bao giờ buông ra một con người chưa từng đồng ý bị giữ." Cô lau tay vào áo khoác, một việc chẳng đem lại gì. "Và vừa rồi tôi được bảo, thành lời, bằng một thứ tiếng không ai khác trong căn phòng này nghe được, rằng câu trả lời cho việc đó là *không*."
 
-*Mặt dây chuyền ngọc đập một nhịp vào xương ức cô, và trong một khoảnh khắc — không phải một giọng nói; cô rất cẩn trọng trong việc đó, không phải một giọng nói, một *chất liệu*, cái cách một bàn tay cảm nhận được xuyên qua bức tường — đã có một thứ ở đó, không phải một ký ức về mẹ cô và không phải mạng Weave, và đó là cảm giác của một căn phòng nơi có ai đó đã chờ đợi từ rất lâu.*
+*Mặt dây chuyền ngọc đập một nhịp vào xương ức cô, và trong một khoảnh khắc — không phải một giọng nói; cô rất cẩn trọng trong việc đó, không phải một giọng nói, một *chất liệu*, cái cách một bàn tay cảm nhận được xuyên qua bức tường — đã có một thứ ở đó, không phải một ký ức về mẹ cô và không phải Weave, và đó là cảm giác của một căn phòng nơi có ai đó đã chờ đợi từ rất lâu.*
 
 *Rồi,* cô nghĩ, theo thứ ngữ pháp phẳng. *Vậy ra đó là lá phiếu. Đó mới là chuyện thật sự của thứ Năm.*
 
 ## KHOẢNH KHẮC LỰA CHỌN
 
-Conduit đang rút. Eli đọc con số thành lời hai lần, vì nó đọc mọi con số thành lời hai lần, và con số thứ hai cao hơn.
+Kênh Magnus đang rút. Eli đọc con số thành lời hai lần, vì nó đọc mọi con số thành lời hai lần, và con số thứ hai cao hơn.
 
 "Em đọc được nó," Harlow nói, nhìn bàn tay của Lyra trên tấm đế. "Đó là điều tôi đã chờ đợi từ ngày mười một tháng Chín, và đó là lý do duy nhất khiến tôi chưa phải dành bốn ngày để tìm xem những người bên trong nó đã gặp chuyện gì."
 
@@ -6481,9 +6481,9 @@ Conduit đang rút. Eli đọc con số thành lời hai lần, vì nó đọc m
 
 Ông xoay một bàn điều khiển lại để Eli đọc được.
 
-"Bốn ngày," ông nói. "Và trong bốn ngày, một Hội đồng sẽ bỏ phiếu xem có đưa một cỗ máy biết mang vào phục vụ vĩnh viễn bằng một hộp chứa biết giữ hay không, và bốn mươi ba người đang ở trong hộp chứa, và hai người trong số đó là người của chúng ta. Một con bé mười lăm tuổi và đã ở trong cỗ máy từ ngày mười một tháng Chín, và mẹ con bé đang ở Bellhaven và tưởng con bé đang theo một chương trình chuyên biệt. Người còn lại đã ở đó từ ngày mười tám tháng Năm, và cậu ta mười chín, và cậu ta là lý do Hội đồng này sắp mất chín giờ để phát hiện ra rằng mình không có từ vựng cho một con người, và tôi muốn có ai đó viết tên cậu ta lên bảng trước khi Hội đồng làm điều đó, vì cậu ta đang ở trong một cái hộp, và cậu ta mười chín, và không có một phiên bản mười chín nào có thể được *ghi nhận*." Ông ngước lên. "Tôi muốn có mặt trong căn phòng khi nó được mở. Tôi không xin có mặt khi bất cứ chuyện gì khác xảy ra. Và nếu em nói không, tôi sẽ hiểu, và tôi sẽ không kháng nghị, và em nên biết rằng tôi nói thế vì đó là thứ cuối cùng tôi còn lại mà không phải một kỹ xảo, và tôi muốn có ai đó kiểm chứng điều đó."
+"Bốn ngày," ông nói. "Và trong bốn ngày, một Hội đồng sẽ bỏ phiếu xem có đưa một cỗ máy biết mang vào phục vụ vĩnh viễn bằng một buồng kín biết giữ hay không, và bốn mươi ba người đang ở trong buồng kín, và hai người trong số đó là người của chúng ta. Một con bé mười lăm tuổi và đã ở trong cỗ máy từ ngày mười một tháng Chín, và mẹ con bé đang ở Bellhaven và tưởng con bé đang theo một chương trình chuyên biệt. Người còn lại đã ở đó từ ngày mười tám tháng Năm, và cậu ta mười chín, và cậu ta là lý do Hội đồng này sắp mất chín giờ để phát hiện ra rằng mình không có từ vựng cho một con người, và tôi muốn có ai đó viết tên cậu ta lên bảng trước khi Hội đồng làm điều đó, vì cậu ta đang ở trong một cái hộp, và cậu ta mười chín, và không có một phiên bản mười chín nào có thể được *ghi nhận*." Ông ngước lên. "Tôi muốn có mặt trong căn phòng khi nó được mở. Tôi không xin có mặt khi bất cứ chuyện gì khác xảy ra. Và nếu em nói không, tôi sẽ hiểu, và tôi sẽ không kháng nghị, và em nên biết rằng tôi nói thế vì đó là thứ cuối cùng tôi còn lại mà không phải một kỹ xảo, và tôi muốn có ai đó kiểm chứng điều đó."
 
-Bốn mươi ba, chứ không phải ba mươi chín, và Eli Park đã ôm hai con số trong đầu suốt hai ngày mà không tài nào cho chúng khớp nhau, và nó đã cho chúng khớp vào ngày thứ hai, từ bốn dòng trong một kết luận điều tra người ta đã cho nó xem mà nó đã không hề xin xem: *cái thứ kia nằm dưới Tháp Đông, và nó đã chạy liên tục từ ngày mười tám tháng Năm, và nó có một hộp chứa thứ hai, và nó đã lấy bốn người, chừng một người mỗi tháng.* Ba mươi chín người nằm trong tấm lưới, thứ đã nằm dưới Tầng ngầm 7 từ năm 1941, và ba mươi bảy trong số họ đã chết từ khi chiến tranh kết thúc, và hai người còn lại là cô gái và chàng trai. Bốn người kia ở trong hộp chứa thứ hai, và hộp chứa thứ hai nằm dưới Tháp Đông, và cả bốn đều còn sống, và con số bốn mươi ba của Hội đồng đã được tạo ra bằng cách cộng một tấm lưới với một hộp chứa rồi gọi tổng số đó là một hộp chứa, và đã không ai đòi hỏi riêng bốn người đó, bởi vì một con người bị lấy từng người một, cách nhau chừng một tháng, trong một cỗ máy sắp được bỏ phiếu đưa vào phục vụ vĩnh viễn, thì không phải là một danh sách.
+Bốn mươi ba, chứ không phải ba mươi chín, và Eli Park đã ôm hai con số trong đầu suốt hai ngày mà không tài nào cho chúng khớp nhau, và nó đã cho chúng khớp vào ngày thứ hai, từ bốn dòng trong một kết luận điều tra người ta đã cho nó xem mà nó đã không hề xin xem: *cái thứ kia nằm dưới Tháp Đông, và nó đã chạy liên tục từ ngày mười tám tháng Năm, và nó có một buồng kín thứ hai, và nó đã lấy bốn người, chừng một người mỗi tháng.* Ba mươi chín người nằm trong tấm lưới, thứ đã nằm dưới Tầng ngầm 7 từ năm 1941, và ba mươi bảy trong số họ đã chết từ khi chiến tranh kết thúc, và hai người còn lại là cô gái và chàng trai. Bốn người kia ở trong buồng kín thứ hai, và buồng kín thứ hai nằm dưới Tháp Đông, và cả bốn đều còn sống, và con số bốn mươi ba của Hội đồng đã được tạo ra bằng cách cộng một tấm lưới với một buồng kín rồi gọi tổng số đó là một buồng kín, và đã không ai đòi hỏi riêng bốn người đó, bởi vì một con người bị lấy từng người một, cách nhau chừng một tháng, trong một cỗ máy sắp được bỏ phiếu đưa vào phục vụ vĩnh viễn, thì không phải là một danh sách.
 
 "Sao ông muốn có mặt trong căn phòng?"
 
@@ -6531,7 +6531,7 @@ Blackwood đã cử Mirembe Blackwood đến, lúc sáu giờ mười chín phú
 
 Căn phòng không phải thứ Lyra đã dựng lên trong đầu, và cô thấy hơi xấu hổ về cái đầu đó.
 
-Nó rất lớn và rất tầm thường. Bê tông, một máng cáp, một dãy tủ để đồ, một ấm điện ai đó đã cắm sẵn. Magnus Conduit — thứ mà cô đã đưa tài bẩm của mình xuyên qua, thứ đã tự viết lại chính nó trước mặt hai trăm người chứng kiến mười sáu ngày trước — chiếm giữa căn phòng như một nồi hơi chiếm giữa phòng máy. Nó không còn đẹp nữa. Nó từng đẹp chừng chín mươi giây vào chủ Nhật hôm ấy, rồi trở lại là một miếng thiết bị, và đã ở nguyên như thế, kêu vo vo, với một cái đèn trên thân.
+Nó rất lớn và rất tầm thường. Bê tông, một máng cáp, một dãy tủ để đồ, một ấm điện ai đó đã cắm sẵn. Kênh Magnus — thứ mà cô đã đưa tài bẩm của mình xuyên qua, thứ đã tự viết lại chính nó trước mặt hai trăm người chứng kiến mười sáu ngày trước — chiếm giữa căn phòng như một nồi hơi chiếm giữa phòng máy. Nó không còn đẹp nữa. Nó từng đẹp chừng chín mươi giây vào Chủ nhật hôm ấy, rồi trở lại là một miếng thiết bị, và đã ở nguyên như thế, kêu vo vo, với một cái đèn trên thân.
 
 Còn ở đầu bên kia phòng, trong một khoảng không gian đã được dọn ra và đã không được dọn cho tử tế, có mười người nằm trên sàn trong những tấm nệm, chín người trong số họ còn thức, và một người thì không.
 
@@ -6559,7 +6559,7 @@ Cô đã biết nó sẽ đến. Cô đã chuẩn bị sẵn cho nó suốt bố
 
 "Câu hỏi là gì."
 
-"Câu hỏi là độ dốc." Wei Chen không nhúc nhích. "Vết bỏng đang đi theo các đường của mô hình conduit, Marcus, và ông biết điều đó, và ông đã biết điều đó bốn năm nay, và chưa một lần ông đặt nó vào trong một câu, vì câu đó là: *nó đang đi theo một hình dạng tồn tại trong kiến trúc của cỗ máy ông đã xây*, và nếu ông nói điều đó thành tiếng thì sẽ có ai đó trong toà nhà này hỏi ông vì sao hệ tuần hoàn của một người đàn ông lại mang lấy hình học của một *thiết bị*, và không có câu trả lời nào cho câu hỏi đó mà không phải *trùng hợp* hoặc *cỗ máy đang làm điều đó*, và ông đã sống trong khe hở giữa hai câu trả lời ấy mười một năm, và tôi cũng vậy."
+"Câu hỏi là độ dốc." Wei Chen không nhúc nhích. "Vết bỏng đang đi theo các đường của mô hình Kênh Magnus, Marcus, và ông biết điều đó, và ông đã biết điều đó bốn năm nay, và chưa một lần ông đặt nó vào trong một câu, vì câu đó là: *nó đang đi theo một hình dạng tồn tại trong kiến trúc của cỗ máy ông đã xây*, và nếu ông nói điều đó thành tiếng thì sẽ có ai đó trong toà nhà này hỏi ông vì sao hệ tuần hoàn của một người đàn ông lại mang lấy hình học của một *thiết bị*, và không có câu trả lời nào cho câu hỏi đó mà không phải *trùng hợp* hoặc *cỗ máy đang làm điều đó*, và ông đã sống trong khe hở giữa hai câu trả lời ấy mười một năm, và tôi cũng vậy."
 
 Không ai nói gì.
 
@@ -6671,7 +6671,7 @@ Không ai thở.
 
 "**Hai.** Tắt bộ chuyển dịch. Mạch sẽ mở, tải trọng rời khỏi cỗ máy và trở về bức tường, và bức tường còn ba mươi mốt phần trăm dung sai, và nó có mười bảy ngày. Nó sẽ không hỏng vào ngày thứ mười bảy. Nó sẽ hỏng ở đâu đó trong bốn giờ đầu, và nó sẽ hỏng mà không có dự báo, vì mô hình cho một mạch được giữ chưa từng được chạy, và mọi người trong căn phòng này đều biết điều đó."
 
-"**Ba.** Tìm một con người." Ông nói câu đó rất phẳng. "Không phải một người tình nguyện. Không phải một người thân. Một con người có *một cộng hưởng mà mạng Weave giữ được*, đứng trong một hộp chứa, tiêu hao chính mình, và tiêu hao rất nhiều của chính mình, và sau đó không đứng dậy nổi. Tôi đã tìm rồi. Không có phiên bản nào của phương án này mà tôi dựng nổi. Tôi nói điều đó với tư cách người đã cố dựng một phiên bản trong mười sáu năm, và tôi muốn điều đó được ghi biên bản."
+"**Ba.** Tìm một con người." Ông nói câu đó rất phẳng. "Không phải một người tình nguyện. Không phải một người thân. Một con người có *một cộng hưởng mà Weave giữ được*, đứng trong một buồng kín, tiêu hao chính mình, và tiêu hao rất nhiều của chính mình, và sau đó không đứng dậy nổi. Tôi đã tìm rồi. Không có phiên bản nào của phương án này mà tôi dựng nổi. Tôi nói điều đó với tư cách người đã cố dựng một phiên bản trong mười sáu năm, và tôi muốn điều đó được ghi biên bản."
 
 Bố Lyra chưa nhúc nhích. Bàn tay ông đặt trên lưng một chiếc ghế.
 
@@ -6744,7 +6744,7 @@ Tấm lưới không ở trong phòng.
 
 Đó là điều đầu tiên Lyra đã không hiểu, và cũng là điều đầu tiên cô hiểu ra, sau khoảng bốn tiếng, và sự hiểu đó đến với cô theo một đường vòng, trong một hành lang, lúc bốn giờ rưỡi sáng, vì cô đi ra tìm không khí và nhận ra không khí ở Tầng ngầm 7 chẳng có không khí nào trong đó cả.
 
-Tấm lưới nằm bên dưới Tầng ngầm 7. Nó đã nằm bên dưới khu đất này từ năm 1941. Hộp chứa đã lớn dần cho tới khi bít kín, và hộp chứa chính là thứ đã rời khỏi một tấm ốp kỹ thuật như một mảng san hô khô, trong một căn phòng, bốn ngày trước, và cái ở bên trong nó đã được bỏ vào một cái hộp và đem ra khỏi tòa nhà lúc mười giờ hai mươi tối chủ nhật hôm đó, trong một thùng niêm phong có số kiểm kê ghi trên thùng và có chữ ký của một cô gái trên tờ phiếu.
+Tấm lưới nằm bên dưới Tầng ngầm 7. Nó đã nằm bên dưới khu đất này từ năm 1941. Buồng kín đã lớn dần cho tới khi bít kín, và buồng kín chính là thứ đã rời khỏi một tấm ốp kỹ thuật như một mảng san hô khô, trong một căn phòng, bốn ngày trước, và cái ở bên trong nó đã được bỏ vào một cái hộp và đem ra khỏi tòa nhà lúc mười giờ hai mươi tối Chủ nhật hôm đó, trong một thùng niêm phong có số kiểm kê ghi trên thùng và có chữ ký của một cô gái trên tờ phiếu.
 
 Nghĩa là cái thứ đang vận hành bộ chuyển dịch không hề có nguồn, và đã không có nguồn suốt bốn ngày, và dẫu thế vẫn đang chạy.
 
@@ -7170,7 +7170,7 @@ Nó mất của cậu mười một phút, và cậu có một tờ khăn giấy
 
 "Và nguồn là—"
 
-"Hai người," Eli Park nói. "Thay vì ba mươi chín. Vì ta mở tấm lưới. Không phải để rút năng lượng ra khỏi nó. Mà để đưa nó *ra khỏi cái lồng*, và đặt nó vào trong một *hộp chứa*, có đồng hồ đo, có một cái tên, có chữ ký của một người canh, và đó là điều đã bất khả từ 1941, và nó bất khả vì không ai có thể *hỏi* tấm lưới xem nó có giữ được một mạch mà không có cái lồng bao quanh hay không, vì hỏi nó nghĩa là nói chuyện với nó, và nói chuyện với nó nghĩa là một cộng hưởng, và cộng hưởng duy nhất trong tòa nhà này mà tấm lưới từng chịu đáp lại là —"
+"Hai người," Eli Park nói. "Thay vì ba mươi chín. Vì ta mở tấm lưới. Không phải để rút năng lượng ra khỏi nó. Mà để đưa nó *ra khỏi cái lồng*, và đặt nó vào trong một *buồng kín*, có đồng hồ đo, có một cái tên, có chữ ký của một người canh, và đó là điều đã bất khả từ 1941, và nó bất khả vì không ai có thể *hỏi* tấm lưới xem nó có giữ được một mạch mà không có cái lồng bao quanh hay không, vì hỏi nó nghĩa là nói chuyện với nó, và nói chuyện với nó nghĩa là một cộng hưởng, và cộng hưởng duy nhất trong tòa nhà này mà tấm lưới từng chịu đáp lại là —"
 
 Mọi cái đầu trong giảng đường đều quay về phía cuối giảng đường.
 
@@ -7236,11 +7236,11 @@ Rồi Mei-Hua Chen — dì của cô, người mà cô đã gặp nói chuyện 
 
 Osei đọc to các điều khoản. Bà đọc to chúng vì điều đó được Wei Chen đề xuất trong một bản ghi nhớ bằng văn bản gồm chín đoạn, vì không ai nghĩ ra được cách làm nào tốt hơn, và vì bác sĩ Amara Osei đã nói, khi người ta đề xuất với bà, *ông đang yêu cầu tôi làm viên chức của văn tự, và tôi sẽ nói có, và tôi muốn được ghi nhận rằng tôi nói có trước khi đọc bảng điều khoản, rằng tôi đọc nó sau đó, và rằng tôi sẽ nói có thêm lần nữa*, và sau đó bà đã đọc nó, và đã trở nên cùng màu với bức tường.
 
-"Phụ lục B. Điều một. Khe hở là vết lỗi ở tấm lưới phía đông của Magnus Conduit, được mô tả trong báo cáo của kỹ sư ngày một tháng Mười, và người nộp đơn sẽ được hai người đặt vào vị trí và sẽ giữ nguyên vị trí đó cho đến khi được viên chức thả ra hoặc cho đến khi viên chức qua đời, tùy điều nào đến trước, và kỹ sư đã đưa ra ước tính thời gian chịu tải là bốn giờ và đã nói bằng văn bản rằng thời gian chịu tải không phải là giới hạn đối với mạng sống của người nộp đơn mà là giới hạn đối với khả năng của viên chức khi giữ cô ấy ở vị trí đó mà không gây thương tổn, và tôi muốn câu ấy được đọc trong căn phòng này đúng như nó được viết, vì đó là câu duy nhất trong toàn bộ giấy tờ này mà từng có người cẩn trọng với nó."
+"Phụ lục B. Điều một. Khe hở là vết nứt ở tấm lưới phía đông của Kênh Magnus, được mô tả trong báo cáo của kỹ sư ngày một tháng Mười, và người nộp đơn sẽ được hai người đặt vào vị trí và sẽ giữ nguyên vị trí đó cho đến khi được viên chức thả ra hoặc cho đến khi viên chức qua đời, tùy điều nào đến trước, và kỹ sư đã đưa ra ước tính thời gian chịu tải là bốn giờ và đã nói bằng văn bản rằng thời gian chịu tải không phải là giới hạn đối với mạng sống của người nộp đơn mà là giới hạn đối với khả năng của viên chức khi giữ cô ấy ở vị trí đó mà không gây thương tổn, và tôi muốn câu ấy được đọc trong căn phòng này đúng như nó được viết, vì đó là câu duy nhất trong toàn bộ giấy tờ này mà từng có người cẩn trọng với nó."
 
 Bốn giờ.
 
-"Đó là toàn bộ sự việc," Osei nói. "Bốn giờ giữ. Và rồi thì xong, vết lỗi được lót, khe hở được đóng, và không có phiên bản nào của chuyện này mà em đi ra được."
+"Đó là toàn bộ sự việc," Osei nói. "Bốn giờ giữ. Và rồi thì xong, vết nứt được lót, khe hở được đóng, và không có phiên bản nào của chuyện này mà em đi ra được."
 
 "Không tồn tại," Wei Chen nói.
 
@@ -7308,7 +7308,7 @@ Lyra nhìn ông một lúc.
 
 Cô nhìn sang dì mình.
 
-"Một. Khi tấm lưới được mở, nó sẽ được mở bởi một người nào đó không phải tôi. Tôi sẽ đọc nó từ vết lỗi và tôi sẽ hỏi nó câu hỏi ấy, rồi tôi sẽ không còn ở trong phòng, vì tôi sẽ ở trong vết lỗi, và vì tôi đã ở trong một cỗ máy bốn ngày và đã phát hiện mình cực kỳ giỏi việc là người duy nhất làm một việc, và chính điều đó đã đưa Milo Reyes vào một giường bệnh."
+"Một. Khi tấm lưới được mở, nó sẽ được mở bởi một người nào đó không phải tôi. Tôi sẽ đọc nó từ vết nứt và tôi sẽ hỏi nó câu hỏi ấy, rồi tôi sẽ không còn ở trong phòng, vì tôi sẽ ở trong vết nứt, và vì tôi đã ở trong một cỗ máy bốn ngày và đã phát hiện mình cực kỳ giỏi việc là người duy nhất làm một việc, và chính điều đó đã đưa Milo Reyes vào một giường bệnh."
 
 "Hai. Khi văn tự được hoàn tất, sẽ có một bảng điều khoản. Không phải Phụ lục B. Một bảng điều khoản được *công bố*. Tên, ngày, các ngưỡng, số giờ, số lần nó đã được dùng, và số lần nó sẽ được dùng tiếp, trên một cái bảng, trong tòa nhà này, nơi hai trăm sinh viên có thể đọc nó, vĩnh viễn. Tôi đã thấy những cái bảng của các người làm điều gì. Tôi đã đọc một cái từ thứ Hai. Thứ Hai, trên đó có bốn con số và bây giờ có năm, và cho đến thứ Sáu tôi còn không biết con số thứ năm là một *bộ thu nỗi sợ* nằm dưới một phòng gym, và *phải có ai đó viết cái bảng thứ năm*."
 
@@ -7370,7 +7370,7 @@ Wei Chen ký vào lúc sáu giờ hai mươi bốn, và nét ký không đều, 
 
 Rồi họ đặt ông vào vị trí.
 
-Chuyện này không kịch tính. Đó là điều Lyra nói về sau, với khoảng bốn người, và là điều cô cẩn trọng nhất. Không kịch tính: có một chiếc xe đẩy, có một hộp chứa, có hai người đặt một người đàn ông năm mươi ba tuổi với một trái tim hỏng nằm nghiêng một bên trong một hốc của một cỗ máy dưới một tầng hầm, và mất mười một phút, và một trong hai người làm việc đó mười chín tuổi và đang khóc mà không tạo ra lấy một âm thanh, và những người canh đã được báo trước về chuyện này và đã mang ra khỏi phòng một chiếc ghế cho cô ấy.
+Chuyện này không kịch tính. Đó là điều Lyra nói về sau, với khoảng bốn người, và là điều cô cẩn trọng nhất. Không kịch tính: có một chiếc xe đẩy, có một buồng kín, có hai người đặt một người đàn ông năm mươi ba tuổi với một trái tim hỏng nằm nghiêng một bên trong một hốc của một cỗ máy dưới một tầng hầm, và mất mười một phút, và một trong hai người làm việc đó mười chín tuổi và đang khóc mà không tạo ra lấy một âm thanh, và những người canh đã được báo trước về chuyện này và đã mang ra khỏi phòng một chiếc ghế cho cô ấy.
 
 "Lyra." Khuôn mặt người cha cách chừng một foot, trong ánh sáng xấu. "Hai điều, nhanh thôi, rồi bố sẽ yêu cầu con ngừng khóc, vì bố có bốn giờ và bố muốn một giờ trong số đó."
 
@@ -7380,7 +7380,7 @@ Chuyện này không kịch tính. Đó là điều Lyra nói về sau, với kh
 
 "Bố—"
 
-"Điều thứ hai." Ông nhìn vào hộp chứa, không nhìn cô. "Mẹ con đã viết, vào tháng Hai trước khi con chào đời, ở một trang viết về con: *con bé sẽ cần được thấu hiểu, chứ không phải được bảo vệ.* Hai tuần nay bố cứ ôm câu đó trong đầu, và nó chẳng có tác dụng gì cả, và bố muốn con biết rằng bố đã chuyển tiếp nó. Trong hành lang, hôm chủ nhật, cho một cỗ máy, khi con nhờ bố xuống. Bố đã chuyển tiếp nó. Bố không biết cỗ máy hiểu nó thành gì, và bố không ở vị trí đọc được đường ghi, và bố muốn điều đó được ghi vào biên bản như việc cuối cùng bố làm."
+"Điều thứ hai." Ông nhìn vào buồng kín, không nhìn cô. "Mẹ con đã viết, vào tháng Hai trước khi con chào đời, ở một trang viết về con: *con bé sẽ cần được thấu hiểu, chứ không phải được bảo vệ.* Hai tuần nay bố cứ ôm câu đó trong đầu, và nó chẳng có tác dụng gì cả, và bố muốn con biết rằng bố đã chuyển tiếp nó. Trong hành lang, hôm Chủ nhật, cho một cỗ máy, khi con nhờ bố xuống. Bố đã chuyển tiếp nó. Bố không biết cỗ máy hiểu nó thành gì, và bố không ở vị trí đọc được đường ghi, và bố muốn điều đó được ghi vào biên bản như việc cuối cùng bố làm."
 
 ---
 
@@ -7410,7 +7410,7 @@ Osei nhìn đường ghi. Nó chuyển từ phẳng thành một hình dạng v�
 
 Các số đọc kỹ thuật hiện lên trước mặt bà theo một thứ tự bà chưa từng thấy chúng hiện lên, và bà ghi các mốc thời gian bằng chính tay mình ra mặt sau của một mẫu đơn, vì trên chiếc xe đẩy không có tờ giấy nào:
 
-*18:41 — định vị được vết lỗi, rộng một bàn tay, giữ ở 61%.*
+*18:41 — định vị được vết nứt, rộng một bàn tay, giữ ở 61%.*
 *19:04 — bắt đầu chuyển nguồn. Tấm lưới bắt đầu chạy không lồng. 44%.*
 *19:40 — 44%. Không thay đổi. Tấm lưới không xả và không hỏng.*
 *20:15 — 43%.*
@@ -7418,7 +7418,7 @@ Các số đọc kỹ thuật hiện lên trước mặt bà theo một thứ t�
 *22:30 — 38%.*
 *23:12 — 36%.*
 
-Và lúc 23:12, giữa lòng một căn phòng bốn trăm mét dưới một ngọn núi, trong một cỗ máy được dựng năm 1941 bởi một người đàn ông đã niêm kín một hộp chứa rồi chết trên giường mười một tháng sau đó, ba mươi chín mẫu hình đã bị giam giữ từ khi chiến tranh kết thúc bèn rã ra, từng cái một, theo một thứ tự mà Mei-Hua Chen đã ghi vào biên bản của buổi mở hồ sơ vụ bốn mươi mốt và mà không một ai từng mạo muội giải thích.
+Và lúc 23:12, giữa lòng một căn phòng bốn trăm mét dưới một ngọn núi, trong một cỗ máy được dựng năm 1941 bởi một người đàn ông đã niêm kín một buồng kín rồi chết trên giường mười một tháng sau đó, ba mươi chín mẫu hình đã bị giam giữ từ khi chiến tranh kết thúc bèn rã ra, từng cái một, theo một thứ tự mà Mei-Hua Chen đã ghi vào biên bản của buổi mở hồ sơ vụ bốn mươi mốt và mà không một ai từng mạo muội giải thích.
 
 ---
 
@@ -7426,7 +7426,7 @@ Họ đã không được phóng thích.
 
 Đó là câu đã bị giằng co suốt mười một tháng, qua ba tòa hội đồng và hai cuộc điều tra, là câu mà Thượng hội đồng Kyoto đã chính thức phản bác vào tháng Ba, là câu mà Tiến sĩ Mei-Hua Chen đã viết vào trang đầu tiên của sổ đăng ký vụ bốn mươi mốt, kèm theo một ngày tháng, và nó là câu này:
 
-*Họ đã được đặt vào lớp lót, trong một hộp chứa, với một máy đo và một chữ ký người canh, và họ đã được giữ, và vẫn đang được giữ, và từng người một đều được đối chiếu rõ ràng, theo tên, theo mẫu hình, theo ngày họ được đưa vào, và theo ngày chết của họ khi có ngày chết, và ba mươi bảy trong các ngày đó thuộc khoảng 1941 đến 1953 và hai ngày là 2013, và một trong hai là một cô gái mười lăm tuổi còn sống, đang ở Bellhaven, và mẹ con bé đã được báo tin.*
+*Họ đã được đặt vào lớp lót, trong một buồng kín, với một máy đo và một chữ ký người canh, và họ đã được giữ, và vẫn đang được giữ, và từng người một đều được đối chiếu rõ ràng, theo tên, theo mẫu hình, theo ngày họ được đưa vào, và theo ngày chết của họ khi có ngày chết, và ba mươi bảy trong các ngày đó thuộc khoảng 1941 đến 1953 và hai ngày là 2013, và một trong hai là một cô gái mười lăm tuổi còn sống, đang ở Bellhaven, và mẹ con bé đã được báo tin.*
 
 *Và họ không tự do. Họ chưa bao giờ sẽ được tự do. Toàn bộ chuyện này là họ bây giờ được giữ trong một nơi có tên đề lên, thay vì một nơi có nắp đậy xuống, và đó là trọn vẹn sự khác biệt, và đó không phải là một sự khác biệt nhỏ, và nó là chưa đủ, và tôi đã viết *nó là chưa đủ* ở trang đầu tiên của cuốn sổ đăng ký này và sẽ không để bất kỳ ai lay chuyển tôi khỏi điều đó, kể cả con bé đang ngủ ở tầng trên.*
 
@@ -7450,7 +7450,7 @@ Họ đã không được phóng thích.
 
 "Bốn sự kiện."
 
-"Một. Ông ấy đã giữ đường ba giờ bốn mươi mốt phút, thiếu mười chín phút so với mức chúng tôi đã nói với ông là nó sẽ kéo dài, và tôi muốn biên bản ghi rõ rằng người sai về con số là chúng tôi chứ không phải ông ấy, và rằng vết lỗi đã được lót, và lớp lót đã chịu tải, và lớp lót đã làm đúng điều mà phần kỹ thuật nói nó sẽ làm." Bà ấy không ngoảnh lại. "Hai. Ông ấy còn sống. Ba. Ông ấy sẽ không hồi phục. Bốn. Vết chảy máu chưa tái phát và sẽ không tái phát, vì nguồn của vết chảy máu là một vòng phản hồi giữa một người nhìn thấu và một người đàn ông, và người nhìn thấu đang đứng trong một vết lỗi còn người đàn ông đang nằm trong hộp chứa, và vòng ấy không khép, không thể khép, và sẽ không khép ở cả hai chúng tôi, không bao giờ nữa."
+"Một. Ông ấy đã giữ đường ba giờ bốn mươi mốt phút, thiếu mười chín phút so với mức chúng tôi đã nói với ông là nó sẽ kéo dài, và tôi muốn biên bản ghi rõ rằng người sai về con số là chúng tôi chứ không phải ông ấy, và rằng vết nứt đã được lót, và lớp lót đã chịu tải, và lớp lót đã làm đúng điều mà phần kỹ thuật nói nó sẽ làm." Bà ấy không ngoảnh lại. "Hai. Ông ấy còn sống. Ba. Ông ấy sẽ không hồi phục. Bốn. Vết chảy máu chưa tái phát và sẽ không tái phát, vì nguồn của vết chảy máu là một vòng phản hồi giữa một người nhìn thấu và một người đàn ông, và người nhìn thấu đang đứng trong một vết nứt còn người đàn ông đang nằm trong buồng kín, và vòng ấy không khép, không thể khép, và sẽ không khép ở cả hai chúng tôi, không bao giờ nữa."
 
 Không ai nói gì.
 
@@ -7520,7 +7520,7 @@ Mặt bố cô làm một điều mà cô chưa từng thấy nó làm.
 
 "Trong tòa nhà này — và đây không phải là một khẳng định tôn giáo, mà là một khẳng định về *biên bản*, và bố đã làm chuyên gia về các khẳng định biên bản hai mươi mốt năm nay — mẫu hình của một vật đã nằm trong một mạch lâu năm sẽ được lưu giữ trong chính mạch đó, và mạch ở đây chính là căn phòng này, và trong căn phòng này có rất nhiều thứ. Và mẫu hình của mẹ con ở ngay đây, và có đủ mẹ con trong các tầng ngầm của tòa nhà này để lấp đầy một căn hầm, vì mẹ con đã tự đi vào một căn như vậy lúc một giờ rưỡi sáng ngày mười một tháng Chín và đã không đi ra.
 
-"Và bố đã không muốn mẹ con." Mắt ông mở. "Bố đã có năm năm và ngày nào bố cũng khao khát mẹ con, và đêm qua, khi bố nằm trong một khe hở, ở phía sai của một thứ do chính bố xây nên, trong bóng tối, với một tấm lưới trước mặt và một cô gái mười chín tuổi ở đầu kia của một vết lỗi — bố đã không muốn mẹ con chút nào. Bố muốn *công việc*. Bố muốn phương trình. Bố muốn một cô gái trong hố có thể đọc một cái lồng mà không cần người phiên dịch, và bố muốn nó thành công, và bố muốn mình là người kết thúc nó.
+"Và bố đã không muốn mẹ con." Mắt ông mở. "Bố đã có năm năm và ngày nào bố cũng khao khát mẹ con, và đêm qua, khi bố nằm trong một khe hở, ở phía sai của một thứ do chính bố xây nên, trong bóng tối, với một tấm lưới trước mặt và một cô gái mười chín tuổi ở đầu kia của một vết nứt — bố đã không muốn mẹ con chút nào. Bố muốn *công việc*. Bố muốn phương trình. Bố muốn một cô gái trong hố có thể đọc một cái lồng mà không cần người phiên dịch, và bố muốn nó thành công, và bố muốn mình là người kết thúc nó.
 
 "Giống hệt điều mẹ con đã viết lên một bức tường năm 2002. *Nó là một cánh cửa, và tôi sẽ không phải là người mở nó, vì ai đến được đây cũng đã được bảo rằng đó là con đường duy nhất.* Và đêm qua bố nằm trong bóng tối và với tay về phía mẹ con, và thứ đến với bố là *một câu trả lời*." Ông nuốt. "Và nó là một phép tính. Và nó là của mẹ con. Và nó không phải là mẹ con."
 
@@ -7544,7 +7544,7 @@ Con bé bước vào phòng máy nơi bố cô đang nằm, nhìn ông một lú
 
 "Em biết ông ấy đang thở." Elara Vance ngồi xuống sàn, bắt chéo chân, giữa căn phòng mà trong đó một người đàn ông đang chết dần, đặt hai tay lên gối, và nhìn hoa văn trên hai cẳng tay của ông rất lâu.
 
-"Nó giống của em y hệt," con bé nói. "Y hệt của em. Em cảm nhận được nó từ đây. Bởi vậy em mới biết đường nằm ở đâu, vì nó giống hệt — " con bé dừng. "Bởi vậy em biết giờ đường đã được lót. Vì nó có cùng hình dáng với vết lỗi, và vết lỗi thì đã được lót, còn hôm thứ Sáu thì chưa."
+"Nó giống của em y hệt," con bé nói. "Y hệt của em. Em cảm nhận được nó từ đây. Bởi vậy em mới biết đường nằm ở đâu, vì nó giống hệt — " con bé dừng. "Bởi vậy em biết giờ đường đã được lót. Vì nó có cùng hình dáng với vết nứt, và vết nứt thì đã được lót, còn hôm thứ Sáu thì chưa."
 
 "Cậu cảm nhận được lớp lót," Eli Park nói.
 
@@ -7584,7 +7584,7 @@ Và sáng hôm sau, cô đi xuống Tầng ngầm 2, tới một khu giam có kh
 
 Cô đứng cách ông khoảng sáu feet và đặt hai tay ra sau lưng, vì cô đã phát hiện trong bốn ngày qua rằng khi đưa tay ra phía trước, chúng bị đọc thành *sự với tới*, và trong tuần đó cô đã đọc quá nhiều sự với tới rồi.
 
-"Vụ này đã được lót," cô nói. "Nó nằm trong một hộp chứa, có đồng hồ đo, có chữ ký người canh. Nó có trên một tấm bảng. Có một tờ biểu mẫu, có một lịch trình, và có một cô gái ngồi trên sàn với một tờ khăn giấy, người sẽ phiền phức không chịu nổi vì chuyện đó suốt bốn mươi năm nữa."
+"Vụ này đã được lót," cô nói. "Nó nằm trong một buồng kín, có đồng hồ đo, có chữ ký người canh. Nó có trên một tấm bảng. Có một tờ biểu mẫu, có một lịch trình, và có một cô gái ngồi trên sàn với một tờ khăn giấy, người sẽ phiền phức không chịu nổi vì chuyện đó suốt bốn mươi năm nữa."
 
 "Đó là—" Ông dừng. Nói lại. "Đó là nhiều hơn hẳn những gì tôi ngờ tới và ít hơn phần nào những gì tôi hy vọng, và cả hai điều đó đều đúng, và tôi muốn biết em nghĩ tôi đã làm gì."
 
@@ -7598,7 +7598,7 @@ Khuôn mặt ông tệ hơn hôm chủ nhật. Nó mang thêm hai tuần mà hô
 
 "Được."
 
-"**Một.** Tôi đã chế tạo ra nó. Tôi muốn điều đó được nói ngay trong căn phòng em đang đứng, trong một căn phòng tốt, dưới ánh sáng ban ngày, với một người đã đi xuống đây vì một người phụ nữ với tấm bảng kẹp giấy đã cho phép. Tôi đã chế tạo cỗ máy. Tôi không biết gì về hộp chứa, và đó là một *lý lẽ bào chữa*, và tôi chưa từng một lần đứng trước một người và đưa ra nó, và tôi biết đó là một lý lẽ bào chữa và tôi biết nó là của tôi, và tôi sẽ không đặt nó ra trước Hội đồng, và tôi muốn ở một biên bản nào đó ghi rõ rằng tôi đã từ chối đặt nó ra trước Hội đồng, vì một người đàn ông không đặt lý lẽ bào chữa của chính mình ra trước một tòa hội đồng là người đã hiểu được một điều gì đó về các tòa hội đồng, và tôi muốn có ai đó biết rằng tôi đã nghĩ ra điều đó vào khoảng bốn giờ sáng nay, rất muộn, trong một cơn ác mộng."
+"**Một.** Tôi đã chế tạo ra nó. Tôi muốn điều đó được nói ngay trong căn phòng em đang đứng, trong một căn phòng tốt, dưới ánh sáng ban ngày, với một người đã đi xuống đây vì một người phụ nữ với tấm bảng kẹp giấy đã cho phép. Tôi đã chế tạo cỗ máy. Tôi không biết gì về buồng kín, và đó là một *lý lẽ bào chữa*, và tôi chưa từng một lần đứng trước một người và đưa ra nó, và tôi biết đó là một lý lẽ bào chữa và tôi biết nó là của tôi, và tôi sẽ không đặt nó ra trước Hội đồng, và tôi muốn ở một biên bản nào đó ghi rõ rằng tôi đã từ chối đặt nó ra trước Hội đồng, vì một người đàn ông không đặt lý lẽ bào chữa của chính mình ra trước một tòa hội đồng là người đã hiểu được một điều gì đó về các tòa hội đồng, và tôi muốn có ai đó biết rằng tôi đã nghĩ ra điều đó vào khoảng bốn giờ sáng nay, rất muộn, trong một cơn ác mộng."
 
 "**Hai.** Tôi không biết gì về Elara Vance."
 
@@ -7663,7 +7663,7 @@ Eli Park đặt bút xuống, và nhìn tấm bảng trên cửa, tấm bảng g
 > **THỜI GIAN GIỮ ĐÃ DÙNG:** 3 giờ 41 phút. Một lần.
 > **ĐIỂM NEO (kết cấu):** không.
 > **KHE HỞ CÓ NGƯỜI CHIẾM:** một. Xem văn tự. Mọi lần đều được liệt kê.
-> **GHI CHÚ, do tay Chánh Văn phòng:** phía truyền bị giới hạn ở 60% và có một hình trong một vết lỗi và nó không phải là người. Phía truyền bị giới hạn vì vết lỗi chỉ rộng một gang tay. Chưa ai từng nới rộng một vết lỗi trong tòa nhà này. Đó là toàn bộ phần kỹ thuật, và đó là toàn bộ lập trường đạo đức, và nó sẽ còn đúng sau bốn năm và sau bốn mươi.
+> **GHI CHÚ, do tay Chánh Văn phòng:** phía truyền bị giới hạn ở 60% và có một hình trong một vết nứt và nó không phải là người. Phía truyền bị giới hạn vì vết nứt chỉ rộng một gang tay. Chưa ai từng nới rộng một vết nứt trong tòa nhà này. Đó là toàn bộ phần kỹ thuật, và đó là toàn bộ lập trường đạo đức, và nó sẽ còn đúng sau bốn năm và sau bốn mươi.
 > **GHI CHÚ, do tay người nộp đơn:** Tôi không phải là người đầu tiên được đề nghị.
 
 # Chương 34: Lời Thừa Nhận Đầu Tiên
@@ -7684,7 +7684,7 @@ Trong căn phòng có chín chiếc ghế xếp thành một vòng tròn, một 
 
 Lyra ngồi vào chiếc ghế thứ chín. Cô đã xin chiếc ghế thứ chín và đã được trao đúng chiếc ghế thứ chín, và được trao nó mà không một lời, và cô để ý điều đó, và cô viết lên mu bàn tay mình bằng bút chì rồi bốn ngày sau lại xoá đi, vì cô không định làm một người có nghi thức riêng.
 
-Ủy ban Điều tra về Conduit họp vào một sáng thứ Hai trong tháng Mười, lúc mười một giờ, và nó họp chín ngày thường và không họp cuối tuần, và nó có tên, có một Chủ tịch, một Thư ký, và không có luật sư, vì Chủ tịch Hội đồng đã quyết định ngay trên một hành lang vào thứ Bảy rằng một việc mà trong đó có *luật sư* sẽ là một phiên toà, rằng đây không phải là một phiên toà, và rằng ông là người không phù hợp cho việc đó, và ông đã nói vậy.
+Ủy ban Điều tra về Kênh Magnus họp vào một sáng thứ Hai trong tháng Mười, lúc mười một giờ, và nó họp chín ngày thường và không họp cuối tuần, và nó có tên, có một Chủ tịch, một Thư ký, và không có luật sư, vì Chủ tịch Hội đồng đã quyết định ngay trên một hành lang vào thứ Bảy rằng một việc mà trong đó có *luật sư* sẽ là một phiên toà, rằng đây không phải là một phiên toà, và rằng ông là người không phù hợp cho việc đó, và ông đã nói vậy.
 
 Ông đúng là người không phù hợp cho việc đó. Ông ngồi vào chiếc ghế thứ mười, chiếc ghế được thêm vào ngay sáng thứ Hai, và không nói gì suốt hai tiếng, và nắm được lời cuối cùng lúc bốn giờ bằng cách đứng lên nói "Tôi không có gì" rồi ngồi xuống, và đó là việc khó nhất mà bất kỳ ai đã từng chứng kiến ông làm trong năm đó.
 
@@ -7746,7 +7746,7 @@ Luật sư có mặt ở đó khoảng hai mươi phút và đã không dùng t�
 
 "Tôi đã dựng nên nó.
 
-"Tôi không biết về hộp chứa, và đó là một lý lẽ biện hộ, và tôi sẽ không đưa ra nó, và tôi muốn bản ghi chép ghi rõ rằng tôi đã từ chối đưa ra nó, vì một người đàn ông từ chối đưa ra lý lẽ biện hộ cho chính mình trước một cuộc điều tra đã hiểu ra điều gì đó về các cuộc điều tra.
+"Tôi không biết về buồng kín, và đó là một lý lẽ biện hộ, và tôi sẽ không đưa ra nó, và tôi muốn bản ghi chép ghi rõ rằng tôi đã từ chối đưa ra nó, vì một người đàn ông từ chối đưa ra lý lẽ biện hộ cho chính mình trước một cuộc điều tra đã hiểu ra điều gì đó về các cuộc điều tra.
 
 "Tôi đã ký một tấm thẻ vào ngày mười một tháng Chín mà không đọc nó, và trong tòa nhà này có một ngăn kéo mang tên tôi, và tấm thẻ ghi chữ *tình nguyện viên* bằng chính nét chữ của tôi, và nó không ghi *cô bé mười lăm tuổi*, và cả bốn điều đó đều đúng và đều nằm sẵn trong tầm tay tôi, và tôi đã không viết chúng ra, vì nếu tôi có viết chúng ra, tôi đã phải giao nộp chiếc ngăn kéo ấy.
 
@@ -7766,7 +7766,7 @@ Họ hỏi ông ta. Không phải Lyra — Chủ tịch hỏi ông ta, đó là 
 
 Ông ta trả lời trong hai tiếng mười một phút.
 
-Ông ta kể cho họ nghe về năm 1941, về một người đàn ông đã dựng một cái lồng và nhét người anh em ruột đang hấp hối của mình vào trong đó và rồi chết trên một chiếc giường mười một tháng sau, và đã hàn kín hộp chứa và để lại một mảnh giấy nói rằng ông ta đã làm một việc lớn lao và cần thiết, và rằng ông ta lấy làm tiếc.
+Ông ta kể cho họ nghe về năm 1941, về một người đàn ông đã dựng một cái lồng và nhét người anh em ruột đang hấp hối của mình vào trong đó và rồi chết trên một chiếc giường mười một tháng sau, và đã hàn kín buồng kín và để lại một mảnh giấy nói rằng ông ta đã làm một việc lớn lao và cần thiết, và rằng ông ta lấy làm tiếc.
 
 Ông ta kể về tháng Tư, về một khu vườn, về một đứa trẻ bảy tuổi đang bước về phía một thứ gì đó, và ông ta kể bằng cái giọng đều đều của một người đàn ông đang đọc báo cáo, và bản ghi chép ghi lại rằng bốn người trong căn phòng đã ngừng thở, và một trong bốn người đó là Chủ tịch.
 
@@ -7812,7 +7812,7 @@ Lyra ngồi trên sàn một hành lang trong một đài thiên văn và chủ 
 
 ---
 
-*Ủy ban Điều tra về Conduit, biên bản họp ngày thứ tư.*
+*Ủy ban Điều tra về Kênh Magnus, biên bản họp ngày thứ tư.*
 
 *Chủ tịch đã chỉ đạo rằng nội dung dưới đây được đọc vào biên bản trước mọi công việc khác vào ngày thứ năm, và rằng nó được đọc trong phạm vi nghe của hai người bị ảnh hưởng:*
 
@@ -7993,7 +7993,7 @@ Lyra Chen được phép vào căn phòng phía sau trong cuộc bỏ phiếu v�
 
 # Tiểu Khúc: Việc Sửa Chữa
 
-> "Một vết thương trong mạng Weave là một vết thương trong thế giới. Nó không thể được vá bởi một bàn tay duy nhất, cũng không bởi một truyền thống duy nhất. Chữa lành đích thực là một dàn hợp xướng, và dàn hợp xướng không phải là một bài diễn văn: nó là mười một người nói những điều hơi khác nhau trong cùng một căn phòng, và không ai trong số họ là giai điệu."
+> "Một vết thương trong Weave là một vết thương trong thế giới. Nó không thể được vá bởi một bàn tay duy nhất, cũng không bởi một truyền thống duy nhất. Chữa lành đích thực là một dàn hợp xướng, và dàn hợp xướng không phải là một bài diễn văn: nó là mười một người nói những điều hơi khác nhau trong cùng một căn phòng, và không ai trong số họ là giai điệu."
 >
 > — Những câu nói được sưu tầm của Hội đồng Truyền Thống Đầu Tiên, được trích dẫn mà không ghi nguồn bởi một người phụ nữ tám mươi mốt tuổi trong một căn bếp trên Ellery Street, người nói rằng bà đã tự bịa ra chúng, và người đã được tin.
 
@@ -8041,7 +8041,7 @@ Năm: Nơi Trú Ẩn. Đã mở. Chính thức, công khai, trong căn phòng c�
 
 Bốn trăm lẻ chín người đến dự buổi khai mở. Hai trăm mười một người đến Hiệp Ước. Và người đàn ông từ ngôi làng cách bốn trăm dặm ấy đã đến hai lần, để lại bốn mục trong quyển sổ thứ hai, và mục thứ ba trong số đó là tên của dì vợ ông, cái tên không có trong quyển sổ đầu, và giờ đây có mặt trong mọi bản sao.
 
-Sáu: Maze. Cổng vòm. Đã dựng lại, và đó là thứ duy nhất trong cuốn sách này mà người ta từng làm sai đến hai lần, và nó lại sai thêm một lần theo một cách đáng được ghi lại, vì bản ghi chép chính là điều cốt yếu: cây cổng vòm 2014, dựng theo đúng chỉ đạo của chính Weaver, đã đặt những nút dây Trung Hoa trở lại đúng như chúng đã ở năm 1954, vì đó là những gì bản vẽ năm 1954 cho thấy, và một sinh viên năm nhất của khóa tuần thứ ba đã đến xem nó, rồi đi xem trụ bên trái, rồi tìm ra một bà cụ chín mươi tuổi trong một viện dưỡng lão ở thung lũng bên cạnh, người đã làm phiên bản 1941 bằng lụa và giữ nó trong một hộp thiếc.
+Sáu: Mê Cung. Cổng vòm. Đã dựng lại, và đó là thứ duy nhất trong cuốn sách này mà người ta từng làm sai đến hai lần, và nó lại sai thêm một lần theo một cách đáng được ghi lại, vì bản ghi chép chính là điều cốt yếu: cây cổng vòm 2014, dựng theo đúng chỉ đạo của chính Weaver, đã đặt những nút dây Trung Hoa trở lại đúng như chúng đã ở năm 1954, vì đó là những gì bản vẽ năm 1954 cho thấy, và một sinh viên năm nhất của khóa tuần thứ ba đã đến xem nó, rồi đi xem trụ bên trái, rồi tìm ra một bà cụ chín mươi tuổi trong một viện dưỡng lão ở thung lũng bên cạnh, người đã làm phiên bản 1941 bằng lụa và giữ nó trong một hộp thiếc.
 
 Bà đã giữ nó trong hộp thiếc bảy mươi hai năm. Đó là một mẩu lụa bốn inch và nó mất mười một tháng để làm, và nó *sai một cách cố ý*, ở ba chỗ, và cái sai thứ ba là chiếc nút lỏng trên trụ bên trái, và khi người ta hỏi bà về nó, bà nói:
 
@@ -8177,7 +8177,7 @@ Không phải tất cả. Cô ấy đọc hai mươi ba cái tên, vì đó là 
 
 Cái tên cuối cùng cô ấy đọc là của một bé trai tên **Kenji Nakamura**, tám tuổi, không có địa chỉ cố định, người Hokkaido, bé đã ở trong một hố bom cách tòa nhà đó ba phẩy hai ki-lô-mét vào ngày mười bốn tháng Chín và đã tự đi ra khỏi đó, còn người chị em của bé thì không.
 
-"Có một cô gái ngồi hàng ghế thứ ba," nói Chủ tịch, sau đó, "người đã từng nằm trong một hốc tường bên dưới tòa nhà này — một trong ba mươi chín người, và chính em là lý do khiến bốn người trong hộp chứa thứ hai từng được tách ra đếm riêng, bởi vì khi Hội đồng lập ra con số bốn mươi ba, nó đã cộng một tấm lưới vào một hộp chứa và không ai hỏi về cả bốn — và em còn sống, và mẹ của em đã được báo tin, và em mười lăm tuổi. Em đã xin được phát biểu, và tôi sẽ nói một điều tôi chưa từng nói ở bất kỳ buổi nào như thế này, và tôi rất lấy làm tiếc, cô Vance, tôi sẽ không cho em làm điều đó."
+"Có một cô gái ngồi hàng ghế thứ ba," nói Chủ tịch, sau đó, "người đã từng nằm trong một hốc tường bên dưới tòa nhà này — một trong ba mươi chín người, và chính em là lý do khiến bốn người trong buồng kín thứ hai từng được tách ra đếm riêng, bởi vì khi Hội đồng lập ra con số bốn mươi ba, nó đã cộng một tấm lưới vào một buồng kín và không ai hỏi về cả bốn — và em còn sống, và mẹ của em đã được báo tin, và em mười lăm tuổi. Em đã xin được phát biểu, và tôi sẽ nói một điều tôi chưa từng nói ở bất kỳ buổi nào như thế này, và tôi rất lấy làm tiếc, cô Vance, tôi sẽ không cho em làm điều đó."
 
 "Là lần thứ hai rồi," nói Elara Vance.
 
