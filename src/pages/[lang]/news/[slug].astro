@@ -1,0 +1,97 @@
+---
+import Base from '../../../layouts/Base.astro'
+import Page from '../../../components/Page.astro'
+import ThreadDivider from '../../../components/ThreadDivider.astro'
+import { isLocale, LOCALES, type Locale } from '../../../lib/chapters'
+import { t, localeMeta } from '../../../lib/i18n'
+import { jsonLd, keywordsFor, localePath } from '../../../lib/seo'
+import { newsPosts } from '../../../lib/content'
+import { renderMarkdown } from '../../../lib/markdown'
+
+export function getStaticPaths() {
+  return LOCALES.flatMap((lang) =>
+    newsPosts.map((post) => ({
+      params: { lang, slug: post.slug },
+      props: { slug: post.slug, locale: lang as Locale },
+    })),
+  )
+}
+
+const { slug, locale } = Astro.props
+const lang = Astro.params.lang!
+if (!isLocale(lang)) return Astro.redirect('/en/news/')
+const post = newsPosts.find((p) => p.slug === slug)
+if (!post) return Astro.redirect(`/${lang}/news/`)
+
+const tr = (k: Parameters<typeof t>[1]) => t(locale, k)
+const path = `/news/${post.slug}`
+const title = `${post.title[locale]} — ${locale === 'vi' ? 'Những Người Thấy Sợi Chỉ' : 'The Thread Seers'}`
+const description = post.excerpt[locale]
+
+const crumb = [
+  { name: locale === 'vi' ? 'Trang chủ' : 'Home', path: '/' },
+  { name: locale === 'vi' ? 'Tin tức' : 'News', path: '/news' },
+  { name: post.title[locale], path },
+]
+
+const schema = jsonLd({
+  locale,
+  path,
+  title,
+  description,
+  type: 'article',
+  publishedTime: post.date,
+  crumb,
+  withBook: true,
+})
+
+const html = renderMarkdown(post.body[locale])
+const dateFmt = locale === 'vi' ? 'vi-VN' : 'en-US'
+---
+
+<Base
+  locale={locale}
+  path={path}
+  title={title}
+  description={description}
+  keywords={keywordsFor(locale, 'author update')}
+  jsonLd={schema}
+  type="article"
+  publishedTime={post.date}
+>
+  <Page locale={locale} path="/news">
+    <div class="mx-auto max-w-reading px-6 py-16 lg:py-24">
+      <time class="eyebrow block" datetime={post.date}>
+        {new Date(post.date).toLocaleDateString(dateFmt, {
+          year: 'numeric',
+          month: 'long',
+          day: 'numeric',
+        })}
+      </time>
+      <h1 class="mt-5 font-display text-h1 font-light text-text-primary">
+        {post.title[locale]}
+      </h1>
+      <ThreadDivider class="mb-10 mt-10" />
+
+      <div class="prose-reader" set:html={html} />
+
+      <div class="mt-16 border-t border-text-primary/10 pt-6">
+        <a href={localePath(locale, '/news')} class="ghost-link text-text-secondary hover:text-text-primary">
+          ← {tr('news.back')}
+        </a>
+        {
+          LOCALES.filter((l) => l !== locale).map((l) => (
+            <a
+              href={localePath(l, path)}
+              hreflang={localeMeta[l].htmlLang}
+              lang={localeMeta[l].htmlLang}
+              class="ghost-link ml-6 text-sm text-text-muted hover:text-text-primary"
+            >
+              {l === 'vi' ? 'Bản tiếng Việt' : 'English'}
+            </a>
+          ))
+        }
+      </div>
+    </div>
+  </Page>
+</Base>

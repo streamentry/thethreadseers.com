@@ -1,0 +1,223 @@
+---
+import Base from '../../layouts/Base.astro'
+import Page from '../../components/Page.astro'
+import SeerQuiz from '../../components/SeerQuiz.astro'
+import ThreadDivider from '../../components/ThreadDivider.astro'
+import { isLocale } from '../../lib/chapters'
+import { t } from '../../lib/i18n'
+import { THREAD, threadIndex, seer, tradition, glossary, pick } from '../../lib/content'
+import { jsonLd, keywordsFor } from '../../lib/seo'
+import { fieldNotes } from '../../lib/pages'
+
+export function getStaticPaths() {
+  return [{ params: { lang: 'en' } }, { params: { lang: 'vi' } }]
+}
+
+const lang = Astro.params.lang!
+if (!isLocale(lang)) return Astro.redirect('/en/')
+const locale = lang
+const tr = (k: Parameters<typeof t>[1], v?: Record<string, string | number>) => t(locale, k, v)
+
+const title =
+  locale === 'vi'
+    ? 'Thế giới của Dệt Bộ — từ vựng sợi chỉ và các truyền thống'
+    : 'The world of the Weave — thread glossary and traditions'
+const description =
+  locale === 'vi'
+    ? 'Cách thức Nhãn Sợi hoạt động: Dệt Bộ, Animus Argenti, màu sợi chỉ, sáu loại Người Thấy Sợi, các truyền thống sợi chỉ được dạy ở Học viện Dệt Sợi, và từ vựng đầy đủ.'
+    : 'How thread-sight works: the Weave, the Animus Argenti, thread colours, six kinds of Thread Seer, cultural thread traditions taught at Threadweaver Academy, and a full glossary.'
+
+const schema = jsonLd({
+  locale,
+  path: '/world',
+  title,
+  description,
+  type: 'website',
+  withBook: true,
+})
+
+const seers = seer
+const trads = tradition
+const notes = fieldNotes[locale]
+---
+
+<Base
+  locale={locale}
+  path="/world"
+  title={title}
+  description={description}
+  keywords={keywordsFor(locale, 'thread glossary, Animus Argenti, world guide')}
+  jsonLd={schema}
+  type="website"
+>
+  <Page locale={locale} path="/world">
+    <div class="mx-auto max-w-canvas px-6 py-16 lg:px-8 lg:py-24">
+      <div class="max-w-3xl">
+        <p class="eyebrow">{tr('world.eyebrow')}</p>
+        <h1 class="mt-5 font-display text-h1 font-light text-text-primary">
+          {tr('world.title')}
+        </h1>
+        <p class="mt-6 font-serif text-body leading-relaxed text-text-body">
+          {tr('world.body')}
+        </p>
+      </div>
+
+      {/* Thread index */}
+      <section class="mt-16 lg:mt-24">
+        <ThreadDivider />
+        <div class="mt-12 grid gap-12 lg:mt-16 lg:grid-cols-12">
+          <div class="lg:col-span-4">
+            <h2 class="font-display text-h2 font-normal text-text-primary">
+              {tr('world.index.title')}
+            </h2>
+            <p class="mt-4 font-serif text-body leading-relaxed text-text-body">
+              {tr('world.index.body')}
+            </p>
+          </div>
+          <ol class="lg:col-span-7 lg:col-start-6">
+            {
+              threadIndex.map((entry) => (
+                <li class="flex items-start gap-5 border-t border-text-primary/10 py-5 last:border-b">
+                  <span
+                    aria-hidden="true"
+                    class="mt-1.5 h-3 w-3 shrink-0 rounded-full animate-thread-breathe"
+                    style={`background-color:${THREAD[entry.thread]};${
+                      entry.dark ? 'box-shadow:0 0 0 1px rgba(242,239,230,0.4);' : ''
+                    }`}
+                  />
+                  <div>
+                    <p class="font-mono text-sm tracking-[0.1em] text-text-primary">
+                      {pick(entry.name, locale)}
+                    </p>
+                    <p class="mt-1.5 font-serif text-body leading-relaxed text-text-body">
+                      {pick(entry.note, locale)}
+                    </p>
+                  </div>
+                </li>
+              ))
+            }
+          </ol>
+        </div>
+      </section>
+
+      {/* Seer types */}
+      <section class="mt-16 lg:mt-24">
+        <ThreadDivider />
+        <div class="mt-12 grid gap-12 lg:mt-16 lg:grid-cols-12">
+          <div class="lg:col-span-4">
+            <h2 class="font-display text-h2 font-normal text-text-primary">
+              {tr('world.seers.title')}
+            </h2>
+            <p class="mt-4 font-serif text-body leading-relaxed text-text-body">
+              {tr('world.seers.body')}
+            </p>
+          </div>
+          <ol class="lg:col-span-7 lg:col-start-6">
+            {
+              seers.map((s) => (
+                <li class="grid gap-1 border-t border-text-primary/10 py-5 last:border-b sm:grid-cols-12 sm:gap-4">
+                  <p class="font-mono text-sm tracking-[0.1em] text-accent-thread sm:col-span-4">
+                    {pick(s.name, locale)}
+                  </p>
+                  <p class="font-serif text-body leading-relaxed text-text-body sm:col-span-8">
+                    {pick(s.note, locale)}
+                  </p>
+                </li>
+              ))
+            }
+          </ol>
+        </div>
+      </section>
+
+      {/* Quiz */}
+      <section class="mt-16 lg:mt-24">
+        <ThreadDivider />
+        <div class="mt-12 max-w-3xl lg:mt-16">
+          <p class="eyebrow">{tr('world.quiz.eyebrow')}</p>
+          <h2 class="mt-4 font-display text-h2 font-normal text-text-primary">
+            {tr('world.quiz.title')}
+          </h2>
+          <div class="mt-8">
+            <SeerQuiz />
+          </div>
+        </div>
+      </section>
+
+      {/* Traditions */}
+      <section class="mt-16 lg:mt-24">
+        <ThreadDivider />
+        <div class="mt-12 grid gap-12 lg:mt-16 lg:grid-cols-12">
+          <div class="lg:col-span-4">
+            <h2 class="font-display text-h2 font-normal text-text-primary">
+              {tr('world.traditions.title')}
+            </h2>
+            <p class="mt-4 font-serif text-body leading-relaxed text-text-body">
+              {tr('world.traditions.body')}
+            </p>
+          </div>
+          <ol class="lg:col-span-7 lg:col-start-6">
+            {
+              trads.map((s) => (
+                <li class="grid gap-1 border-t border-text-primary/10 py-5 last:border-b sm:grid-cols-12 sm:gap-4">
+                  <p class="font-mono text-sm tracking-[0.1em] text-text-primary sm:col-span-5">
+                    {pick(s.name, locale)}
+                  </p>
+                  <p class="font-serif text-body leading-relaxed text-text-body sm:col-span-7">
+                    {pick(s.note, locale)}
+                  </p>
+                </li>
+              ))
+            }
+          </ol>
+        </div>
+      </section>
+
+      {/* Academy */}
+      <section class="mt-16 lg:mt-24">
+        <ThreadDivider />
+        <div class="mt-12 grid gap-10 lg:mt-16 lg:grid-cols-12">
+          <div class="lg:col-span-7">
+            <p class="eyebrow">{tr('world.academy.eyebrow')}</p>
+            <h2 class="mt-4 font-display text-h2 font-normal text-text-primary">
+              {tr('world.academy.title')}
+            </h2>
+            <div class="prose-reader mx-0 mt-6 max-w-prose">
+              <p>{tr('world.academy.body')}</p>
+            </div>
+          </div>
+          <div class="lg:col-span-4 lg:col-start-9">
+            <p class="eyebrow">{tr('world.fieldNotes')}</p>
+            <ul class="mt-4 space-y-4 font-serif text-body leading-relaxed text-text-body">
+              {notes.map((n) => <li>{n}</li>)}
+            </ul>
+          </div>
+        </div>
+      </section>
+
+      {/* Glossary */}
+      <section class="mt-16 lg:mt-24">
+        <ThreadDivider />
+        <div class="mt-12 lg:mt-16">
+          <p class="eyebrow">{tr('world.glossary.eyebrow')}</p>
+          <h2 class="mt-4 font-display text-h2 font-normal text-text-primary">
+            {tr('world.glossary.title')}
+          </h2>
+          <dl class="mt-10">
+            {
+              glossary.map((entry) => (
+                <div class="grid gap-1 border-t border-text-primary/10 py-5 last:border-b sm:grid-cols-12 sm:gap-4">
+                  <dt class="font-mono text-sm tracking-[0.1em] text-accent-thread sm:col-span-4">
+                    {pick(entry.term, locale)}
+                  </dt>
+                  <dd class="font-serif text-body leading-relaxed text-text-body sm:col-span-8">
+                    {pick(entry.def, locale)}
+                  </dd>
+                </div>
+              ))
+            }
+          </dl>
+        </div>
+      </section>
+    </div>
+  </Page>
+</Base>

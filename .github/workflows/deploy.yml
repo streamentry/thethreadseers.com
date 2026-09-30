@@ -24,7 +24,7 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '18'
+          node-version: '20'
 
       - name: Setup pnpm
         uses: pnpm/action-setup@v4
@@ -34,7 +34,13 @@ jobs:
       - name: Install dependencies
         run: pnpm install --frozen-lockfile
 
+      # Canonical origin. thethreadseers.com has no DNS record, so the GitHub
+      # project-pages URL is the only live host and the one all canonical URLs,
+      # hreflang, sitemap.xml and JSON-LD point at. Change this and SITE.url in
+      # src/lib/seo.ts together if the custom domain is pointed at Pages later.
       - name: Build
+        env:
+          SITE_URL: 'https://streamentry.github.io/thethreadseers.com'
         run: pnpm run build
 
       - name: Setup Pages

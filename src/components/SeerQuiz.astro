@@ -1,0 +1,213 @@
+---
+/**
+ * Thread Seer quiz. Server-renders the full question and answer data so it is
+ * crawlable and readable without JS; a small inline script does the scoring.
+ */
+import { isLocale } from '../lib/chapters'
+import { quizQuestions, seerTypes } from '../lib/quiz'
+
+export interface Props {
+  class?: string
+}
+const { class: className = '' } = Astro.props
+const locale = isLocale(Astro.params.lang) ? Astro.params.lang : 'en'
+const pick = <T,>(o: { en: T; vi: T }) => (locale === 'vi' ? o.vi : o.en)
+
+const labels = {
+  en: {
+    eyebrow: 'Listen · which thread is yours',
+    title: 'Discover how you would perceive the Weave.',
+    question: 'Question',
+    of: 'of',
+    hearAgain: 'Listen again',
+    yourType: 'Your Thread Seer type',
+    threadsHold: 'Your threads hold',
+    culture: 'Cultural connection',
+  },
+  vi: {
+    eyebrow: 'Lắng nghe · sợi chỉ nào thuộc về bạn',
+    title: 'Khám phá cách bạn sẽ cảm nhận Dệt Bộ.',
+    question: 'Câu hỏi',
+    of: 'trên',
+    hearAgain: 'Lắng nghe lại',
+    yourType: 'Loại Người Thấy Sợi của bạn',
+    threadsHold: 'Sợi chỉ của bạn giữ được',
+    culture: 'Gắn với truyền thống',
+  },
+} as const
+const L = labels[locale]
+---
+
+<div
+  class:list={[
+    'rounded-sm border border-text-primary/15 bg-background-secondary/60 p-8 lg:p-10',
+    className,
+  ]}
+  data-quiz
+  data-locale={locale}
+>
+  <div class="mb-8">
+    <p class="eyebrow">{L.eyebrow}</p>
+    <h3 class="mt-4 font-display text-h3 font-normal text-text-primary">{L.title}</h3>
+  </div>
+
+  <noscript>
+    <p class="font-serif text-body text-text-body">
+      {locale === 'vi'
+        ? 'Bài kiểm tra cần JavaScript. Bạn vẫn có thể đọc toàn bộ Sách Một miễn phí.'
+        : 'The quiz needs JavaScript. You can still read the whole of Book One for free.'}
+    </p>
+  </noscript>
+
+  <div data-quiz-body>
+    <div class="mb-5 flex items-baseline justify-between gap-4">
+      <p class="eyebrow" data-quiz-progress>
+        {L.question} 1 {L.of} {quizQuestions.length}
+      </p>
+      <span class="font-mono text-xs text-text-secondary" aria-hidden="true" data-quiz-counter>
+        01/{String(quizQuestions.length).padStart(2, '0')}
+      </span>
+    </div>
+    <div class="relative mb-6 h-px w-full overflow-hidden bg-text-primary/10" aria-hidden="true">
+      <span class="absolute inset-y-0 left-0 bg-accent-thread transition-all duration-500" data-quiz-fill style="width:0%"></span>
+    </div>
+
+    <p class="mb-6 font-display text-h3 font-normal text-text-primary" data-quiz-question>
+      {pick(quizQuestions[0])}
+    </p>
+    <div class="space-y-1" data-quiz-options>
+      {
+        quizQuestions[0].options.map((opt) => (
+          <button
+            type="button"
+            data-quiz-answer={opt.type}
+            class="group flex min-h-[44px] w-full items-center justify-between gap-4 border-b border-text-primary/10 py-4 text-left transition-colors duration-300 hover:bg-text-primary/[0.03]"
+          >
+            <span class="font-serif text-body text-text-body transition-colors group-hover:text-text-primary">
+              {pick(opt)}
+            </span>
+            <svg
+              class="h-4 w-4 shrink-0 text-text-secondary transition-all duration-300 group-hover:translate-x-1 group-hover:text-accent-thread"
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="1.5"
+              aria-hidden="true"
+            >
+              <path d="M9 6l6 6-6 6" stroke-linecap="round" stroke-linejoin="round" />
+            </svg>
+          </button>
+        ))
+      }
+    </div>
+  </div>
+</div>
+
+<script is:inline define:vars={{ questions: quizQuestions, types: seerTypes, labels: L }}>
+  // Progressive enhancement: the markup above is the crawlable fallback; this
+  // only adds the interaction.
+  ;(function () {
+    var root = document.querySelector('[data-quiz]')
+    if (!root) return
+    var locale = root.getAttribute('data-locale') || 'en'
+    var pick = function (o) { return o[locale] || o.en }
+
+    var bodyEl = root.querySelector('[data-quiz-body]')
+    if (!bodyEl) return
+
+    var index = 0
+    var answers = []
+    var pristine = bodyEl.innerHTML
+
+    // Re-query on every render: the result view replaces the body, so cached
+    // references would go stale after "Listen again".
+    function el(sel) { return bodyEl.querySelector(sel) }
+
+    function render() {
+      var q = questions[index]
+      var progressEl = el('[data-quiz-progress]')
+      var counterEl = el('[data-quiz-counter]')
+      var fillEl = el('[data-quiz-fill]')
+      var questionEl = el('[data-quiz-question]')
+      var optionsEl = el('[data-quiz-options]')
+      if (!progressEl || !counterEl || !fillEl || !questionEl || !optionsEl) return
+      progressEl.innerHTML = labels.question + ' ' + (index + 1) + ' ' + labels.of + ' ' + questions.length
+      counterEl.textContent =
+        String(index + 1).padStart(2, '0') + '/' + String(questions.length).padStart(2, '0')
+      fillEl.style.width = Math.round(((index + 1) / questions.length) * 100) + '%'
+      questionEl.textContent = pick(q)
+      optionsEl.innerHTML = ''
+      q.options.forEach(function (opt) {
+        var btn = document.createElement('button')
+        btn.type = 'button'
+        btn.className =
+          'group flex min-h-[44px] w-full items-center justify-between gap-4 border-b border-text-primary/10 py-4 text-left transition-colors duration-300 hover:bg-text-primary/[0.03]'
+        var label = document.createElement('span')
+        label.className = 'font-serif text-body text-text-body transition-colors group-hover:text-text-primary'
+        label.textContent = pick(opt)
+        var arrow = document.createElementNS('http://www.w3.org/2000/svg', 'svg')
+        arrow.setAttribute('class', 'h-4 w-4 shrink-0 text-text-secondary transition-all duration-300 group-hover:translate-x-1 group-hover:text-accent-thread')
+        arrow.setAttribute('viewBox', '0 0 24 24')
+        arrow.setAttribute('fill', 'none')
+        arrow.setAttribute('stroke', 'currentColor')
+        arrow.setAttribute('stroke-width', '1.5')
+        arrow.setAttribute('aria-hidden', 'true')
+        var path = document.createElementNS('http://www.w3.org/2000/svg', 'path')
+        path.setAttribute('d', 'M9 6l6 6-6 6')
+        path.setAttribute('stroke-linecap', 'round')
+        path.setAttribute('stroke-linejoin', 'round')
+        arrow.appendChild(path)
+        btn.appendChild(label)
+        btn.appendChild(arrow)
+        btn.addEventListener('click', function () {
+          answers.push(opt.type)
+          if (index < questions.length - 1) {
+            index++
+            render()
+          } else {
+            result()
+          }
+        })
+        optionsEl.appendChild(btn)
+      })
+    }
+
+    function result() {
+      var counts = {}
+      answers.forEach(function (a) { counts[a] = (counts[a] || 0) + 1 })
+      var best = answers[0]
+      Object.keys(counts).forEach(function (k) { if (counts[k] > counts[best]) best = k })
+      var type = types.filter(function (t) { return t.key === best })[0] || types[0]
+
+      bodyEl.innerHTML =
+        '<p class="eyebrow">' + labels.yourType + '</p>' +
+        '<div class="mt-4 inline-block border border-accent-thread/50 px-6 py-3">' +
+        '<h4 class="font-display text-xl font-normal text-accent-thread">' + pick(type.name) + '</h4>' +
+        '</div>' +
+        '<div class="prose-reader mx-0 mt-8 max-w-none">' +
+        '<p>' + pick(type.description) + '</p>' +
+        '<h3 class="mt-10 font-display text-h3 font-normal text-text-primary">' + labels.threadsHold + '</h3>' +
+        '<ul class="mt-4 space-y-2">' +
+        type.traits[locale].map(function (tr) {
+          return '<li class="flex items-start gap-3"><span aria-hidden="true" class="mt-2.5 h-1.5 w-1.5 shrink-0 rotate-45 bg-accent-knot"></span>' + tr + '</li>'
+        }).join('') +
+        '</ul>' +
+        '<h3 class="mt-10 font-display text-h3 font-normal text-text-primary">' + labels.culture + '</h3>' +
+        '<p>' + pick(type.culture) + '</p>' +
+        '</div>' +
+        '<button type="button" data-quiz-reset class="ghost-link mt-8">' + labels.hearAgain + '</button>'
+
+      var reset = bodyEl.querySelector('[data-quiz-reset]')
+      if (reset) {
+        reset.addEventListener('click', function () {
+          index = 0
+          answers = []
+          bodyEl.innerHTML = pristine
+          render()
+        })
+      }
+    }
+
+    render()
+  })()
+</script>

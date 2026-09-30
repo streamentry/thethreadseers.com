@@ -1,0 +1,107 @@
+---
+import Base from '../../layouts/Base.astro'
+import Page from '../../components/Page.astro'
+import PullQuote from '../../components/PullQuote.astro'
+import ThreadDivider from '../../components/ThreadDivider.astro'
+import { isLocale } from '../../lib/chapters'
+import { t } from '../../lib/i18n'
+import { jsonLd, keywordsFor, localePath } from '../../lib/seo'
+import { authorBio } from '../../lib/content'
+
+export function getStaticPaths() {
+  return [{ params: { lang: 'en' } }, { params: { lang: 'vi' } }]
+}
+
+const lang = Astro.params.lang!
+if (!isLocale(lang)) return Astro.redirect('/en/')
+const locale = lang
+const tr = (k: Parameters<typeof t>[1], v?: Record<string, string | number>) => t(locale, k, v)
+
+const title =
+  locale === 'vi' ? 'Lê Việt Hồng — tác giả Những Người Thấy Sợi Chỉ' : 'Le Viet Hong — author of The Thread Seers'
+const description =
+  locale === 'vi'
+    ? 'Lê Việt Hồng viết tiểu thuyết giả tưởng dành cho thiếu niên, lấy nền tảng từ triết học Phật, khái niệm duyên khởi, và các truyền thống sợi chỉ của văn hoá Trung Hoa, Hàn Quốc, Ấn Độ, Ai Cập, Châu Phi, và bản địa.'
+    : 'Le Viet Hong writes young adult fantasy grounded in Buddhist philosophy, dependent origination, and thread traditions from Chinese, Korean, Indian, Egyptian, African, and Indigenous cultures.'
+
+const schema = jsonLd({
+  locale,
+  path: '/author',
+  title,
+  description,
+  type: 'profile',
+  withBook: true,
+})
+
+const bio = authorBio.map((b) => b[locale])
+const other = locale === 'vi' ? 'en' : 'vi'
+---
+
+<Base
+  locale={locale}
+  path="/author"
+  title={title}
+  description={description}
+  keywords={keywordsFor(locale, 'Le Viet Hong, YA author, Vietnamese American author')}
+  jsonLd={schema}
+  type="profile"
+>
+  <Page locale={locale} path="/author">
+    <div class="mx-auto max-w-canvas px-6 py-16 lg:px-8 lg:py-24">
+      <div class="grid gap-12 lg:grid-cols-12">
+        <div class="lg:col-span-4">
+          <figure class="lg:sticky lg:top-8">
+            <div
+              class="flex aspect-square w-full items-center justify-center overflow-hidden rounded-sm border border-text-primary/15 bg-background-secondary"
+            >
+              <span aria-hidden="true" class="font-display text-7xl font-light italic text-accent-thread">
+                LVH
+              </span>
+            </div>
+            <figcaption class="mt-3 font-mono text-xs uppercase tracking-[0.18em] text-text-secondary">
+              {tr('author.monogramCaption')}
+            </figcaption>
+          </figure>
+        </div>
+
+        <div class="lg:col-span-7 lg:col-start-6">
+          <p class="eyebrow">{tr('author.eyebrow')}</p>
+          <h1 class="mt-5 font-display text-h1 font-light text-text-primary">
+            {tr('author.title')}
+          </h1>
+          <div class="prose-reader mx-0 mt-8 max-w-prose">
+            {bio.map((p) => <p>{p}</p>)}
+          </div>
+
+          <ThreadDivider class="mb-10 mt-12" />
+          <p class="eyebrow">{tr('author.connect')}</p>
+          <div class="mt-3 flex flex-col items-start gap-1">
+            <a href="mailto:vh3969@gmail.com" class="ghost-link">
+              {tr('author.email')}
+            </a>
+            <a
+              href="https://www.goodreads.com/author/show/56881390.Hong_Le_Viet"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="ghost-link"
+            >
+              {tr('author.goodreads')}
+            </a>
+            <a
+              href={localePath(other, '/author')}
+              hreflang={other}
+              class="ghost-link text-text-muted"
+            >
+              {other === 'vi' ? 'Đọc trang này bằng tiếng Việt' : 'Read this page in Vietnamese'}
+            </a>
+          </div>
+        </div>
+      </div>
+
+      <ThreadDivider class="mt-20 lg:mt-28" />
+      <div class="mt-12 lg:ml-[16%] lg:mt-16 lg:max-w-3xl">
+        <PullQuote cite={tr('author.quoteCite')}>{tr('author.quote')}</PullQuote>
+      </div>
+    </div>
+  </Page>
+</Base>

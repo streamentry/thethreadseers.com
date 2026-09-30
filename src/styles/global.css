@@ -1,0 +1,313 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/**
+ * The Thread Seers design system (DESIGN.md §2–§6).
+ * "Silk light against the dark" — one warm-gray family, one gold accent,
+ * hairline thread-dividers instead of boxes, everything interactive alive.
+ */
+
+@layer base {
+  :root {
+    --void: #0a0a0c;
+    --loom: #101014;
+    --bone: #f2efe6;
+    --ash: #8e8c86;
+    --thread: #c6a15b;
+    --knot: #b34434;
+    --whisper: rgba(242, 239, 230, 0.14);
+    --read-col: 65ch;
+  }
+
+  * {
+    border-color: var(--whisper);
+  }
+
+  html {
+    scroll-behavior: smooth;
+    -webkit-text-size-adjust: 100%;
+  }
+
+  body {
+    @apply bg-background-primary text-text-body font-serif antialiased;
+    font-feature-settings: 'kern' 1, 'liga' 1, 'calt' 1;
+    text-rendering: optimizeLegibility;
+  }
+
+  /* Vietnamese and English share the same type system; Fraunces/Newsreader/
+     Instrument Sans/Plex Mono all carry a Vietnamese subset. */
+  :lang(vi) {
+    letter-spacing: 0;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4 {
+    @apply font-display text-text-primary;
+    letter-spacing: -0.01em;
+    text-wrap: balance;
+  }
+
+  p {
+    @apply text-body leading-relaxed;
+    text-wrap: pretty;
+  }
+
+  a {
+    @apply transition-colors duration-300;
+  }
+
+  :focus-visible {
+    outline: 2px solid var(--thread);
+    outline-offset: 3px;
+    border-radius: 2px;
+  }
+
+  ::selection {
+    background: rgba(198, 161, 91, 0.35);
+    color: var(--bone);
+  }
+
+  ::-webkit-scrollbar {
+    width: 8px;
+  }
+  ::-webkit-scrollbar-track {
+    background: var(--loom);
+  }
+  ::-webkit-scrollbar-thumb {
+    background: #3a382f;
+    border-radius: 9999px;
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    background: var(--thread);
+  }
+}
+
+@layer components {
+  /* Silk-tooth grain over the whole canvas. Fixed, never animated. */
+  .grain::after {
+    content: '';
+    position: fixed;
+    inset: 0;
+    z-index: 60;
+    pointer-events: none;
+    opacity: 0.035;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2'/%3E%3C/filter%3E%3Crect width='160' height='160' filter='url(%23n)' opacity='1'/%3E%3C/svg%3E");
+  }
+
+  .eyebrow {
+    @apply font-mono text-xs uppercase tracking-[0.22em] text-text-secondary;
+  }
+
+  /* Primary CTA: flat gold, cut-silk radius, shimmer sweep, tactile press. */
+  .hold-cta {
+    @apply relative inline-flex items-center justify-center overflow-hidden font-sans font-medium text-background-primary;
+    background-color: var(--thread);
+    border-radius: 2px;
+    min-height: 44px;
+    max-width: 100%;
+    transition: transform 120ms ease-out, background-color 300ms ease;
+    touch-action: manipulation;
+    -webkit-tap-highlight-color: transparent;
+    user-select: none;
+  }
+
+  .hold-cta::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(
+      100deg,
+      transparent 20%,
+      rgba(242, 239, 230, 0.35) 50%,
+      transparent 80%
+    );
+    background-size: 200% 100%;
+    animation: thread-shimmer 3.2s ease-in-out infinite;
+    pointer-events: none;
+  }
+
+  .hold-cta:hover {
+    background-color: #d3af66;
+  }
+
+  .hold-cta:active {
+    transform: translateY(1px) scale(0.99);
+  }
+
+  .hold-cta:disabled {
+    opacity: 0.7;
+  }
+
+  /* Ghost text-link with a hairline that draws left-to-right. */
+  .ghost-link {
+    @apply relative inline-flex items-center font-sans text-text-body;
+    min-height: 44px;
+    transition: color 300ms ease;
+  }
+
+  .ghost-link::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: 8px;
+    height: 1px;
+    width: 100%;
+    background: var(--thread);
+    transform: scaleX(0);
+    transform-origin: left;
+    transition: transform 350ms cubic-bezier(0.22, 1, 0.36, 1);
+  }
+
+  .ghost-link:hover {
+    @apply text-text-primary;
+  }
+
+  .ghost-link:hover::after {
+    transform: scaleX(1);
+  }
+
+  /* Pull quote: Fraunces italic with a red-knot diamond marker. */
+  .pullquote {
+    @apply font-display font-light italic text-text-primary;
+    font-size: clamp(1.4rem, 3.2vw, 2rem);
+    line-height: 1.4;
+    text-wrap: balance;
+  }
+
+  .pullquote::before {
+    content: '';
+    display: block;
+    width: 9px;
+    height: 9px;
+    margin-bottom: 1.25rem;
+    background: var(--knot);
+    transform: rotate(45deg);
+  }
+
+  /* Long-form reading column. */
+  .prose-reader {
+    @apply font-serif text-text-body;
+    line-height: 1.7;
+    font-size: var(--reader-size, 1.125rem);
+  }
+
+  .prose-reader > * + * {
+    margin-top: 1.35em;
+  }
+
+  .prose-reader h2 {
+    @apply mt-16 font-display text-h3 font-normal text-text-primary;
+  }
+
+  .prose-reader h3 {
+    @apply mt-12 font-display text-h3 font-normal text-text-primary;
+  }
+
+  .prose-reader blockquote {
+    @apply border-l pl-5 font-serif italic text-text-body;
+    border-color: rgba(198, 161, 91, 0.6);
+  }
+
+  .prose-reader ul {
+    @apply list-disc space-y-2 pl-6;
+  }
+
+  .prose-reader hr {
+    @apply my-12 h-px border-0;
+    background: var(--whisper);
+  }
+
+  .prose-reader em {
+    font-style: italic;
+  }
+
+  .prose-reader strong {
+    @apply text-text-primary;
+    font-weight: 500;
+  }
+
+  .prose-reader > p:first-child {
+    margin-top: 0;
+  }
+
+  /* First paragraph of a chapter gets a raised initial, as printed editions do. */
+  .prose-reader > p:first-child::first-letter {
+    font-family: theme('fontFamily.display');
+    float: left;
+    font-size: 3.4em;
+    line-height: 0.86;
+    padding-right: 0.08em;
+    font-weight: 300;
+    color: var(--thread);
+  }
+
+  /* Skeletal loader with thread shimmer. */
+  .skeleton {
+    @apply relative overflow-hidden rounded-sm;
+    background: rgba(142, 140, 134, 0.1);
+  }
+
+  .skeleton::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(
+      90deg,
+      transparent,
+      rgba(198, 161, 91, 0.12),
+      transparent
+    );
+    background-size: 200% 100%;
+    animation: thread-shimmer 2.4s ease-in-out infinite;
+  }
+
+  /* No-JS fallback content injected by the prerender step in the pre-Astro
+     build. Astro renders full HTML, so this only matters for safety nets. */
+  .prerender {
+    @apply mx-auto max-w-canvas px-6 py-16 lg:px-8 lg:py-24;
+  }
+  .prerender h1 {
+    @apply mt-5 max-w-4xl font-display text-h1 font-light text-text-primary;
+  }
+  .prerender h2 {
+    @apply mt-12 font-display text-h2 font-normal text-text-primary;
+  }
+  .prerender h3 {
+    @apply mt-8 font-display text-h3 font-normal text-text-primary;
+  }
+  .prerender p,
+  .prerender li {
+    @apply max-w-prose font-serif text-body leading-relaxed text-text-body;
+  }
+  .prerender ol,
+  .prerender ul {
+    @apply my-4 list-none space-y-2 pl-0;
+  }
+  .prerender a {
+    color: var(--thread);
+    text-decoration: underline;
+    text-underline-offset: 4px;
+  }
+}
+
+@layer utilities {
+  /* Vietnamese is denser than English; give diacritics room to breathe. */
+  :lang(vi) .prose-reader,
+  :lang(vi) .text-body {
+    line-height: 1.8;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+    scroll-behavior: auto !important;
+  }
+}

@@ -1,0 +1,87 @@
+---
+/**
+ * Nodes joined by labeled hairline threads along a single rail.
+ * Replaces equal-column card grids. Replaces the interactive React version
+ * with static HTML: the crawlable content is the point, not hover states.
+ */
+import { THREAD } from '../lib/content'
+import { t, type Locale } from '../lib/i18n'
+import { localePath } from '../lib/seo'
+
+export interface ThreadNode {
+  name: string
+  essence: string
+  /** Canon thread colour key. */
+  thread: keyof typeof THREAD
+  /** Mono label above the name, e.g. "gold · friendship". */
+  label: string
+  meta?: string
+  to?: string
+  dimmed?: boolean
+}
+
+export interface Props {
+  locale: Locale
+  nodes: ThreadNode[]
+  class?: string
+}
+
+const { locale, nodes, class: className = '' } = Astro.props
+const followLabel = t(locale, 'series.follow')
+---
+
+<ol class:list={['relative ml-2 border-l border-text-primary/10 pl-8 sm:pl-10', className]}>
+  {
+    nodes.map((node) => {
+      const hex = THREAD[node.thread]
+      const heading = (
+        <>
+          <span
+            aria-hidden="true"
+            class="absolute top-2 -left-8 flex h-4 w-4 items-center justify-center sm:-left-10"
+            style="margin-left:-8px"
+          >
+            <span
+              class="block h-2.5 w-2.5 rounded-full animate-thread-breathe"
+              style={`background-color:${hex};${node.dimmed ? 'opacity:.35;' : ''}`}
+            />
+          </span>
+          <p class="eyebrow mb-2" style={node.dimmed ? 'opacity:.6' : undefined}>
+            {node.label}
+            {node.meta && <span class="normal-case tracking-normal"> · {node.meta}</span>}
+          </p>
+          <h3
+            class="font-display text-h3 font-normal text-text-primary"
+            style={node.dimmed ? 'opacity:.55' : undefined}
+          >
+            {node.name}
+          </h3>
+          <p
+            class="mt-2 max-w-prose font-serif text-body leading-relaxed text-text-body"
+            style={node.dimmed ? 'opacity:.65' : undefined}
+          >
+            {node.essence}
+          </p>
+        </>
+      )
+
+      return (
+        <li class="relative pb-10 last:pb-0">
+          {node.to ? (
+            <a
+              href={localePath(locale, node.to)}
+              class="group block rounded-sm transition-colors duration-300 hover:bg-text-primary/[0.03]"
+            >
+              {heading}
+              <span class="ghost-link mt-1 text-sm text-text-secondary group-hover:text-text-primary">
+                {followLabel}
+              </span>
+            </a>
+          ) : (
+            heading
+          )}
+        </li>
+      )
+    })
+  }
+</ol>

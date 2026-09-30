@@ -1,43 +1,121 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="utf-8">
-    <title>The Thread Seers</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <script type="text/javascript">
-        // Single Page Apps for GitHub Pages
-        // MIT License
-        // https://github.com/rafgraph/spa-github-pages
-        // This script takes the current url and converts the path and query
-        // string into just a query string, and then redirects the browser
-        // to the new url with only a query string and hash fragment,
-        // e.g. https://www.foo.tld/one/two?a=b&c=d#qwe, becomes
-        // https://www.foo.tld/?/one/two&a=b~and~c=d#qwe
-        // Note: this 404.html file must be at least 512 bytes for it to work
-        // with Internet Explorer (it is currently > 512 bytes)
-
-        // Keep one path segment for the project-pages URL
-        // (https://streamentry.github.io/thethreadseers.com/...), zero for a
-        // custom domain (https://thethreadseers.com/...).
-
-        var l = window.location;
-
-        var pathSegmentsToKeep = l.pathname.split('/')[1] === 'thethreadseers.com' ? 1 : 0;
-
-        var redirectUrl = l.protocol + '//' + l.hostname + (l.port ? ':' + l.port : '') +
-            l.pathname.split('/').slice(0, 1 + pathSegmentsToKeep).join('/') + '/?/' +
-            l.pathname.slice(1).split('/').slice(pathSegmentsToKeep).join('/').replace(/&/g, '~and~') +
-            (l.search ? '&' + l.search.slice(1).replace(/&/g, '~and~') : '') +
-            l.hash;
-
-        // Use replace to avoid adding to browser history
-        window.location.replace(redirectUrl);
-    </script>
-</head>
-<body style="background:#0A0A0C;color:#F2EFE6;font-family:Georgia,serif;margin:0;display:flex;min-height:100vh;align-items:center;justify-content:center;text-align:center;padding:2rem;">
-    <!-- Fallback content for users with JavaScript disabled -->
-    <noscript>
-        <p>This thread comes loose here — this site needs JavaScript to hold its pages together. Please enable it and refresh.</p>
-    </noscript>
-</body>
+<!doctype html>
+<html lang="en" class="dark">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>This thread comes loose here — The Thread Seers</title>
+    <meta
+      name="description"
+      content="That page does not exist. The Thread Seers Book One is free to read online in English and Vietnamese."
+    />
+    <meta name="robots" content="noindex, follow" />
+    <link rel="icon" type="image/jpeg" href="/img/the_thread_seer_book1.jpg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,300..600&family=Newsreader:opsz,wght@6..72,400..500&family=Instrument+Sans:wght@400..600&family=IBM+Plex+Mono:wght@400;500&family=Noto+Serif:wght@400;500&family=Noto+Sans:wght@400;500&display=swap"
+    />
+    <style>
+      :root {
+        color-scheme: dark;
+        --void: #0a0a0c;
+        --bone: #f2efe6;
+        --ash: #8e8c86;
+        --thread: #c6a15b;
+      }
+      * {
+        box-sizing: border-box;
+      }
+      body {
+        margin: 0;
+        min-height: 100vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background: var(--void);
+        color: var(--bone);
+        font-family: 'Newsreader', Georgia, serif;
+        text-align: center;
+        padding: 2rem;
+      }
+      .knot {
+        width: 9px;
+        height: 9px;
+        background: #b34434;
+        transform: rotate(45deg);
+        margin: 0 auto 1.5rem;
+      }
+      .eyebrow {
+        font-family: 'IBM Plex Mono', monospace;
+        font-size: 0.75rem;
+        letter-spacing: 0.22em;
+        text-transform: uppercase;
+        color: var(--ash);
+        margin: 0 0 1.25rem;
+      }
+      h1 {
+        font-family: 'Fraunces', Georgia, serif;
+        font-weight: 300;
+        font-size: clamp(1.9rem, 5vw, 3rem);
+        line-height: 1.15;
+        letter-spacing: -0.01em;
+        margin: 0 0 1rem;
+      }
+      p {
+        max-width: 46ch;
+        margin: 0 auto 2.5rem;
+        line-height: 1.7;
+        color: #e3dfd2;
+      }
+      .links {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 1.5rem;
+        justify-content: center;
+        font-family: 'Instrument Sans', system-ui, sans-serif;
+        font-size: 0.875rem;
+        letter-spacing: 0.14em;
+        text-transform: uppercase;
+      }
+      a {
+        color: var(--bone);
+        text-decoration: none;
+        min-height: 44px;
+        display: inline-flex;
+        align-items: center;
+        border-bottom: 1px solid var(--thread);
+        padding-bottom: 2px;
+      }
+      a:hover {
+        color: var(--thread);
+      }
+      .vi {
+        margin-top: 2.5rem;
+        font-size: 0.95rem;
+        color: var(--ash);
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <div class="knot" aria-hidden="true"></div>
+      <p class="eyebrow">404 · the weave, interrupted</p>
+      <h1>This thread comes loose here.</h1>
+      <p>
+        That page does not exist. Book One is free to read online in full — all 46 parts, in
+        English and Vietnamese.
+      </p>
+      <nav class="links" aria-label="Main pages">
+        <a href="/en/">Read in English</a>
+        <a href="/vi/">Đọc bản tiếng Việt</a>
+        <a href="/en/download/">Download</a>
+        <a href="/en/series/">Series</a>
+      </nav>
+      <p class="vi" lang="vi">
+        Trang này không tồn tại. Sách Một đọc miễn phí trực tuyến — đủ 46 phần, bằng tiếng Anh và
+        tiếng Việt.
+      </p>
+    </main>
+  </body>
 </html>

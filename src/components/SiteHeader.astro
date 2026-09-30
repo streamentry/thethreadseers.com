@@ -1,0 +1,163 @@
+---
+/** Site header: wordmark, nav, locale switcher, mobile menu. */
+import { navItems, t, localeMeta } from '../lib/i18n'
+import { localePath } from '../lib/seo'
+import { LOCALES, type Locale } from '../lib/chapters'
+
+export interface Props {
+  locale: Locale
+  /** Path without locale prefix, for active-nav state. */
+  path: string
+}
+
+const { locale, path } = Astro.props
+const other = LOCALES.find((l) => l !== locale) as Locale
+const wordmark = locale === 'vi' ? 'Những Người Thấy Sợi Chỉ' : 'The Thread Seers'
+const switchLabel = t(locale, 'nav.langSwitch')
+---
+
+<header class="border-b border-text-primary/10">
+  <nav
+    class="mx-auto flex max-w-canvas items-center justify-between px-6 py-5 lg:px-8"
+    aria-label={t(locale, 'nav.menu')}
+  >
+    <a
+      href={localePath(locale, '/')}
+      class="-m-1.5 p-1.5 font-sans text-base font-light uppercase tracking-[0.32em] text-text-primary"
+    >
+      {wordmark}
+    </a>
+
+    <ul class="hidden items-center gap-x-10 lg:flex">
+      {
+        navItems.map((item) => {
+          const active = path === item.path
+          return (
+            <li>
+              <a
+                href={localePath(locale, item.path)}
+                aria-current={active ? 'page' : undefined}
+                class:list={[
+                  'relative font-sans text-sm font-medium uppercase tracking-[0.14em] transition-colors duration-300',
+                  active ? 'text-text-primary' : 'text-text-secondary hover:text-text-primary',
+                ]}
+              >
+                {t(locale, item.key as Parameters<typeof t>[1])}
+                <span
+                  aria-hidden="true"
+                  class:list={[
+                    'absolute -bottom-1.5 left-0 h-px w-full origin-left bg-accent-thread transition-transform duration-300',
+                    active ? 'scale-x-100' : 'scale-x-0',
+                  ]}
+                />
+              </a>
+            </li>
+          )
+        })
+      }
+    </ul>
+
+    <div class="flex items-center gap-3">
+      <a
+        href={localePath(other, path)}
+        hreflang={localeMeta[other].htmlLang}
+        lang={localeMeta[other].htmlLang}
+        aria-label={switchLabel}
+        title={switchLabel}
+        class="inline-flex min-h-[44px] items-center rounded-sm border border-text-primary/20 px-3 font-mono text-xs uppercase tracking-[0.18em] text-text-secondary transition-colors duration-300 hover:border-accent-thread/50 hover:text-accent-thread"
+      >
+        {locale === 'vi' ? 'EN' : 'VI'}
+      </a>
+      <button
+        type="button"
+        class="-m-2.5 inline-flex min-h-[44px] min-w-[44px] items-center justify-center rounded-sm text-text-secondary transition-colors hover:text-text-primary lg:hidden"
+        aria-label={t(locale, 'nav.openMenu')}
+        aria-expanded="false"
+        aria-controls="mobile-nav"
+        data-menu-toggle
+      >
+        <svg class="h-6 w-6" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true">
+          <path d="M3 6h18M3 12h18M3 18h18" stroke-linecap="round"></path>
+        </svg>
+      </button>
+    </div>
+  </nav>
+
+  <div id="mobile-nav" hidden class="lg:hidden">
+    <div class="fixed inset-0 z-50" data-menu-backdrop></div>
+    <div
+      class="fixed inset-y-0 right-0 z-50 w-full max-w-sm overflow-y-auto border-l border-text-primary/10 bg-background-primary px-6 py-6"
+      role="dialog"
+      aria-modal="true"
+      aria-label={t(locale, 'nav.menu')}
+    >
+      <div class="flex items-center justify-between">
+        <span class="font-sans text-sm font-light uppercase tracking-[0.32em] text-text-primary">
+          {wordmark}
+        </span>
+        <button
+          type="button"
+          class="-m-2.5 min-h-[44px] min-w-[44px] rounded-sm text-text-secondary transition-colors hover:text-text-primary"
+          aria-label={t(locale, 'nav.closeMenu')}
+          data-menu-close
+        >
+          <svg class="h-6 w-6" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true">
+            <path d="M6 6l12 12M18 6L6 18" stroke-linecap="round"></path>
+          </svg>
+        </button>
+      </div>
+      <ul class="mt-6 divide-y divide-text-primary/10">
+        {
+          navItems.map((item) => (
+            <li>
+              <a
+                href={localePath(locale, item.path)}
+                aria-current={path === item.path ? 'page' : undefined}
+                class:list={[
+                  'flex min-h-[52px] items-center font-sans text-base font-medium uppercase tracking-[0.14em] transition-colors',
+                  path === item.path ? 'text-accent-thread' : 'text-text-body hover:text-text-primary',
+                ]}
+              >
+                {t(locale, item.key as Parameters<typeof t>[1])}
+              </a>
+            </li>
+          ))
+        }
+        <li>
+          <a
+            href={localePath(other, path)}
+            hreflang={localeMeta[other].htmlLang}
+            lang={localeMeta[other].htmlLang}
+            class="flex min-h-[52px] items-center font-sans text-base font-medium uppercase tracking-[0.14em] text-text-secondary transition-colors hover:text-accent-thread"
+          >
+            {switchLabel}
+          </a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</header>
+
+<script>
+  // Progressive enhancement: the nav is a plain list without JS.
+  const panel = document.getElementById('mobile-nav')
+  const toggle = document.querySelector<HTMLElement>('[data-menu-toggle]')
+  const close = panel?.querySelector<HTMLElement>('[data-menu-close]')
+  const backdrop = panel?.querySelector<HTMLElement>('[data-menu-backdrop]')
+
+  function setOpen(open: boolean) {
+    if (!panel || !toggle) return
+    panel.toggleAttribute('hidden', !open)
+    toggle.setAttribute('aria-expanded', String(open))
+    document.body.style.overflow = open ? 'hidden' : ''
+  }
+
+  if (toggle && panel) {
+    toggle.addEventListener('click', () => setOpen(panel.hasAttribute('hidden')))
+    close?.addEventListener('click', () => setOpen(false))
+    backdrop?.addEventListener('click', () => setOpen(false))
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape') setOpen(false)
+    })
+  }
+</script>

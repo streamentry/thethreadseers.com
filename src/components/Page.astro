@@ -1,0 +1,22 @@
+---
+/** Wraps page content with header + footer in one place. */
+import SiteHeader from './SiteHeader.astro'
+import SiteFooter from './SiteFooter.astro'
+import type { Locale } from '../lib/chapters'
+
+export interface Props {
+  locale: Locale
+  /** Path without locale prefix, for active-nav state. */
+  path: string
+}
+
+const { locale, path } = Astro.props
+---
+
+<div class="grain min-h-screen bg-background-primary text-text-body">
+  <SiteHeader locale={locale} path={path} />
+  <main>
+    <slot />
+  </main>
+  <SiteFooter locale={locale} />
+</div>
