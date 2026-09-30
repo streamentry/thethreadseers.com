@@ -8,4 +8,4 @@ Gửi Katie, người đồng hành trong mọi cuộc phiêu lưu của tôi—
 
 Gửi Mia và Lana, hai cô con gái thông minh đã dạy tôi nhìn thế giới bằng đôi mắt tràn ngập ngỡ ngàng—sự tò mò, óc sáng tạo và niềm vui bất tận của các con được dệt vào từng trang sách. Mong các con mãi đi theo những sợi chỉ bạc của giấc mơ, dù chúng có dẫn đến đâu đi nữa.
 
-Và gửi bạn, độc giả thân mến, người đã nhấc cuốn sách này lên và hòa mình vào sợi chỉ rực sáng nối kết tất cả chúng ta qua câu chuyện. Chào mừng đến với mạng Weave.
+Và gửi bạn, độc giả thân mến, người đã nhấc cuốn sách này lên và hòa mình vào sợi chỉ rực sáng nối kết tất cả chúng ta qua câu chuyện. Chào mừng đến với Weave.

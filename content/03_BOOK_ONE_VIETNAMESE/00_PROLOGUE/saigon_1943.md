@@ -178,7 +178,7 @@ Nó không bao giờ đứt. Đó là cái phiền phức của nó. Nó chỉ m
 
 ---
 
-*Bảy mươi năm sau, trong một căn bếp ở phía bên kia thế giới, một cô gái mười sáu tuổi sẽ ngồi vào bàn với một cây bút chì than và một bát trà hoa lài, và một bà lão mang đôi mắt của bố cô sẽ kể cho cô rằng những sợi lụa chỉ xuyên qua vạn vật, rằng những dòng sâu chạy bên dưới chính từng nơi chốn, rằng cả hai điều ấy đều đúng, và rằng điều thứ hai chính là điều mà các ngôi trường đã vứt bỏ. Ban đầu cô sẽ không tin bà. Đến cuối buổi chiều cô sẽ tin bà. Phải mất phần đời còn lại cô mới tính ra cái sự tin ấy đã tốn giá gì, và ai là người đã bị gọi đến để trả.*
+*Bảy mươi năm sau, trong một căn bếp ở phía bên kia thế giới, một cô gái mười sáu tuổi sẽ ngồi vào bàn với một cây bút chì than và một bát trà hoa lài, và một bà lão mang đôi mắt của bố cô sẽ kể cho cô rằng những sợi chỉ lụa xuyên qua vạn vật, rằng những dòng sâu chạy bên dưới chính từng nơi chốn, rằng cả hai điều ấy đều đúng, và rằng điều thứ hai chính là điều mà các ngôi trường đã vứt bỏ. Ban đầu cô sẽ không tin bà. Đến cuối buổi chiều cô sẽ tin bà. Phải mất phần đời còn lại cô mới tính ra cái sự tin ấy đã tốn giá gì, và ai là người đã bị gọi đến để trả.*
 
 *Cô gái có một bà cố bên ngoại, và bà ấy đã làm một phiên bản rất nhỏ của việc này, trong một con hẻm không xa nơi đây, vào một đêm mà gạo đang bị lấy đi và không ai ngăn nổi. Bà đã rẽ một ngã rẽ trên một tuyến mà bà không đủ sức cắt, và đã xin một con đường mang giùm bản sao. Việc đó đã thành công. Việc đó cũng đã chỉ cho kẻ thù biết chính xác con đường ấy nằm ở đâu, và nó đã lấy đi của bà ba mươi mốt năm của một cuộc đời mà bà thà rằng được giữ lại, và bốn người bà yêu, những người không có mặt trong truyện này.*
 
