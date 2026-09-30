@@ -1,0 +1,152 @@
+---
+/**
+ * Press-and-hold primary CTA.
+ *
+ * Holding (not grabbing) is the book's ethic, so the signature action takes
+ * ~900ms of sustained contact with a hairline progress thread. Without JS it
+ * degrades to a normal link, so the download still works.
+ */
+import { t, type Locale } from '../lib/i18n'
+
+export interface Props {
+  locale: Locale
+  /** Absolute or root-relative download target. */
+  href: string
+  label: string
+  hint?: string
+  class?: string
+}
+
+const { locale, href, label, hint, class: className = '' } = Astro.props
+const holdHint = hint ?? t(locale, 'common.hold')
+const heldHint = t(locale, 'common.held')
+---
+
+<a
+  href={href}
+  download
+  data-hold
+  data-hold-label={label}
+  data-hold-hint={holdHint}
+  data-hold-done={heldHint}
+  class:list={['hold-cta px-8 py-4 text-base', className]}
+>
+  <span
+    aria-hidden="true"
+    data-hold-fill
+    class="absolute inset-y-0 left-0 w-0 bg-text-primary/15 transition-none"
+  >
+  </span>
+  <span class="relative flex flex-wrap items-center justify-center gap-x-3 gap-y-1 text-center">
+    <span data-hold-text>{label}</span>
+    <span
+      data-hold-hint
+      class="font-mono text-[0.65rem] uppercase tracking-[0.2em] opacity-70"
+    >
+      {holdHint}
+    </span>
+  </span>
+</a>
+
+<style>
+  a[download] {
+    cursor: pointer;
+  }
+</style>
+
+<script>
+  /**
+   * Pointer-driven hold-to-confirm. Keyboard accessible: Enter or Space starts
+   * and completes the hold immediately. Honours prefers-reduced-motion by
+   * skipping the confirmation delay.
+   */
+  const HOLD_MS = 900
+
+  function wire(el: HTMLElement) {
+    if (el.dataset.holdWired === 'true') return
+    el.dataset.holdWired = 'true'
+
+    const fill = el.querySelector<HTMLElement>('[data-hold-fill]')
+    const hint = el.querySelector<HTMLElement>('[data-hold-hint]')
+    const reduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches
+
+    const hintText = el.dataset.holdHint ?? ''
+    const doneText = el.dataset.holdDone ?? ''
+
+    let raf = 0
+    let start = 0
+    let done = false
+
+    const setFill = (pct: number) => {
+      if (fill) fill.style.width = `${Math.round(pct * 100)}%`
+    }
+
+    const stop = () => {
+      if (raf) cancelAnimationFrame(raf)
+      raf = 0
+    }
+
+    const reset = () => {
+      stop()
+      if (done) return
+      setFill(0)
+    }
+
+    const finish = () => {
+      stop()
+      done = true
+      setFill(1)
+      if (hint) hint.textContent = doneText
+      // Let the fill read, then follow the link.
+      window.setTimeout(() => {
+        const target = el.getAttribute('href')
+        if (target) window.location.href = target
+      }, 320)
+    }
+
+    const tick = () => {
+      const elapsed = performance.now() - start
+      if (elapsed >= HOLD_MS) {
+        finish()
+        return
+      }
+      setFill(elapsed / HOLD_MS)
+      raf = requestAnimationFrame(tick)
+    }
+
+    const begin = () => {
+      if (done) return
+      if (reduce) {
+        finish()
+        return
+      }
+      start = performance.now()
+      raf = requestAnimationFrame(tick)
+    }
+
+    el.addEventListener('pointerdown', begin)
+    el.addEventListener('pointerup', reset)
+    el.addEventListener('pointerleave', reset)
+    el.addEventListener('pointercancel', reset)
+    el.addEventListener('contextmenu', (e) => e.preventDefault())
+    el.addEventListener('keydown', (e) => {
+      if ((e.key === 'Enter' || e.key === ' ') && !e.repeat) {
+        e.preventDefault()
+        begin()
+      }
+    })
+    el.addEventListener('keyup', reset)
+    el.addEventListener('blur', reset)
+  }
+
+  function init() {
+    document.querySelectorAll<HTMLElement>('[data-hold]').forEach(wire)
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', init)
+  } else {
+    init()
+  }
+  document.addEventListener('astro:page-load', init)
+</script>

@@ -1,0 +1,231 @@
+---
+/**
+ * The calm room: one chapter, rendered fully at build time.
+ *
+ * This is the page that matters most for GEO — the entire chapter ships as
+ * static HTML with canonical, hreflang, Chapter/Article/Book JSON-LD, and
+ * rel=prev/rel=next so a crawler can walk the whole novel in either language
+ * without executing JavaScript.
+ */
+import Base from '../../../../../layouts/Base.astro'
+import Page from '../../../../../components/Page.astro'
+import ThreadDivider from '../../../../../components/ThreadDivider.astro'
+import {
+  chapterOrder,
+  isLocale,
+  LOCALES,
+  pathFor,
+  titleFor,
+  type Locale,
+} from '../../../../../lib/chapters'
+import { t } from '../../../../../lib/i18n'
+import { jsonLd, keywordsFor, localePath } from '../../../../../lib/seo'
+import { localeMeta } from '../../../../../lib/i18n'
+import {
+  readChapter,
+  renderMarkdown,
+  stripTopHeading,
+  toParagraphs,
+  describe,
+  countWords,
+} from '../../../../../lib/markdown'
+
+export function getStaticPaths() {
+  return LOCALES.flatMap((lang) =>
+    chapterOrder.map((chapter) => ({
+      params: { lang, chapter: chapter.slug },
+      props: { chapterSlug: chapter.slug, locale: lang as Locale },
+    })),
+  )
+}
+
+const { chapterSlug, locale } = Astro.props
+const lang = Astro.params.lang!
+if (!isLocale(lang)) return Astro.redirect('/en/')
+const chapter = chapterOrder.find((c) => c.slug === chapterSlug)
+if (!chapter) return Astro.redirect(`/${lang}/series/book-one/read/prologue/`)
+
+const tr = (k: Parameters<typeof t>[1], v?: Record<string, string | number>) => t(locale, k, v)
+
+const index = chapterOrder.findIndex((c) => c.slug === chapterSlug)
+const prev = index > 0 ? chapterOrder[index - 1] : null
+const next = index < chapterOrder.length - 1 ? chapterOrder[index + 1] : null
+
+const raw = readChapter(pathFor(chapter, locale))
+const paragraphs = toParagraphs(raw)
+const heading = titleFor(chapter, locale)
+const words = countWords(stripTopHeading(raw))
+const readingMinutes = Math.max(1, Math.round(words / 220))
+const path = `/series/book-one/read/${chapter.slug}`
+
+const front = chapter.kind === 'front'
+const title =
+  locale === 'vi'
+    ? `${heading} — Những Người Thấy Sợi Chỉ, Sách Một (đọc miễn phí)`
+    : `${heading} — The Thread Seers, Book One (read free)`
+
+const description = front
+  ? locale === 'vi'
+    ? `${heading} của Những Người Thấy Sợi Chỉ, Sách Một, tác giả Lê Việt Hồng. Đọc miễn phí trực tuyến, hoặc tải trọn cuốn sách ở EPUB, PDF và Markdown.`
+    : `${heading} of The Thread Seers, Book One by Le Viet Hong. Read free online, or download the complete book in EPUB, PDF, and Markdown.`
+  : describe(paragraphs, { label: chapter.label, title: heading, locale })
+
+const crumb: { name: string; path: string }[] = [
+  { name: locale === 'vi' ? 'Trang chủ' : 'Home', path: '/' },
+  { name: locale === 'vi' ? 'Bộ sách' : 'Series', path: '/series' },
+  { name: locale === 'vi' ? 'Sách Một' : 'Book One', path: '/series/book-one' },
+  { name: heading, path },
+]
+
+const schema = jsonLd({
+  locale,
+  path,
+  title,
+  description,
+  type: 'article',
+  chapter: { title: heading, position: chapter.position, kind: chapter.kind },
+  crumb,
+  withBook: true,
+})
+
+const numeral =
+  chapter.slug === 'preface' ? '§' : chapter.slug === 'prologue' ? '◈' : chapter.slug === 'epilogue' ? '❦' : chapter.label.padStart(2, '0')
+---
+
+<Base
+  locale={locale}
+  path={path}
+  title={title}
+  description={description}
+  keywords={keywordsFor(locale, 'read online, free chapter, full text online')}
+  jsonLd={schema}
+  type="article"
+>
+  <Page locale={locale} path="/series/book-one">
+    <div class="sticky top-0 z-10 border-b border-text-primary/10 bg-background-primary/95 backdrop-blur-sm">
+      <div class="mx-auto flex max-w-reading items-center justify-between gap-4 px-6 py-3">
+        <a
+          href={localePath(locale, '/series/book-one')}
+          class="ghost-link text-sm text-text-secondary hover:text-text-primary"
+        >
+          ← {tr('common.backToBook')}
+        </a>
+        <p class="font-mono text-[0.7rem] uppercase tracking-[0.18em] text-text-secondary">
+          <span>{tr('reader.progress', { n: index + 1, total: chapterOrder.length })}</span>
+          <span class="hidden sm:inline"> · {tr('common.coherence')}</span>
+        </p>
+        <label class="flex items-center gap-2 text-text-secondary">
+          <span class="sr-only">{tr('common.typeSize')}</span>
+          <input
+            type="range"
+            min="15"
+            max="24"
+            step="1"
+            value="18"
+            data-reader-size
+            class="h-11 w-24 accent-accent-thread"
+          />
+        </label>
+      </div>
+    </div>
+
+    <article class="mx-auto max-w-reading px-6 py-14 lg:py-20">
+      <p aria-hidden="true" class="font-display text-7xl font-light leading-none text-accent-thread/80">
+        {numeral}
+      </p>
+      <h1 class="mt-6 font-display text-h1 font-light text-text-primary">{heading}</h1>
+      <p class="mt-4 font-mono text-xs uppercase tracking-[0.18em] text-text-muted">
+        {words.toLocaleString(locale === 'vi' ? 'vi-VN' : 'en-US')} {locale === 'vi' ? 'từ' : 'words'} ·
+        {readingMinutes} {locale === 'vi' ? 'phút đọc' : 'min read'} · EN / VI
+      </p>
+      <ThreadDivider class="mb-10 mt-8" />
+
+      <div class="prose-reader" data-reader-body set:html={renderMarkdown(stripTopHeading(raw))} />
+
+      <nav
+        class="mt-16 flex items-center justify-between gap-4 border-t border-text-primary/10 pt-6"
+        aria-label={locale === 'vi' ? 'Điều hướng chương' : 'Chapter navigation'}
+      >
+        {
+          prev ? (
+            <a
+              href={localePath(locale, `/series/book-one/read/${prev.slug}`)}
+              rel="prev"
+              class="ghost-link max-w-[45%] text-sm text-text-secondary hover:text-text-primary"
+            >
+              ← {tr('common.previous')}
+            </a>
+          ) : (
+            <span />
+          )
+        }
+        {
+          next ? (
+            <a
+              href={localePath(locale, `/series/book-one/read/${next.slug}`)}
+              rel="next"
+              class="ghost-link max-w-[45%] text-end text-sm text-text-secondary hover:text-text-primary"
+            >
+              {tr('common.next')} →
+            </a>
+          ) : (
+            <a href={localePath(locale, '/download')} class="ghost-link text-sm text-accent-thread">
+              {tr('reader.downloadAll')}
+            </a>
+          )
+        }
+      </nav>
+
+      {/* The same chapter in the other language, for bilingual readers and for
+          crawlers linking the two editions together. */}
+      <div class="mt-12 border-t border-text-primary/10 pt-6">
+        <p class="eyebrow">
+          {locale === 'vi' ? 'Đọc bản tiếng Anh' : 'Đọc bản tiếng Việt'}
+        </p>
+        {
+          LOCALES.filter((l) => l !== locale).map((l) => (
+            <a
+              href={localePath(l, path)}
+              hreflang={localeMeta[l].htmlLang}
+              lang={localeMeta[l].htmlLang}
+              class="ghost-link mt-2 text-sm text-text-secondary hover:text-text-primary"
+            >
+              {l === 'vi' ? 'Bản tiếng Việt' : 'English edition'} →
+            </a>
+          ))
+        }
+      </div>
+    </article>
+  </Page>
+</Base>
+
+<style is:global>
+  input[data-reader-size] {
+    cursor: pointer;
+  }
+</style>
+
+<script>
+  // Reader type-size control. Persisted across pages.
+  const KEY = 'ts-reader-size'
+  const body = document.querySelector<HTMLElement>('[data-reader-body]')
+  const slider = document.querySelector<HTMLInputElement>('[data-reader-size]')
+
+  function apply(size: number) {
+    if (body) body.style.setProperty('--reader-size', `${size / 16}rem`)
+  }
+
+  const stored = Number(localStorage.getItem(KEY))
+  if (stored >= 15 && stored <= 24) {
+    if (slider) slider.value = String(stored)
+    apply(stored)
+  } else if (body) {
+    apply(18)
+  }
+
+  slider?.addEventListener('input', () => {
+    const v = Number(slider.value)
+    apply(v)
+    localStorage.setItem(KEY, String(v))
+  })
+</script>

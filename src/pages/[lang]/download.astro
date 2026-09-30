@@ -1,0 +1,186 @@
+---
+import Base from '../../layouts/Base.astro'
+import Page from '../../components/Page.astro'
+import HoldCta from '../../components/HoldCta.astro'
+import ThreadDivider from '../../components/ThreadDivider.astro'
+import { isLocale, TOTAL_PARTS, chapterOrder } from '../../lib/chapters'
+import { t } from '../../lib/i18n'
+import { SITE, jsonLd, keywordsFor, localePath, faq } from '../../lib/seo'
+
+export function getStaticPaths() {
+  return [{ params: { lang: 'en' } }, { params: { lang: 'vi' } }]
+}
+
+const lang = Astro.params.lang!
+if (!isLocale(lang)) return Astro.redirect('/en/')
+const locale = lang
+const tr = (k: Parameters<typeof t>[1], v?: Record<string, string | number>) => t(locale, k, v)
+
+const title =
+  locale === 'vi'
+    ? 'Tải Sách Một miễn phí — EPUB, PDF, Markdown'
+    : 'Download Book One free — EPUB, PDF, Markdown'
+const description =
+  locale === 'vi'
+    ? `Trọn cuốn Những Người Thấy Sợi Chỉ: Sách Một, miễn phí ở EPUB, PDF và Markdown, cả bản tiếng Anh lẫn tiếng Việt. Đủ ${TOTAL_PARTS} phần, không đoạn dẻ thử, không tường thanh toán.`
+    : `The complete Thread Seers Book One, free in EPUB, PDF, and Markdown, in both English and Vietnamese. All ${TOTAL_PARTS} parts, no sample, no paywall.`
+
+const schema = jsonLd({
+  locale,
+  path: '/download',
+  title,
+  description,
+  type: 'website',
+  faq: faq[locale],
+  withBook: true,
+})
+
+// Sizes are read from disk at build time; import here so a missing artifact
+// fails the build (artifacts.ts throws) rather than shipping a dead link.
+const { artifacts, sizeLabel, platformLinks } = await import('../../lib/artifacts')
+
+const groups = {
+  en: artifacts.filter((a) => a.locale === 'en'),
+  vi: artifacts.filter((a) => a.locale === 'vi'),
+}
+const mine = groups[locale]
+const other = groups[locale === 'vi' ? 'en' : 'vi']
+
+const ownEpub = mine.find((a) => a.format === 'EPUB3')
+const firstChapter = chapterOrder.find((c) => c.kind === 'front' && c.slug === 'prologue')!
+---
+
+<Base
+  locale={locale}
+  path="/download"
+  title={title}
+  description={description}
+  keywords={keywordsFor(locale, 'epub, pdf, free download')}
+  jsonLd={schema}
+  type="website"
+>
+  <Page locale={locale} path="/download">
+    <div class="mx-auto max-w-canvas px-6 py-16 lg:px-8 lg:py-24">
+      <div class="max-w-3xl">
+        <p class="eyebrow">{tr('download.eyebrow')}</p>
+        <h1 class="mt-5 font-display text-h1 font-light text-text-primary">
+          {tr('download.title')}
+        </h1>
+        <p class="mt-6 max-w-prose font-serif text-body leading-relaxed text-text-body">
+          {tr('download.body', { parts: TOTAL_PARTS })}
+        </p>
+        {
+          ownEpub && (
+            <div class="mt-9 flex flex-col items-start gap-5">
+              <HoldCta
+                locale={locale}
+                href={`/books/${ownEpub.file}`}
+                label={locale === 'vi' ? 'Giữ sợi chỉ — tải EPUB' : 'Hold the thread — EPUB'}
+                hint={tr('common.hold')}
+              />
+              <a
+                href={localePath(locale, `/series/book-one/read/${firstChapter.slug}`)}
+                class="ghost-link text-text-secondary hover:text-text-primary"
+              >
+                {tr('download.read.cta')}
+              </a>
+            </div>
+          )
+        }
+      </div>
+
+      <ThreadDivider class="mt-14 lg:mt-20" />
+
+      {/* Ledger for this locale */}
+      <section class="mt-12">
+        <p class="eyebrow">
+          {locale === 'vi' ? 'Sổ sách · ấn bản tiếng Việt' : 'Ledger · English edition'}
+        </p>
+        <ul class="mt-6 border-t border-text-primary/10">
+          {
+            mine.map((item) => (
+              <li>
+                <a
+                  href={`/books/${item.file}`}
+                  download
+                  class="group grid grid-cols-12 items-baseline gap-2 border-b border-text-primary/10 py-5 transition-colors duration-300 hover:bg-text-primary/[0.03]"
+                >
+                  <span class="col-span-4 font-mono text-sm tracking-[0.12em] text-text-primary sm:col-span-2">
+                    {item.format}
+                  </span>
+                  <span class="col-span-8 font-serif text-body text-text-body sm:col-span-6">
+                    {item.note[locale]}
+                  </span>
+                  <span class="col-span-6 font-mono text-xs text-text-secondary sm:col-span-2">
+                    {sizeLabel(item.bytes, locale)} · {tr('common.fullText')}
+                  </span>
+                  <span class="col-span-6 flex justify-end text-text-secondary transition-colors group-hover:text-accent-thread sm:col-span-2">
+                    <svg class="h-4 w-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true">
+                      <path d="M12 3v12m0 0l-4-4m4 4l4-4M4 17v2a2 2 0 002 2h12a2 2 0 002-2v-2" stroke-linecap="round" stroke-linejoin="round" />
+                    </svg>
+                  </span>
+                </a>
+              </li>
+            ))
+          }
+        </ul>
+      </section>
+
+      {/* The other-language edition, always shown so both are discoverable */}
+      <section class="mt-16">
+        <p class="eyebrow">
+          {locale === 'vi' ? 'Bản tiếng Anh' : 'Vietnamese edition'}
+        </p>
+        <ul class="mt-4 flex flex-col items-start gap-1">
+          {
+            other.map((item) => (
+              <li>
+                <a href={`/books/${item.file}`} download class="ghost-link text-sm text-text-secondary hover:text-text-primary">
+                  {item.format} · {sizeLabel(item.bytes, locale)} ·{' '}
+                  {locale === 'vi' ? 'tải bản tiếng Anh' : 'tải bản tiếng Việt'}
+                </a>
+              </li>
+            ))
+          }
+        </ul>
+      </section>
+
+      <ThreadDivider class="mt-16 lg:mt-24" />
+
+      <div class="mt-14 grid gap-12 lg:grid-cols-12">
+        <div class="lg:col-span-5">
+          <h2 class="font-display text-h2 font-normal text-text-primary">
+            {tr('download.read.title')}
+          </h2>
+          <p class="mt-4 font-serif text-body leading-relaxed text-text-body">
+            {tr('download.read.body')}
+          </p>
+          <a
+            href={localePath(locale, `/series/book-one/read/${firstChapter.slug}`)}
+            class="ghost-link mt-5"
+          >
+            {tr('download.read.cta')}
+          </a>
+        </div>
+        <div class="lg:col-span-5 lg:col-start-8">
+          <h2 class="font-display text-h2 font-normal text-text-primary">
+            {tr('download.stores.title')}
+          </h2>
+          <p class="mt-4 font-serif text-body leading-relaxed text-text-body">
+            {tr('download.stores.body')}
+          </p>
+          <div class="mt-5 flex flex-col items-start gap-1">
+            {
+              platformLinks.map((link) => (
+                <a href={link.url} target="_blank" rel="noopener noreferrer" class="ghost-link">
+                  {locale === 'vi' ? 'Mở trên ' : 'Open on '}
+                  {link.name}
+                </a>
+              ))
+            }
+          </div>
+        </div>
+      </div>
+    </div>
+  </Page>
+</Base>

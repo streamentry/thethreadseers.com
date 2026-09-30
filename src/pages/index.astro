@@ -1,0 +1,149 @@
+---
+/**
+ * Language gate for the site root.
+ *
+ * "/" has to do two jobs: be a real page for anyone landing without a
+ * preference, and hand people to the right language. It renders both choices
+ * server-side, then an inline script nudges to the preferred locale. The
+ * English edition stays the x-default so crawlers have one canonical entry.
+ */
+import { LOCALES, DEFAULT_LOCALE } from '../lib/chapters'
+import { localeMeta, t } from '../lib/i18n'
+import { SITE, absUrl, jsonLd } from '../lib/seo'
+import '../styles/global.css'
+
+const title = 'The Thread Seers — free to read in English and Vietnamese'
+const description = SITE.description.en
+const schema = jsonLd({
+  locale: 'en',
+  path: '/',
+  title,
+  description,
+  type: 'website',
+  withBook: true,
+})
+---
+
+<!doctype html>
+<html lang="en" class="dark">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    <meta name="robots" content="index, follow" />
+    <link rel="canonical" href={absUrl('/')} />
+    {
+      LOCALES.map((l) => (
+        <link rel="alternate" hreflang={localeMeta[l].htmlLang} href={absUrl(`/${l}/`)} />
+      ))
+    }
+    <link rel="alternate" hreflang="x-default" href={absUrl(`/${DEFAULT_LOCALE}/`)} />
+    <link rel="icon" type="image/jpeg" href={SITE.cover} />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={absUrl('/')} />
+    <meta property="og:image" content={SITE.coverAbs} />
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:locale:alternate" content="vi_VN" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={title} />
+    <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content={SITE.coverAbs} />
+    <script type="application/ld+json" set:html={schema} is:inline />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,300..600&family=Newsreader:opsz,wght@6..72,400..500&family=Instrument+Sans:wght@400..600&family=IBM+Plex+Mono:wght@400;500&family=Noto+Serif:wght@400;500&family=Noto+Sans:wght@400;500&display=swap"
+    />
+  </head>
+  <body class="grain min-h-screen bg-background-primary text-text-body">
+    <main class="mx-auto flex min-h-screen max-w-canvas flex-col justify-center px-6 py-20 lg:px-8">
+      <img
+        src={SITE.cover}
+        alt="The Thread Seers: Book One — cover"
+        width="96"
+        height="144"
+        class="mb-10 h-24 w-16 rounded-sm border border-text-primary/15 object-cover"
+      />
+      <p class="eyebrow">{SITE.name} · Book One</p>
+      <h1 class="mt-5 max-w-3xl font-display text-h1 font-light text-text-primary">
+        Free to read in English and Vietnamese.
+      </h1>
+      <p class="mt-6 max-w-prose font-serif text-body leading-relaxed text-text-body">
+        Toàn bộ Sách Một — bản tiếng Anh và bản tiếng Việt — đều đọc miễn phí trực tuyến. Choose your
+        edition below.
+      </p>
+
+      <ul class="mt-12 flex flex-col gap-4 sm:flex-row">
+        {
+          LOCALES.map((l) => (
+            <li>
+              <a
+                href={`/${l}/`}
+                hreflang={localeMeta[l].htmlLang}
+                lang={localeMeta[l].htmlLang}
+                class="hold-cta px-8 py-4 text-base"
+              >
+                {l === 'vi' ? 'Đọc bản tiếng Việt' : 'Read in English'}
+                <span class="ml-3 font-mono text-[0.65rem] uppercase tracking-[0.2em] opacity-70">
+                  {localeMeta[l].short}
+                </span>
+              </a>
+            </li>
+          ))
+        }
+      </ul>
+
+      <nav aria-label="Quick links" class="mt-14 border-t border-text-primary/10 pt-6">
+        <ul class="flex flex-col gap-1 sm:flex-row sm:gap-8">
+          {
+            LOCALES.flatMap((l) =>
+              [
+                ['download', `/${l}/download`],
+                ['series', `/${l}/series`],
+                ['read', `/${l}/series/book-one/read/prologue`],
+              ].map(([key, href]) => (
+                <li>
+                  <a href={href} hreflang={localeMeta[l].htmlLang} class="ghost-link text-sm text-text-secondary hover:text-text-primary">
+                    {key === 'read'
+                      ? l === 'vi'
+                        ? 'Đọc hồi mở đầu'
+                        : 'Read the prologue'
+                      : t(l, key as 'nav.download')}
+                  </a>
+                </li>
+              )),
+            )
+          }
+        </ul>
+      </nav>
+    </main>
+
+    <script is:inline>
+      // Nudge to the visitor's preferred edition. Both links remain visible and
+      // work without JS, so this is an enhancement, not a gate.
+      (function () {
+        try {
+          if (localStorage.getItem('ts-locale')) return
+          var langs = navigator.languages || [navigator.language || 'en']
+          for (var i = 0; i < langs.length; i++) {
+            var l = (langs[i] || '').toLowerCase()
+            if (l.indexOf('vi') === 0) {
+              location.replace('/vi/')
+              return
+            }
+            if (l.indexOf('en') === 0) {
+              location.replace('/en/')
+              return
+            }
+          }
+        } catch (e) {
+          /* storage blocked or navigation blocked; the links above still work */
+        }
+      })()
+    </script>
+  </body>
+</html>

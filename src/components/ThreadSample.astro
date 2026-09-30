@@ -1,0 +1,38 @@
+---
+/**
+ * A short luminous filament, sized to sit inline within a headline.
+ *
+ * Replaces the old cropped-image chips, which read as stray underscores at
+ * type size. Drawn as a real curve with a visible rise and fall, and given
+ * real vertical room so it never collapses to a dash.
+ */
+export interface Props {
+  /** Any hex colour. */
+  color?: string
+  /** Length multiplier, relative to ~84px. */
+  length?: number
+  class?: string
+}
+const { color = '#C6A15B', length = 1, class: className = '' } = Astro.props
+const w = Math.round(84 * length)
+---
+
+<svg
+  aria-hidden="true"
+  class:list={['inline-block overflow-visible align-[-0.28em]', className]}
+  width={w}
+  height="18"
+  viewBox={`0 0 ${w} 18`}
+  fill="none"
+  role="presentation"
+>
+  <path
+    d={`M3 13 C ${w * 0.22} 3, ${w * 0.38} 15, ${w * 0.55} 8 S ${w * 0.8} 2, ${w - 3} 9`}
+    stroke={color}
+    stroke-width="1.6"
+    stroke-linecap="round"
+  >
+  </path>
+  <circle cx={w - 3} cy="9" r="2.1" fill={color}></circle>
+  <circle cx="3" cy="13" r="1.4" fill={color} opacity="0.7"></circle>
+</svg>

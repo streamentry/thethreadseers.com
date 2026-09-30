@@ -1,12 +1,7 @@
 /** @type {import('tailwindcss').Config} */
 export default {
   darkMode: ["class"],
-  content: [
-    './pages/**/*.{ts,tsx}',
-    './components/**/*.{ts,tsx}',
-    './app/**/*.{ts,tsx}',
-    './src/**/*.{ts,tsx}',
-  ],
+  content: ['./src/**/*.{astro,html,js,jsx,ts,tsx,md,mdx}'],
   prefix: "",
   theme: {
     container: {
@@ -66,9 +61,9 @@ export default {
         },
       },
       fontFamily: {
-        display: ['Fraunces', 'Georgia', 'serif'],
-        serif: ['Newsreader', 'Georgia', 'serif'],
-        sans: ['"Instrument Sans"', 'system-ui', 'sans-serif'],
+        display: ['Fraunces', 'Noto Serif', 'Georgia', 'serif'],
+        serif: ['Newsreader', 'Noto Serif', 'Georgia', 'serif'],
+        sans: ['"Instrument Sans"', '"Noto Sans"', 'system-ui', 'sans-serif'],
         mono: ['"IBM Plex Mono"', 'ui-monospace', 'monospace'],
       },
       fontSize: {

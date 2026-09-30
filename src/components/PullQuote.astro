@@ -1,0 +1,20 @@
+---
+/** Canon pull quote: Fraunces italic with a red-knot diamond marker. */
+export interface Props {
+  children: string
+  cite?: string
+  class?: string
+}
+const { children, cite, class: className = '' } = Astro.props
+---
+
+<figure class:list={['my-16 lg:my-20', className]}>
+  <blockquote class="pullquote max-w-prose">{children}</blockquote>
+  {
+    cite && (
+      <figcaption class="mt-5 font-mono text-xs uppercase not-italic tracking-[0.18em] text-text-secondary">
+        {cite}
+      </figcaption>
+    )
+  }
+</figure>

@@ -118,3 +118,6 @@ ehthumbs.db
 Thumbs.db
 
 
+
+# Astro build metadata (regenerated on every build)
+.astro/

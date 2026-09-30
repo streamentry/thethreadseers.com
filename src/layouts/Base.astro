@@ -1,0 +1,107 @@
+---
+/**
+ * Base HTML shell.
+ *
+ * Owns everything a crawler reads first: <html lang>, canonical, hreflang
+ * alternates, Open Graph, Twitter, and the JSON-LD graph. Pages pass in
+ * pre-resolved SEO data so nothing is computed twice.
+ */
+import '../styles/global.css'
+import { SITE, alternates, absUrl, localePath } from '../lib/seo'
+import { localeMeta } from '../lib/i18n'
+import { LOCALES, type Locale } from '../lib/chapters'
+
+export interface Props {
+  locale: Locale
+  /** Path without locale prefix, e.g. '/download' or '/' */
+  path: string
+  title: string
+  description: string
+  /** Fully rendered JSON-LD string from jsonLd(). */
+  jsonLd: string
+  keywords?: string
+  type?: 'website' | 'article' | 'book' | 'profile'
+  image?: string
+  publishedTime?: string
+  /** Reader pages get a denser chrome. */
+  variant?: 'default' | 'reader'
+  noindex?: boolean
+}
+
+const {
+  locale,
+  path,
+  title,
+  description,
+  jsonLd,
+  keywords,
+  type = 'website',
+  image = SITE.cover,
+  publishedTime,
+  variant = 'default',
+  noindex = false,
+} = Astro.props
+
+const canonical = absUrl(localePath(locale, path))
+const ogImage = SITE.url + image
+const { htmlLang, ogLocale } = localeMeta[locale]
+const fullTitle = title.includes(SITE.name) || title.includes('Những Người Thấy Sợi Chỉ')
+  ? title
+  : `${title} — ${locale === 'vi' ? SITE.nameVi : SITE.name}`
+const alts = alternates(path)
+---
+
+<!doctype html>
+<html lang={htmlLang} class="dark">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{fullTitle}</title>
+    <meta name="description" content={description} />
+    {keywords && <meta name="keywords" content={keywords} />}
+    <meta name="author" content={locale === 'vi' ? SITE.authorVi : SITE.author} />
+    <meta
+      name="robots"
+      content={noindex
+        ? 'noindex, follow'
+        : 'index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'}
+    />
+    <link rel="canonical" href={canonical} />
+    {alts.map((a) => <link rel="alternate" hreflang={a.hreflang} href={a.href} />)}
+    <link rel="sitemap" type="application/xml" href={SITE.url + '/sitemap.xml'} />
+    <link rel="icon" type="image/jpeg" href={SITE.cover} />
+
+    <meta property="og:type" content={type} />
+    <meta property="og:site_name" content={locale === 'vi' ? SITE.nameVi : SITE.name} />
+    <meta property="og:title" content={fullTitle} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonical} />
+    <meta property="og:image" content={ogImage} />
+    <meta property="og:image:alt" content={locale === 'vi' ? 'Bìa Sách Một' : 'Book One cover'} />
+    <meta property="og:locale" content={ogLocale} />
+    {LOCALES.filter((l) => l !== locale).map((l) => (
+      <meta property="og:locale:alternate" content={localeMeta[l].ogLocale} />
+    ))}
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={fullTitle} />
+    <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content={ogImage} />
+    {publishedTime && <meta property="article:published_time" content={publishedTime} />}
+
+    <script type="application/ld+json" set:html={jsonLd} is:inline />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <!-- Fraunces + Newsreader + Instrument Sans + IBM Plex Mono, with
+         Vietnamese subsets so the vi edition renders in the same type system. -->
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300..600;1,9..144,300..600&family=Newsreader:ital,opsz,wght@0,6..72,400..500;1,6..72,400..500&family=Instrument+Sans:ital,wght@0,400..600;1,400..600&family=IBM+Plex+Mono:wght@400;500&family=Noto+Serif:ital,wght@0,400;0,500;1,400;1,500&family=Noto+Sans:ital,wght@0,400;0,500;1,400;1,500&display=swap"
+    />
+
+    <slot name="head" />
+  </head>
+  <body class={variant === 'reader' ? 'bg-background-secondary/40' : ''}>
+    <slot />
+  </body>
+</html>

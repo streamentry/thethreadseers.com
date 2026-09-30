@@ -1,0 +1,14 @@
+---
+/** A 1px whisper-thread rule with a short gold segment drifting along it. */
+export interface Props {
+  class?: string
+}
+const { class: className = '' } = Astro.props
+---
+
+<div
+  aria-hidden="true"
+  class:list={['relative h-px w-full overflow-hidden bg-text-primary/10', className]}
+>
+  <span class="absolute inset-y-0 left-0 w-1/4 bg-accent-thread/80 animate-thread-drift"></span>
+</div>

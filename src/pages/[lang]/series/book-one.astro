@@ -1,0 +1,159 @@
+---
+import Base from '../../../layouts/Base.astro'
+import Page from '../../../components/Page.astro'
+import PullQuote from '../../../components/PullQuote.astro'
+import ThreadDivider from '../../../components/ThreadDivider.astro'
+import { isLocale, TOTAL_PARTS } from '../../../lib/chapters'
+import { t } from '../../../lib/i18n'
+import { SITE, jsonLd, keywordsFor, localePath } from '../../../lib/seo'
+import { bookOne } from '../../../lib/content'
+import { excerpt } from '../../../lib/pages'
+import { artifacts, sizeLabel, platformLinks } from '../../../lib/artifacts'
+
+export function getStaticPaths() {
+  return [{ params: { lang: 'en' } }, { params: { lang: 'vi' } }]
+}
+
+const lang = Astro.params.lang!
+if (!isLocale(lang)) return Astro.redirect('/en/')
+const locale = lang
+const tr = (k: Parameters<typeof t>[1], v?: Record<string, string | number>) => t(locale, k, v)
+
+const title =
+  locale === 'vi' ? 'Những Người Thấy Sợi Chỉ: Sách Một — đọc hoặc tải miễn phí' : 'The Thread Seers: Book One — read or download free'
+const description =
+  locale === 'vi'
+    ? 'Những Người Thấy Sợi Chỉ, Sách Một: cô nghệ sĩ mười sáu tuổi Lyra Chen nhìn thấy những sợi chỉ rực lạp nối người, nơi chốn, và bí mật. Đọc trực tuyến hoặc tải toàn văn miễn phí.'
+    : 'The Thread Seers Book One: sixteen-year-old artist Lyra Chen can see the luminous threads binding people, places, and secrets. Read it online or download the full text free.'
+
+const schema = jsonLd({
+  locale,
+  path: '/series/book-one',
+  title,
+  description,
+  type: 'book',
+  withBook: true,
+})
+
+const blurb = (locale === 'vi' ? bookOne.vi.blurb : bookOne.en.blurb).split(/(?<=\.)\s+/)
+const mine = artifacts.filter((a) => a.locale === locale)
+const lines = excerpt[locale]
+---
+
+<Base
+  locale={locale}
+  path="/series/book-one"
+  title={title}
+  description={description}
+  keywords={keywordsFor(locale, 'book one, read online')}
+  jsonLd={schema}
+  type="book"
+>
+  <Page locale={locale} path="/series">
+    <div class="mx-auto max-w-canvas px-6 py-16 lg:px-8 lg:py-24">
+      <div class="grid gap-12 lg:grid-cols-12">
+        <div class="lg:col-span-4">
+          <figure class="lg:sticky lg:top-8">
+            <div class="overflow-hidden rounded-sm border border-text-primary/15">
+              <img
+                src={SITE.cover}
+                alt={locale === 'vi' ? 'Bìa Sách Một' : 'The Thread Seers: Book One — cover'}
+                width="1024"
+                height="1536"
+                class="aspect-[2/3] w-full object-cover"
+                loading="eager"
+              />
+            </div>
+            <figcaption class="mt-3 font-mono text-xs uppercase tracking-[0.18em] text-text-secondary">
+              {locale === 'vi' ? 'Sách Một · toàn văn miễn phí' : 'Book One · full text free'}
+            </figcaption>
+            <a href={localePath(locale, '/series/book-one/read/prologue')} class="hold-cta mt-6 w-full px-6 py-4 text-base">
+              {tr('book.readOnline')}
+            </a>
+          </figure>
+        </div>
+
+        <div class="lg:col-span-7 lg:col-start-6">
+          <p class="eyebrow">{tr('book.eyebrow')}</p>
+          <h1 class="mt-5 font-display text-h1 font-light text-text-primary">
+            {locale === 'vi' ? bookOne.vi.title : bookOne.en.title}
+          </h1>
+          <div class="prose-reader mx-0 mt-8 max-w-prose">
+            {blurb.map((p) => <p>{p}</p>)}
+          </div>
+
+          <ThreadDivider class="mb-10 mt-12" />
+          <p class="eyebrow">{tr('book.ledger.eyebrow')}</p>
+          <ul class="mt-4 border-t border-text-primary/10">
+            {
+              mine.map((item) => (
+                <li>
+                  <a
+                    href={`/books/${item.file}`}
+                    download
+                    class="group flex items-baseline justify-between gap-4 border-b border-text-primary/10 py-4 transition-colors duration-300 hover:bg-text-primary/[0.03]"
+                  >
+                    <span class="font-mono text-sm tracking-[0.12em] text-text-primary">
+                      {item.format}
+                    </span>
+                    <span class="flex-1 font-serif text-body text-text-secondary">
+                      {item.note[locale]}
+                    </span>
+                    <span class="font-mono text-xs text-text-secondary">
+                      {sizeLabel(item.bytes, locale)}
+                    </span>
+                    <span class="font-sans text-sm text-text-secondary transition-colors group-hover:text-accent-thread">
+                      ↓
+                    </span>
+                  </a>
+                </li>
+              ))
+            }
+          </ul>
+
+          <p class="eyebrow mt-12">{tr('book.stores.eyebrow')}</p>
+          <div class="mt-3 flex flex-col items-start gap-1">
+            {
+              platformLinks.map((link) => (
+                <a href={link.url} target="_blank" rel="noopener noreferrer" class="ghost-link">
+                  {link.name}
+                </a>
+              ))
+            }
+          </div>
+        </div>
+      </div>
+
+      <ThreadDivider class="mt-20 lg:mt-28" />
+
+      <div class="mt-12 grid gap-10 lg:mt-16 lg:grid-cols-12">
+        <div class="lg:col-span-4">
+          <p class="eyebrow">{tr('book.excerpt.eyebrow')}</p>
+          <p class="mt-4 font-serif text-body leading-relaxed text-text-body">
+            {tr('book.excerpt.body')}
+          </p>
+        </div>
+        <div class="lg:col-span-7 lg:col-start-6">
+          <blockquote class="max-w-prose font-serif italic leading-relaxed text-text-body">
+            {lines.map((line) => <p class="mb-4">{line}</p>)}
+          </blockquote>
+          <a
+            href={localePath(locale, '/series/book-one/read/chapter-1')}
+            class="ghost-link mt-6"
+          >
+            {locale === 'vi' ? 'Đọc Chương 1' : 'Read Chapter 1'}
+          </a>
+        </div>
+      </div>
+
+      <div class="mt-16 flex items-center justify-between border-t border-text-primary/10 pt-6 lg:mt-24">
+        <a href={localePath(locale, '/series')} class="ghost-link text-text-secondary hover:text-text-primary">
+          ← {tr('book.back')}
+        </a>
+        <span class="font-mono text-xs uppercase tracking-[0.18em] text-text-secondary">
+          {tr('book.nextUnspun')}
+        </span>
+      </div>
+    </div>
+  </Page>
+</Base>

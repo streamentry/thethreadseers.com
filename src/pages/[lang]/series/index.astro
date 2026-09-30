@@ -1,0 +1,180 @@
+---
+import Base from '../../../layouts/Base.astro'
+import Page from '../../../components/Page.astro'
+import ThreadDivider from '../../../components/ThreadDivider.astro'
+import RelationshipMap, { type ThreadNode } from '../../../components/RelationshipMap.astro'
+import { isLocale, TOTAL_PARTS, chapterOrder } from '../../../lib/chapters'
+import { t } from '../../../lib/i18n'
+import { jsonLd, keywordsFor, localePath, faq } from '../../../lib/seo'
+import { books, THREAD } from '../../../lib/content'
+import { seriesAbout } from '../../../lib/pages'
+
+export function getStaticPaths() {
+  return [{ params: { lang: 'en' } }, { params: { lang: 'vi' } }]
+}
+
+const lang = Astro.params.lang!
+if (!isLocale(lang)) return Astro.redirect('/en/')
+const locale = lang
+const tr = (k: Parameters<typeof t>[1], v?: Record<string, string | number>) => t(locale, k, v)
+
+const title =
+  locale === 'vi'
+    ? 'Bộ sách — bảy cuốn, một Dệt Bộ'
+    : 'The series — seven books, one weave'
+const description =
+  locale === 'vi'
+    ? 'Những Người Thấy Sợi Chỉ theo thứ tự, từ Sách Một đến Mạng Lưới Thức Tỉnh. Nội dung tóm tắt, màu sợi theo canon, và các chủ đề của cả bộ.'
+    : 'The Thread Seers in order, from Book One through The Awakening Network. Blurbs, canon thread colours, and the series themes: dependent origination, communion versus control, and living cultural traditions.'
+
+const schema = jsonLd({
+  locale,
+  path: '/series',
+  title,
+  description,
+  type: 'website',
+  faq: faq[locale],
+  withSeries: true,
+})
+
+const threadLabel: Record<string, { en: string; vi: string }> = {
+  gold: { en: 'gold · communion', vi: 'vàng · hiệp thông' },
+  memory: { en: 'blue · new perception', vi: 'lam · tri giác mới' },
+  knot: { en: 'red · conflict', vi: 'đỏ · xung đột' },
+  unspun: { en: 'unspun', vi: 'chưa dệt' },
+}
+
+const statusKey = {
+  complete: 'series.thread.complete',
+  progress: 'series.thread.progress',
+  ahead: 'series.thread.ahead',
+  unspun: 'series.thread.unspun',
+} as const
+
+const nodes: ThreadNode[] = books.map((b) => ({
+  name: locale === 'vi' ? b.vi.title : b.en.title,
+  essence: locale === 'vi' ? b.vi.blurb : b.en.blurb,
+  thread: b.thread,
+  label: threadLabel[b.thread][locale],
+  meta: tr(statusKey[b[locale].status as keyof typeof statusKey]),
+  to: b.available ? `/series/${b.slug}` : undefined,
+  dimmed: !b.available,
+}))
+
+// Reading manifest: every part, in order, with its reading time.
+const numbered = chapterOrder.filter((c) => c.kind === 'chapter').length
+---
+
+<Base
+  locale={locale}
+  path="/series"
+  title={title}
+  description={description}
+  keywords={keywordsFor(locale, 'book series, series order')}
+  jsonLd={schema}
+  type="website"
+>
+  <Page locale={locale} path="/series">
+    <div class="mx-auto max-w-canvas px-6 py-16 lg:px-8 lg:py-24">
+      <div class="max-w-3xl">
+        <p class="eyebrow">{tr('series.eyebrow')}</p>
+        <h1 class="mt-5 font-display text-h1 font-light text-text-primary">
+          {tr('series.title')}
+        </h1>
+        <p class="mt-6 font-serif text-body leading-relaxed text-text-body">
+          {tr('series.body')}
+        </p>
+      </div>
+
+      <ThreadDivider class="mt-14 lg:mt-20" />
+
+      <div class="mt-12 grid gap-12 lg:mt-16 lg:grid-cols-12">
+        <div class="lg:col-span-4">
+          <h2 class="font-display text-h2 font-normal text-text-primary">
+            {tr('series.index.title')}
+          </h2>
+          <p class="mt-4 font-serif text-body leading-relaxed text-text-body">
+            {tr('series.index.body')}
+          </p>
+        </div>
+        <div class="lg:col-span-7 lg:col-start-6">
+          <RelationshipMap locale={locale} nodes={nodes} />
+        </div>
+      </div>
+
+      <ThreadDivider class="mt-16 lg:mt-24" />
+
+      <div class="mt-14 space-y-14 lg:mt-20 lg:space-y-20">
+        {
+          seriesAbout.map((row, i) => (
+            <div class="grid gap-4 lg:grid-cols-12 lg:gap-8">
+              <p
+                class:list={[
+                  'font-mono text-sm tracking-[0.2em] text-accent-thread lg:col-span-2',
+                  i % 2 === 1 ? 'lg:order-2 lg:text-right' : '',
+                ]}
+              >
+                {row.numeral}
+              </p>
+              <div
+                class:list={[
+                  'lg:col-span-7',
+                  i % 2 === 1 ? 'lg:order-1 lg:col-start-4' : 'lg:col-start-3',
+                ]}
+              >
+                <h2 class="font-display text-h2 font-normal text-text-primary">
+                  {row.title[locale]}
+                </h2>
+                <p class="mt-4 max-w-prose font-serif text-body leading-relaxed text-text-body">
+                  {row.body[locale]}
+                </p>
+              </div>
+            </div>
+          ))
+        }
+      </div>
+
+      {/* Reading manifest: the full book, free, in both languages. */}
+      <ThreadDivider class="mt-16 lg:mt-24" />
+
+      <section class="mt-14">
+        <div class="grid gap-10 lg:grid-cols-12">
+          <div class="lg:col-span-5">
+            <h2 class="font-display text-h2 font-normal text-text-primary">
+              {tr('series.manifest.title')}
+            </h2>
+            <p class="mt-4 font-serif text-body leading-relaxed text-text-body">
+              {tr('series.manifest.body', { parts: TOTAL_PARTS })}
+            </p>
+            <p class="mt-6 font-mono text-xs uppercase tracking-[0.18em] text-text-secondary">
+              {numbered} {locale === 'vi' ? 'chương' : 'chapters'} · {TOTAL_PARTS}{' '}
+              {locale === 'vi' ? 'phần' : 'parts'} · EN / VI
+            </p>
+          </div>
+          <nav class="lg:col-span-6 lg:col-start-7" aria-label={tr('series.manifest.title')}>
+            <ol class="grid gap-x-8 sm:grid-cols-2">
+              {
+                chapterOrder.map((chapter) => (
+                  <li class="border-b border-text-primary/10">
+                    <a
+                      href={localePath(locale, `/series/book-one/read/${chapter.slug}`)}
+                      hreflang={locale}
+                      class="flex min-h-[44px] items-baseline gap-3 py-2.5 transition-colors duration-300 hover:bg-text-primary/[0.03]"
+                    >
+                      <span class="w-16 shrink-0 font-mono text-xs text-text-muted">
+                        {chapter.label}
+                      </span>
+                      <span class="font-serif text-sm leading-snug text-text-body transition-colors hover:text-text-primary">
+                        {locale === 'vi' ? chapter.viTitle : chapter.enTitle}
+                      </span>
+                    </a>
+                  </li>
+                ))
+              }
+            </ol>
+          </nav>
+        </div>
+      </section>
+    </div>
+  </Page>
+</Base>

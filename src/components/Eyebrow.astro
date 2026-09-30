@@ -1,0 +1,10 @@
+---
+/** Mono eyebrow above a section heading. */
+export interface Props {
+  children: string
+  class?: string
+}
+const { children, class: className = '' } = Astro.props
+---
+
+<p class:list={['eyebrow', className]}>{children}</p>
