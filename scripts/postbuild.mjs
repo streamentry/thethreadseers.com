@@ -57,26 +57,99 @@ for (const file of htmlFiles) {
   const before = html
 
   // Astro emits /_astro/... for bundled assets; /books and /img come from
-  // public/. Only rewrite paths that begin with a quote/paren, so absolute
-  // URLs (canonical, hreflang, og:image) are left alone.
-  html = html.replace(/(["'(])\/(_astro\/|books\/|img\/)/g, `$1${prefix}$2`)
+  // public/. Internal page links are written root-absolute by localePath(),
+  // i.e. /en/... and /vi/..., which also break under a subpath mount.
+  //
+  // All of them become depth-relative. Only paths beginning with a quote or
+  // paren are touched, so absolute URLs (canonical, hreflang, og:image) are
+  // left alone.
+  html = html.replace(/(["'(])\/(_astro\/|books\/|img\/|en\/|vi\/)/g, `$1${prefix}$2`)
+  // The locale root is emitted with no trailing slash ("/en", "/vi") by
+  // localePath(locale, '/'), so it needs its own rule. After the rule above a
+  // rewritten link reads "../en/...", where the "/" is preceded by a dot and
+  // cannot match a second time.
+  html = html.replace(/(["'(])\/(en|vi)(["')])/g, `$1${prefix}$2$3`)
 
   if (html !== before) {
     writeFileSync(file, html)
     rewritten++
   }
 
-  // Verify nothing root-absolute was left behind for a local asset.
+  // Nothing local may stay root-absolute, or it 404s under a subpath mount.
+  // This is a build failure rather than a review item: it took the site down
+  // twice before (PR #1, and the base:'/' regression in PR #3).
   const leftovers = [...html.matchAll(/(?:src|href)="\/(?!https?:)([^"]+)"/g)]
     .map((m) => m[1])
-    .filter((u) => /^\/?(_astro|books|img)\//.test(u))
-  if (leftovers.length) problems.push(`${rel}: ${leftovers.join(', ')}`)
+    .filter((u) => /^(_astro|books|img|en|vi)\//.test(u))
+  if (leftovers.length) problems.push(`${rel}: ${[...new Set(leftovers)].join(', ')}`)
 }
 
 if (problems.length) {
-  console.error('postbuild: root-absolute asset URLs remain in:')
+  console.error('postbuild: root-absolute local URLs remain in:')
   for (const p of problems) console.error('  ' + p)
   console.error('These will 404 when the site is served from a subpath.')
+  process.exit(1)
+}
+
+/* ------------------------------------------- 1b. internal link integrity */
+
+/**
+ * Crawl every local link in the built HTML and confirm it resolves to a file
+ * that exists. This is the check that would have caught the root-absolute
+ * /en/... links: they resolve fine at a domain root and 404 under a subpath
+ * mount, which is the exact shape of bug that has taken this site down three
+ * times. Auditing with explicit paths instead of following links misses it.
+ */
+const brokenLinks = []
+let linksChecked = 0
+
+for (const file of htmlFiles) {
+  const rel = relative(DIST, file).replace(/\\/g, '/')
+  const pageUrl = `/${rel.replace(/index\.html$/, '')}`
+  const html = readFileSync(file, 'utf8')
+
+  for (const m of html.matchAll(/(?:href|src)="([^"]+)"/g)) {
+    const target = m[1]
+    // Skip absolute, protocol-relative, in-page, data URIs, and any other
+    // scheme (mailto:, tel:) — none of those are site-relative paths.
+    if (
+      /^(https?:)?\/\//.test(target) ||
+      target.startsWith('#') ||
+      target.startsWith('data:') ||
+      /^[a-z][a-z0-9+.-]*:/i.test(target)
+    ) {
+      continue
+    }
+    if (target === '' || target === '/') continue
+    linksChecked++
+
+    // Resolve the way a browser would, relative to this page's own URL.
+    let resolved
+    try {
+      resolved = new URL(target, 'https://x' + pageUrl).pathname
+    } catch {
+      brokenLinks.push(`${rel}: unparseable "${target}"`)
+      continue
+    }
+
+    let candidate = resolved.replace(/^\//, '')
+    if (candidate === '' || candidate.endsWith('/')) candidate += 'index.html'
+    if (!existsSync(join(DIST, candidate))) {
+      const alt = candidate.replace(/index\.html$/, '')
+      if (alt && existsSync(join(DIST, alt, 'index.html'))) {
+        brokenLinks.push(`${rel}: "${target}" needs a trailing slash`)
+      } else {
+        brokenLinks.push(`${rel}: "${target}" -> /${candidate} (missing)`)
+      }
+    }
+  }
+}
+
+if (brokenLinks.length) {
+  const unique = [...new Set(brokenLinks)]
+  console.error(`postbuild: ${unique.length} broken internal link(s):`)
+  for (const b of unique.slice(0, 40)) console.error('  ' + b)
+  if (unique.length > 40) console.error(`  ...and ${unique.length - 40} more`)
   process.exit(1)
 }
 
@@ -275,7 +348,7 @@ writeFileSync(join(DIST, 'llms.txt'), lines.join('\n') + '\n')
 
 const urlCount = sitemapEntries.length
 console.log(
-  `postbuild: ${rewritten}/${htmlFiles.length} html files relativized · ` +
+  `postbuild: ${rewritten}/${htmlFiles.length} html relativized · ${linksChecked} internal links OK · ` +
     `sitemap ${urlCount} urls (en ${routes.en.length}, vi ${routes.vi.length}) · ` +
     `robots.txt · llms.txt (${chapterOrder.length} chapters)`,
 )
