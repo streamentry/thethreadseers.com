@@ -21,6 +21,13 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      # pnpm must be installed before setup-node: the Node step caches the
+      # pnpm store and needs pnpm on PATH to resolve it.
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: 10
+
       # Astro 7 requires Node >= 22.12. Keep this in step with the "engines"
       # field in package.json, which Astro also checks.
       - name: Setup Node.js
@@ -28,11 +35,6 @@ jobs:
         with:
           node-version: '22'
           cache: 'pnpm'
-
-      - name: Setup pnpm
-        uses: pnpm/action-setup@v4
-        with:
-          version: 10
 
       - name: Install dependencies
         run: pnpm install --frozen-lockfile
