@@ -3,7 +3,8 @@ import Base from '../../layouts/Base.astro'
 import Page from '../../components/Page.astro'
 import HoldCta from '../../components/HoldCta.astro'
 import ThreadDivider from '../../components/ThreadDivider.astro'
-import { isLocale, TOTAL_PARTS, chapterOrder } from '../../lib/chapters'
+import { isLocale, TOTAL_PARTS, chapterOrder, titleFor } from '../../lib/chapters'
+import { getAvailableAudioTracks } from '../../lib/audio'
 import { t } from '../../lib/i18n'
 import { SITE, jsonLd, keywordsFor, localePath, faq } from '../../lib/seo'
 
@@ -48,6 +49,9 @@ const other = groups[locale === 'vi' ? 'en' : 'vi']
 
 const ownEpub = mine.find((a) => a.format === 'EPUB3')
 const firstChapter = chapterOrder.find((c) => c.kind === 'front' && c.slug === 'prologue')!
+
+const audioTracks = getAvailableAudioTracks(locale)
+const otherAudioTracks = getAvailableAudioTracks(locale === 'vi' ? 'en' : 'vi')
 ---
 
 <Base
@@ -55,7 +59,7 @@ const firstChapter = chapterOrder.find((c) => c.kind === 'front' && c.slug === '
   path="/download"
   title={title}
   description={description}
-  keywords={keywordsFor(locale, 'epub, pdf, free download')}
+  keywords={keywordsFor(locale, 'epub, pdf, free download, audiobook, sach noi, mp3')}
   jsonLd={schema}
   type="website"
 >
@@ -144,6 +148,93 @@ const firstChapter = chapterOrder.find((c) => c.kind === 'front' && c.slug === '
           }
         </ul>
       </section>
+
+      {/* Sách nói / Audiobook section */}
+      {audioTracks.length > 0 && (
+        <>
+          <ThreadDivider class="mt-16 lg:mt-24" />
+          <section class="mt-12" id="audiobook">
+            <div class="flex flex-col sm:flex-row sm:items-baseline sm:justify-between gap-3">
+              <div>
+                <p class="eyebrow">{tr('audio.downloadSectionTitle')}</p>
+                <h2 class="mt-2 font-display text-h2 font-normal text-text-primary">
+                  {locale === 'vi' ? 'Sách Nói Trực Tuyến & Tải Về' : 'Audiobook Online & Downloads'}
+                </h2>
+              </div>
+              <span class="font-mono text-xs uppercase tracking-wider text-accent-thread">
+                {tr('audio.allChapters', { count: audioTracks.length })}
+              </span>
+            </div>
+            <p class="mt-4 max-w-prose font-serif text-body leading-relaxed text-text-body">
+              {tr('audio.downloadSectionBody')}
+            </p>
+
+            <div class="mt-8 border-t border-text-primary/10">
+              <div class="grid grid-cols-1 md:grid-cols-2 gap-3 pt-6">
+                {audioTracks.map((track) => {
+                  const heading = titleFor(track.chapter, locale)
+                  const readUrl = localePath(locale, `/series/book-one/read/${track.slug}`)
+                  return (
+                    <div class="group flex items-center justify-between gap-3 rounded-sm border border-text-primary/10 bg-background-secondary/50 p-4 transition-colors duration-200 hover:border-accent-thread/40 hover:bg-background-secondary">
+                      <div class="min-w-0 flex-1">
+                        <a href={readUrl} class="truncate font-sans text-sm font-medium text-text-primary hover:text-accent-thread transition-colors block">
+                          {heading}
+                        </a>
+                        <span class="font-mono text-[0.7rem] uppercase tracking-wider text-text-muted">
+                          {track.sizeLabel} · {locale === 'vi' ? `Phần ${track.chapter.label}` : `Part ${track.chapter.label}`}
+                        </span>
+                      </div>
+                      <div class="flex items-center gap-2 flex-shrink-0">
+                        <a
+                          href={readUrl}
+                          class="inline-flex items-center gap-1.5 rounded-sm border border-text-primary/15 px-2.5 py-1.5 font-mono text-xs text-text-secondary hover:border-accent-thread hover:text-accent-thread transition-colors"
+                          title={tr('audio.listenOnline')}
+                        >
+                          <svg class="h-3 w-3 fill-current" viewBox="0 0 24 24">
+                            <path d="M8 5v14l11-7z" />
+                          </svg>
+                          <span class="hidden sm:inline">{tr('audio.listenOnline')}</span>
+                        </a>
+                        <a
+                          href={track.url}
+                          download={track.downloadName}
+                          class="inline-flex items-center gap-1.5 rounded-sm bg-text-primary/10 px-2.5 py-1.5 font-mono text-xs text-text-primary hover:bg-accent-thread hover:text-background-primary transition-colors"
+                          title={tr('audio.downloadMp3')}
+                        >
+                          <svg class="h-3.5 w-3.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                            <path d="M12 3v13m0 0l-4-4m4 4l4-4M4 17v2a2 2 0 002 2h12a2 2 0 002-2v-2" />
+                          </svg>
+                          <span>MP3</span>
+                        </a>
+                      </div>
+                    </div>
+                  )
+                })}
+              </div>
+            </div>
+          </section>
+        </>
+      )}
+
+      {/* If this locale doesn't have audio but the other locale does, show a discovery link */}
+      {audioTracks.length === 0 && otherAudioTracks.length > 0 && (
+        <section class="mt-12">
+          <p class="eyebrow">
+            {locale === 'vi' ? 'Bản thu âm tiếng Anh' : 'Vietnamese Audiobook'}
+          </p>
+          <p class="mt-2 font-serif text-sm text-text-body">
+            {locale === 'vi'
+              ? 'Bản thu âm tiếng Anh đang được hoàn thiện.'
+              : `${otherAudioTracks.length} chapters are recorded and available for online listening and MP3 download in the Vietnamese edition.`}
+          </p>
+          <a
+            href={localePath('vi', '/download#audiobook')}
+            class="ghost-link mt-2 text-sm text-text-secondary hover:text-text-primary"
+          >
+            {locale === 'vi' ? 'Xem các bản thu âm' : 'Listen to Vietnamese audiobook edition'} →
+          </a>
+        </section>
+      )}
 
       <ThreadDivider class="mt-16 lg:mt-24" />
 

@@ -1,0 +1,329 @@
+---
+/**
+ * Audio player component for online chapter listening and MP3 download.
+ * Styled to seamlessly harmonize with The Thread Seers aesthetic.
+ */
+import type { AudioTrack } from '../lib/audio'
+import { t, type Locale } from '../lib/i18n'
+
+export interface Props {
+  track: AudioTrack
+  locale: Locale
+  title: string
+  class?: string
+}
+
+const { track, locale, title, class: className = '' } = Astro.props
+const tr = (k: Parameters<typeof t>[1], v?: Record<string, string | number>) => t(locale, k, v)
+const playerId = `player-${track.slug}`
+---
+
+<div
+  class:list={[
+    'audio-player my-8 rounded-sm border border-text-primary/15 bg-background-secondary/90 p-4 sm:p-5 backdrop-blur-sm shadow-sm transition-colors duration-300',
+    className,
+  ]}
+  id={playerId}
+  data-audio-player
+  data-title={title}
+  data-author={tr('common.author')}
+  data-book={tr('site.name')}
+>
+  <div class="flex flex-wrap items-center justify-between gap-3 border-b border-text-primary/10 pb-3">
+    <div class="flex items-center gap-2">
+      <span class="inline-block h-2 w-2 rounded-full bg-accent-thread animate-thread-breathe"></span>
+      <p class="font-mono text-xs uppercase tracking-[0.18em] text-accent-thread">
+        {tr('audio.title')}
+      </p>
+      <span class="hidden sm:inline font-mono text-[0.65rem] text-text-muted">· {tr('audio.voice')}</span>
+    </div>
+
+    <a
+      href={track.url}
+      download={track.downloadName}
+      class="group inline-flex items-center gap-1.5 rounded-sm border border-text-primary/15 px-2.5 py-1 font-mono text-xs text-text-secondary transition-colors duration-200 hover:border-accent-thread hover:text-accent-thread"
+      title={tr('audio.downloadMp3')}
+    >
+      <svg
+        class="h-3.5 w-3.5 transition-transform duration-200 group-hover:translate-y-0.5"
+        viewBox="0 0 24 24"
+        fill="none"
+        stroke="currentColor"
+        stroke-width="2"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        aria-hidden="true"
+      >
+        <path d="M12 3v13m0 0l-4-4m4 4l4-4M4 17v2a2 2 0 002 2h12a2 2 0 002-2v-2" />
+      </svg>
+      <span>{tr('audio.downloadMp3')}</span>
+      <span class="text-text-muted">({track.sizeLabel})</span>
+    </a>
+  </div>
+
+  <div class="mt-4 flex flex-col gap-3">
+    {/* Main controls & timeline */}
+    <div class="flex items-center gap-3 sm:gap-4">
+      {/* Play / Pause toggle */}
+      <button
+        type="button"
+        data-play-toggle
+        aria-label={tr('audio.play')}
+        class="group flex h-11 w-11 flex-shrink-0 items-center justify-center rounded-full bg-accent-thread text-background-primary transition-all duration-200 hover:bg-[#d3af66] active:scale-95 focus-visible:outline-2 focus-visible:outline-accent-thread"
+      >
+        <svg
+          data-play-icon
+          class="h-5 w-5 translate-x-0.5 fill-current"
+          viewBox="0 0 24 24"
+          aria-hidden="true"
+        >
+          <path d="M8 5v14l11-7z" />
+        </svg>
+        <svg
+          data-pause-icon
+          class="hidden h-5 w-5 fill-current"
+          viewBox="0 0 24 24"
+          aria-hidden="true"
+        >
+          <path d="M6 19h4V5H6v14zm8-14v14h4V5h-4z" />
+        </svg>
+      </button>
+
+      {/* Skip back 15s */}
+      <button
+        type="button"
+        data-skip-back
+        class="hidden sm:flex h-8 w-8 items-center justify-center rounded text-text-secondary hover:text-text-primary transition-colors duration-200"
+        title="-15s"
+        aria-label="-15s"
+      >
+        <svg class="h-4 w-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <path d="M1 4v6h6M3.51 15a9 9 0 1 0 2.13-9.36L1 10" />
+          <text x="12" y="15" font-size="7" font-family="monospace" text-anchor="middle" fill="currentColor" stroke="none">15</text>
+        </svg>
+      </button>
+
+      {/* Progress timeline */}
+      <div class="flex flex-1 items-center gap-2 sm:gap-3">
+        <span
+          data-current-time
+          class="w-10 sm:w-11 font-mono text-[0.7rem] sm:text-xs text-text-muted text-right tabular-nums"
+        >
+          00:00
+        </span>
+
+        <div class="relative flex-1 flex items-center">
+          <input
+            type="range"
+            min="0"
+            max="100"
+            value="0"
+            step="0.1"
+            data-seek-bar
+            aria-label={tr('audio.seek')}
+            class="h-2 w-full cursor-pointer appearance-none rounded-sm bg-text-primary/15 accent-accent-thread transition-all duration-150 focus-visible:outline-none"
+          />
+        </div>
+
+        <span
+          data-duration
+          class="w-10 sm:w-11 font-mono text-[0.7rem] sm:text-xs text-text-muted tabular-nums"
+        >
+          --:--
+        </span>
+      </div>
+
+      {/* Skip forward 15s */}
+      <button
+        type="button"
+        data-skip-forward
+        class="hidden sm:flex h-8 w-8 items-center justify-center rounded text-text-secondary hover:text-text-primary transition-colors duration-200"
+        title="+15s"
+        aria-label="+15s"
+      >
+        <svg class="h-4 w-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <path d="M23 4v6h-6M20.49 15a9 9 0 1 1-2.12-9.36L23 10" />
+          <text x="12" y="15" font-size="7" font-family="monospace" text-anchor="middle" fill="currentColor" stroke="none">15</text>
+        </svg>
+      </button>
+
+      {/* Speed cycler */}
+      <button
+        type="button"
+        data-speed-btn
+        class="font-mono text-xs text-text-secondary hover:text-accent-thread px-2 py-1 rounded border border-text-primary/10 hover:border-accent-thread/40 transition-colors"
+        title={tr('audio.speed')}
+      >
+        <span data-speed-label>1.0×</span>
+      </button>
+    </div>
+  </div>
+
+  <audio
+    preload="metadata"
+    data-audio-element
+    src={track.url}
+    class="sr-only"
+    tabindex="-1"
+  ></audio>
+
+  <noscript>
+    <audio controls preload="none" src={track.url} class="mt-3 w-full">
+      <a href={track.url} download>{tr('audio.downloadMp3')}</a>
+    </audio>
+  </noscript>
+</div>
+
+<script>
+  function formatTime(seconds: number): string {
+    if (isNaN(seconds) || seconds < 0) return '00:00'
+    const m = Math.floor(seconds / 60)
+    const s = Math.floor(seconds % 60)
+    return `${m.toString().padStart(2, '0')}:${s.toString().padStart(2, '0')}`
+  }
+
+  function initPlayer(root: HTMLElement) {
+    if (root.dataset.playerWired === 'true') return
+    root.dataset.playerWired = 'true'
+
+    const audio = root.querySelector<HTMLAudioElement>('[data-audio-element]')
+    const playBtn = root.querySelector<HTMLButtonElement>('[data-play-toggle]')
+    const playIcon = root.querySelector<HTMLElement>('[data-play-icon]')
+    const pauseIcon = root.querySelector<HTMLElement>('[data-pause-icon]')
+    const seekBar = root.querySelector<HTMLInputElement>('[data-seek-bar]')
+    const currentTimeEl = root.querySelector<HTMLElement>('[data-current-time]')
+    const durationEl = root.querySelector<HTMLElement>('[data-duration]')
+    const speedBtn = root.querySelector<HTMLButtonElement>('[data-speed-btn]')
+    const speedLabel = root.querySelector<HTMLElement>('[data-speed-label]')
+    const skipBackBtn = root.querySelector<HTMLButtonElement>('[data-skip-back]')
+    const skipFwdBtn = root.querySelector<HTMLButtonElement>('[data-skip-forward]')
+
+    if (!audio || !playBtn || !seekBar || !currentTimeEl || !durationEl) return
+
+    const SPEED_KEY = 'ts-audio-speed'
+    const speeds = [1.0, 1.25, 1.5, 0.8]
+    let speedIndex = 0
+
+    // Restore saved speed preference
+    const savedSpeed = parseFloat(localStorage.getItem(SPEED_KEY) || '1.0')
+    if (!isNaN(savedSpeed) && savedSpeed > 0) {
+      audio.playbackRate = savedSpeed
+      if (speedLabel) speedLabel.textContent = `${savedSpeed}×`
+      const idx = speeds.indexOf(savedSpeed)
+      if (idx !== -1) speedIndex = idx
+    }
+
+    let isSeeking = false
+
+    function updatePlayState(isPlaying: boolean) {
+      if (isPlaying) {
+        playIcon?.classList.add('hidden')
+        pauseIcon?.classList.remove('hidden')
+        playBtn?.setAttribute('aria-label', 'Pause')
+      } else {
+        playIcon?.classList.remove('hidden')
+        pauseIcon?.classList.add('hidden')
+        playBtn?.setAttribute('aria-label', 'Play')
+      }
+    }
+
+    // Media Session metadata
+    function setupMediaSession() {
+      if ('mediaSession' in navigator) {
+        const title = root.dataset.title || 'Audiobook'
+        const artist = root.dataset.author || 'Le Viet Hong'
+        const album = root.dataset.book || 'The Thread Seers'
+
+        navigator.mediaSession.metadata = new MediaMetadata({
+          title,
+          artist: `${artist} (Aoede AI)`,
+          album,
+        })
+
+        navigator.mediaSession.setActionHandler('play', () => audio?.play())
+        navigator.mediaSession.setActionHandler('pause', () => audio?.pause())
+        navigator.mediaSession.setActionHandler('seekbackward', () => {
+          if (audio) audio.currentTime = Math.max(0, audio.currentTime - 15)
+        })
+        navigator.mediaSession.setActionHandler('seekforward', () => {
+          if (audio) audio.currentTime = Math.min(audio.duration, audio.currentTime + 15)
+        })
+      }
+    }
+
+    playBtn.addEventListener('click', () => {
+      if (audio.paused) {
+        // Pause any other playing audio on the page
+        document.querySelectorAll('audio').forEach((el) => {
+          if (el !== audio && !el.paused) el.pause()
+        })
+        audio.play().catch(() => {})
+        setupMediaSession()
+      } else {
+        audio.pause()
+      }
+    })
+
+    audio.addEventListener('play', () => updatePlayState(true))
+    audio.addEventListener('pause', () => updatePlayState(false))
+    audio.addEventListener('ended', () => {
+      updatePlayState(false)
+      if (seekBar) seekBar.value = '0'
+      if (currentTimeEl) currentTimeEl.textContent = '00:00'
+    })
+
+    audio.addEventListener('loadedmetadata', () => {
+      if (durationEl) durationEl.textContent = formatTime(audio.duration)
+      if (seekBar) seekBar.max = String(audio.duration)
+    })
+
+    audio.addEventListener('timeupdate', () => {
+      if (!isSeeking && seekBar && currentTimeEl) {
+        seekBar.value = String(audio.currentTime)
+        currentTimeEl.textContent = formatTime(audio.currentTime)
+      }
+    })
+
+    // Scrubbing
+    seekBar.addEventListener('input', () => {
+      isSeeking = true
+      const target = parseFloat(seekBar.value)
+      if (currentTimeEl) currentTimeEl.textContent = formatTime(target)
+    })
+
+    seekBar.addEventListener('change', () => {
+      const target = parseFloat(seekBar.value)
+      audio.currentTime = target
+      isSeeking = false
+    })
+
+    // Skip buttons
+    skipBackBtn?.addEventListener('click', () => {
+      audio.currentTime = Math.max(0, audio.currentTime - 15)
+    })
+
+    skipFwdBtn?.addEventListener('click', () => {
+      audio.currentTime = Math.min(audio.duration || Infinity, audio.currentTime + 15)
+    })
+
+    // Cycle speed
+    speedBtn?.addEventListener('click', () => {
+      speedIndex = (speedIndex + 1) % speeds.length
+      const rate = speeds[speedIndex]
+      audio.playbackRate = rate
+      if (speedLabel) speedLabel.textContent = `${rate}×`
+      localStorage.setItem(SPEED_KEY, String(rate))
+    })
+  }
+
+  function initAll() {
+    document.querySelectorAll<HTMLElement>('[data-audio-player]').forEach(initPlayer)
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', initAll)
+  } else {
+    initAll()
+  }
+  document.addEventListener('astro:page-load', initAll)
+</script>
