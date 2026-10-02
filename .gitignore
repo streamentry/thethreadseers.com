@@ -122,9 +122,6 @@ Thumbs.db
 # Astro build metadata (regenerated on every build)
 .astro/
 
-# Audio files & intermediate assets (keep out of git repository)
+# Audio intermediate files
 *.wav
 *.pcm
-*.mp3
-public/audio/**/*.mp3
-public/audio/**/*.wav
