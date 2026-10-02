@@ -3,6 +3,7 @@ import Base from '../../layouts/Base.astro'
 import Page from '../../components/Page.astro'
 import HoldCta from '../../components/HoldCta.astro'
 import ThreadDivider from '../../components/ThreadDivider.astro'
+import AudioPlayer from '../../components/AudioPlayer.astro'
 import { isLocale, TOTAL_PARTS, chapterOrder, titleFor } from '../../lib/chapters'
 import { getAvailableAudioTracks } from '../../lib/audio'
 import { t } from '../../lib/i18n'
@@ -169,11 +170,18 @@ const otherAudioTracks = getAvailableAudioTracks(locale === 'vi' ? 'en' : 'vi')
               {tr('audio.downloadSectionBody')}
             </p>
 
-            <div class="mt-8 border-t border-text-primary/10">
+            <AudioPlayer
+              track={audioTracks[0]}
+              locale={locale}
+              title={titleFor(audioTracks[0].chapter, locale)}
+              class="mt-8 mb-10"
+            />
+
+            <div class="border-t border-text-primary/10">
               <div class="grid grid-cols-1 md:grid-cols-2 gap-3 pt-6">
                 {audioTracks.map((track) => {
                   const heading = titleFor(track.chapter, locale)
-                  const readUrl = localePath(locale, `/series/book-one/read/${track.slug}`)
+                  const readUrl = localePath(locale, `/series/book-one/read/${track.slug}?autoplay=1`)
                   return (
                     <div class="group flex items-center justify-between gap-3 rounded-sm border border-text-primary/10 bg-background-secondary/50 p-4 transition-colors duration-200 hover:border-accent-thread/40 hover:bg-background-secondary">
                       <div class="min-w-0 flex-1">

@@ -201,6 +201,9 @@ const en: Dict = {
   'audio.downloadSectionBody': 'Listen directly in your browser or download individual chapter MP3s for offline listening. High-fidelity 192 kbps audio synthesized with natural expression.',
   'audio.badge': 'Audiobook',
   'audio.allChapters': '{count} chapters recorded · 192 kbps MP3',
+  'audio.nextTrack': 'Next chapter',
+  'audio.prevTrack': 'Previous chapter',
+  'audio.nowPlaying': 'Now playing',
 }
 
 const vi: Dict = {
@@ -376,6 +379,9 @@ const vi: Dict = {
   'audio.downloadSectionBody': 'Nghe trực tuyến ngay trên trình duyệt hoặc tải về từng chương MP3 để thưởng thức ngoại tuyến. Âm thanh trung thực cao 192 kbps với biểu cảm tự nhiên.',
   'audio.badge': 'Sách nói',
   'audio.allChapters': '{count} chương đã thu âm · MP3 192 kbps',
+  'audio.nextTrack': 'Chương tiếp',
+  'audio.prevTrack': 'Chương trước',
+  'audio.nowPlaying': 'Đang phát',
 }
 
 const dicts: Record<Locale, Dict> = { en, vi }

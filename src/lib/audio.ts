@@ -15,6 +15,15 @@ export interface AudioTrack {
   chapter: ChapterEntry
 }
 
+export interface PlaylistItem {
+  slug: string
+  label: string
+  title: string
+  filename: string
+  sizeLabel: string
+  downloadName: string
+}
+
 const AUDIO_DIR = join(process.cwd(), 'public', 'audio')
 
 export function formatAudioSize(bytes: number, locale: Locale): string {
@@ -59,4 +68,25 @@ export function getAvailableAudioTracks(locale: Locale): AudioTrack[] {
     if (track) tracks.push(track)
   }
   return tracks
+}
+
+export function getAudioPlaylist(locale: Locale): PlaylistItem[] {
+  const tracks = getAvailableAudioTracks(locale)
+  return tracks.map((t) => ({
+    slug: t.slug,
+    label: t.chapter.label,
+    title: locale === 'vi' ? t.chapter.viTitle : t.chapter.enTitle,
+    filename: t.filename,
+    sizeLabel: t.sizeLabel,
+    downloadName: t.downloadName,
+  }))
+}
+
+export function getNextAudioTrack(locale: Locale, currentSlug: string): AudioTrack | null {
+  const tracks = getAvailableAudioTracks(locale)
+  const idx = tracks.findIndex((t) => t.slug === currentSlug)
+  if (idx !== -1 && idx < tracks.length - 1) {
+    return tracks[idx + 1]
+  }
+  return null
 }
