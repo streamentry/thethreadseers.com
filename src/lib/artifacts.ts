@@ -31,8 +31,8 @@ const defs: Omit<Artifact, 'bytes'>[] = [
     format: 'EPUB3',
     locale: 'en',
     note: {
-      en: 'Recommended · most e-readers and reading apps',
-      vi: 'Khuyên dùng · phù hợp hầu hết máy đọc sách',
+      en: 'Recommended · optimized typography for e-readers and mobile apps',
+      vi: 'Khuyên dùng · định dạng chuẩn cho máy đọc sách và ứng dụng đọc',
     },
     recommended: true,
   },
@@ -41,8 +41,8 @@ const defs: Omit<Artifact, 'bytes'>[] = [
     format: 'EPUB3',
     locale: 'vi',
     note: {
-      en: 'Bản tiếng Việt · Vietnamese edition',
-      vi: 'Bản tiếng Việt · khuyên dùng',
+      en: 'Vietnamese edition · recommended for e-readers and apps',
+      vi: 'Bản tiếng Việt · khuyên dùng cho máy đọc sách và ứng dụng di động',
     },
     recommended: true,
   },
@@ -50,28 +50,37 @@ const defs: Omit<Artifact, 'bytes'>[] = [
     file: 'the_thread_seers.pdf',
     format: 'PDF',
     locale: 'en',
-    note: { en: 'Print, sharing, desktop reading', vi: 'In ấn, chia sẻ, đọc trên máy tính' },
+    note: {
+      en: 'Print-ready archival edition · desktop reading and margins for annotation',
+      vi: 'Bản lưu trữ chuẩn in ấn · đọc trên màn hình lớn và chú thích',
+    },
   },
   {
     file: 'the_thread_seers_sach_mot.pdf',
     format: 'PDF',
     locale: 'vi',
-    // No hardcoded page count: it goes stale on the next rebuild, and a wrong
-    // number is worse than none. The byte size is read from disk above and
-    // rendered next to this note.
-    note: { en: 'Bản tiếng Việt', vi: 'Bản tiếng Việt · in ấn, chia sẻ' },
+    note: {
+      en: 'Vietnamese edition · print-ready archival PDF',
+      vi: 'Bản tiếng Việt · lưu trữ chuẩn in ấn, đọc trên máy tính',
+    },
   },
   {
     file: 'the_thread_seers.md',
     format: 'MD',
     locale: 'en',
-    note: { en: 'Plain text · search, notes, remixing', vi: 'Văn bản thuần · tìm kiếm, ghi chú' },
+    note: {
+      en: 'Clean Markdown · plain text for notes, offline reading, and indexing',
+      vi: 'Văn bản thuần Markdown · tiện tra cứu, ghi chú và lưu trữ cá nhân',
+    },
   },
   {
     file: 'the_thread_seers_sach_mot.md',
     format: 'MD',
     locale: 'vi',
-    note: { en: 'Bản tiếng Việt · plain text', vi: 'Bản tiếng Việt · văn bản thuần' },
+    note: {
+      en: 'Vietnamese edition · clean plain text Markdown',
+      vi: 'Bản tiếng Việt · văn bản thuần Markdown tiện tra cứu và lưu trữ',
+    },
   },
 ]
 

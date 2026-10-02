@@ -15,24 +15,24 @@ const pick = <T,>(o: { en: T; vi: T }) => (locale === 'vi' ? o.vi : o.en)
 
 const labels = {
   en: {
-    eyebrow: 'Listen · which thread is yours',
-    title: 'Discover how you would perceive the Weave.',
+    eyebrow: 'Listen · Which thread is yours',
+    title: 'Discover how your senses would awaken to the Weave.',
     question: 'Question',
     of: 'of',
     hearAgain: 'Listen again',
-    yourType: 'Your Thread Seer type',
-    threadsHold: 'Your threads hold',
-    culture: 'Cultural connection',
+    yourType: 'Your Thread Seer archetype',
+    threadsHold: 'Core vibrational traits',
+    culture: 'Harmonic cultural lineage',
   },
   vi: {
-    eyebrow: 'Lắng nghe · sợi chỉ nào thuộc về bạn',
-    title: 'Khám phá cách bạn sẽ cảm nhận Dệt Bộ.',
+    eyebrow: 'Lắng nghe · Sợi chỉ nào dẫn lối cho bạn',
+    title: 'Khám phá phương thức bạn sẽ giao cảm cùng Mạng Dệt.',
     question: 'Câu hỏi',
     of: 'trên',
-    hearAgain: 'Lắng nghe lại',
-    yourType: 'Loại Người Thấy Sợi của bạn',
-    threadsHold: 'Sợi chỉ của bạn giữ được',
-    culture: 'Gắn với truyền thống',
+    hearAgain: 'Thử lại từ đầu',
+    yourType: 'Phương thức Thấy Sợi của bạn',
+    threadsHold: 'Đặc tính cốt lõi của sợi tơ',
+    culture: 'Dòng chảy văn hóa tương ứng',
   },
 } as const
 const L = labels[locale]
@@ -54,8 +54,8 @@ const L = labels[locale]
   <noscript>
     <p class="font-serif text-body text-text-body">
       {locale === 'vi'
-        ? 'Bài kiểm tra cần JavaScript. Bạn vẫn có thể đọc toàn bộ Sách Một miễn phí.'
-        : 'The quiz needs JavaScript. You can still read the whole of Book One for free.'}
+        ? 'Bài trắc nghiệm cần kích hoạt JavaScript để tương tác. Dẫu vậy, bạn vẫn có thể thưởng thức toàn bộ tác phẩm Sách Một hoàn toàn miễn phí.'
+        : 'The interactive quiz requires JavaScript. You can still read the entire novel of Book One freely online.'}
     </p>
   </noscript>
 

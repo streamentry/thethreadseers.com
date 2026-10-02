@@ -233,15 +233,16 @@
     margin-top: 0;
   }
 
-  /* First paragraph of a chapter gets a raised initial, as printed editions do. */
-  .prose-reader > p:first-child::first-letter {
-    font-family: theme('fontFamily.display');
-    float: left;
-    font-size: 3.4em;
-    line-height: 0.86;
-    padding-right: 0.08em;
-    font-weight: 300;
-    color: var(--thread);
+  /* Chapter datelines (italicized opening time & setting stamp) */
+  .prose-reader > p:first-child:has(> em:only-child) {
+    font-style: italic;
+    color: var(--ash);
+    font-size: 0.95rem;
+    letter-spacing: 0.02em;
+    margin-bottom: 2rem;
+    padding-bottom: 1.25rem;
+    border-bottom: 1px dashed rgba(242, 239, 230, 0.12);
+    display: block;
   }
 
   /* Skeletal loader with thread shimmer. */

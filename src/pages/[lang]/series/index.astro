@@ -20,12 +20,12 @@ const tr = (k: Parameters<typeof t>[1], v?: Record<string, string | number>) => 
 
 const title =
   locale === 'vi'
-    ? 'Bộ sách — bảy cuốn, một Dệt Bộ'
-    : 'The series — seven books, one weave'
+    ? 'Bộ Trường Thiên — Bảy Cuốn Sách, Một Mạng Dệt'
+    : 'The Chronicle — Seven Books, One Living Weave'
 const description =
   locale === 'vi'
-    ? 'Những Người Thấy Sợi Chỉ theo thứ tự, từ Sách Một đến Mạng Lưới Thức Tỉnh. Nội dung tóm tắt, màu sợi theo canon, và các chủ đề của cả bộ.'
-    : 'The Thread Seers in order, from Book One through The Awakening Network. Blurbs, canon thread colours, and the series themes: dependent origination, communion versus control, and living cultural traditions.'
+    ? 'Bộ trường thiên Những Người Thấy Sợi Chỉ theo thứ tự thời gian, từ Sách Một đến Mạng Lưới Thức Tỉnh. Tóm lược nội dung, màu sắc sợi tơ và các chủ đề cốt lõi: Duyên Khởi, tương giao đối lập áp chế, và dòng chảy truyền thống nhân loại.'
+    : 'The Thread Seers chronicle in canonical reading order, from Book One through The Awakening Network. Comprehensive blurbs, thread spectra, and series pillars: dependent origination, communion versus control, and living global traditions.'
 
 const schema = jsonLd({
   locale,
@@ -38,10 +38,10 @@ const schema = jsonLd({
 })
 
 const threadLabel: Record<string, { en: string; vi: string }> = {
-  gold: { en: 'gold · communion', vi: 'vàng · hiệp thông' },
+  gold: { en: 'gold · communion', vi: 'vàng · tương giao' },
   memory: { en: 'blue · new perception', vi: 'lam · tri giác mới' },
   knot: { en: 'red · conflict', vi: 'đỏ · xung đột' },
-  unspun: { en: 'unspun', vi: 'chưa dệt' },
+  unspun: { en: 'unspun', vi: 'chưa se sợi' },
 }
 
 const statusKey = {

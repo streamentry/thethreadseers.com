@@ -22,7 +22,7 @@ export default {
           primary: "#F2EFE6",
           body: "#E3DFD2",
           secondary: "#8E8C86",
-          muted: "#6B695F",
+          muted: "#8A877E",
         },
         accent: {
           thread: "#C6A15B",

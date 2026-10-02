@@ -17,11 +17,11 @@ const locale = lang
 const tr = (k: Parameters<typeof t>[1], v?: Record<string, string | number>) => t(locale, k, v)
 
 const title =
-  locale === 'vi' ? 'Dư âu và thông báo — Những Người Thấy Sợi Chỉ' : 'Echoes and announcements — The Thread Seers'
+  locale === 'vi' ? 'Tiếng Vọng từ Bàn Viết — Những Người Thấy Sợi Chỉ' : 'Echoes & Dispatches — The Thread Seers'
 const description =
   locale === 'vi'
-    ? 'Tin tức và cập nhật từ tác giả Những Người Thấy Sợi Chỉ: phát hành, công bố bộ sách, và ghi chú sau lưng bìa.'
-    : 'News and updates from the author of The Thread Seers: releases, series announcements, and behind-the-book notes.'
+    ? 'Những bức thư và cập nhật chính thức từ tác giả Lê Việt Hồng: các cột mốc phát hành, thông báo bộ sách và những chiêm nghiệm hậu trường.'
+    : 'Dispatches and reflections from author Le Viet Hong: release announcements, lore notes, and letters from behind the writing desk.'
 
 const schema = jsonLd({
   locale,

@@ -15,9 +15,9 @@ const { locale } = Astro.props
     <div aria-hidden="true" class="relative h-px w-full overflow-hidden bg-text-primary/10">
       <span class="absolute inset-y-0 left-0 w-1/4 bg-accent-thread/80 animate-thread-drift"></span>
     </div>
-    <div class="md:flex md:items-end md:justify-between">
+    <div class="mt-8 md:flex md:items-end md:justify-between">
       <div>
-        <p class="font-sans text-sm font-light uppercase tracking-[0.32em] text-text-primary">
+        <p class="font-sans text-xs sm:text-sm font-light uppercase tracking-[0.18em] sm:tracking-[0.32em] text-text-primary">
           {locale === 'vi' ? 'Những Người Thấy Sợi Chỉ' : 'The Thread Seers'}
         </p>
         <p class="mt-3 font-mono text-xs tracking-[0.14em] text-text-secondary">
