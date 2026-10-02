@@ -1,9 +1,17 @@
 ---
 /**
  * Audio player component for online chapter listening and MP3 download.
- * Styled to seamlessly harmonize with The Thread Seers aesthetic.
+ * Features:
+ * - Play / Pause, seek scrubber, current time, duration
+ * - Next chapter / Previous chapter buttons
+ * - Auto-play next chapter on finish
+ * - Smooth reader text advancement on track change
+ * - Speed cycler (0.8x, 1.0x, 1.25x, 1.5x)
+ * - Direct MP3 download with localized filename
+ * - MediaSession API integration (lock screen, headphone controls)
+ * - Autoplay query param support (?autoplay=1)
  */
-import type { AudioTrack } from '../lib/audio'
+import { getAudioPlaylist, type AudioTrack } from '../lib/audio'
 import { t, type Locale } from '../lib/i18n'
 
 export interface Props {
@@ -15,6 +23,8 @@ export interface Props {
 
 const { track, locale, title, class: className = '' } = Astro.props
 const tr = (k: Parameters<typeof t>[1], v?: Record<string, string | number>) => t(locale, k, v)
+const playlist = getAudioPlaylist(locale)
+const playlistJson = JSON.stringify(playlist)
 const playerId = `player-${track.slug}`
 ---
 
@@ -25,51 +35,100 @@ const playerId = `player-${track.slug}`
   ]}
   id={playerId}
   data-audio-player
+  data-slug={track.slug}
   data-title={title}
   data-author={tr('common.author')}
   data-book={tr('site.name')}
+  data-playlist={playlistJson}
 >
   <div class="flex flex-wrap items-center justify-between gap-3 border-b border-text-primary/10 pb-3">
-    <div class="flex items-center gap-2">
-      <span class="inline-block h-2 w-2 rounded-full bg-accent-thread animate-thread-breathe"></span>
-      <p class="font-mono text-xs uppercase tracking-[0.18em] text-accent-thread">
+    <div class="flex items-center gap-2 min-w-0">
+      <span class="inline-block h-2 w-2 flex-shrink-0 rounded-full bg-accent-thread animate-thread-breathe"></span>
+      <p class="font-mono text-xs uppercase tracking-[0.18em] text-accent-thread flex-shrink-0">
         {tr('audio.title')}
       </p>
-      <span class="hidden sm:inline font-mono text-[0.65rem] text-text-muted">· {tr('audio.voice')}</span>
+      <span class="hidden sm:inline font-mono text-[0.65rem] text-text-muted flex-shrink-0">· {tr('audio.voice')}</span>
+      <span
+        data-active-title
+        class="hidden md:inline font-serif text-xs text-text-secondary truncate max-w-[240px] border-l border-text-primary/10 pl-2"
+        title={title}
+      >
+        {title}
+      </span>
     </div>
 
-    <a
-      href={track.url}
-      download={track.downloadName}
-      class="group inline-flex items-center gap-1.5 rounded-sm border border-text-primary/15 px-2.5 py-1 font-mono text-xs text-text-secondary transition-colors duration-200 hover:border-accent-thread hover:text-accent-thread"
-      title={tr('audio.downloadMp3')}
-    >
-      <svg
-        class="h-3.5 w-3.5 transition-transform duration-200 group-hover:translate-y-0.5"
-        viewBox="0 0 24 24"
-        fill="none"
-        stroke="currentColor"
-        stroke-width="2"
-        stroke-linecap="round"
-        stroke-linejoin="round"
-        aria-hidden="true"
+    <div class="flex items-center gap-3">
+      <span
+        class="hidden sm:inline-flex items-center gap-1 font-mono text-[0.65rem] text-text-muted"
+        title="Tự động phát chương tiếp khi nghe hết"
       >
-        <path d="M12 3v13m0 0l-4-4m4 4l4-4M4 17v2a2 2 0 002 2h12a2 2 0 002-2v-2" />
-      </svg>
-      <span>{tr('audio.downloadMp3')}</span>
-      <span class="text-text-muted">({track.sizeLabel})</span>
-    </a>
+        <svg class="h-3 w-3 text-accent-thread fill-current" viewBox="0 0 24 24">
+          <path d="M12 4V1L8 5l4 4V6c3.31 0 6 2.69 6 6 0 1.01-.25 1.97-.7 2.8l1.46 1.46A7.93 7.93 0 0020 12c0-4.42-3.58-8-8-8zm0 14c-3.31 0-6-2.69-6-6 0-1.01.25-1.97.7-2.8L5.24 7.74A7.93 7.93 0 004 12c0 4.42 3.58 8 8 8v3l4-4-4-4v3z"/>
+        </svg>
+        <span>Auto-next</span>
+      </span>
+
+      <a
+        href={track.url}
+        download={track.downloadName}
+        data-download-link
+        class="group inline-flex items-center gap-1.5 rounded-sm border border-text-primary/15 px-2.5 py-1 font-mono text-xs text-text-secondary transition-colors duration-200 hover:border-accent-thread hover:text-accent-thread"
+        title={tr('audio.downloadMp3')}
+      >
+        <svg
+          class="h-3.5 w-3.5 transition-transform duration-200 group-hover:translate-y-0.5"
+          viewBox="0 0 24 24"
+          fill="none"
+          stroke="currentColor"
+          stroke-width="2"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          aria-hidden="true"
+        >
+          <path d="M12 3v13m0 0l-4-4m4 4l4-4M4 17v2a2 2 0 002 2h12a2 2 0 002-2v-2" />
+        </svg>
+        <span>{tr('audio.downloadMp3')}</span>
+        <span data-download-size class="text-text-muted">({track.sizeLabel})</span>
+      </a>
+    </div>
   </div>
 
   <div class="mt-4 flex flex-col gap-3">
     {/* Main controls & timeline */}
-    <div class="flex items-center gap-3 sm:gap-4">
+    <div class="flex items-center gap-2 sm:gap-4">
+      {/* Previous chapter button */}
+      <button
+        type="button"
+        data-prev-track
+        class="flex h-9 w-9 flex-shrink-0 items-center justify-center rounded text-text-secondary hover:text-accent-thread disabled:opacity-30 disabled:hover:text-text-secondary transition-colors duration-200 focus-visible:outline-2 focus-visible:outline-accent-thread"
+        title={tr('audio.prevTrack')}
+        aria-label={tr('audio.prevTrack')}
+      >
+        <svg class="h-4 w-4 fill-current" viewBox="0 0 24 24">
+          <path d="M6 6h2v12H6zm3.5 6l8.5 6V6z" />
+        </svg>
+      </button>
+
+      {/* Skip back 15s */}
+      <button
+        type="button"
+        data-skip-back
+        class="hidden sm:flex h-8 w-8 flex-shrink-0 items-center justify-center rounded text-text-secondary hover:text-text-primary transition-colors duration-200"
+        title="-15s"
+        aria-label="-15s"
+      >
+        <svg class="h-4 w-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <path d="M1 4v6h6M3.51 15a9 9 0 1 0 2.13-9.36L1 10" />
+          <text x="12" y="15" font-size="7" font-family="monospace" text-anchor="middle" fill="currentColor" stroke="none">15</text>
+        </svg>
+      </button>
+
       {/* Play / Pause toggle */}
       <button
         type="button"
         data-play-toggle
         aria-label={tr('audio.play')}
-        class="group flex h-11 w-11 flex-shrink-0 items-center justify-center rounded-full bg-accent-thread text-background-primary transition-all duration-200 hover:bg-[#d3af66] active:scale-95 focus-visible:outline-2 focus-visible:outline-accent-thread"
+        class="group flex h-11 w-11 flex-shrink-0 items-center justify-center rounded-full bg-accent-thread text-background-primary transition-all duration-200 hover:bg-[#d3af66] active:scale-95 focus-visible:outline-2 focus-visible:outline-accent-thread shadow-sm"
       >
         <svg
           data-play-icon
@@ -89,30 +148,43 @@ const playerId = `player-${track.slug}`
         </svg>
       </button>
 
-      {/* Skip back 15s */}
+      {/* Skip forward 15s */}
       <button
         type="button"
-        data-skip-back
-        class="hidden sm:flex h-8 w-8 items-center justify-center rounded text-text-secondary hover:text-text-primary transition-colors duration-200"
-        title="-15s"
-        aria-label="-15s"
+        data-skip-forward
+        class="hidden sm:flex h-8 w-8 flex-shrink-0 items-center justify-center rounded text-text-secondary hover:text-text-primary transition-colors duration-200"
+        title="+15s"
+        aria-label="+15s"
       >
         <svg class="h-4 w-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-          <path d="M1 4v6h6M3.51 15a9 9 0 1 0 2.13-9.36L1 10" />
+          <path d="M23 4v6h-6M20.49 15a9 9 0 1 1-2.12-9.36L23 10" />
           <text x="12" y="15" font-size="7" font-family="monospace" text-anchor="middle" fill="currentColor" stroke="none">15</text>
         </svg>
       </button>
 
+      {/* Next chapter button */}
+      <button
+        type="button"
+        data-next-track
+        class="flex h-9 w-9 flex-shrink-0 items-center justify-center rounded text-text-secondary hover:text-accent-thread disabled:opacity-30 disabled:hover:text-text-secondary transition-colors duration-200 focus-visible:outline-2 focus-visible:outline-accent-thread"
+        title={tr('audio.nextTrack')}
+        aria-label={tr('audio.nextTrack')}
+      >
+        <svg class="h-4 w-4 fill-current" viewBox="0 0 24 24">
+          <path d="M6 18l8.5-6L6 6v12zM16 6v12h2V6h-2z" />
+        </svg>
+      </button>
+
       {/* Progress timeline */}
-      <div class="flex flex-1 items-center gap-2 sm:gap-3">
+      <div class="flex flex-1 items-center gap-2 sm:gap-3 min-w-0">
         <span
           data-current-time
-          class="w-10 sm:w-11 font-mono text-[0.7rem] sm:text-xs text-text-muted text-right tabular-nums"
+          class="w-10 sm:w-11 font-mono text-[0.7rem] sm:text-xs text-text-muted text-right tabular-nums flex-shrink-0"
         >
           00:00
         </span>
 
-        <div class="relative flex-1 flex items-center">
+        <div class="relative flex-1 flex items-center min-w-[60px]">
           <input
             type="range"
             min="0"
@@ -127,31 +199,17 @@ const playerId = `player-${track.slug}`
 
         <span
           data-duration
-          class="w-10 sm:w-11 font-mono text-[0.7rem] sm:text-xs text-text-muted tabular-nums"
+          class="w-10 sm:w-11 font-mono text-[0.7rem] sm:text-xs text-text-muted tabular-nums flex-shrink-0"
         >
           --:--
         </span>
       </div>
 
-      {/* Skip forward 15s */}
-      <button
-        type="button"
-        data-skip-forward
-        class="hidden sm:flex h-8 w-8 items-center justify-center rounded text-text-secondary hover:text-text-primary transition-colors duration-200"
-        title="+15s"
-        aria-label="+15s"
-      >
-        <svg class="h-4 w-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-          <path d="M23 4v6h-6M20.49 15a9 9 0 1 1-2.12-9.36L23 10" />
-          <text x="12" y="15" font-size="7" font-family="monospace" text-anchor="middle" fill="currentColor" stroke="none">15</text>
-        </svg>
-      </button>
-
       {/* Speed cycler */}
       <button
         type="button"
         data-speed-btn
-        class="font-mono text-xs text-text-secondary hover:text-accent-thread px-2 py-1 rounded border border-text-primary/10 hover:border-accent-thread/40 transition-colors"
+        class="font-mono text-xs text-text-secondary hover:text-accent-thread px-2 py-1 rounded border border-text-primary/10 hover:border-accent-thread/40 transition-colors flex-shrink-0"
         title={tr('audio.speed')}
       >
         <span data-speed-label>1.0×</span>
@@ -175,6 +233,15 @@ const playerId = `player-${track.slug}`
 </div>
 
 <script>
+  interface PlaylistItem {
+    slug: string
+    label: string
+    title: string
+    filename: string
+    sizeLabel: string
+    downloadName: string
+  }
+
   function formatTime(seconds: number): string {
     if (isNaN(seconds) || seconds < 0) return '00:00'
     const m = Math.floor(seconds / 60)
@@ -197,8 +264,24 @@ const playerId = `player-${track.slug}`
     const speedLabel = root.querySelector<HTMLElement>('[data-speed-label]')
     const skipBackBtn = root.querySelector<HTMLButtonElement>('[data-skip-back]')
     const skipFwdBtn = root.querySelector<HTMLButtonElement>('[data-skip-forward]')
+    const prevTrackBtn = root.querySelector<HTMLButtonElement>('[data-prev-track]')
+    const nextTrackBtn = root.querySelector<HTMLButtonElement>('[data-next-track]')
+    const activeTitleEl = root.querySelector<HTMLElement>('[data-active-title]')
+    const downloadLink = root.querySelector<HTMLAnchorElement>('[data-download-link]')
+    const downloadSizeEl = root.querySelector<HTMLElement>('[data-download-size]')
 
     if (!audio || !playBtn || !seekBar || !currentTimeEl || !durationEl) return
+
+    let playlist: PlaylistItem[] = []
+    try {
+      playlist = JSON.parse(root.dataset.playlist || '[]')
+    } catch {
+      playlist = []
+    }
+
+    let currentSlug = root.dataset.slug || ''
+    let currentIndex = playlist.findIndex((t) => t.slug === currentSlug)
+    if (currentIndex === -1 && playlist.length > 0) currentIndex = 0
 
     const SPEED_KEY = 'ts-audio-speed'
     const speeds = [1.0, 1.25, 1.5, 0.8]
@@ -214,6 +297,13 @@ const playerId = `player-${track.slug}`
     }
 
     let isSeeking = false
+    let hasUserInitiatedPlayback = false
+
+    function updateNavButtons() {
+      if (prevTrackBtn) prevTrackBtn.disabled = currentIndex <= 0
+      if (nextTrackBtn) nextTrackBtn.disabled = currentIndex >= playlist.length - 1
+    }
+    updateNavButtons()
 
     function updatePlayState(isPlaying: boolean) {
       if (isPlaying) {
@@ -227,31 +317,131 @@ const playerId = `player-${track.slug}`
       }
     }
 
-    // Media Session metadata
-    function setupMediaSession() {
-      if ('mediaSession' in navigator) {
-        const title = root.dataset.title || 'Audiobook'
-        const artist = root.dataset.author || 'Le Viet Hong'
-        const album = root.dataset.book || 'The Thread Seers'
+    // Media Session metadata & control hooks
+    function setupMediaSession(item?: PlaylistItem) {
+      if (!('mediaSession' in navigator)) return
+      const current = item || playlist[currentIndex]
+      const title = current ? current.title : (root.dataset.title || 'Audiobook')
+      const artist = root.dataset.author || 'Lê Việt Hồng'
+      const album = root.dataset.book || 'Những Người Thấy Sợi Chỉ'
 
-        navigator.mediaSession.metadata = new MediaMetadata({
-          title,
-          artist: `${artist} (Aoede AI)`,
-          album,
-        })
+      navigator.mediaSession.metadata = new MediaMetadata({
+        title,
+        artist: `${artist} (Aoede AI)`,
+        album,
+      })
 
-        navigator.mediaSession.setActionHandler('play', () => audio?.play())
-        navigator.mediaSession.setActionHandler('pause', () => audio?.pause())
-        navigator.mediaSession.setActionHandler('seekbackward', () => {
-          if (audio) audio.currentTime = Math.max(0, audio.currentTime - 15)
+      navigator.mediaSession.setActionHandler('play', () => audio.play().catch(() => {}))
+      navigator.mediaSession.setActionHandler('pause', () => audio.pause())
+      navigator.mediaSession.setActionHandler('seekbackward', () => {
+        audio.currentTime = Math.max(0, audio.currentTime - 15)
+      })
+      navigator.mediaSession.setActionHandler('seekforward', () => {
+        audio.currentTime = Math.min(audio.duration || Infinity, audio.currentTime + 15)
+      })
+      navigator.mediaSession.setActionHandler('previoustrack', () => playPrevious())
+      navigator.mediaSession.setActionHandler('nexttrack', () => playNext())
+    }
+
+    // Switch to a new track and optionally auto-play
+    function playTrackByIndex(newIndex: number, autoPlay: boolean = true) {
+      if (newIndex < 0 || newIndex >= playlist.length) return
+      currentIndex = newIndex
+      const item = playlist[currentIndex]
+      currentSlug = item.slug
+      root.dataset.slug = item.slug
+
+      updateNavButtons()
+
+      // Resolve new audio URL relative to existing audio.src
+      const currentAudioUrl = new URL(audio.src, window.location.href)
+      const newAudioUrl = new URL(item.filename, currentAudioUrl).href
+      audio.src = newAudioUrl
+      audio.currentTime = 0
+
+      // Update UI elements
+      if (activeTitleEl) activeTitleEl.textContent = item.title
+      if (downloadLink) {
+        downloadLink.href = newAudioUrl
+        downloadLink.download = item.downloadName
+      }
+      if (downloadSizeEl) downloadSizeEl.textContent = `(${item.sizeLabel})`
+      if (currentTimeEl) currentTimeEl.textContent = '00:00'
+      if (durationEl) durationEl.textContent = '--:--'
+      if (seekBar) {
+        seekBar.value = '0'
+        seekBar.max = '100'
+      }
+
+      setupMediaSession(item)
+
+      if (autoPlay) {
+        hasUserInitiatedPlayback = true
+        audio.play().then(() => {
+          updatePlayState(true)
+        }).catch((err) => {
+          console.warn('Playback error:', err)
         })
-        navigator.mediaSession.setActionHandler('seekforward', () => {
-          if (audio) audio.currentTime = Math.min(audio.duration, audio.currentTime + 15)
-        })
+      }
+
+      // If in reading room, smoothly fetch and update reader content
+      const readerBody = document.querySelector('[data-reader-body]')
+      if (readerBody) {
+        const targetPageUrl = new URL('../' + item.slug + '/', window.location.href).href
+        fetch(targetPageUrl)
+          .then((res) => (res.ok ? res.text() : Promise.reject()))
+          .then((html) => {
+            const parser = new DOMParser()
+            const doc = parser.parseFromString(html, 'text/html')
+
+            document.title = doc.title
+
+            const newNumeral = doc.querySelector('article > p.font-display')
+            const curNumeral = document.querySelector('article > p.font-display')
+            if (newNumeral && curNumeral) curNumeral.innerHTML = newNumeral.innerHTML
+
+            const newH1 = doc.querySelector('article > h1')
+            const curH1 = document.querySelector('article > h1')
+            if (newH1 && curH1) curH1.innerHTML = newH1.innerHTML
+
+            const newMeta = doc.querySelector('article > p.font-mono')
+            const curMeta = document.querySelector('article > p.font-mono')
+            if (newMeta && curMeta) curMeta.innerHTML = newMeta.innerHTML
+
+            const newBody = doc.querySelector('[data-reader-body]')
+            if (newBody) readerBody.innerHTML = newBody.innerHTML
+
+            const newNav = doc.querySelector('article > nav[aria-label]')
+            const curNav = document.querySelector('article > nav[aria-label]')
+            if (newNav && curNav) curNav.innerHTML = newNav.innerHTML
+
+            const newLang = doc.querySelector('article > div.mt-12')
+            const curLang = document.querySelector('article > div.mt-12')
+            if (newLang && curLang) curLang.innerHTML = newLang.innerHTML
+
+            window.history.pushState({ slug: item.slug }, doc.title, targetPageUrl)
+            document.querySelector('article')?.scrollIntoView({ behavior: 'smooth', block: 'start' })
+          })
+          .catch(() => {})
+      }
+    }
+
+    function playNext() {
+      if (currentIndex < playlist.length - 1) {
+        playTrackByIndex(currentIndex + 1, true)
+      }
+    }
+
+    function playPrevious() {
+      if (audio.currentTime > 3) {
+        audio.currentTime = 0
+      } else if (currentIndex > 0) {
+        playTrackByIndex(currentIndex - 1, true)
       }
     }
 
     playBtn.addEventListener('click', () => {
+      hasUserInitiatedPlayback = true
       if (audio.paused) {
         // Pause any other playing audio on the page
         document.querySelectorAll('audio').forEach((el) => {
@@ -264,12 +454,22 @@ const playerId = `player-${track.slug}`
       }
     })
 
+    prevTrackBtn?.addEventListener('click', () => playPrevious())
+    nextTrackBtn?.addEventListener('click', () => playNext())
+
     audio.addEventListener('play', () => updatePlayState(true))
     audio.addEventListener('pause', () => updatePlayState(false))
+
+    // AUTO-PLAY NEXT TRACK ON FINISH
     audio.addEventListener('ended', () => {
-      updatePlayState(false)
-      if (seekBar) seekBar.value = '0'
-      if (currentTimeEl) currentTimeEl.textContent = '00:00'
+      if (hasUserInitiatedPlayback && currentIndex < playlist.length - 1) {
+        // Automatically advance and play next chapter
+        playTrackByIndex(currentIndex + 1, true)
+      } else {
+        updatePlayState(false)
+        if (seekBar) seekBar.value = '0'
+        if (currentTimeEl) currentTimeEl.textContent = '00:00'
+      }
     })
 
     audio.addEventListener('loadedmetadata', () => {
@@ -297,7 +497,7 @@ const playerId = `player-${track.slug}`
       isSeeking = false
     })
 
-    // Skip buttons
+    // Skip 15s buttons
     skipBackBtn?.addEventListener('click', () => {
       audio.currentTime = Math.max(0, audio.currentTime - 15)
     })
@@ -314,6 +514,16 @@ const playerId = `player-${track.slug}`
       if (speedLabel) speedLabel.textContent = `${rate}×`
       localStorage.setItem(SPEED_KEY, String(rate))
     })
+
+    // Check URL autoplay parameter
+    const urlParams = new URLSearchParams(window.location.search)
+    if (urlParams.get('autoplay') === '1') {
+      hasUserInitiatedPlayback = true
+      audio.play().then(() => {
+        updatePlayState(true)
+        setupMediaSession()
+      }).catch(() => {})
+    }
   }
 
   function initAll() {
