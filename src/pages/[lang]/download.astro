@@ -155,16 +155,29 @@ const otherAudioTracks = getAvailableAudioTracks(locale === 'vi' ? 'en' : 'vi')
         <>
           <ThreadDivider class="mt-16 lg:mt-24" />
           <section class="mt-12" id="audiobook">
-            <div class="flex flex-col sm:flex-row sm:items-baseline sm:justify-between gap-3">
+            <div class="flex flex-col sm:flex-row sm:items-baseline sm:justify-between gap-4">
               <div>
                 <p class="eyebrow">{tr('audio.downloadSectionTitle')}</p>
                 <h2 class="mt-2 font-display text-h2 font-normal text-text-primary">
                   {locale === 'vi' ? 'Sách Nói Trực Tuyến & Tải Về' : 'Audiobook Online & Downloads'}
                 </h2>
               </div>
-              <span class="font-mono text-xs uppercase tracking-wider text-accent-thread">
-                {tr('audio.allChapters', { count: audioTracks.length })}
-              </span>
+              <div class="flex items-center gap-3">
+                <button
+                  type="button"
+                  data-download-play-all
+                  class="inline-flex items-center gap-2 rounded-sm bg-accent-thread px-4 py-2 font-mono text-xs uppercase tracking-wider text-background-primary transition-all duration-200 hover:bg-[#d3af66] active:scale-95 shadow-sm"
+                  title={tr('audio.playAll')}
+                >
+                  <svg class="h-3.5 w-3.5 fill-current" viewBox="0 0 24 24">
+                    <path d="M8 5v14l11-7z" />
+                  </svg>
+                  <span>{tr('audio.playAll')}</span>
+                </button>
+                <span class="font-mono text-xs uppercase tracking-wider text-accent-thread">
+                  {tr('audio.allChapters', { count: audioTracks.length })}
+                </span>
+              </div>
             </div>
             <p class="mt-4 max-w-prose font-serif text-body leading-relaxed text-text-body">
               {tr('audio.downloadSectionBody')}
@@ -183,25 +196,52 @@ const otherAudioTracks = getAvailableAudioTracks(locale === 'vi' ? 'en' : 'vi')
                   const heading = titleFor(track.chapter, locale)
                   const readUrl = localePath(locale, `/series/book-one/read/${track.slug}?autoplay=1`)
                   return (
-                    <div class="group flex items-center justify-between gap-3 rounded-sm border border-text-primary/10 bg-background-secondary/50 p-4 transition-colors duration-200 hover:border-accent-thread/40 hover:bg-background-secondary">
+                    <div
+                      data-audio-card
+                      data-slug={track.slug}
+                      class="group flex items-center justify-between gap-3 rounded-sm border border-text-primary/10 bg-background-secondary/50 p-4 transition-all duration-200 hover:border-accent-thread/40 hover:bg-background-secondary"
+                    >
                       <div class="min-w-0 flex-1">
-                        <a href={readUrl} class="truncate font-sans text-sm font-medium text-text-primary hover:text-accent-thread transition-colors block">
-                          {heading}
-                        </a>
-                        <span class="font-mono text-[0.7rem] uppercase tracking-wider text-text-muted">
+                        <div class="flex items-center gap-2">
+                          <span
+                            data-active-dot
+                            class="hidden h-2 w-2 flex-shrink-0 rounded-full bg-accent-thread animate-thread-breathe"
+                            title={tr('audio.nowPlaying')}
+                          ></span>
+                          <span
+                            data-cue-title
+                            class="truncate font-sans text-sm font-medium text-text-primary cursor-pointer hover:text-accent-thread transition-colors"
+                          >
+                            {heading}
+                          </span>
+                        </div>
+                        <span class="font-mono text-[0.7rem] uppercase tracking-wider text-text-muted block mt-0.5">
                           {track.sizeLabel} · {locale === 'vi' ? `Phần ${track.chapter.label}` : `Part ${track.chapter.label}`}
                         </span>
                       </div>
                       <div class="flex items-center gap-2 flex-shrink-0">
+                        <button
+                          type="button"
+                          data-cue-track={track.slug}
+                          class="inline-flex items-center gap-1.5 rounded-sm border border-text-primary/15 px-2.5 py-1.5 font-mono text-xs text-text-secondary hover:border-accent-thread hover:text-accent-thread transition-colors"
+                          title={tr('audio.playTrack')}
+                          aria-label={`${tr('audio.playTrack')} - ${heading}`}
+                        >
+                          <svg data-card-play-icon class="h-3 w-3 fill-current" viewBox="0 0 24 24">
+                            <path d="M8 5v14l11-7z" />
+                          </svg>
+                          <svg data-card-pause-icon class="hidden h-3 w-3 fill-current text-accent-thread" viewBox="0 0 24 24">
+                            <path d="M6 19h4V5H6v14zm8-14v14h4V5h-4z" />
+                          </svg>
+                          <span data-card-btn-text class="hidden sm:inline">{tr('audio.playTrack')}</span>
+                        </button>
                         <a
                           href={readUrl}
                           class="inline-flex items-center gap-1.5 rounded-sm border border-text-primary/15 px-2.5 py-1.5 font-mono text-xs text-text-secondary hover:border-accent-thread hover:text-accent-thread transition-colors"
-                          title={tr('audio.listenOnline')}
+                          title={tr('audio.readAndListen')}
                         >
-                          <svg class="h-3 w-3 fill-current" viewBox="0 0 24 24">
-                            <path d="M8 5v14l11-7z" />
-                          </svg>
-                          <span class="hidden sm:inline">{tr('audio.listenOnline')}</span>
+                          <span class="hidden sm:inline">{tr('audio.readAndListen')}</span>
+                          <span class="sm:hidden">📖</span>
                         </a>
                         <a
                           href={track.url}
@@ -282,4 +322,83 @@ const otherAudioTracks = getAvailableAudioTracks(locale === 'vi' ? 'en' : 'vi')
       </div>
     </div>
   </Page>
+
+  <script>
+    function initAudiobookSection() {
+      const playAllBtn = document.querySelector<HTMLButtonElement>('[data-download-play-all]')
+      const cards = document.querySelectorAll<HTMLElement>('[data-audio-card]')
+      const playerEl = document.querySelector<HTMLElement>('[data-audio-player]')
+
+      if (playAllBtn && !playAllBtn.dataset.wired) {
+        playAllBtn.dataset.wired = 'true'
+        playAllBtn.addEventListener('click', () => {
+          window.dispatchEvent(new CustomEvent('ts-play-all'))
+          playerEl?.scrollIntoView({ behavior: 'smooth', block: 'nearest' })
+        })
+      }
+
+      cards.forEach((card) => {
+        if (card.dataset.wired === 'true') return
+        card.dataset.wired = 'true'
+        const slug = card.dataset.slug
+        if (!slug) return
+
+        const cueBtn = card.querySelector<HTMLButtonElement>('[data-cue-track]')
+        const cueTitle = card.querySelector<HTMLElement>('[data-cue-title]')
+
+        const triggerPlay = () => {
+          window.dispatchEvent(
+            new CustomEvent('ts-cue-track', {
+              detail: { slug, autoPlay: true },
+            })
+          )
+        }
+
+        cueBtn?.addEventListener('click', (e) => {
+          e.stopPropagation()
+          triggerPlay()
+        })
+
+        cueTitle?.addEventListener('click', triggerPlay)
+      })
+
+      window.addEventListener('ts-track-status', (e: Event) => {
+        const custom = e as CustomEvent<{ slug: string; isPlaying: boolean }>
+        const activeSlug = custom.detail?.slug
+        const isPlaying = custom.detail?.isPlaying ?? false
+
+        cards.forEach((card) => {
+          const slug = card.dataset.slug
+          const isActive = slug === activeSlug
+          const dot = card.querySelector<HTMLElement>('[data-active-dot]')
+          const playIcon = card.querySelector<HTMLElement>('[data-card-play-icon]')
+          const pauseIcon = card.querySelector<HTMLElement>('[data-card-pause-icon]')
+
+          if (isActive) {
+            card.classList.add('border-accent-thread', 'bg-background-secondary', 'ring-1', 'ring-accent-thread/40')
+            dot?.classList.remove('hidden')
+            if (isPlaying) {
+              playIcon?.classList.add('hidden')
+              pauseIcon?.classList.remove('hidden')
+            } else {
+              playIcon?.classList.remove('hidden')
+              pauseIcon?.classList.add('hidden')
+            }
+          } else {
+            card.classList.remove('border-accent-thread', 'bg-background-secondary', 'ring-1', 'ring-accent-thread/40')
+            dot?.classList.add('hidden')
+            playIcon?.classList.remove('hidden')
+            pauseIcon?.classList.add('hidden')
+          }
+        })
+      })
+    }
+
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', initAudiobookSection)
+    } else {
+      initAudiobookSection()
+    }
+    document.addEventListener('astro:page-load', initAudiobookSection)
+  </script>
 </Base>
