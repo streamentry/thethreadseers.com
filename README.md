@@ -147,9 +147,13 @@ This is a showcase project for "The Thread Seers" series. For content updates or
 
 ## 📄 License
 
-© 2024 Le Viet Hong. All rights reserved.
+This repository is licensed under a **Dual License** structure:
+
+- **Source Code & Tooling**: Licensed under the [MIT License](LICENSE) (Astro components, TypeScript utilities, Tailwind configurations, Python generators, and build scripts).
+- **Literary Content & Media**: **Copyright © 2024–2026 Lê Việt Hồng (Le Viet Hong). All Rights Reserved.** All rights to the novel manuscript (`content/`), character universe, lore, cover art, and audiobook recordings (`public/audio/`) are reserved. Material is made freely accessible for personal reading and listening enjoyment only.
+
+See [LICENSE](LICENSE) for complete terms.
 
 ---
 
 *"Where threads connect worlds, and every choice weaves destiny."*
-# thethreadseers
