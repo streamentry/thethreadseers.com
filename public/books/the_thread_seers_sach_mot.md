@@ -2,1050 +2,1050 @@
 title: "Những Người Thấy Sợi Chỉ — Sách Một"
 author: "Lê Việt Hồng"
 language: vi
-date: 2026-09-30
+date: 2026-10-02
 ---
 
 # Lời Tri Ân
 
-Cuốn sách này có mặt trên đời là nhờ những sợi chỉ—lấp lánh, không gì đứt nổi—gắn kết tôi với những người tôi yêu thương nhất.
+Cuốn sách này hiện diện trên đời là nhờ những sợi chỉ—lấp lánh, không gì cắt đứt—gắn kết tôi với những người tôi yêu thương nhất.
 
-Gửi cha mẹ, người đã tin từ những ngày đầu. Sự ủng hộ kiên định của cha mẹ đã trở thành sợi chỉ bền nhất của con, vàng ròng và chân thật.
+Gửi cha mẹ, những người đã đặt niềm tin từ những ngày đầu. Sự chở che và ủng hộ bền bỉ của cha mẹ đã trở thành sợi chỉ vững chãi nhất của con, vàng ròng và chân thực.
 
-Gửi Katie, người đồng hành trong mọi cuộc phiêu lưu của tôi—cảm ơn vì đã luôn đứng cạnh tôi qua cả những lúc thử thách lẫn những lúc ăn mừng. Những sợi chỉ giữa chúng ta rực sáng hơn theo từng ngày, dệt nên những hoa văn mà tôi chưa từng dám nghĩ tới.
+Gửi Katie, người bạn đồng hành trong mọi chuyến phiêu lưu của tôi—cảm ơn em vì đã luôn kề vai sát cánh qua cả những lúc gian nan lẫn những ngày hân hoan. Sợi chỉ giữa chúng ta rực sáng hơn theo từng ngày qua, dệt nên những hoa văn tôi chưa từng nghĩ là có thể thành hình.
 
-Gửi Mia và Lana, hai cô con gái thông minh đã dạy tôi nhìn thế giới bằng đôi mắt tràn ngập ngỡ ngàng—sự tò mò, óc sáng tạo và niềm vui bất tận của các con được dệt vào từng trang sách. Mong các con mãi đi theo những sợi chỉ bạc của giấc mơ, dù chúng có dẫn đến đâu đi nữa.
+Gửi Mia và Lana, hai cô con gái tuyệt vời đã dạy tôi nhìn thế giới bằng đôi mắt đong đầy kinh ngạc—trí tò mò, sức sáng tạo và niềm vui bất tận của các con đã được dệt vào từng trang sách. Mong các con sẽ luôn dõi theo những sợi chỉ bạc của ước mơ mình, dẫu chúng có dẫn lối tới bất cứ phương trời nào.
 
-Và gửi bạn, độc giả thân mến, người đã nhấc cuốn sách này lên và hòa mình vào sợi chỉ rực sáng nối kết tất cả chúng ta qua câu chuyện. Chào mừng đến với Weave.
+Và gửi bạn, bạn đọc thân mến, vì đã nâng cuốn sách này lên và hòa mình vào sợi chỉ sáng trong gắn kết tất cả chúng ta qua câu chuyện. Chào mừng đến với Weave.
 
 # HỒI MỞ ĐẦU: SÀI GÒN, 1943
 
-Viên đạn đi sát đến mức Mei-Hua cảm thấy cả luồng gió của nó lướt qua tai.
+Viên đạn bay sát đến mức Mei-Hua cảm thấy cả luồng gió rít lướt qua mang tai.
 
-Cô không nhúc nhích. Những sợi chỉ đã báo cho cô trước đó đúng một nhịp tim: nóng, nhanh, một đường đỏ tươi chạy từ lầu hai của nhà kho sang nóc Nhà Hải quan đối diện, và dọc theo đường ấy là một ý định mang hình thù mà cô đã học cách đọc như người ta đọc một cái miệng.
+Cô không nhúc nhích. Những sợi chỉ đã báo cho cô trước đó đúng một nhịp tim: nóng bỏng, chớp nhoáng, một vệt đỏ tươi chạy từ lầu hai của nhà kho sang nóc Nhà Hải quan đối diện, và dọc theo vệt đỏ ấy là một ý định mang hình thù mà cô đã học được cách đọc như người ta đọc một vành môi.
 
-*Hắn ta sẽ bắn.*
+*Hắn sắp bắn.*
 
-"Đứng im," cô nói. "Hắn ta chưa bắn."
+"Khoan đã," cô nói. "Hắn chưa bắn đâu."
 
-Zhang, ép người sát đống thùng hàng bên cạnh, không hỏi cô nghĩa là gì. Mười một tuần làm chung, anh ta đã thôi hỏi. Anh ta cũng đã thôi ám chỉ rằng cô đang phóng đại, điều mà cô quý hơn.
+Zhang, ép người sát đống thùng hàng bên cạnh, không hỏi cô nghĩa là gì. Mười một tuần làm chung, anh đã thôi không gặng hỏi. Anh cũng đã thôi bóng gió rằng cô đang phóng đại, điều mà cô quý hơn nhiều.
 
-Dưới chân họ, sông Sài Gòn trôi đi với màu của một vết bầm. Hai chiếc tàu tuần tiễu để máy rề rề bên bến. Bờ bên kia, dưới những tấm bạt to bằng sàn vũ trường, đống hàng được chất lên, dán nhãn, và đang đói khát. Ở đâu đó phía trên, trên đường Hậu Giang, khu chợ tối đang tan, và mùi của nó — mùi mắm tôm, mùi đường cháy, mùi hoa lài — tràn qua mặt nước, lẫn với mùi gắt hơn của gạo không còn nằm lại trên ruộng.
+Dưới chân họ, sông Sài Gòn trôi đi với màu của một vết bầm. Hai chiếc tàu tuần tiễu nổ máy rập rình bên bến. Bờ bên kia, dưới những tấm bạt to bằng sàn khiêu vũ, hàng hóa được chất đống, dán nhãn, và đói lả. Ở đâu đó phía trên, trên đường Hậu Giang, khu chợ tối đang tan, và mùi của nó — mùi mắm tôm, mùi đường cháy, mùi hoa lài — tràn qua mặt nước, lẫn với mùi gắt hơn của lúa gạo không còn nằm lại trên đồng.
 
 "Lần thứ ba trong tháng này," Zhang nói. "Chúng lấy trọn hạn ngạch của cả đồng bằng."
 
 "Tôi biết."
 
-Anh ta dịch người, và tấm ván lún xuống dưới chân. Mei-Hua đặt ngang bàn tay lên gỗ mà không cần nhìn, dò tìm đường ghép, tìm thấy nó, và biết ơn vì đã tìm thấy, vì hai tay cô đã bắt đầu run và cô cần một việc gì đó để mình còn được làm cho đúng.
+Anh dịch người, và sàn ván hơi lún xuống dưới chân. Mei-Hua áp phẳng bàn tay lên gỗ mà không cần nhìn, dò tìm đường ghép, tìm thấy nó, và thầm biết ơn vì đã tìm thấy, vì hai tay cô đã bắt đầu run và cô cần một việc gì đó để thấy mình vẫn còn tháo vát.
 
-"Lần thứ ba," anh ta nói lại, bằng một giọng khác. "Và lần thứ tư thì họ sẽ gửi bản kê khai về Tokyo."
+"Lần thứ ba," anh lặp lại, bằng một giọng khác. "Và lần thứ tư thì chúng sẽ gửi bản kê khai về Tokyo."
 
-Cô nghiêng đầu vài độ. Trên nước bên dưới, một túm ánh sáng đen bạc chạy từ Nhà Hải quan xuống con tàu ven biển đang cột ở cầu số hai. Nó dày như dây thừng và nó chuyển động không đúng: không phải hơi thở chậm rãi của một sợi dây ràng buộc giữa hai người đã bằng lòng để bị trói vào nhau, mà là cú kéo căng, có chủ đích, của một sợi dây đang được tuột ra khỏi ống quay. Mọi thứ trên nó đang được chở đi một chiều, và không có gì được phép quay ngược lại.
+Cô nghiêng đầu vài độ. Trên mặt nước bên dưới, một túm ánh sáng đen bạc chạy từ Nhà Hải quan xuống con tàu ven biển đang neo ở cầu tàu số hai. Nó dày như dây thừng và chuyển động sai lệch: không phải hơi thở chậm rãi của một sợi dây ràng buộc giữa hai người đã thuận lòng gắn kết, mà là cú kéo căng, có chủ đích, của một sợi dây đang tuôn ra khỏi ống chỉ. Mọi thứ trên đường dây đang bị cuốn đi một chiều, và tuyệt nhiên không có gì được phép quay ngược lại.
 
-"Các mối quen của thầy Nguyễn trong Tổng Hội đã tóm được một tin vào tháng Tám," cô nói. "Họ cho tôi biết hình thù của nó. Tôi muốn tận mắt xem nó."
+"Các mối quen của thầy Nguyễn trong Tổng Hội đã tóm được một tin vào tháng Tám," cô nói. "Họ cho tôi biết hình thù của nó. Tôi muốn tận mắt xem."
 
-"Giờ thì cô thấy được chưa?"
+"Giờ thì cô thấy rồi chứ?"
 
 "Thấy rồi."
 
-"Thế thì cô kể tôi nghe cô thấy gì, để hai người mình cùng sợ về cùng một hướng."
+"Thế thì cô kể tôi nghe cô thấy gì đi, để hai người mình cùng run về một hướng."
 
-Cô gần như quý anh ta vì câu nói đó.
+Cô gần như quý anh vì câu nói đó.
 
 ---
 
-Trong gia tộc cô, sợi chỉ có hai cái tên, và bà của cô đã dặn rất rõ sự khác biệt.
+Trong gia tộc cô, sợi chỉ có hai cái tên, và bà của cô đã phân định rất rành rọt.
 
-*Sợi nối* — 线 (xiàn) — chạy giữa người với người. Giữa một người con gái và căn bếp, một thầy giáo và lớp học, một cô gái và một cậu con trai vẫn chưa nói nổi một điều gì ra tiếng. Chúng hiện rõ. Ai trong nghề cũng thấy được; có người thấy mà chẳng cần cố.
+*Sợi nối* — 线 (xiàn) — giăng giữa người với người. Giữa một người con gái và căn bếp, một người thầy và lớp học, một cô gái và một chàng trai vẫn chưa gom đủ can đảm thốt ra một lời. Chúng hiện rõ mồn một. Ai trong nghề cũng thấy được; có người chẳng cần gắng sức cũng nhìn ra.
 
-*Dòng chảy* — 势 (shì) — thuộc về những nơi chốn. Chúng là trọng lượng chất dồn của đời sống một khu phố: ai đã sinh ra ở đó, ai đã mất ở đó, ai đã ăn, đã cãi nhau và đã đi lễ miếu trên cùng một con đường suốt bốn trăm năm. Chúng không hiện lên mắt. Chúng cũng không, theo cô nghĩ, đúng nghĩa là nghe được. Chúng là áp lực của một chốn đè lên da bạn khi bạn đứng giữa nó và biết rõ nó.
+*Dòng chảy* — 势 (shì) — thuộc về những chốn chốn nơi nơi. Chúng là sức nặng tích tụ qua bao đời sống của một khu phố: ai đã sinh ra ở đó, ai đã nhắm mắt ở đó, ai đã ăn, đã cãi vã và đã đi lễ miếu trên cùng một con đường suốt bốn trăm năm ròng. Chúng không hiện hình trước mắt. Chúng cũng không hẳn, theo cô nghĩ, là thứ nghe được bằng tai. Chúng là áp lực của một chốn đè lên da thịt khi bạn đứng giữa lòng nó và thấu hiểu nó.
 
-Sợi chỉ thì kéo được. Dòng chảy thì không. Đó là toàn bộ những gì cô được dạy, và toàn bộ lập luận của cô, và cô đã thua nó nhiều hơn mức cô đếm nổi.
+Sợi chỉ thì kéo được. Dòng chảy thì không. Đó là toàn bộ những gì cô từng được dạy, và là toàn bộ điều cô từng tranh biện, và cô đã thua trong cuộc tranh biện ấy nhiều lần hơn mức cô có thể nhớ.
 
-Cô nhắm mắt, đặt ngón cái cùng hai ngón tay lên nếp gấp của lòng bàn tay trái, và hít vào bằng mũi.
+Cô nhắm mắt, đặt ngón cái cùng hai ngón tay lên nếp gấp của lòng bàn tay trái, rồi hít vào bằng mũi.
 
-*Hít vào. Ba. Thở ra qua kẽ răng.*
+*Hít vào. Ba nhịp. Thở ra qua kẽ răng.*
 
-Có lần, khi cô chín tuổi, bà của cô bước ra sau lưng, gõ một cái vào xương ức cô bằng mặt muỗng gỗ — *lại* — rồi không nói một lời, và quay về với chén trà của bà. Mười bốn năm rồi, và cô vẫn còn cảm thấy cái gõ ấy.
+Có lần, khi cô chín tuổi, bà bước tới sau lưng, gõ một cái vào xương ức cô bằng sống muỗng gỗ — *làm lại* — rồi không nói một lời, lặng lẽ quay về với chén trà của mình. Mười bốn năm đã trôi qua, và cô vẫn còn cảm nhận được cái gõ ấy.
 
 Cô mở mắt.
 
 Thế giới ùa tới theo từng lớp.
 
-Lớp gần nhất là những thứ nhỏ và riêng: mạch đập ở cổ Zhang, nhanh và ngoan cố; đôi tay của cô; chiếc túi đeo hông nơi cất đồ nghề; người đàn bà đang ngủ cách đó hai dãy phố, sợi chỉ nối bà với đứa cháu trai đã mỏng như giấy ướt trong nửa tháng nay. Dưới lớp đó, đan dọc qua cả khu phố, dòng chảy của đường Hậu Giang — không phải một âm thanh mà là một cái nghiêng, kiểu căn phòng nghiêng đi khi trọng lượng dồn hết về một góc. Nó đã nghiêng từ tháng Ba.
+Lớp gần nhất là những điều nhỏ bé và riêng tư: mạch đập ở cổ Zhang, nhanh và bướng bỉnh; đôi bàn tay của chính cô; chiếc túi đeo bên hông nơi cất đồ nghề; người đàn bà đang ngủ cách đó hai dãy phố, sợi chỉ nối bà với đứa cháu trai đã mỏng như giấy ướt suốt nửa tháng nay. Dưới lớp ấy, đan bện qua cả khu phố, là dòng chảy của đường Hậu Giang — không phải một âm thanh mà là một cái nghiêng mình, tựa như căn phòng nghiêng đi khi quá nhiều sức nặng dồn về một góc. Nó đã nghiêng như thế từ tháng Ba.
 
-Dưới tất cả những thứ đó, và đây là phần khiến cô sợ, là mạch chính.
+Và sâu bên dưới tất cả, phần khiến cô khiếp sợ nhất: những mạch truyền chính.
 
-"Anh thấy sợi dây kia không?" cô nói. "Sợi đen, từ Nhà Hải quan sang con tàu."
+"Anh thấy sợi dây kia không?" cô nói. "Sợi đen, từ Nhà Hải quan nối sang con tàu."
 
-"Tôi có thấy gì đâu."
+"Tôi chẳng thấy gì cả."
 
-"Một sợi dây màu của lưỡi dao đã cùn. Nó đang chở bản kê khai, đang chở cả hạn ngạch gạo, và nó không chở bất cứ thứ gì trở lại." Cô nuốt. "Nó đang bị *tuột ra*. Có người đang rút trên dây, và thứ gì họ lấy thì họ giữ. Không gì chạy ngược lên đầu dây. Anh hiểu điều đó nghĩa là gì không? Nghĩa là mùa màng không hề lên đường. Nó đang bị ăn tiêu ngay nơi nó được trồng ra."
+"Một sợi dây mang màu lưỡi dao đã cùn rỉ. Nó đang chở bản kê khai, chở cả hạn ngạch lúa gạo, và không chở lại bất cứ thứ gì." Cô nuốt khan. "Nó đang bị *tuôn đi*. Có ai đó đang rút từ đầu dây, và hễ lấy được gì là họ giữ riệt lấy. Không có gì chạy ngược lại tuyến. Anh có hiểu điều đó nghĩa là gì không? Nghĩa là mùa màng không hề được vận chuyển đi nơi khác. Nó đang bị ngốn sạch ngay tại mảnh đất nơi nó được làm ra."
 
-Zhang im lặng một lúc. "Thế thì cắt nó đi."
+Zhang im lặng một hồi lâu. "Thế thì cắt phăng nó đi."
 
-"Không."
+"Không được."
 
 "Thế thì làm gì?"
 
 ---
 
-Cô lấy ra chiếc túi.
+Cô lấy chiếc túi ra.
 
-Nó từng là của mẹ cô, và của bà ngoại cô, và cái hộp bên trong còn lâu đời hơn cả nền Cộng hòa. Mẹ cô đã thêu mặt ngoài bằng lụa xanh vào cái thời mà chọn lụa xanh đã là một quyết định phải đắn đo, và mẹ thêu trong một đường lụa liền không ngắt, và công việc ngốn của mẹ bốn năm, và mẹ mất trước khi chiếc túi kịp hoàn thành.
+Nó từng là của mẹ cô, và trước đó là của bà ngoại cô, còn chiếc hộp bên trong thậm chí còn có trước cả nền Cộng hòa. Mẹ cô đã thêu mặt ngoài bằng chỉ lụa xanh vào cái thời mà việc chọn lụa xanh là một quyết định hệ trọng, và mẹ thêu bằng một đường chỉ duy nhất không hề đứt đoạn suốt bốn năm trời, rồi mẹ qua đời trước khi chiếc túi kịp hoàn thành.
 
-Bên trong: một cây kim ngọc, một cạnh đã nhẵn mịn vì ngón cái của bà của cô. Một cuộn lụa đỏ, không có sáp, ngoài tuổi tác ra không bị nhuộm bởi thứ gì. Và một nút lụa đỏ nhỏ, quấn đi quấn lại nhiều lần đến mức thành hình như một nắm tay khép chặt, mà bà của cô đặt vào tay cô ngày tròn mười sáu tuổi, và không hề nói một lời nào về nó.
+Bên trong: một cây kim ngọc, một mép đã nhẵn bóng vì ngón tay cái của bà cô. Một cuộn lụa đỏ, không bôi sáp, ngoài dấu vết thời gian ra thì không nhuộm bất cứ thứ gì khác. Và một nút lụa đỏ nhỏ, quấn đi quấn lại nhiều lần đến mức thành hình như một nắm tay siết chặt, thứ mà bà đã đặt vào tay cô vào ngày sinh nhật thứ mười sáu mà không hề hé môi một lời.
 
-*Những lựa chọn không thể lấy lại*, bà của cô nói, khi cuối cùng Mei-Hua cũng hỏi ra. *Rồi cháu sẽ biết đó là những lựa chọn nào.*
+*Những lựa chọn một khi đã làm thì không bao giờ rút lại được*, bà cô từng nói, khi cuối cùng Mei-Hua cũng cất tiếng hỏi. *Rồi cháu sẽ tự biết đó là những lựa chọn nào.*
 
-"Có một cách làm việc này mà không làm lộ ra sự có mặt của mình," Mei-Hua nói. "Nhưng anh phải giữ cho bên trong thật tĩnh, mà anh không phải là người giữ được tĩnh."
+"Có một cách làm việc này mà không để lộ tung tích," Mei-Hua nói. "Nhưng anh phải giữ cho tâm mình thật tĩnh, mà anh thì không phải tạng người biết ngồi yên."
 
-"Tôi giữ tĩnh được."
+"Tôi tĩnh được chứ."
 
-"Hôm qua anh giữ tĩnh được đúng bốn nhịp rồi quay sang nói với người bán cá rằng sổ của họ tính sai."
+"Hôm qua anh tĩnh được đúng bốn tiếng đếm rồi quay ngoắt sang bảo người bán cá rằng sổ sách tính sai."
 
-"Cái đó thì đúng."
+"Thì sai thật mà."
 
-"Vấn đề không nằm ở đó."
+"Vấn đề không phải ở chỗ đó."
 
-Cô rút cây kim ra. Ngọc mát lạnh, và nó có một trọng lượng như thuộc về một bàn tay nhỏ hơn.
+Cô rút cây kim ngọc ra. Ngọc mát lạnh, mang một sức nặng như thể thuộc về một bàn tay nhỏ bé hơn.
 
-Zhang dồn trọng tâm sang chân kia. "Kể cho tôi kế hoạch. Theo thứ tự. Nhanh."
+Zhang dồn trọng lượng sang chân kia. "Nói cho tôi nghe kế hoạch đi. Từng bước một. Nhanh lên."
 
-"Tôi cắm một ngã rẽ vào tuyến." Cô tuột ra một khúc lụa đỏ dài khoảng một cẳng tay. "Bản kê khai vẫn đi tới nơi nó đang đi. Con tàu vẫn ra khơi. Nhưng một bản sao của dòng chảy — một tiếng vọng của nó — sẽ chạy xuống sợi lụa của tôi, xuống nước, và men theo nước tới Tổng Hội, vì dòng chảy ở Hậu Giang đổ ra sông, và dòng chảy chịu mang nó đi nếu tôi xin cho đúng. Đó mới là phần tốn công. Lụa thì dễ. Dòng chảy thì không."
+"Tôi tạo một nhánh rẽ trên đường dây." Cô mở ra một đoạn lụa đỏ dài chừng một cẳng tay. "Bản kê khai vẫn đi tới nơi nó cần đến. Con tàu vẫn nhổ neo. Nhưng một bản sao của dòng chảy — một tiếng vọng của nó — sẽ chạy dọc sợi lụa của tôi, đi xuống nước, rồi men theo dòng nước đến Tổng Hội. Dòng chảy ở đường Hậu Giang đổ ra sông, và nó sẵn lòng mang tiếng vọng ấy đi nếu tôi mở lời khấn nguyện đúng cách. Đó mới là phần nhọc nhằn nhất. Lụa thì dễ. Dòng chảy thì không."
 
-"Còn đám Nhật?"
+"Còn lính Nhật?"
 
-"Trước sáng chúng sẽ cảm nhận được. Mẫu hình sẽ không chịu nằm yên. Những người đi sợi chỉ của chúng sẽ biết có ai đó đã đụng vào sợi dây ấy trước khi mặt trời mọc."
+"Trước ban mai chúng sẽ cảm nhận được. Mẫu hình sợi sẽ không chịu nằm yên. Những kẻ dọ chỉ của chúng sẽ biết có ai đó đã chạm vào sợi dây ấy trước khi mặt trời ló rạng."
 
-"Thế thì ta đi ngay bây giờ."
+"Thế thì ta rút ngay bây giờ."
 
-"Ta đi sau khi tôi làm xong. Nếu đi bây giờ, ngã rẽ mới làm được một nửa, và một ngã rẽ làm dở còn tệ hơn không có ngã rẽ." Cô nhìn anh. "Mười lăm phút. Đếm giúp tôi, và báo tôi khi nào anh đếm tới tám."
-
----
-
-Để kể lại thì đó không phải là một việc lớn.
-
-Cô quỳ xuống, kim ở tay phải, lụa ở tay trái, và cô không cắt bất cứ thứ gì. Cắt thì sẽ nhanh hơn, và cắt sẽ là một lời tuyên bố: một sợi dây đứt phựt, một cú chấn chạy ngược dọc dây và thắp sáng mọi lớp cảnh giới người Nhật đã giăng giữa sông và cảng, và ai nấy trên đường Hậu Giang sẽ thấy bầu trời giật lên như một sợi dây bị giữ chặt.
-
-Thay vào đó, cô thuyết phục.
-
-*Cậu đang chở một danh sách. Cậu chỉ chở một danh sách thôi. Danh sách thì chép lại được. Đây, một con đường thứ hai. Nó đi tới cùng một chỗ. Nó nhỏ hơn và nó lặng hơn và chẳng ai cần phải biết.*
-
-Lụa cũ và ống quay cũng cũ, và cô đã ngâm sợi trong những vị thuốc bà của cô vẫn dùng, và mỗi tháng một lần cô châm vào lòng bàn tay vì nó, vì một thứ bạn đã trả giá bằng máu sẽ giữ được cả những ý định không nằm trong chủ ý của bạn. Giới học viện phương Tây hẳn sẽ bảo đó là phi khoa học. Tiến sĩ Weber, trong những năm còn đẹp, đã bảo đó là việc chặt chẽ nhất ông từng thấy, rồi mất hai mươi phút cố ghi lại những gì cô đang làm thành một văn bản ông có thể nộp vào đâu đó.
-
-Cô thì thầm bằng phương ngữ của khu phố — không hẳn là một ngôn ngữ; là một cách đặt thanh điệu để cái nghĩa nghiêng về đúng phía — và lụa đỏ bắt đầu đập một nhịp, hai nhịp, rồi đập theo nhịp tim của chính cô, và sợi dây đen bạc không đứt.
-
-Nó *cong*.
-
-Đó là toàn bộ trò, và toàn bộ rủi ro. Một sợi dây đang căng sẽ mang đi xa hơn mức nó nên rất nhiều, dọc theo một đường bạn mới đưa vào, nếu bạn không cẩn thận, vì sợi dây đang căng muốn được thẳng hơn là muốn được thật. Cô cảm thấy nó xảy ra. Cô cảm thấy người Nhật đã dựng tuyến ấy để nó chạy cho hiệu quả, và hiệu quả nghĩa là nó đi theo lối ít sức cản nhất, và cô vừa tạo ra một lối ít sức cản dẫn về một nơi khác.
-
-Mồ hôi chảy vào tóc cô. Dòng chảy dưới hai đầu gối cô nhích đi, giận dỗi, như một người láng giềng nhích mình khi bạn tựa lưng vào tường nhà họ.
-
-*Làm ơn,* cô nghĩ, và lời đó không dành cho sợi lụa. Nó dành cho đường Hậu Giang. *Làm ơn, mang nó giùm. Chỗ này đã từng mang cho tụi tôi những thứ nặng nề hơn một tờ giấy.*
-
-Và khu phố, cái khu phố đã nghiêng từ tháng Ba, nghiêng rất khẽ về phía bên kia.
+"Rút sau khi tôi làm xong. Nếu đi bây giờ, nhánh rẽ mới thành hình một nửa, mà một nhánh rẽ dở dang thì còn nguy hiểm hơn là không có nhánh rẽ nào." Cô nhìn anh. "Mười lăm phút. Đếm giúp tôi, và báo khi anh đếm tới phút thứ tám."
 
 ---
 
-"Tám," Zhang nói.
+Để thuật lại thì đó chẳng phải việc gì đao to búa lớn.
 
-Cô thắt nút cuối cùng. Cô biết mình đang làm việc ấy, rồi cô biết mình đã làm xong nó, mà hai việc đó không phải là một, và đó thường là cảm giác hữu dụng cuối cùng còn lại cho bất cứ ai làm loại việc này.
+Cô quỳ xuống, kim ở tay phải, lụa ở tay trái, và cô không cắt đứt bất cứ thứ gì. Cắt thì sẽ nhanh hơn nhiều, và cắt sẽ là một lời tuyên chiến: một sợi dây đứt phựt, một chấn động dội ngược lên đầu dây và thắp sáng từng kết giới cảnh báo mà quân Nhật đã giăng giữa sông và bến cảng, và bất kỳ ai trên đường Hậu Giang cũng sẽ thấy bầu trời giật nảy lên như một sợi thừng bị ghì chặt.
 
-*Việc rồi,* cô nghĩ. *Nhưng nó không như tôi đã định.*
+Thay vào đó, cô thủ thỉ thuyết phục.
 
-Ngã rẽ giữ được. Đó là tin tốt. Tiếng vọng đang chạy — cô cảm nhận nó lan ra dưới lòng sông, mảnh và lạnh, về phía Tổng Hội, và ở đâu đó phía trên đường Hậu Giang có một người suốt hai năm sáng nào cũng dậy với một khu chợ không còn gì, bỗng thấy dòng chảy dưới chân mình nhẹ đi một chút, và không biết vì sao, và ngủ ngon hơn một chút.
+*Mày đang chở một danh sách. Mày chỉ chở một danh sách thôi mà. Một danh sách thì sao chép lại được. Này, đây là con đường thứ hai. Nó cũng dẫn tới cùng một nơi. Nó nhỏ hơn, êm ả hơn, và chẳng ai cần phải hay biết.*
 
-Tin xấu nằm trong hai tay cô. Cô đã xin sợi dây chở một bản sao, và nó chở theo cả một *sắc điệu*, và sắc điệu ấy vẫn còn trong lụa đỏ, và nó không hề kín đáo, và nó là của cô.
+Lụa đã cũ và ống chỉ cũng đã mòn, cô đã ngâm sợi trong các vị thuốc mà bà vẫn dùng, và mỗi tháng một lần cô chích máu đầu ngón tay cho nó, bởi vì thứ gì đã được trả giá bằng máu sẽ gánh trọn cả những ý niệm nằm ngoài chủ đích ban đầu. Các học viện phương Tây hẳn sẽ gạt đi bảo đó là trò phản khoa học. Tiến sĩ Weber, vào những năm tháng tốt đẹp khi xưa, từng bảo đó là điều nghiêm cẩn nhất ông từng chứng kiến, rồi mất hai mươi phút loay hoay ghi lại những gì cô làm thành một báo cáo để có thể đệ trình lên cấp trên.
 
-"Trước sáng chúng sẽ biết," cô nói. "Không phải biết là gì. Mà là biết ở đâu. Vết nhiễu sẽ nằm trong dòng chảy địa phương như một hòn đá vừa được thả xuống."
+Cô thì thầm bằng phương ngữ của khu phố — không hẳn là một thứ tiếng riêng biệt; chỉ là một cách nhấn nhá thanh điệu sao cho ý tứ ngả về đúng hướng — và sợi lụa đỏ bắt đầu đập một nhịp, hai nhịp, rồi hòa chung nhịp đập với trái tim cô, và sợi dây đen bạc không hề đứt đoạn.
 
-"Thế là ta còn đêm nay."
+Nó *uốn cong*.
 
-"Thế là ta còn đêm nay," cô đồng ý, và cất cây kim, và trả nút thắt đỏ hình nắm tay về lại chiếc túi nơi nó thuộc về, và lần đầu tiên để ý rằng bàn tay của bà của cô trong hình thêu, nếu nhìn từ góc này, đang giữ đúng thứ y hệt như vậy.
+Đó là tất cả ngón nghề, và cũng là toàn bộ hiểm nguy. Một sợi dây đang chịu lực căng sẽ dẫn truyền đi xa hơn mức bình thường rất nhiều dọc theo một lối mới mở, nếu ta bất cẩn, bởi một sợi dây căng thẳng muốn ngay ngắn hơn là muốn chân thực. Cô cảm nhận được điều đó xảy ra. Cô cảm nhận được quân Nhật đã thiết lập tuyến ấy để đạt hiệu suất tối đa, mà hiệu suất tối đa đồng nghĩa với việc chọn con đường có lực cản ít nhất, và cô vừa mở ra một lối đi ít lực cản dẫn sang một ngả khác.
+
+Mồ hôi túa ra chân tóc. Dòng chảy dưới hai đầu gối cô xao động, cằn nhằn, tựa như một người hàng xóm cựa mình khi bạn vô tình dựa lưng vào bức tường nhà họ.
+
+*Làm ơn,* cô thầm khấn, và lời khấn ấy không hướng về sợi lụa. Nó hướng về con đường Hậu Giang. *Làm ơn gánh giùm nó. Chốn này từng chở che cho chúng tôi những thứ nặng nề hơn một tờ giấy nhiều.*
+
+Và khu phố, cái khu phố đã nghiêng mình từ tháng Ba, nghiêng rất khẽ sang chiều ngược lại.
 
 ---
 
-Hai người rút ra dọc theo bức tường, theo lối lúc nãy họ đã đi vào.
+"Tám," Zhang nói khẽ.
 
-Mei-Hua không quay lại nhìn con tàu. Cô ngước lên, hướng về nóc nhà kho nơi sợi chỉ đã báo cho cô biết có người đang đứng, và cô không ngạc nhiên khi thấy hắn, và cô rất hoảng sợ, mà đó là một chuyện khác, và những năm tháng đã dạy cô giữ nó trong ngăn riêng của nó.
+Cô thắt gút cuối cùng. Cô ý thức được mình đang thắt gút, rồi ý thức được mình đã thắt xong, hai trạng thái đó không hề giống nhau, và đó thường là cảm giác hữu ích cuối cùng còn sót lại cho bất cứ ai dấn thân vào công việc kiểu này.
 
-Hắn cao. Hắn là người châu Âu. Những đường chỉ quanh hắn được sắp xếp theo kiểu người đàn ông từng thấy hứng thú với một điều gì đó, rồi đổi lấy sự thuần thục trong nó.
+*Xong rồi,* cô nghĩ. *Nhưng không hoàn toàn như mình dự tính.*
 
-"Chào Tiến sĩ Weber," Mei-Hua nói.
+Nhánh rẽ đứng vững. Đó là tin mừng. Tiếng vọng đang chạy xuôi — cô cảm nhận được nó luồn dưới lòng sông, mảnh dẻ và lạnh buốt, hướng về phía Tổng Hội; và ở đâu đó trên đường Hậu Giang, một người suốt hai năm ròng sáng nào thức giấc cũng đối diện với một khu chợ trống hoang tàn bỗng thấy dòng chảy dưới chân mình dịu đi đôi chút, chẳng rõ vì sao, và chìm vào giấc ngủ yên ả hơn một chút.
 
-Cô cảm nhận được hình dáng của những gì hắn đang làm với mạch chính bên dưới Hậu Giang, trước cả khi hắn giơ một bàn tay. Vẫn là bàn tay đó, và vẫn cái tài đáng sợ đó, và hơi ấm từng có trong nó đã bị lấy ra, thay vào đó là một thứ chạy được.
+Tin dữ nằm ngay trong hai bàn tay cô. Cô đã xin sợi dây chở một bản sao, và nó đã chở theo cả một *âm sắc*, âm sắc ấy vẫn còn đọng lại trong dải lụa đỏ, không hề mờ nhạt, và đó chính là dấu ấn của riêng cô.
 
-*Hắn không làm việc này vì đám Nhật,* cô nghĩ, và ý nghĩ đó còn tệ hơn cả việc hắn làm vì chúng. *Hắn làm vì hắn đã quyết rằng những gì hắn hiểu quan trọng hơn những gì đang hiện diện ở đó.*
+"Trước ban mai chúng sẽ biết," cô nói. "Không phải biết chuyện gì đã xảy ra. Mà là biết ở đâu. Vết nhiễu sẽ đọng lại trong dòng chảy nơi này như một hòn đá vừa ném xuống nước."
 
-"Chúng ta nên báo cho các bậc trưởng bối," Zhang nói, khi hai người đã đi qua hai dãy phố và tiếng nước đã ngoài tầm tai. "Tất cả. Đêm nay."
+"Thế là ta chỉ còn đêm nay."
 
-"Đúng."
+"Phải, ta chỉ còn đêm nay," cô đồng tình, cất cây kim ngọc đi, đặt nút thắt đỏ hình nắm tay trở lại chiếc túi nơi nó thuộc về, và lần đầu tiên nhận ra rằng đôi bàn tay của bà cô trên hoa văn thêu, nếu nhìn từ góc độ này, đang nắm giữ đúng một vật y hệt.
 
-"Về những người đi sợi chỉ mới. Về những cỗ máy."
+---
+
+Họ rút men theo chân tường theo đúng lối lúc vào.
+
+Mei-Hua không ngoái nhìn lại chiếc tàu buôn ven biển. Cô ngước mắt nhìn lên nóc nhà kho nơi sợi chỉ đã mách bảo rằng có bóng người đang đứng, và cô không hề ngạc nhiên khi thấy người đó, dẫu trong lòng trào dâng nỗi sợ hãi tột cùng — nỗi sợ hãi mà năm tháng đã dạy cô cách cất gọn vào một góc riêng.
+
+Người đàn ông cao lớn. Một người châu Âu. Những đường nét bao quanh người ông ta được xếp đặt tựa như một kẻ từng say mê một điều gì đó rồi quay sang làm nó thuần thục, lạnh lùng.
+
+"Chào Tiến sĩ Weber," Mei-Hua cất tiếng.
+
+Cô cảm nhận được hình dáng những gì ông ta đang tác động lên các mạch truyền chính bên dưới lòng đường Hậu Giang trước cả khi ông ta nhấc tay lên. Vẫn là bàn tay ấy, vẫn năng lực ghê gớm ấy, nhưng hơi ấm từng có trong đó đã bị tước sạch, thay bằng một thứ gì đó chỉ thuần túy hoạt động hiệu quả.
+
+*Ông ta không làm chuyện này vì quân Nhật,* cô nghĩ, và ý nghĩ đó còn đáng sợ hơn nếu ông ta làm vì chúng. *Ông ta làm vì ông ta đã quyết rằng những gì mình hiểu biết quan trọng hơn tất cả những gì đang thực sự hiện hữu nơi đây.*
+
+"Chúng ta phải báo cho các bậc trưởng bối," Zhang nói, khi hai người đã rẽ qua hai góc phố và tiếng sóng nước đã lùi xa khỏi tầm tai. "Tất cả mọi người. Ngay đêm nay."
+
+"Phải."
+
+"Về những kẻ dọ chỉ mới. Về những cỗ máy kia."
 
 "Về tất cả."
 
 "Họ có chịu nghe không?"
 
-Mei-Hua nghĩ về bà của cô, người đã lắng nghe một chàng thanh niên Đức suốt hai năm, và đã nghe đúng.
+Mei-Hua nghĩ về bà của mình, người đã chịu lắng nghe một thanh niên Đức suốt hai năm ròng và đã không lầm khi làm vậy.
 
-"Họ sẽ nghe," cô nói. "Họ sẽ không nhanh. Đó là nửa còn lại của chuyện này, và đó là nửa quan trọng, và không ai bao giờ chịu cảnh báo người ta về nó."
+"Họ sẽ nghe," cô nói. "Nhưng họ sẽ không hành động nhanh đâu. Đó là nửa còn lại của vấn đề, nửa hệ trọng nhất, mà chẳng ai từng cảnh báo cho người ta biết trước."
 
-Hai người rẽ vào một con hẻm thơm mùi hoa lài, mùi đường nóng, và mùi bụi đặc trưng của vữa cũ, và sợi chỉ sau lưng cô — sợi chỉ nối một người đàn ông trên nóc nhà với một người đàn bà đang đứng giữa hẻm, và thứ đã từng là, trong một khoảnh khắc, điều trung thực nhất của cả đêm hôm đó — mảnh dần, mảnh dần, và không đứt.
+Họ rẽ vào một con hẻm thơm ngát hương hoa lài, mùi đường nóng, và lớp bụi đặc trưng của những mảng vữa tường cũ kỹ. Và sợi chỉ sau lưng cô — sợi chỉ nối người đàn ông trên mái nhà với người thiếu nữ đứng giữa con hẻm, thứ từng là điều chân thực nhất trong suốt đêm dài — cứ mảnh dần, mảnh dần, nhưng không hề đứt.
 
-Nó không bao giờ đứt. Đó là cái phiền phức của nó. Nó chỉ mỏng dần, và mỏng dần, và một lúc nào đó thì bên phía hắn không còn lại chút gì trên nó.
+Nó không bao giờ đứt. Đó mới là nỗi nghiệt ngã của nó. Nó chỉ mỏng manh dần, mỏng manh dần, cho đến khi phía bên kia đầu dây của ông ta chẳng còn lại bất cứ thứ gì.
 
 ---
 
-*Bảy mươi năm sau, trong một căn bếp ở phía bên kia thế giới, một cô gái mười sáu tuổi sẽ ngồi vào bàn với một cây bút chì than và một bát trà hoa lài, và một bà lão mang đôi mắt của bố cô sẽ kể cho cô rằng những sợi chỉ lụa xuyên qua vạn vật, rằng những dòng sâu chạy bên dưới chính từng nơi chốn, rằng cả hai điều ấy đều đúng, và rằng điều thứ hai chính là điều mà các ngôi trường đã vứt bỏ. Ban đầu cô sẽ không tin bà. Đến cuối buổi chiều cô sẽ tin bà. Phải mất phần đời còn lại cô mới tính ra cái sự tin ấy đã tốn giá gì, và ai là người đã bị gọi đến để trả.*
+*Bảy mươi năm sau, trong một căn bếp ở phía bên kia địa cầu, một cô gái mười sáu tuổi sẽ ngồi bên chiếc bàn gỗ với cây bút chì than và một bát trà hoa lài, và một bà cụ mang đôi mắt giống hệt cha cô sẽ kể cho cô nghe rằng những sợi chỉ lụa luồn qua vạn vật, rằng những dòng sâu ngầm chảy bên dưới chính từng mảnh đất, rằng cả hai điều ấy đều có thật, và rằng điều thứ hai chính là điều các trường ốc đã vứt bỏ từ lâu. Ban đầu cô bé sẽ không tin. Nhưng đến cuối buổi chiều hôm đó, cô bé sẽ tin. Và cô sẽ phải dành trọn phần đời còn lại để hiểu thấu niềm tin ấy đã phải đánh đổi bằng cái giá nào, và ai là người đã bị đòi phải trả.*
 
-*Cô gái có một bà cố bên ngoại, và bà ấy đã làm một phiên bản rất nhỏ của việc này, trong một con hẻm không xa nơi đây, vào một đêm mà gạo đang bị lấy đi và không ai ngăn nổi. Bà đã rẽ một ngã rẽ trên một tuyến mà bà không đủ sức cắt, và đã xin một con đường mang giùm bản sao. Việc đó đã thành công. Việc đó cũng đã chỉ cho kẻ thù biết chính xác con đường ấy nằm ở đâu, và nó đã lấy đi của bà ba mươi mốt năm của một cuộc đời mà bà thà rằng được giữ lại, và bốn người bà yêu, những người không có mặt trong truyện này.*
+*Cô gái có một người bà cố bên họ ngoại, và người phụ nữ ấy từng làm một việc tương tự ở quy mô rất nhỏ, trong một con hẻm không xa nơi này, vào một đêm mà lúa gạo bị cướp bóc và chẳng ai ngăn nổi. Bà đã tạo một nhánh rẽ trên đường dây mà mình không đủ sức cắt, rồi nhờ một con phố mang giùm bản sao chép. Việc đó đã thành công. Việc đó cũng đã chỉ cho kẻ thù biết chính xác con phố ấy nằm ở đâu, và nó lấy đi của bà ba mươi mốt năm của một cuộc đời mà bà thà rằng được giữ lại, cùng bốn người bà yêu thương không có tên trong câu chuyện này.*
 
-*Cả hai phiên bản đều không phải là toàn bộ những gì xảy ra tiếp theo.*
+*Cả hai câu chuyện ấy đều chưa phải là toàn bộ những gì xảy ra tiếp theo.*
 
 # Chương 1: Cây Cầu
 
 *Thứ Ba, 27 tháng Tám. Bệnh viện đa khoa Westbrook, rồi căn nhà trên phố Ellery.*
 
-Tiếng chuông ở trường Westbrook có một nốt ngân phẳng lì, không vui, và hành lang vẫn còn vang theo nó khi Madison Stone húc thẳng vai vào Lyra Chen.
+Tiếng chuông ở trường trung học Westbrook có một nốt ngân trầm đục, buồn tẻ, và hành lang vẫn còn vang dội tiếng chuông khi Madison Stone húc thẳng vai vào vai Lyra Chen.
 
-Không mạnh. Chuyện với Madison luôn thế — cậu ấy cân đo. Quyển tập vẽ của Lyra rơi xuống nền lanh rồi trượt vào gầm một dãy tủ đồ, các trang giấy xòe ra, và nửa hành lang dừng lại để nhìn, vì nửa hành lang đã nhìn gần cả ngày.
+Không quá mạnh. Đó là điều đặc trưng ở Madison — cô nàng luôn tính toán lực vừa đủ. Quyển sổ ký họa của Lyra rơi xuống sàn linoleum rồi trượt vào gầm một dãy tủ khóa, những trang giấy xòe tung ra, và nửa hành lang dừng bước để dán mắt nhìn, vì nửa hành lang ấy đã dõi theo cô gần như cả ngày.
 
-"Xin lỗi," Madison nói. "Không thấy cậu."
+"Xin lỗi nhé," Madison nói. "Không thấy cậu."
 
-Cậu ấy có một cách nói *xin lỗi* khiến nó thành một cánh cửa nhỏ được giữ mở sang một căn phòng rộng hơn.
+Cô nàng có một cách nói *xin lỗi* khiến lời ấy như một cánh cửa hẹp hé mở vào một căn phòng rộng thênh thang.
 
-Lyra quỳ xuống gom các tờ giấy. Cô không nhìn Madison, vì cứ nhìn là mọi chuyện lại tệ hơn. Còn những gì cô thấy được mà không cần nhìn đã đủ tệ: một cục rối kết nút dày đặc màu xám trắng chạy từ cổ áo Madison đến mặt trong cổ tay Madison, và đan xuyên qua nó, mảnh mà đều đặn, vẫn cứ kéo dài bất chấp tất cả, một sợi tơ cùng màu chảy dọc hành lang về phía một cậu con trai tên Zach, đang ra sức giả vờ không thấy gì cả.
+Lyra quỳ xuống gom từng trang giấy. Cô không nhìn Madison, vì nhìn chỉ khiến mọi chuyện thêm tồi tệ. Những gì cô thấy mà chẳng cần nhìn đã đủ tệ rồi: một búi chỉ rối kết nút dày đặc màu xám trắng chạy từ cổ áo Madison đến mặt trong cổ tay, và luồn xuyên qua búi rối ấy, mảnh mai mà kiên định, vẫn tiếp tục vươn đi bất chấp tất cả, là một sợi tơ cùng màu hướng dọc hành lang về phía một cậu bạn tên Zach, người đang ra sức giả vờ như chẳng hề hay biết chuyện gì đang diễn ra.
 
-*Cậu ấy đang làm cậu ta đau,* Lyra nghĩ, và rồi, vì cô mười sáu tuổi và thành thật với chính mình trong sự riêng tư của hộp sọ mình: *Cậu ta đang để cậu ấy làm thế. Đó là hai chuyện khác nhau.*
+*Cô ta đang làm cậu ấy tổn thương,* Lyra nghĩ, và rồi, vì cô mới mười sáu tuổi và luôn thành thật với bản thân nơi sâu kín trong tâm trí mình: *Cậu ấy đang để mặc cho cô ta làm vậy. Hai chuyện đó không giống nhau.*
 
-"Ừ, để tớ," một giọng nói vang lên sau lưng cô. "Số còn lại là của tớ."
+"Được rồi," một giọng vang lên sau lưng cô. "Để tớ nhặt nốt cho."
 
-Katie Doyle xổm xuống bên cạnh cô và bắt đầu nhặt các tờ giấy, và Lyra nhận ra, như mọi khi, mà không thể nào đừng nhận ra, rằng khoảng không giữa hai người chất đầy một thứ gì đó. Không phải một màu nào cô gọi nổi tên. Một thứ đan bện, ấm áp, hơi sờn, vàng óng ở chính giữa, và mỏng dần ở hai đầu.
+Katie Doyle ngồi thụp xuống bên cạnh cô và bắt đầu gom các trang giấy, và Lyra nhận ra, như mọi lần, mà không tài nào dằn lòng lại được, rằng khoảng không gian giữa hai người đang đong đầy một thứ gì đó. Không phải một sắc màu mà cô có thể gọi tên. Một thứ đan bện, ấm áp, hơi sờn mép, óng ánh sắc vàng ở chính giữa và mỏng dần về hai đầu.
 
-"Khoe thế," Katie nói, vừa chìa ra một góc quyển tập vẽ. "Cậu vẽ người như thể họ làm bằng dây kẽm."
+"Khoe mẽ vừa thôi," Katie nói, chìa ra một góc cuốn sổ ký họa. "Cậu vẽ người mà trông như thể họ được làm bằng dây thép ấy."
 
-"Là than."
+"Là than củi mà."
 
-"Không phải chuyện chất liệu, cậu biết ý tớ mà." Katie đứng thẳng dậy, phủi bụi hai đầu gối. "Zach đang ở bên vòi uống nước, giả vờ đọc. Cậu định nói gì với hắn, hay định làm cái trò cậu vẫn hay làm?"
+"Không phải chuyện chất liệu, cậu hiểu ý tớ mà." Katie đứng thẳng dậy, phủi bụi bám nơi hai đầu gối. "Zach đang đứng bên vòi nước giả vờ đọc sách kìa. Cậu định nói gì với cậu ta không, hay lại định làm cái trò cậu vẫn hay làm?"
 
-"Cái trò nào cơ?"
+"Trò gì cơ?"
 
-"Cậu nói với tớ là cậu chẳng làm gì, rồi cậu lại làm đấy."
+"Cậu bảo cậu chẳng làm gì cả, rồi sau đó cậu lại làm đấy thôi."
 
 Mặt Lyra nóng bừng lên. "Tớ có làm gì đâu."
 
-"Cậu đã vá chuyện của hắn với Katie — ừ nhỉ, không phải của cậu với tớ, *của tớ với hắn* — cậu đã vá cái thứ giữa hai đứa tháng trước. Ở trong đây." Katie chạm ngón tay lên xương ức, đúng cái chỗ người ta hay đặt tay vào khi ý nói *ở đây*. "Hắn còn định chuyển trường vì chuyện đó, giờ thì hắn lải nhải không thôi về đôi mắt của tớ. Cậu nói là cậu chẳng làm gì đấy."
+"Cậu đã hàn gắn chuyện của cậu ấy với Katie — à không, không phải giữa cậu với tớ, mà là *giữa tớ với cậu ấy* — cậu đã vá lại thứ ở giữa hai đứa tháng trước. Ngay trong này này." Katie chạm tay lên xương ức, đúng vị trí người ta hay đặt tay khi muốn nói *ở đây*. "Cậu ấy từng tính chuyển trường vì chuyện đó, thế mà giờ cứ lải nhải suốt về đôi mắt của tớ. Thế mà cậu dám bảo mình chẳng làm gì."
 
-"Cái gì cũng sờn," Lyra nói cẩn trọng. "Chúng sờn đi, và thỉnh thoảng tự nối lại được. Thỉnh thoảng thôi."
+"Mọi thứ đều có lúc sờn rách," Lyra thận trọng đáp. "Chúng sờn rách rồi đôi khi tự lành lại được. Đôi khi thôi."
 
-"Ừ-hừ." Katie nhìn cô lâu hơn một thoáng cho phép, theo cái kiểu mà dạo này cô Rivera cũng bắt đầu nhìn cô, và Lyra quyết định, lần thứ một trăm, rằng cô đang tưởng tượng hết. "Chuyện bố cậu, tớ tiếc quá. Mẹ tớ bảo ông ấy lại vào bệnh viện rồi."
+"Ừ-hứ." Katie nhìn cô lâu hơn bình thường, theo đúng cái cách mà dạo này cô Rivera cũng bắt đầu nhìn cô, và Lyra lại tự nhủ, lần thứ một trăm, rằng tất cả chỉ do mình tưởng tượng ra. "Chuyện của bố cậu, tớ rất tiếc. Mẹ tớ bảo chú lại phải vào viện rồi."
 
-"Bố tớ về nhà rồi."
+"Bố tớ về nhà rồi mà."
 
-"Bố cậu trở lại bệnh viện rồi." Môi Katie duỗi thẳng. "Lyra. Đó là một câu khác đấy."
-
----
-
-Điện thoại reo lúc hai giờ sáng, và cô đã tỉnh từ trước khi tiếng chuông đầu tiên kịp dứt, một điều mà lúc đó cô không hề kiểm nghiệm.
-
-"Cô Chen? Bố cô gục ở phòng chờ. Cô nên đến. Ngay."
+"Chú lại phải quay lại viện rồi." Khóe môi Katie mím lại. "Lyra. Đó là hai câu hoàn toàn khác nhau đấy."
 
 ---
 
-Cả chặng lái xe nhòe đi. Cô mười sáu tuổi và chưa từng cầm lái, và hai lần lên nhầm phía xe, và suốt chặng đường, cái thứ trong lồng ngực cứ gằn lên một âm thanh mà cô không có từ nào để gọi.
+Chuông điện thoại reo lúc hai giờ sáng, và cô đã choàng tỉnh trước khi hồi chuông đầu tiên kịp dứt — một phản xạ mà lúc bấy giờ cô chưa kịp suy xét tới.
 
-*Đêm nay là đêm nó thành sự thật,* cô nghĩ mãi. *Đây là chỗ tôi biết được mình có đang làm chuyện này với ông ấy hay không.*
+"Có phải cô Chen không? Bố cô vừa ngất xỉu ở phòng chờ. Cô nên đến ngay. Ngay bây giờ."
 
-Cô đã tự hỏi mình câu đó suốt hai năm, và không có cách nào hỏi nó thành lời, vì câu *Bố ơi, con nghĩ bộ não của con đang làm đau bộ não của bố* không phải là một câu mà một người có thể nói với bố của mình.
+---
 
-Cái cô có để thay thế là thế này: suốt hai năm cô vẽ người như người khác vẽ giàn giáo, và những bức vẽ ngày càng tệ — không phải kém chính xác hơn, *mà tệ hơn* — nét dày hơn, những mối nối dày đặc hơn, cả thứ ấy trông bớt giống một bức vẽ mà giống hơn một sơ đồ đi dây của một thứ đã dựng xong. Và suốt hai năm, lúc có lúc không, bố cô bị đau đầu. Và cô đã đặt hai sự kiện ấy cạnh nhau trong đầu, nơi cô nhìn chúng vô số lần mỗi ngày, và chưa một lần nối nổi cái mối nối.
+Chặng đường lái xe nhòe đi trong cơn hoảng loạn. Mười sáu tuổi, cô chưa từng ngồi sau tay lái, hai lần bước nhầm sang phía cửa xe, và suốt cả quãng đường, thứ nằm trong lồng ngực cô cứ phát ra một âm thanh mà cô không tìm đâu ra từ ngữ để gọi tên.
 
-Bệnh viện có thứ mùi mà mọi bệnh viện đều có. Cô bị lạc hai lần trên đường đi lên. Một phụ nữ trong bộ đồ xanh bệnh viện nắm lấy tay cô ở thang máy và nói *tầng ba em nhé, bố em ở phòng 312* bằng cái giọng người ta dùng khi cố ý hiền hậu, và Lyra hiểu ngay, và hiểu trọn vẹn, rằng giọng ấy là thứ người ta chỉ dùng ở đám tang, chứ không ở nơi nào khác.
+*Đêm nay là đêm mọi thứ thành sự thật,* ý nghĩ ấy cứ lặp đi lặp lại trong đầu cô. *Đây là lúc mình sẽ biết liệu bấy lâu nay mình có phải là người gây ra chuyện này cho bố hay không.*
 
-Ông ấy đã nhỏ đi, nhỏ hơn cả mức cho phép.
+Cô đã tự dằn vặt với câu hỏi ấy suốt hai năm ròng mà chẳng có cách nào thốt ra thành lời, bởi vì câu nói *Bố ơi, con nghĩ đầu óc của con đang làm tổn thương đầu óc của bố* không phải là điều một đứa con có thể nói ra trước mặt người cha.
 
-Đó là điều đầu tiên. Mọi thứ còn lại — những máy theo dõi, người phụ nữ với tấm bảng kẹp giấy, dải băng dán trên cẳng tay ông — chỉ là đồ đạc, và cô nhìn xuyên qua được chúng. Nhưng Wei Chen xưa nay vẫn chiếm nhiều không gian hơn cơ thể ông đáng có một chút, như những người rất cao thường vậy, và trên chiếc giường ấy ông chiếm đúng bằng không gian mà cơ thể ông đáng có, và không hơn.
+Những gì cô có thay vào đó chỉ là: suốt hai năm qua cô vẽ người như người ta vẽ giàn giáo xây dựng, và các bức vẽ ngày càng tệ đi — không phải kém chuẩn xác hơn, mà là *tệ hại hơn* — những đường nét dày hơn, các mối nối chằng chịt hơn, cả bức vẽ dần bớt giống một bức tranh mà giống như một sơ đồ đi dây mạch của một công trình đã dựng sẵn. Và suốt hai năm đó, chập chờn lúc có lúc không, bố cô liên tục bị những cơn đau đầu hành hạ. Cô đã đặt hai sự thật ấy cạnh nhau trong tâm trí, nhìn ngắm chúng vô số lần mỗi ngày, mà chưa từng một lần dám chắp nối chúng lại với nhau.
 
-Dưới mũi ông là vệt máu đã khô. Cô ngồi xuống chiếc ghế nhựa vì đôi chân đã quyết định thay cô.
+Bệnh viện nồng nặc thứ mùi đặc trưng của mọi bệnh viện. Cô lạc đường hai lần trên lối đi lên. Một nữ nhân viên y tế trong trang phục màu xanh vịn lấy tay cô bên thang máy và nói *tầng ba nhé cháu, chú nằm ở phòng 312* bằng cái giọng mà người ta thường dùng khi cố tỏ ra ân cần, và Lyra hiểu ngay tức khắc, một cách trọn vẹn, rằng người ta chỉ dùng chất giọng ấy trong các đám tang chứ chẳng ở nơi nào khác.
 
-Mắt ông đã mở. Ban đầu chúng chưa vào nét. Rồi vào nét, và tìm đến gương mặt cô, và trong đó xảy ra một điều cô chưa từng thấy và không biết cách đọc, và cô mất một lúc mới định danh nổi nó, vì cô chưa từng thấy nó hướng về mình bao giờ.
+Bố cô trông gầy gò, nhỏ bé hơn rất nhiều so với vóc dáng thường ngày.
 
-*Tội lỗi.*
+Đó là ấn tượng đầu tiên đập vào mắt cô. Mọi thứ khác — các màn hình theo dõi, người phụ nữ cầm bảng kẹp hồ sơ, dải băng keo dán trên cẳng tay ông — chỉ là những vật dụng xung quanh mà cô có thể gạt sang một bên. Nhưng Wei Chen xưa nay vẫn luôn chiếm nhiều không gian hơn kích thước cơ thể thực tế, như những người rất cao lớn vẫn thường vậy, thế mà trên chiếc giường bệnh kia, ông chỉ chiếm đúng khoảng không gian vừa vặn với thể xác mình, không hơn một ly.
+
+Dưới mũi ông có vệt máu khô. Cô ngồi thụp xuống chiếc ghế nhựa vì hai chân đã tự đưa ra quyết định thay cho ý chí.
+
+Mắt ông mở hé. Ban đầu ánh nhìn chưa gom lại được tiêu cự. Rồi nét nhìn rõ dần, hướng thẳng về phía gương mặt cô, và trong đôi mắt ấy ánh lên một điều cô chưa từng thấy bao giờ và không biết phải diễn giải ra sao, mất một thoáng cô mới nhận diện được bởi từ trước tới nay ánh nhìn ấy chưa từng hướng về phía cô.
+
+*Cảm giác tội lỗi.*
 
 "Bố—"
 
-"Lyra." Giọng ông như bị cào ra. "Những cơn đau đầu. Bố cần kể cho con nghe về những cơn đau đầu."
+"Lyra." Giọng ông khàn đặc như bị cào xé. "Những cơn đau đầu. Bố cần phải nói với con về những cơn đau đầu."
 
-Cô đặt tay lên tay ông, và tiếng ồn của bệnh viện rút khỏi căn phòng.
+Cô đặt bàn tay mình lên tay ông, và mọi tiếng ồn ào của bệnh viện như tan biến khỏi căn phòng.
 
-Cô có thể thấy nó. Cô đã thấy nó từ vài tháng nay và luôn bảo mình rằng mình đang tưởng tượng: đường chỉ bạc xám nối giữa hai người, đường chỉ đã từng là thứ ấm áp và bền bỉ nhất trong đời cô từ thuở cô đủ lớn để nhận ra những thứ như thế. Nó không hề mờ. Nó *mỏng*, và đang mỏng dần, và dọc theo phần mỏng ấy là những chỗ tối, nơi ánh sáng đơn giản là ngừng hẳn — những khoảng khuyết, như răng rụng — và tại mỗi khoảng khuyết, đường chỉ rung lên một âm thanh mảnh, cao chót, sai trái, thứ âm thanh cô đã nghe suốt một năm và cuối cùng cũng cho phép mình gọi nó là một âm thanh.
+Cô có thể nhìn thấy nó. Cô đã nhìn thấy nó từ nhiều tháng nay và luôn tự huyễn hoặc rằng mình chỉ tưởng tượng: sợi chỉ màu xám bạc nối giữa hai bố con, sợi chỉ từng là điều ấm áp và vững chãi nhất trong cuộc đời cô kể từ ngày cô đủ lớn để nhận biết những điều như thế. Nó không hề mờ nhạt. Nó *mỏng manh*, và đang ngày một mỏng đi, dọc theo đoạn chỉ mỏng ấy là những mảng tối tăm nơi ánh sáng đơn giản là đã tắt lịm — những khoảng hẫng hụt, tựa như hàm răng bị rụng — và tại mỗi khoảng hẫng, sợi chỉ lại rung lên một âm thanh mảnh dẻ, the thé và lạc lõng, thứ âm thanh cô đã nghe thấy suốt một năm qua và giờ mới đành lòng thừa nhận nó là một âm thanh có thật.
 
-*Những cái bóng chuyển động sai. Những vệt sáng không nên có ở đó.*
+*Những bóng đen chuyển động sai lệch. Những vệt sáng lẽ ra không được phép có mặt ở đó.*
 
-Ông cũng đang thấy chúng.
+Bố cũng đang nhìn thấy chúng.
 
-"Nó bắt đầu khi con bắt đầu vẽ những mối nối ấy," ông nói. "Phải không."
+"Chuyện bắt đầu từ khi con vẽ những mối nối đó," ông nói. "Phải không con."
 
-Đó không phải là một câu hỏi, và không phải là một lời buộc tội, và đó chính là phần tệ nhất. Ông đã lắp ghép ra chuyện này từ rất lâu rồi, một mình, trong một căn phòng chẳng ai vẽ vời gì cả, và đã mang nó một mình từ đó tới giờ, và đã không thốt ra một lời nào.
+Đó không phải là một câu hỏi, cũng chẳng phải một lời buộc tội, và đó mới chính là phần nghiệt ngã nhất. Ông đã tự mình chắp vá ra sự thật này từ rất lâu trước đây, trong một căn phòng chẳng có ai vẽ vời bất cứ thứ gì, đã một mình âm thầm gánh vác nó, và không hé răng lấy nửa lời.
 
-"Bao lâu rồi?" cô nói.
+"Bao lâu rồi bố?" cô hỏi.
 
-Miệng ông làm ra một động tác gì đó rất phức tạp.
+Khóe miệng ông méo mó một nét cười gượng gạo.
 
-"Vài tuần," ông nói. "Lúc đầu. Vài tháng, bố tự nhủ thế." Ông nhắm mắt. "Đêm qua thì nó là mấy ngày."
+"Nhiều tuần rồi," ông nói. "Ban đầu là thế. Rồi bố tự nhủ là chỉ vài tháng thôi." Ông nhắm nghiền mắt lại. "Đến đêm qua thì nó tính bằng từng ngày."
 
-Máy theo dõi kêu bíp. Ở đâu đó xuống cuối hành lang, một cỗ máy loan báo điều gì đó bằng một giọng được thiết kế để chẳng làm ai phải lo lắng.
+Máy đo nhịp tim phát tiếng kêu bíp bíp. Đâu đó dọc hành lang, một cỗ máy phát ra thông báo bằng chất giọng được thiết kế riêng để không gây hoảng loạn cho bất kỳ ai.
 
 "Bố—"
 
-"Hứa với bố một điều." Ông nâng được bàn tay lên, một nỗ lực nhỏ, và cô hiểu việc đó đã tiêu tốn của ông bao nhiêu. "Đừng ngồi đây rồi quyết định rằng đây là lỗi của con. Bố không biết có phải vậy không. Bố muốn con nghe chính bố nói rằng bố không biết, vì khoảng bốn phút nữa sẽ có một ai đó trong áo choàng trắng kể cho con nhiều hơn những gì bố có thể, và bố muốn mọi chuyện bắt đầu từ đúng chỗ."
+"Hứa với bố một điều." Ông cố nhấc bàn tay lên, một cử động nhỏ nhoi nhưng cô hiểu nó đã tiêu tốn của ông bao nhiêu sức lực. "Đừng ngồi đây rồi tự kết luận rằng đây là lỗi của con. Bố không hề biết liệu có phải vậy không. Bố muốn con nghe chính miệng bố nói rằng bố không biết, bởi vì chỉ chừng bốn phút nữa thôi sẽ có người mặc áo choàng trắng đến nói với con nhiều điều hơn bố có thể, và bố muốn mọi chuyện phải bắt đầu từ đúng chỗ."
 
-Lyra phát hiện bàn tay mình đã bịt lấy miệng từ lúc nào.
+Lyra bàng hoàng nhận ra mình đã lấy tay che kín miệng từ lúc nào.
 
-Ngoài cửa sổ, bãi đỗ xe mang màu đá phiến ướt, và ở đầu xa nào đó một còi báo động ô tô đang rú lên theo đúng nhịp ngu ngốc đặc trưng của còi báo động ô tô, và một y tá đi ngang với ly cà phê, và thế giới tầm thường vẫn cứ tiếp tục là thế giới tầm thường đúng vào khoảnh khắc mặt đất rút mất từ dưới chân nó. Lyra nhìn nó, rồi nhìn đi, rồi lại nhìn nó, và hiểu rằng đó là điều cuộc đời cô đã làm suốt hai năm nay, và rằng cô chỉ vừa mới theo kịp nó.
+Ngoài khung cửa sổ, bãi đỗ xe mang màu đá phiến ướt sũng, đâu đó tít phía cuối bãi, một chiếc còi báo động xe hơi đang rú lên từng hồi ngớ ngẩn quen thuộc, một cô y tá bước ngang qua với cốc cà phê trên tay, và thế giới thường nhật vẫn cứ tiếp tục là thế giới thường nhật đúng vào khoảnh khắc mặt đất dưới chân nó vừa sụp đổ. Lyra nhìn ra ngoài, rồi quay đi, rồi lại nhìn lại, và hiểu rằng cuộc đời cô suốt hai năm qua cũng đã diễn ra đúng như thế, và cô chỉ vừa mới đuổi kịp nó mà thôi.
 
-"Được," cô nói.
+"Được rồi ạ," cô nói.
 
-"Được?"
+"Được rồi sao?"
 
-"Được. Chưa đâu." Cô gối cằm lên mép giường để ngang tầm với ông, một tư thế chẳng còn chút đàng hoàng nào, và cô không buồn quan tâm. "Nhưng khi bố tìm ra, con sẽ ở đó. Con sẽ ở đó cho tất cả. Dù nó hóa ra là gì, con cũng sẽ không ở một nơi nào khác."
+"Được rồi. Chưa phải lúc này." Cô tì cằm lên mép giường để ngang tầm mắt với ông, một tư thế chẳng còn chút ý tứ nào, nhưng cô chẳng màng để tâm. "Nhưng khi nào bố tìm ra sự thật, con sẽ ở bên cạnh bố. Con sẽ có mặt trong tất cả mọi chuyện. Dù kết cục có ra sao, con cũng sẽ không ở một nơi nào khác."
 
-Wei Chen xoay đầu trên gối và nhìn con gái mình, và những chỗ tối dọc đường chỉ giữa hai người không khá lên chút nào, và ông nói, "Con là một cô gái kỳ lạ, và bố vô cùng mừng vì con là của bố," câu mà từ bố cô ra thì tương đương với một cuộc diễu hành.
-
----
-
-Cô không ngủ.
-
-Lúc bốn giờ mười phút, bác sĩ thần kinh đã theo dõi Wei Chen suốt hai năm bước vào và giới thiệu mình là bác sĩ Ngozi Ekwueme của Bệnh viện đa khoa Westbrook, và Lyra đáp, theo phản xạ, rằng bố cô đã có bác sĩ rồi, và người phụ nữ nói, kiên nhẫn, rằng bà chính là người đó, và đã là người đó từ hai tiếng trước.
-
-"Em biết bao nhiêu về những gì ông ấy nhìn thấy được?"
-
-"Nhiều hơn mức ông ấy nghĩ."
-
-"Thế thì chúng ta có thể tiết kiệm thời gian cho nhau." Bà kéo một chiếc ghế lại, chuyện mà Lyra sẽ còn suy nghĩ về sau, vì đã là những giờ khuya của một ngày thứ Ba, và người phụ nữ này đã ngồi xuống cạnh một cô thiếu niên đang sợ hãi thay vì đứng trùm lên đầu em. "Em có nhìn thấy những sợi chỉ không, Chen? Những đường có màu nối giữa người với người, giữa nơi chốn, giữa các đồ vật?"
-
-Toàn thân Lyra bỗng nóng và lạnh trong cùng một lúc, như nó đã cứ làm thế khoảng hai lần một tuần suốt một năm nay.
-
-"Có," cô nói.
-
-"Cảm ơn." Ekwueme không nhúc nhích, không dịu đi, không với tay nắm lấy tay em. "Và bao lâu rồi?"
-
-"Từ lúc còn nhỏ. Mờ mờ. Hẳn hoi thì — khoảng hai năm. Nó càng ngày càng—" Cô ngừng lại.
-
-"Càng ngày càng ồn. Vâng. Đó là từ tôi định dùng." Ekwueme xoay tấm máy tính bảng lại. "Bố em bắt đầu cũng bằng đúng cái này. Vỏ não thị giác và thùy thái dương, ở đây và ở đây, đang chạy nóng. Không tổn thương. Đang làm việc quá sức. Nhiều năm liền, ông ấy diễn dịch liên tục những thông tin mà bộ não ông chưa bao giờ được dựng nên để xử lý, và nó đang dùng những năng lượng mà nó không có trong ngân sách."
-
-"Đó là điều em sợ," Lyra nói. "Là em đã gây ra chuyện đó cho bố."
-
-"Đó là một nỗi sợ rất hợp lý, và nó không phải là chuyện này." Miệng Ekwueme siết lại một chút, điều mà Lyra về sau mới biết là có nghĩa bà sắp cẩn trọng hơn chứ không phải bớt cẩn trọng. "Cái này gọi là chảy máu sợi chỉ giao cảm. Khi tri giác của một người nhìn thấu vận hành, nó tạo ra phản hồi. Không phải ẩn dụ — phản hồi, trong người ông ấy, trong chính bộ não của ông ấy, và ông ấy ở đủ gần em, và em ở đủ gần ông ấy, để vòng lặp khép lại. Ở đa số người, nó gây đau đầu. Lú lẫn. Ở một số trường hợp nó gây co giật, và ở một số trường hợp nó gây ra cái này."
-
-"Bố em còn được bao lâu?"
-
-Ekwueme không trả lời ngay, và Lyra nhận ra mình đã ngồi đếm từng giây một.
-
-"Không điều trị thì vài tháng. Tôi muốn nói thật với em về mức ít ỏi đó." Bà đặt tấm máy tính bảng xuống. "Có những việc chúng ta có thể làm. Những việc kiểm soát được. Nhưng vấn đề gốc là bố em đang đứng cạnh một dây điện còn sống, và tôi không thể cách điện ông ấy khỏi nó, vì lớp cách điện phải chính là ông ấy, và ông ấy không muốn thế."
-
-"Bố em muốn gì?"
-
-"Ông ấy muốn có mặt khi em tìm ra em là gì." Ekwueme đứng dậy. "Nhân tiện, đó là một câu trả lời thật. Người ta thấy dễ tin vào điều trị hơn là tin vào cái thay thế. Muốn thế không phải là một điều ngu ngốc."
-
-Bên ngoài, bầu trời đã chuyển thành màu của một đồng niken. Ở đâu đó trên tầng dưới, một cánh cửa mở ra rồi đóng lại.
-
-"Làm sao em chặn nó lại?" Lyra nói. "Sống với cái em đang là — có cách nào vặn nó nhỏ lại, làm nó yên bớt, để mà—"
-
-"Chen." Ekwueme đợi đến khi Lyra ngước lên nhìn bà. "Em mười sáu tuổi. Người sẽ phải quyết định có vặn nó nhỏ lại hay không là em, và em sẽ ở vị trí quyết định điều đó tốt hơn bất kỳ ai trong tòa nhà này, kể cả tôi. Việc tôi sẽ làm là tìm cho em những người có thể dạy em cách dùng nó mà không tiêu tốn bố em, và tôi sẽ nói với bố em rằng nếu ông từ chối, tôi sẽ quyết định thay, vì sáng nay ông ấy không ở vị trí để ra quyết định về tương lai thần kinh của chính mình."
-
-Đã đến bên cửa rồi bà mới quay lại.
-
-"Ông ấy nhờ tôi đúng một điều, và tôi nói sẽ chuyển lời, và bây giờ tôi đang chuyển lời. Ông ấy nói: *nói với con bé rằng đây không phải là một món nợ. Nếu là một món nợ, nó sẽ tiêu phần đời còn lại chỉ để cố trả nó, và còn có những cách dùng tốt hơn.*"
-
-Rồi bà đi mất, và căn phòng kêu lên những tiếng mà một căn phòng hay kêu, và Lyra Chen ngồi trên chiếc ghế cạnh giường bố với hai bàn tay áp phẳng lên tấm chăn, và không khóc, và nhận ra rằng đường chỉ giữa hai người vẫn còn đó, mảnh như dây kẽm, tối ở ba chỗ, và vẫn ấm.
+Wei Chen nghiêng đầu trên gối nhìn con gái, những khoảng tối dọc theo đường chỉ nối giữa hai người chẳng hề vơi bớt, và ông bảo: "Con đúng là một cô bé kỳ lạ, và bố vô cùng may mắn vì con là con gái của bố" — một lời khen mà nếu thốt ra từ miệng bố cô thì chẳng khác nào một cuộc diễu hành long trọng.
 
 ---
 
-Lần cuối cô thấy sợi chỉ của Katie và Zach có động tĩnh là vào tháng Tư, ở phòng vẽ, và đó cũng là lần duy nhất khác cô từng chủ ý chạm vào một sợi, và cô chưa từng kể với ai, và cô nghĩ về nó nhiều hơn là nghĩ về gần như bất cứ thứ gì khác.
+Cô không sao chợp mắt được.
 
-Hai đứa giận nhau từ tháng Chín. Sợi chỉ giữa chúng đã sờn từ mấy tháng nay — cô thấy được điều đó từ bên kia cả một căn phòng đông người, màu vàng đã nhạt đi và đầy những vết đứt nhỏ — và vào ngày chuyện đó xảy ra, Katie đang khóc ở cuối phòng còn Zach đang giả vờ làm nốt một bài còn cần đúng bốn mươi phút, và một thứ trong lồng ngực Lyra đơn giản là *lỏng ra*.
+Lúc bốn giờ mười phút sáng, vị bác sĩ chuyên khoa thần kinh đã theo dõi bệnh án của Wei Chen suốt hai năm bước vào, tự giới thiệu mình là Bác sĩ Ngozi Ekwueme thuộc Bệnh viện đa khoa Westbrook. Lyra buột miệng nói rằng bố cô đã có bác sĩ riêng rồi, và người phụ nữ kiên nhẫn đáp rằng bà chính là người đó, và đã đảm nhiệm ca bệnh này từ hai tiếng trước.
 
-Cô không quyết định làm vậy. Đó là chỗ mà về sau cô không bao giờ vượt qua nổi. Không hề có một khoảnh khắc cô nghĩ *Tôi sẽ vá lại chuyện này*, rồi đến một khoảnh khắc cô làm nó. Chỉ có cảm giác một cục rối trong lồng ngực lỏng ra, và rồi Katie ngừng khóc, và Katie ngẩng đầu lên, và Katie lặng hẳn đi, và rồi Katie nói, bằng một giọng không còn chút hơi thở nào, *ồ*.
+"Cháu biết được bao nhiêu về những gì bố cháu nhìn thấy?"
 
-Cô đã quỳ bò qua căn phòng. Cô đã đặt bàn tay áp xuống mặt bàn, cạnh bức vẽ của Katie, và cô đã không chạm vào Katie, và cũng chẳng chạm vào sợi chỉ, không hẳn là vậy. Cô đã nói thành lời, kiểu như người ta tự dỗ mình bước qua một cánh cửa: *giữ lấy, giữ lấy, đúng rồi, kia kìa, đúng rồi.*
+"Nhiều hơn những gì bố nghĩ là cháu biết ạ."
 
-Đường chỉ đã chạy ấm, và dày, và nguyên vẹn, và Katie đã nhìn cô và nói *cậu đã làm gì*, và Lyra đã nói *không làm gì cả*, và Katie đã nói *cậu làm chuyện gì đó rồi*, và thế là hết chuyện, vì sáng thứ Hai sau đó hai đứa đứng ở hành lang ngoài phòng vẽ và Katie đã nói *Zach nhờ tớ nói với cậu là hắn xin lỗi vì vụ cái áo choàng dạ* và Lyra đã nói *ừ* và Katie đã hỏi *đi cùng tớ không* và Lyra đã nói *có*.
+"Thế thì chúng ta có thể tiết kiệm thời gian cho nhau rồi." Bà kéo một chiếc ghế lại gần — một cử chỉ mà sau này Lyra sẽ còn ngẫm nghĩ mãi, bởi giữa đêm hôm khuya khoắt của một ngày thứ Ba, người phụ nữ ấy đã ngồi xuống ngang hàng bên cạnh một cô bé vị thành niên đang sợ hãi thay vì đứng sừng sững nhìn xuống từ trên cao. "Cháu có nhìn thấy những sợi chỉ không, cô Chen? Những đường chỉ mang màu sắc nối giữa người với người, giữa nơi chốn và các đồ vật?"
 
-Điều đeo bám cô là nó đã có tác dụng thật.
+Toàn thân Lyra bỗng nóng ran rồi lạnh toát cùng một lúc, đúng cái cảm giác vẫn lặp đi lặp lại chừng hai lần mỗi tuần suốt một năm qua.
 
-Không phải *tốt*. Không trọn vẹn. Sáng thứ Hai hôm đó ở hành lang, đường chỉ giữa hai đứa vẫn đang sờn ở hai chỗ, vẫn màu vàng, và mỏng hơn nó đã từng là vào tháng Chín, và Lyra hiểu — cô đã hiểu ngay lúc đó, đứng giữa phòng vẽ với trái tim đập như tim một con chim — rằng cô đã không vá được gì cả. Cô đã kéo hai đầu sợi đang lỏng lại gần nhau rồi thắt chúng thành một nút.
+"Có ạ," cô đáp.
 
-Katie và Zach nối lại với nhau trong năm đó. Chúng chia tay thêm hai lần nữa trước khi rời Westbrook, cả hai lần qua tin nhắn, cả hai lần trong vòng ba tuần, cả hai lần vì những lý do chẳng dính dáng gì đến sợi chỉ.
+"Cảm ơn cháu." Ekwueme không đổi tư thế, nét mặt không dịu đi, cũng không đưa tay nắm lấy tay cô. "Và hiện tượng đó kéo dài bao lâu rồi?"
 
-Nhưng chúng đã nối lại với nhau. Đó là phần mà Lyra không tài nào đặt xuống được, và mà cô chưa từng giải thích nổi với bất kỳ ai, kể cả bản thân mình, và chắc chắn không với cô Rivera, người đã chặn cô lại một góc vào cuối tháng Tư đó và nói, *Em đã vẽ ra một điều thật trong bài tập đó, Lyra. Một điều thật và không hề nghệ thuật. Khi nào sẵn sàng thì đến tìm cô,* và rồi, với một sự kiềm chế mà Lyra giờ hiểu là gần như đến mức rợn người, đã không nhắc đến nó thêm lần nào.
+"Từ khi cháu còn bé. Mờ nhạt thôi ạ. Còn rõ ràng thì — khoảng hai năm nay. Càng lúc nó càng—" Cô ngập ngừng dừng lại.
 
-Hai sợi chỉ vàng. Một tháng Chín. Một tháng Tư.
+"Càng lúc càng ồn ào hơn. Phải rồi. Đó chính là từ tôi muốn dùng." Ekwueme xoay chiếc máy tính bảng lại. "Bố cháu cũng bắt đầu bằng đúng triệu chứng này. Vỏ não thị giác và thùy thái dương, ở đây và ở đây, đang hoạt động quá mức. Không phải bị tổn thương thực thể. Mà là đang làm việc quá tải. Suốt nhiều năm ròng, não bộ của ông ấy liên tục phải giải mã những luồng thông tin mà nó vốn dĩ không được tạo ra để xử lý, và điều đó đang ngốn sạch nguồn năng lượng dự trữ mà não bộ không hề có ngân sách chi trả."
 
-Và bố cô, trong phòng 312, với những chỗ tối trong người.
+"Đó chính là điều cháu lo sợ," Lyra nói. "Rằng chính cháu đã gây ra chuyện đó cho bố."
 
-Lyra ngồi trên ghế và nhìn những chỗ mà đường chỉ giữa hai người đã tắt, và nghĩ, với một sự rõ ràng đến là đã thành hình trọn vẹn, và không mang chút an ủi:
+"Đó là một nỗi sợ hoàn toàn dễ hiểu nhưng bản chất vấn đề không phải như vậy." Khóe môi Ekwueme khẽ siết lại, một biểu cảm mà sau này Lyra hiểu rằng báo hiệu bà sắp sửa nói những lời thận trọng hơn bình thường. "Hiện tượng này được gọi là hiện tượng chảy máu sợi chỉ giao cảm. Khi năng lực nhận thức của một người nhìn thấu vận hành, nó sẽ tạo ra phản hồi ngược. Không phải một hình ảnh ẩn dụ đâu — mà là phản hồi ngược thực sự, diễn ra ngay trong cơ thể ông ấy, trong chính não bộ của ông ấy, và khoảng cách giữa ông ấy với cháu quá gần gũi, khiến cho vòng lặp tín hiệu khép kín lại. Ở đa số người, nó gây ra đau đầu, lú lẫn. Trong một số trường hợp nó dẫn tới co giật, và trong một số trường hợp khác, nó gây ra tình trạng như hiện nay."
 
-*Tôi không biết tôi là gì. Nhưng tôi biết nó tính giá bằng gì, và tôi biết tôi đã bắt đầu trả, và tôi đã trả bằng cuộc đời của những người khác mà chưa hỏi một ai trong số họ.*
+"Bố cháu còn bao nhiêu thời gian nữa ạ?"
 
-Đó là buổi sáng mọi thứ lật mình. Nó chẳng có vẻ gì là lật mình. Nó có vẻ như một ngày thứ Ba, trong một bệnh viện, với một ly cà phê dở.
+Ekwueme không trả lời ngay tức khắc, và Lyra nhận ra mình đang thầm đếm từng giây trôi qua.
 
----
+"Nếu không can thiệp điều trị, chỉ còn vài tháng. Tôi muốn thành thật với cháu về con số ít ỏi đó." Bà đặt chiếc máy tính bảng xuống. "Có những việc chúng ta có thể làm. Những biện pháp kiểm soát được. Nhưng vấn đề căn cốt là bố cháu đang đứng cạnh một sợi dây điện trần đang có dòng điện sống, và tôi không thể bọc cách điện cho ông ấy khỏi dòng điện đó, bởi vì lớp cách điện ấy phải do chính bản thân ông ấy tạo ra, mà ông ấy thì nhất quyết không muốn điều đó."
 
-*Ghi Chú Cộng Hưởng Sợi Chỉ: Đã xác nhận nhìn thấy sợi chỉ, đa phổ, khởi phát muộn. Đã xác nhận chảy máu giao cảm ở thân nhân cấp một. Tiên lượng: dè dặt. Giới thiệu: xem tài liệu đính kèm. Đề nghị đánh giá tiếp nhận vào Học viện.*
+"Bố cháu muốn gì ạ?"
 
-# Chương 2: Những Phương Trình Của Cha
+"Ông ấy muốn được ở bên cạnh khi cháu tìm ra cháu thực sự là ai." Ekwueme đứng dậy. "Nhân tiện, đó là một câu trả lời hoàn toàn nghiêm túc đấy. Người ta thường thấy dễ tin vào các liệu pháp điều trị hơn là đối mặt với giải pháp thay thế. Mong muốn ấy không hề ngốc nghếch chút nào."
 
-*Thứ Tư, 28 tháng Tám. Ngôi nhà ở Ellery Street.*
+Bên ngoài, bầu trời đã chuyển sang màu xám đục của đồng xu niken. Đâu đó ở tầng dưới, một cánh cửa mở ra rồi khép lại.
 
-*Bố ơi, trong tủ phía trên ấm đun nước có những gói trà xanh, còn trong hộp chỉ có đúng loại bố thích, và Lyra đã bỏ nhầm loại vào suốt hai năm, và bố chưa bao giờ nói ra điều đó, và sáng chủ nhật cô hiểu ra rằng việc đó chính là cách bố nói ra.*
+"Làm thế nào để cháu ngăn chuyện này lại?" Lyra hỏi dồn. "Nếu bản thân cháu là nguyên cớ — liệu có cách nào vặn nhỏ nó lại, làm cho nó êm đi, để mà—"
 
-Mưa tràn vào từ hiên rồi chạy dọc khung cửa sổ theo cái kiểu nó vẫn chạy, và Lyra ngồi ở đầu bàn bếp, tay cầm cây than vẽ, trước mặt là một chồng hồ sơ năm nhất của cô Rivera, và đáng lẽ cô phải chấm chúng.
+"Cháu Chen." Ekwueme đợi cho đến khi Lyra ngước lên nhìn thẳng vào mắt bà. "Cháu mới mười sáu tuổi. Người sẽ phải quyết định có vặn nhỏ nó lại hay không chính là cháu, và cháu sẽ ở vị thế có thể đưa ra quyết định tốt hơn bất kỳ ai trong tòa nhà này, kể cả tôi. Việc tôi sẽ làm là tìm cho cháu những người có thể dạy cháu cách sử dụng năng lực đó mà không vắt kiệt bố cháu, và tôi sẽ nói với bố cháu rằng nếu ông từ chối, tôi sẽ dùng quyền bác bỏ ý kiến của ông, bởi vì sáng nay ông ấy không ở trong trạng thái đủ minh mẫn để tự quyết định về tương lai hệ thần kinh của chính mình."
 
-Cô đã chấm được bốn hồ sơ. Cô đã dành gần trọn một giờ qua cho đúng một trang.
+Bà đã bước tới cửa thì chợt quay đầu lại.
 
-Vấn đề là căn bếp đang làm cái chuyện đó.
+"Ông ấy có nhờ tôi một điều duy nhất, và tôi đã hứa sẽ chuyển lời, nên giờ tôi chuyển lại cho cháu. Ông ấy bảo: *hãy nói với con bé rằng đây không phải là một món nợ. Nếu coi đó là nợ nần, con bé sẽ phải dành trọn phần đời còn lại để lo trả nợ, trong khi cuộc đời còn nhiều mục đích tốt đẹp hơn.*"
 
-Cái chuyện đó diễn ra khắp nơi, mọi lúc — đó là phần không ai cảnh báo, nếu có ai cảnh báo, mà không ai cảnh báo cả, vì chẳng hề có cảnh báo nào, chỉ có một cô bé vào một lúc nào đó giữa thời gian năm tuổi và sáu tuổi nhận ra rằng bố mình là một con người chứ không phải một cái hình — nhưng bếp mới là nơi cô lạc mất mình. Mọi bề mặt đều có một đường chạy ra khỏi nó. Chiếc tủ lạnh có một đường xám chạy về phía cửa sau, và một đường ấm áp, rối rắm chạy về chiếc lò nướng bánh mì, vì ông đã sở hữu chiếc lò đó mười một năm và nó chưa một lần làm ông ngạc nhiên. Chiếc cửa sổ có một đường dài nhợt nhạt chạy ra hàng rào. Chiếc tách trà của cha cô, chiếc xanh bị mẻ một khúc ở quai mà ông từ chối thay, có một đường màu vàng nối thẳng vào lồng ngực ông, đường mà Lyra bắt được ngay từ đầu phòng bên kia, và đó chính là đường.
-
-Đường nối tới cha cô chính là đường ấy.
-
-Nó màu bạc xám, mà theo chỗ cô từng đọc đâu đó thì màu đó nghĩa là *cũ và thuộc về kết cấu* — chịu lực, như một cây xà, một từ ngớ ngẩn để gọi nó nhưng là từ duy nhất từng cho cảm giác đúng — và nó rộng, và nó vững, và nó có chất bề mặt như thớ của một tấm ván. Dưới bàn bếp, nó đang làm cái chuyện nó vẫn làm khi ông làm việc: nóng lên và sáng lên đúng tại cái điểm ông đang nghĩ, nhờ thế đứng từ đầu phòng bên kia cô cũng biết được ông đang nắm lấy bài toán nào trong các bài toán của ông.
-
-Lúc này nó sáng cùng lúc ở hai điểm, một điểm là nơi bàn tay ông đang đặt, điểm kia nằm sâu hơn vào trong, và sau hai năm Lyra đã học được cách đọc khoảng cách giữa hai điểm đó như một thước đo thô cho độ khó của một bài toán.
-
-Bài này thì khó. Nó đã khó từ hôm thứ Năm.
-
-Cô đặt cây than xuống, kéo chồng hồ sơ về phía mình, và làm cái việc trung thực, tức là chấm một hồ sơ của Marco Senn, đứa mười bốn tuổi đã vẽ một con chó.
+Nói rồi bà bước đi, để lại căn phòng với những thanh âm quen thuộc của nó. Lyra Chen ngồi trên chiếc ghế cạnh giường bố, hai bàn tay áp phẳng lên mặt chăn, không hề rơi một giọt nước mắt, và nhận ra rằng sợi chỉ giữa hai bố con vẫn còn nguyên vẹn ở đó, mảnh mai như sợi thép, mang những mảng tối ở ba chỗ, nhưng vẫn vẹn nguyên hơi ấm.
 
 ---
 
-"Bố đang làm cái kiểu cầm cây bút chì lên rồi không nhúc nhích nữa đấy."
+Lần cuối cùng cô nhìn thấy sợi chỉ của Katie và Zach có biến chuyển là vào tháng Tư, trong phòng học mỹ thuật, và đó cũng là lần duy nhất cô chủ ý chạm tay vào một sợi chỉ. Cô chưa từng hé răng với bất kỳ ai, và cô nghĩ về khoảnh khắc ấy nhiều hơn hầu hết mọi chuyện trên đời.
 
-"Bố không làm cái gì hết."
+Hai người họ đã cãi vã từ tháng Chín năm ngoái. Sợi chỉ nối giữa hai người đã sờn rách suốt nhiều tháng trời — cô có thể nhìn rõ nó từ phía bên kia của căn phòng đông đúc, sắc vàng đã nhạt thếch và chi chít những vết đứt gãy nhỏ — và vào cái ngày chuyện xảy ra, Katie đang ngồi khóc ở góc cuối phòng còn Zach thì giả vờ cặm cụi với một bức vẽ còn phải mất bốn mươi phút nữa mới xong, và rồi có một thứ gì đó trong lồng ngực Lyra bỗng dưng *bật tung*.
 
-"Bố có làm một cái gì đó bằng miệng." Wei Chen đẩy gọng kính lên. "Khóe miệng hơi bẹp lại."
+Cô không hề chủ tâm làm vậy. Đó là điều mà mãi về sau cô không sao hiểu nổi. Tuyệt nhiên không có khoảnh khắc nào cô nghĩ *mình sẽ hàn gắn chuyện này*, rồi mới đến khoảnh khắc cô ra tay. Chỉ có cảm giác một mớ bòng bong trong lồng ngực tự tháo bung ra, và rồi tiếng khóc của Katie ngưng bặt, Katie ngẩng đầu lên, sững sờ bất động, rồi Katie thốt lên bằng một giọng thảng thốt không còn chút hơi: *ồ*.
 
-Cô đặt cây bút chì xuống một cách cố ý. "Bố bị đau đầu."
+Cô đã quỳ gối bò ngang qua sàn phòng học. Cô áp phẳng bàn tay lên mặt bàn cạnh bức vẽ của Katie, không hề chạm vào người bạn, cũng chẳng hề chạm vào sợi chỉ, ít nhất là không chạm theo nghĩa thông thường. Cô chỉ nói thành lời, theo cái cách người ta tự trấn an mình khi bước qua một cánh cửa: *giữ lấy, giữ lấy nào, đúng rồi, ở đó, đúng rồi đấy.*
 
-"Bố có một ngày thứ Tư."
+Đường chỉ lập tức bừng lên ấm áp, dày dặn và liền lạc, Katie tròn mắt nhìn cô thốt lên: *cậu vừa làm gì thế*, Lyra đáp: *có làm gì đâu*, và Katie bảo: *cậu vừa làm một điều gì đó rồi*, và mọi chuyện khép lại ở đó. Bởi vì sáng thứ Hai tuần sau, khi đứng ở hành lang bên ngoài phòng mỹ thuật, Katie đã bảo: *Zach nhờ tớ nói lời xin lỗi cậu vì vụ chiếc áo khoác dạ*, Lyra đáp: *ừ*, Katie hỏi: *cậu đi chung với tớ nhé*, và Lyra nói: *được chứ*.
 
-"Bố bị đau đầu, và bố đang làm cái kiểu coi cái đau đầu là lý do chính đáng để làm việc."
+Điều khiến cô bận lòng nhất là hành động ấy thực sự đã phát huy tác dụng.
 
-Ông cười. Một nụ cười đẹp, và nó lấy đi của ông một chút gì, và ông che nó đi bằng cách với lấy ấm trà rồi thấy ấm cạn, còn Lyra đã đứng bật dậy trước khi kịp quyết định đứng dậy, đang hứng nước đầy ấm đun nước ở bồn rửa với đúng cái cáu kỉnh đặc trưng của một người vừa được giao việc.
+Không phải là *hoàn hảo*. Không hề trọn vẹn. Sáng thứ Hai hôm đó ngoài hành lang, sợi chỉ giữa hai bạn vẫn còn sờn ở hai chỗ, dẫu vẫn ánh sắc vàng nhưng mảnh hơn nhiều so với hồi tháng Chín, và Lyra hiểu — cô đã hiểu ngay khoảnh khắc ấy, khi đứng giữa phòng mỹ thuật với trái tim đập thình thịch như một chú chim nhỏ — rằng mình chẳng hề hàn gắn được điều gì cả. Cô chỉ túm lấy hai đầu mối lỏng lẻo rồi thắt chúng lại thành một nút gút mà thôi.
 
-"Bố muốn ấm to hay ấm nhỏ?" cô hỏi.
+Katie và Zach đã quay lại với nhau trong năm đó. Họ còn chia tay nhau thêm hai lần nữa trước khi tốt nghiệp trường Westbrook, cả hai lần đều qua tin nhắn điện thoại, cả hai lần đều trong vòng ba tuần, và cả hai lần đều vì những lý do chẳng liên quan mảy may gì tới những sợi chỉ.
 
-"Ấm nhỏ. Trà phải ủ lâu hơn."
+Nhưng họ đã quay lại với nhau. Đó là sự thật mà Lyra không tài nào gạt bỏ khỏi tâm trí, điều mà cô chưa bao giờ giải thích nổi cho bất kỳ ai, kể cả với chính bản thân mình, và chắc chắn lại càng không thể nói với cô Rivera — người đã gọi riêng cô vào một góc cuối tháng Tư năm ấy và bảo: *Em đã vẽ nên một điều rất chân thực trong bài tập đó, Lyra ạ. Một điều chân thực chứ không đơn thuần là nghệ thuật. Khi nào sẵn sàng thì hãy đến gặp cô nhé,* và sau đó, với một sự kiềm chế đến mức đáng sợ mà mãi sau này Lyra mới thấu hiểu, cô giáo đã không bao giờ nhắc lại chuyện ấy thêm một lần nào nữa.
 
-"Bố lúc nào cũng nói thế, rồi uống vội quá, rồi lại kêu đắng."
+Hai sợi chỉ vàng. Một vào tháng Chín. Một vào tháng Tư.
 
-"Vì bố thích đắng mà."
+Và bố cô, đang nằm trong phòng 312, với những khoảng tối tăm trong đầu óc.
 
-"Không phải đắng, là *đậm*." Cô đặt ấm nhỏ xuống. "Bố ơi, bố mới xuất viện được tám tiếng."
+Lyra ngồi trên chiếc ghế và nhìn chăm chú vào những khoảng tối nơi sợi chỉ giữa hai bố con đã lịm tắt, và nghĩ, với một sự sáng tỏ đến mức tàn nhẫn và chẳng mang lại chút an ủi nào:
 
-"Bố mới xuất viện được tám tiếng," cha cô công nhận, "và bố xin được phép có một buổi sáng không bị đem ra bàn luận."
+*Tôi không biết mình thực sự là ai. Nhưng tôi biết cái giá của nó, và tôi biết mình đã bắt đầu phải trả giá, và bấy lâu nay tôi đã trả bằng chính sinh mạng của những người khác mà chưa hề hỏi ý kiến của một ai trong số họ.*
 
-Đường nối giữa hai người kêu ù ù dọc toàn bộ chiều dài của nó — không ồn, không như trong bệnh viện, nơi cô có thể nghe được những chỗ đứt quãng trong nó xuyên qua lời y tá đang nói. Nhưng nó có đó, cô nghe thấy nó, ông cũng vậy, vì ông giật mình, rất khẽ, giữa chừng lúc đang rót, và Lyra cất điều đó vào một ngăn cùng thứ giận lạnh mà cô đang luyện ngày càng giỏi.
+Đó là buổi sáng mà mọi thứ đảo lộn hoàn toàn. Dẫu cảm giác khi ấy chẳng hề giống một biến cố long trời lở đất. Nó chỉ trôi qua như một ngày thứ Ba bình thường, trong một bệnh viện, với một cốc cà phê dở tệ.
 
-Cô đặt ấm nhỏ lên bếp. Cô ngồi xuống trở lại. Cô kéo chồng hồ sơ về phía mình lần nữa, rồi nói, thay cho cái câu cô đã nói suốt hai ngày qua: "Cho con hỏi bố một câu thật được không?"
+---
 
-"Con có thể hỏi bố một câu thật."
+*Ghi Chú Cộng Hưởng Sợi Chỉ: Xác nhận khả năng nhìn thấy sợi chỉ, đa phổ, khởi phát muộn. Xác nhận hiện tượng chảy máu giao cảm ở thân nhân cấp một. Tiên lượng: dè dặt. Giới thiệu: xem tài liệu đính kèm. Đề nghị đánh giá tiếp nhận vào Học viện.*
 
-"Không phải câu của bác sĩ đâu. Bố có thể đặt bác sĩ xuống một phút."
+# Chương 2: Phương Trình Của Cha
 
-Wei Chen tháo gọng kính, điều ông chỉ làm khi sắp bắt đầu cẩn thận, rồi lau chúng vào vạt áo, điều chưa bao giờ hiệu quả.
+*Thứ Tư, 28 tháng Tám. Căn nhà trên phố Ellery.*
 
-"Hỏi đi."
+*Ba ơi, có những gói trà xanh trong tủ bếp phía trên ấm đun nước và chỉ có đúng loại ông thích trong hộp, thế mà Lyra đã để nhầm loại suốt hai năm ròng mà ông chưa một lần nhắc nhở, và mãi đến sáng Chủ Nhật cô mới hiểu rằng đó chính là cách ông nhắc cô.*
+
+Cơn mưa hắt từ hiên nhà vào rồi chảy dọc theo các khung cửa sổ như nó vẫn thường làm, Lyra ngồi ở đầu chiếc bàn ăn với thỏi than vẽ trong tay và một chồng tập bài vẽ năm thứ nhất của cô Rivera trước mặt, việc cô cần làm lúc này là chấm điểm cho chúng.
+
+Cô mới chấm xong bốn bài. Suốt một tiếng đồng hồ qua cô gần như chỉ dán mắt vào đúng một trang.
+
+Vấn đề là căn bếp lại bắt đầu làm cái việc của nó.
+
+Nó vẫn luôn làm cái việc đó ở khắp mọi nơi, mọi lúc — đó là điều mà chẳng ai báo trước cho bạn, nếu như chẳng có ai cảnh báo, mà thực ra làm gì có ai, chẳng có lời cảnh báo nào cả, chỉ có một cô bé vào khoảng giữa năm năm và sáu tuổi chợt nhận ra rằng cha mình là một con người bằng xương bằng thịt chứ không phải một khối hình thù — nhưng căn bếp chính là nơi cô dễ bị lạc lối nhất. Mọi bề mặt đồ vật đều có một đường chỉ tỏa ra. Chiếc tủ lạnh có một đường chỉ xám nối ra cửa sau và một đường ấm áp, chằng chịt nối tới máy nướng bánh mì, bởi vì ông đã sở hữu chiếc máy nướng bánh đó suốt mười một năm và nó chưa từng làm ông thất vọng lấy một lần. Cửa sổ có một đường dài nhàn nhạt hướng ra hàng rào. Tách trà của cha cô, chiếc tách màu xanh lam có vết mẻ ở quai mà ông nhất quyết không chịu thay, có một sợi chỉ vàng nối thẳng vào ngực ông mà Lyra có thể cảm nhận rõ mồn một từ tít phía bên kia căn phòng, và đó chính là sợi chỉ định mệnh.
+
+Sợi chỉ nối tới người cha chính là sợi chỉ quan trọng nhất.
+
+Nó mang màu xám bạc, thứ màu mà cô từng đọc được ở đâu đó nghĩa là *cũ kỹ và mang tính kết cấu* — có khả năng chịu lực, tựa như một thanh xà gồ, một từ ngữ có vẻ kỳ quặc khi gán cho nó nhưng lại là từ duy nhất đem lại cảm giác đúng đắn — sợi chỉ ấy to bản, vững chãi, và mang thớ vân tựa như thớ gỗ trên một tấm ván. Dưới gầm bàn bếp, nó đang làm đúng cái việc nó vẫn làm mỗi khi ông suy nghĩ làm việc: rực sáng và nóng bừng lên tại đúng điểm tư duy của ông, khiến cho cô dù đứng cách xa cả căn phòng vẫn có thể biết được ông đang đối mặt với khúc mắc nào trong mớ phương trình của mình.
+
+Ngay lúc này, sợi chỉ đang sáng rực lên ở hai điểm cùng một lúc, một điểm nằm ngay chỗ bàn tay ông đặt, còn điểm kia nằm sâu hơn bên trong, và qua hai năm quan sát, Lyra đã học được cách đọc khoảng cách giữa hai điểm sáng ấy như một thước đo tương đối cho độ hóc búa của bài toán.
+
+Bài toán này thực sự rất khó. Nó đã hóc búa từ hôm thứ Năm tuần trước rồi.
+
+Cô đặt thỏi than vẽ xuống, kéo tập bài chấm về phía mình và làm điều đúng đắn cần làm: chấm điểm bài tập của Marco Senn, cậu bé mười bốn tuổi đã vẽ một chú chó.
+
+---
+
+"Con lại đang làm cái trò cầm bút chì giữ đơ ra mà không nhúc nhích rồi đấy."
+
+"Con có làm cái gì đâu ạ."
+
+"Con có làm một điệu bộ bằng khóe miệng mà." Wei Chen đẩy gọng kính lên. "Khóe miệng con hơi trễ xuống."
+
+Cô cố tình đặt cây bút chì xuống mặt bàn. "Bố đang bị đau đầu."
+
+"Bố chỉ đang trải qua một ngày thứ Tư thôi."
+
+"Bố đang bị đau đầu, và bố lại làm cái trò xem cơn đau đầu là lý do chính đáng để tiếp tục làm việc."
+
+Ông bật cười. Đó là một tiếng cười sảng khoái, dẫu nó làm ông hơi nhói đau, và ông giấu điều đó bằng cách với tay lấy ấm trà nhưng nhận ra ấm đã cạn khô. Lyra đứng bật dậy trước cả khi kịp suy nghĩ, xả nước vào ấm đun ở bồn rửa với đúng cái vẻ hậm hực đặc trưng của một người vừa bị giao việc.
+
+"Bố muốn pha ấm to hay ấm nhỏ?" cô hỏi.
+
+"Ấm nhỏ thôi. Trà ngấm lâu hơn."
+
+"Lần nào bố cũng nói thế rồi uống vội uống vàng rồi lại kêu đắng ngắt."
+
+"Tại bố thích vị đắng mà."
+
+"Không phải đắng, mà là *đậm vị*." Cô đặt chiếc ấm nhỏ xuống. "Ba ơi, bố mới xuất viện được tám tiếng đồng hồ thôi đấy."
+
+"Bố mới xuất viện được tám tiếng," cha cô gật đầu thừa nhận, "và bố muốn được phép có trọn một buổi sáng không bị đem ra mổ xẻ."
+
+Sợi chỉ giữa hai người rung lên ong óng dọc theo suốt chiều dài — không quá lớn, không giống như trong bệnh viện nơi cô có thể nghe thấy những khoảng hẫng hụt của nó át cả tiếng trò chuyện của y tá. Nhưng nó đang hiện hữu ở đó, cô nghe thấy và ông cũng vậy, bởi vì ông hơi khựng lại một thoáng giữa lúc rót nước, và Lyra ghi nhận điều đó vào lòng với một nỗi giận lạnh lùng mà dạo này cô ngày càng giỏi che giấu.
+
+Cô đặt chiếc ấm nhỏ lên bếp. Cô ngồi xuống trở lại. Cô lại kéo tập bài chấm về phía mình, rồi cất lời, thay cho câu hỏi cô đã lặp đi lặp lại suốt hai ngày qua: "Con có thể hỏi bố một câu thật lòng được không?"
+
+"Con cứ hỏi thật lòng đi."
+
+"Không phải câu hỏi kiểu bác sĩ đâu nhé. Bố có thể gạt chuyện bác sĩ sang một bên một phút được không."
+
+Wei Chen tháo kính ra, việc ông chỉ làm mỗi khi chuẩn bị nói những điều hết sức cẩn trọng, rồi lau kính vào vạt áo sơ mi, một thói quen chẳng bao giờ đem lại tác dụng gì.
+
+"Hỏi đi con."
 
 "Bố có sợ nó không?"
 
 Ông đeo kính lại. "Có."
 
-"Ừ." Cô đã không ngờ mọi việc lại dễ đến thế và phải ngồi lại với nó một giây. "Ừ. Thế là — ừ. Con cũng sợ nó, nên, ừ."
+"Được rồi." Cô không ngờ câu trả lời lại dứt khoát đến thế và phải mất một giây để trấn tĩnh lại. "Được rồi ạ. Thế thì... được rồi. Con cũng sợ nó, cho nên."
 
-"Ừ," cha cô nói, "bố nghĩ là con vậy."
+"Phải," cha cô nói, "bố đoán là con cũng sợ."
 
-"Không phải sợ việc nhìn thấy." Lyra xoay cây than trong các ngón tay. "Mà sợ cái việc nhìn thấy *trở thành con*. Con thì vẫn được mười sáu tuổi, được sợ hãi, được có một tuần tồi tệ, rồi vẫn còn cái thứ này mà con không thể đặt xuống, nó không biết mệt, nó không đi ngủ, và nó không phải — nó không phải là một kỹ năng, bố ơi. Kỹ năng thì có công tắc tắt. Cái này không có công tắc tắt, và nó nằm ngay trong *đầu* con, và bố nghe được nó, và con nghe được cả việc bố đang nghe nó, mà hai bố con chưa ai nói một lời nào về chuyện đó."
+"Không phải sợ việc nhìn thấy." Lyra xoay xoay thỏi than trong kẽ ngón tay. "Mà là sợ việc cái nhìn ấy *lại chính là con*. Con được quyền là một đứa trẻ mười sáu tuổi biết sợ hãi và có một tuần tồi tệ, thế rồi lại có cái thứ này mà con không tài nào rũ bỏ được, nó chẳng hề biết mệt mỏi, chẳng chịu đi ngủ, và nó không phải — nó không phải là một kỹ năng đâu Ba à. Kỹ năng thì có công tắc bật tắt. Còn thứ này thì không có công tắc nào hết, nó nằm ngay trong *đầu* con, bố có thể nghe thấy nó, và con cũng nghe thấy chuyện bố đang lắng nghe nó, vậy mà bấy lâu nay chẳng ai trong hai bố con mình hé răng nói với nhau lời nào."
 
-Ấm nước làm cái chuyện nó vẫn làm trước khi sôi, tiếng rít nhỏ dâng dần, và không ai trong hai người nhúc nhích.
+Ấm nước bắt đầu phát ra âm thanh réo sôi quen thuộc, tiếng rít nhè nhẹ dâng cao, và cả hai người đều ngồi bất động.
 
-"Đó là bản mô tả công bằng nhất về nó mà bố từng nghe," Wei Chen nói. "Tính luôn cả bản của bố."
+"Đó là lời mô tả chuẩn xác nhất về nó mà bố từng được nghe," Wei Chen bảo. "Kể cả so với những lời mô tả của chính bố."
 
-"Bản của bố thì sao?"
+"Lời mô tả của bố là gì ạ?"
 
-"Bản của bố là: bố đã lấy một người phụ nữ biết làm cái đó, và bố đã mất mười một năm để lịch sự về chuyện đó, rồi bà ấy biến mất, và giờ con gái chúng ta biết làm cái đó, và bố đã mất một năm rưỡi giả vờ như mình không biết." Ông xoay tách của mình một phần tư vòng trên bàn. "Bố đã lịch sự về chuyện đó, Lyra. Bố muốn con biết rằng bố biết cái đó là cái gì."
+"Của bố là: bố đã kết hôn với một người phụ nữ có khả năng ấy, bố đã dành mười một năm để giữ thái độ nhã nhặn trước chuyện đó, rồi bà ấy biến mất, và giờ đây con gái của bố con mình lại có khả năng ấy, và bố đã dành một năm rưỡi qua để giả vờ như mình không hề hay biết." Ông xoay nhẹ tách trà một phần tư vòng trên mặt bàn. "Bố đã luôn nhã nhặn về chuyện đó, Lyra ạ. Bố muốn con hiểu rằng bố biết rõ cái thái độ nhã nhặn ấy thực chất là gì."
 
-Cô nhìn ông. Năm năm nay ông chưa từng nói *mẹ con có thể làm được cái đó*. Ông chỉ nói *mẹ con nhạy cảm*, và *mẹ con có một đời nội tâm phong phú*, và một lần, tại buổi nướng ngoài trời năm trước đó, *mẹ con nhìn thấy những thứ*, bằng một giọng mà cô đã nhận ra và rồi đã ước mình chưa từng nghe thấy.
+Cô nhìn ông chằm chằm. Năm năm rồi ông chưa từng nói câu *mẹ con có thể làm chuyện đó*. Ông chỉ nói *mẹ con là người nhạy cảm*, và *mẹ con có một đời sống nội tâm phong phú*, và có lần, trong một bữa tiệc thịt nướng hồi năm ngoái, ông bảo *mẹ con nhìn thấy những điều kỳ lạ*, bằng chất giọng mà cô nhận ra và rồi chỉ ước sao mình chưa từng nghe thấy.
 
-"Vậy là bố biết."
+"Bố đã biết từ trước sao."
 
-"Bố biết."
+"Bố biết chứ."
 
-"Từ khi nào?"
+"Từ khi nào ạ?"
 
-"Trước khi con sinh ra. Trước khi con bốn tuổi. Bố nhìn con vẽ từ lúc con cầm nổi một cây bút sáp, Lyra, và bố nhìn con ngừng vẽ vào khoảng chín tuổi, và bố đã tính ra điều đó nghĩa là gì, và bố quyết định rằng không nói ra sẽ là một lòng tốt, rồi con mười lăm tuổi và nó không còn là lòng tốt nữa mà thành một lời nói dối, và bố đã trở nên rất giỏi việc đó." Ông nói điều này mà không một chút tự thương hại, và điều đó khiến mọi thứ tệ hơn nhiều. "Bố đã không nghĩ rằng nó sẽ lấy đi mạng sống của bố."
+"Từ trước khi con chào đời. Trước khi con lên bốn. Bố đã dõi theo con vẽ từ lúc con mới biết cầm bút sáp màu, Lyra ạ, và bố đã thấy con đột ngột dừng vẽ vào khoảng năm lên chín tuổi, bố hiểu điều đó có nghĩa là gì, và bố quyết định rằng việc giữ im lặng sẽ là một sự nhân từ. Thế rồi con lên mười lăm và sự im lặng ấy không còn là lòng nhân từ nữa mà trở thành một lời dối trá, và bố đã trở nên rất lão luyện trong trò dối trá đó." Ông nói những lời này mà không hề có chút tự thương hại bản thân, điều đó càng khiến câu chuyện thêm đau lòng. "Bố chưa từng nghĩ rằng chuyện này lại phải trả giá bằng cả mạng sống của bố."
 
-Cái ấm kêu tách một tiếng rồi tắt. Không ai trong hai người đứng dậy.
+Ấm nước nhảy công tắc ngắt điện. Chẳng ai trong hai người đứng dậy.
 
-"Mẹ có biết bố biết không?" Lyra hỏi.
+"Mẹ có biết là bố biết không ạ?" Lyra hỏi.
 
-"Mẹ con biết mọi thứ mà bố biết. Mẹ con là lý do để bố biết được bất cứ điều gì."
+"Mẹ con biết tất cả những gì bố biết. Mẹ con chính là lý do duy nhất khiến bố biết được bất cứ điều gì trên đời."
 
 ---
 
-Rồi cuối cùng cô cũng đứng dậy, và rót nước, và ủ quá lâu, và ông uống quá nhanh, và không ai nói gì, và đó là điều tốt đẹp nhất đã xảy ra trong căn bếp suốt hai tuần qua.
+Cuối cùng thì cô cũng đứng dậy, châm nước sôi, hãm trà hơi quá lâu, còn ông thì uống quá vội, chẳng ai bình luận gì về việc đó, và đó là khoảnh khắc êm đềm nhất diễn ra trong căn bếp này suốt nửa tháng qua.
 
-Rồi ông quay lại với chiếc máy tính xách tay, và điểm sáng trên đường nối giữa hai người di chuyển, và Lyra, đứa đã mất hai năm học cách giả vờ là mình không làm đúng việc này, chịu thua và nhìn vào màn hình.
+Rồi ông quay trở lại với chiếc máy tính xách tay, điểm sáng trên sợi chỉ nối giữa hai người dịch chuyển, và Lyra, người đã dành suốt hai năm học cách giả vờ như mình không để ý tới những chuyện này, đành bỏ cuộc và nhìn vào màn hình.
 
-"Bố ơi, nó không hội tụ đâu."
+"Ba, phương trình đó không hội tụ đâu."
 
-"Nó có hội tụ. Nó hội tụ *chậm*, đó là một lời than khác."
+"Nó có hội tụ chứ con. Nó hội tụ *rất chậm*, đó là hai vấn đề hoàn toàn khác nhau."
 
-"Không phải chậm, mà là sai." Cô kéo ghế vòng qua bàn sang bên ông, việc đáng lẽ cô không được làm, và điều ông đã ngừng phản đối từ khoảng tháng Ba. "Bố đang coi nó là hàm của hai biến, tách riêng rồi cộng lại. Không phải vậy. Khi chúng tương tác, cả đường cong đổi hình dạng. Nó là — thôi, nhìn này. Nhìn cái này."
+"Không phải chậm, mà là sai rồi." Cô kéo ghế sang ngồi cạnh phía bàn của ông, một hành động mà lẽ ra cô không được phép làm, nhưng ông đã thôi không cằn nhằn từ khoảng tháng Ba. "Bố đang coi nó như một hàm số của hai biến độc lập rồi cộng chúng lại với nhau. Không phải thế đâu. Khi hai biến tương tác, toàn bộ hình dạng đường cong sẽ biến đổi. Nó là — này, bố nhìn đi. Nhìn cái này này."
 
-Cô vẽ nó cho ông ở mặt sau một tờ hồ sơ, bằng than, nhanh, không nhìn tay mình.
+Cô vẽ phác cho ông xem trên mặt sau của một tờ bài tập, bằng than củi, thoăn thoắt, không cần nhìn xuống tay.
 
-Hai chấm. Bốn đường. Cô thêm bốn đường nữa, cố ý cho nó sai, để ông nhìn ra.
+Hai điểm chấm. Bốn đường thẳng. Cô cố tình vẽ thêm bốn đường nữa cho sai đi, để ông nhận ra.
 
-"Bố không đi tìm một hàm số," cô nói. "Bố đang đi tìm một *mạng*. Bố có hai thứ trong tay và đang ép chúng vào một đường thẳng, mà chúng không muốn làm đường thẳng, chúng là một — chúng là một mạng lưới. Mọi thứ nối với mọi thứ khác, và lượng kết nối không giống nhau ở hai phía. Nó lên xuống. Có những cặp mạnh và có những cặp gần như bằng không, và nếu lấy trung bình thì bố nhận được một con số không nghĩa lý gì."
+"Bố không phải đang tìm một hàm số thông thường," cô nói. "Cái bố cần tìm là một *mạng lưới*. Bố đang có hai đối tượng và bố ép chúng phải đi theo một đường thẳng, nhưng chúng đâu có chịu đi thẳng, chúng là một — một mạng lưới tương hỗ. Mọi thứ đều kết nối với mọi thứ khác và mức độ liên kết không hề đồng đều ở cả hai phía. Nó khi tăng khi giảm. Có những cặp liên kết rất mạnh nhưng có những cặp thì gần như bằng không, nếu bố lấy giá trị trung bình cộng thì bố chỉ nhận được một con số vô nghĩa mà thôi."
 
-Wei Chen đã im hẳn đi.
+Wei Chen sững sờ ngồi im phắc.
 
-"Con học lý thuyết đồ thị ở đâu ra vậy?"
+"Con học lý thuyết đồ thị ở đâu thế?"
 
-"Con đã vào phòng làm việc của bố suốt hai năm rồi, bố ơi, bố cứ để mọi thứ *mở*."
+"Con ra vào phòng làm việc của bố suốt hai năm nay mà Ba, bố toàn để tài liệu *mở toang* ra đấy thôi."
 
 "Ba mươi mốt giây," ông nói.
 
-"Gì cơ?"
+"Dạ?"
 
-"Làm lại cho bố xem. Từ đầu. Và lần này đừng để bố cắt ngang, vì bố muốn nghe con đang đi tới đâu trước khi bố bắt đầu chê cách ký hiệu của con." Ông đã với tay lấy một tờ giấy trắng. "Cứ đi. Chậm thôi."
+"Chỉ lại cho bố xem. Từ đầu nhé. Và lần này đừng để bố ngắt lời con, vì bố muốn nghe xem mạch suy nghĩ của con dẫn tới đâu trước khi bố bắt đầu bắt bẻ cách ký hiệu của con." Ông đã vội với tay lấy một tờ giấy trắng sạch. "Tiếp tục đi con. Từ từ thôi."
 
-Cô làm lại. Chậm rãi.
+Cô bắt đầu lại. Chầm chậm từng bước.
 
-Ông cắt ngang cô ở phút thứ bốn, và cô đã đúng về cái mạng, và ông thì đúng về cách ký hiệu, và đến chín giờ rưỡi sáng thì hai bố con vẫn ngồi đó, với trà đang nguội dần và hai trang giấy phủ đầy một thứ lai giữa giấy kẻ ô của ông và than của cô, cãi nhau — nghiêm túc, gay gắt, dựa trên bằng chứng — về việc nên gán trọng số cho số hạng tương tác theo thời lượng hay theo cường độ.
+Ông ngắt lời cô sau bốn phút, và cô đã đúng về cấu trúc mạng lưới, còn ông đúng về các quy chuẩn ký hiệu toán học, và đến chín giờ rưỡi sáng, họ vẫn ngồi bên chén trà đã nguội ngắt với hai trang giấy chằng chịt sự kết hợp giữa giấy kẻ ô li của ông và những nét than vẽ của cô, tranh luận — một cách nghiêm túc, quyết liệt, dựa trên các bằng chứng xác thực — về việc liệu số hạng tương tác nên được gán trọng số theo thời lượng hay theo cường độ.
 
-Và đó là hai tiếng đẹp nhất của Lyra kể từ bệnh viện, và cô hiểu ra, ngồi trên mép bàn của ông với bụi than ở rìa bàn tay, rằng đây mới là thứ cô thực sự sợ mất. Không phải khả năng nhìn. Cha cô, ở đầu một bàn bếp, *quan tâm*.
+Và đó là hai tiếng đồng hồ tuyệt vời nhất mà Lyra có được kể từ ngày rời bệnh viện, cô hiểu rằng, khi ngồi ở góc bàn với bụi than bám đầy mép bàn tay, đây mới chính là điều cô thực sự sợ hãi sẽ đánh mất. Không phải năng lực nhìn thấu. Mà là hình ảnh người cha, ngồi ở đầu bàn bếp, say mê *hứng khởi* với nghiên cứu.
 
-"Bố muốn con làm những thứ thế này cùng bố nhiều hơn," ông nói.
+"Bố rất muốn con cùng làm những việc như thế này với bố nhiều hơn nữa," ông bảo.
 
-"Nó không nghiêm ngặt đâu."
+"Nó đâu có chặt chẽ theo chuẩn khoa học đâu bố."
 
-"Nó nghiêm ngặt vô cùng. Nó nghiêm ngặt theo một kiểu mà hiện tại bố chưa kiểm chứng được, đó là một bài toán khác và thú vị hơn, và bố định sẽ kiểm chứng." Ông đang viết. Ông không ngẩng đầu. "Chiều chủ nhật con sang không? Mang theo than. Mang theo cách ký hiệu tệ hại. Bố mang cà phê, và hai bố con sẽ cùng sai với nhau trong hai tiếng."
+"Nó cực kỳ chặt chẽ là đằng khác. Nó chặt chẽ theo một cách mà hiện tại bố chưa thể kiểm chứng được, đó là một bài toán khác thú vị hơn nhiều, và bố dự định sẽ kiểm chứng nó." Ông vừa viết vừa nói, mắt không hề ngước lên. "Chiều Chủ Nhật con qua đây nhé? Nhớ mang theo than vẽ. Mang theo cả mớ ký hiệu dở tệ của con nữa. Bố sẽ lo phần cà phê và hai bố con mình sẽ cùng nhau sai sót trong hai tiếng đồng hồ."
 
-Ông vẫn không chịu nói ra điều đó. Cô ghi nhận. Cô bỏ qua. Hôm nay là thứ Tư, giữa một căn bếp, và ông đã hứa với cô một ngày chủ nhật.
+Ông vẫn chưa chịu thừa nhận điều đó. Cô nhận ra. Cô bỏ qua. Đó là một ngày thứ Tư, trong căn bếp nhỏ, và ông đã hứa hẹn với cô về ngày Chủ Nhật.
 
 ---
 
-Cánh cửa xưởng vẽ nằm ở cuối hành lang, và nó đã đóng suốt năm năm, và trên nó không có ổ khóa, và hai bố con chưa một lần nói về chuyện này.
+Cánh cửa phòng vẽ của mẹ nằm ở cuối hành lang, nó đã khép kín suốt năm năm qua, chẳng hề có ổ khóa nào, và hai bố con chưa từng một lần đả động tới chuyện này.
 
-Lyra đi dọc hành lang vào lúc bốn giờ chiều khi mưa vẫn còn, đứng trước cánh cửa và áp bàn tay phẳng lên mảnh gỗ, gỗ mát, và đúng bằng nhiệt độ của phần còn lại của ngôi nhà, và không phải, cô nghĩ, là nhiệt độ của một cánh cửa và chẳng còn gì nữa.
+Lyra bước dọc hành lang lúc bốn giờ chiều trong tiếng mưa rả rích, đứng trước cánh cửa và áp phẳng bàn tay lên lớp gỗ. Gỗ mát lạnh, mang đúng nhiệt độ của cả căn nhà, nhưng cô nghĩ, đó tuyệt nhiên không chỉ là nhiệt độ của một cánh cửa đơn thuần.
 
-*Con đang diễn,* cô tự nhủ. *Con mười sáu tuổi, đã không ngủ, và vừa có được buổi sáng đẹp nhất đời mình bằng cách bị bố cãi tay đôi, và giờ con muốn đi nhìn đồ đạc của người mẹ đã chết của con.*
+*Mày lại làm quá lên rồi,* cô tự mắng mình. *Mày mười sáu tuổi, cả đêm mất ngủ và vừa trải qua một buổi sáng tuyệt vời nhất đời khi được tranh luận với bố, thế rồi mày lại muốn đến ngắm nghía đồ đạc của người mẹ đã khuất.*
 
-Cô mở nó ra.
+Cô đẩy cửa bước vào.
 
-Không khí trong phòng phả vào cô như một thứ đã bị giữ lại. Bụi, giấy lạnh, và bên dưới, thoảng nhẹ, dầu lanh và bóng ma của dầu thông, và một thứ nữa mà cô không có tên để gọi và đã ngửi thấy chừng sáu lần trong đời, và thứ đó chỉ đơn giản là *mẹ cô, trong căn phòng này*.
+Luồng không khí ùa ra bao bọc lấy cô như một thứ gì đó bị giam giữ bấy lâu. Bụi bặm, mùi giấy lạnh, và thoang thoảng bên dưới là mùi dầu lanh cùng hơi hướm dầu thông quen thuộc, và một thứ gì đó khác mà cô không tài nào gọi tên, thứ mùi cô có lẽ mới chỉ ngửi thấy khoảng sáu lần trong đời, và đó đơn giản chính là *mùi hương của mẹ trong căn phòng này*.
 
-Giá vẽ đứng y nguyên chỗ nó từng đứng. Trên đó có một tấm toan vẽ dở — một sườn đồi, gần hoàn thành, góc dưới vẫn trơ mảng ván sơn lót — và góc trống đó có một đường viền gọn, không phải đường rách, nghĩa là mẹ cô đã đặt cây cọ xuống giữa chừng một quyết định và không bao giờ quay lại.
+Giá vẽ vẫn đứng nguyên vị trí cũ. Trên giá là một bức tranh sơn dầu dở dang — một sườn đồi, gần như đã hoàn tất, góc dưới cùng vẫn còn là mảng bảng lót chưa tô — và góc trống ấy mang một vệt cọ dứt khoát chứ không hề bị rách, nghĩa là mẹ đã đặt cây cọ xuống giữa một quyết định dang dở rồi không bao giờ quay trở lại nữa.
 
-Trên bàn viết có một cuốn sổ. Bìa da, mềm, các góc đã bạc trắng. Ở bìa trước đóng nổi một hình tròn với những đường toả ra, không mực, không màu.
+Trên bàn làm việc có một cuốn nhật ký. Bìa da mềm mại, các góc đã sờn trắng. Một hình tròn với những đường nét tỏa ra được dập chìm trên bìa trước, mộc mạc không màu sắc.
 
-Lyra không mở cuốn sổ.
+Lyra không mở cuốn nhật ký ra.
 
-Không phải vì cô đã quyết không mở. Cô đi được tới bước đặt hai ngón tay lên bìa, và căn phòng *đáp lại*.
+Không phải vì cô quyết định không mở. Cô mới chỉ chạm hai ngón tay lên mặt bìa, thì căn phòng đã *lên tiếng đáp lại*.
 
-Đó không phải một âm thanh. Nó gần với cảm giác của căn bếp vào những buổi sáng hơn — áp lực, hơi ấm, một cái nghiêng — chỉ là cái nghiêng này có một hướng, và nó đi từ bàn viết ra tường, lên trần rồi xuống trở lại, và nó màu xanh bạc, và nó chuyển động như nước chuyển động trong một đường ống chưa đầy.
+Đó không phải một âm thanh. Nó gần giống với cảm giác trong căn bếp vào mỗi buổi sáng — áp lực, hơi ấm, một cái nghiêng mình — chỉ khác là cái nghiêng mình này có phương hướng rõ rệt, nó chuyển dịch từ bàn làm việc lên tường, lên trần nhà rồi lại vòng xuống dưới, mang sắc xanh bạc, và chuyển động như dòng nước chảy trong một đường ống chưa đầy.
 
-Ký ức, cô nghĩ. Không của riêng ai cụ thể. Của căn phòng.
+Ký ức, cô thầm nghĩ. Không của riêng ai cụ thể. Ký ức của chính căn phòng.
 
-Cô thu tay khỏi cuốn sổ và cái nghiêng vẫn y nguyên ở đó, kiên nhẫn, không bám theo cô, cũng không ra đi.
+Cô rút tay khỏi cuốn nhật ký và cái nghiêng mình ấy vẫn giữ nguyên trạng thái kiên nhẫn, không đuổi theo cô, cũng chẳng hề biến mất.
 
-Trong khay trên bàn viết, dưới bốn cây cọ đã chết, có một sợi dây chuyền treo một mặt dây chuyền bạc nhỏ: một hình tròn với những đường chạy ra khỏi tâm thành hình xoắn ốc, cùng một hoạ tiết với bìa cuốn sổ, bằng một thứ kim loại đã xỉn màu. Nó không phải ngọc bích. Nó nặng hơn vẻ ngoài của nó.
+Trong khay đựng đồ trên bàn, dưới bốn cây cọ đã khô cứng, có một sợi dây chuyền mang mặt ngọc bạc nhỏ: một hình tròn với những đường xoắn ốc lan tỏa từ tâm, cùng một kiểu hoa văn như trên bìa cuốn nhật ký, bằng thứ kim loại đã xỉn màu. Không phải ngọc bích. Nó nặng hơn vẻ ngoài rất nhiều.
 
 Lyra cũng không nhặt nó lên.
 
-Thay vào đó cô đứng giữa xưởng vẽ của mẹ và cho phép mình nhìn, nhìn cho thật, lần đầu tiên sau năm năm, và cô tiếp nhận những gì thực sự có trong căn phòng: một căn phòng làm việc, lộn xộn, ấm áp, có người ở, một chiếc ghế với tấm đệm bị lún phẳng một bên, một chồng sách thư viện với các gáy đã nứt và một tờ biên lai của một tiệm ở khu người Hoa cài làm dấu sách, một chiếc cốc sứt mẻ.
+Thay vào đó, cô đứng lặng giữa phòng vẽ của mẹ và để mặc cho mình ngắm nhìn, một cách trọn vẹn, lần đầu tiên sau năm năm trời. Cô thu vào tầm mắt những gì thực sự hiện diện trong căn phòng: một không gian làm việc bề bộn, ấm cúng, đậm dấu vết sinh hoạt, chiếc ghế với tấm đệm lún một bên, chồng sách thư viện đã gãy gáy với mẩu hóa đơn từ một cửa tiệm ở Khu phố Tàu kẹp làm dấu trang, một chiếc cốc sứt quai.
 
-Không ai chết trong một căn phòng như thế. Đó là ý nghĩ vừa tới, không được mời, và là ý nghĩ tồi tệ nhất cô có trong cả ngày.
+Chẳng có ai chết trong một căn phòng như thế này cả. Ý nghĩ ấy chợt ùa đến, bất ngờ và cay đắng, ý nghĩ tồi tệ nhất trong cả ngày dài của cô.
 
-*Đã có ai đó rời đi rất vội và không bao giờ quay lại.*
+*Ai đó đã rời đi vội vã và không bao giờ trở lại.*
 
-Tấm ván sàn trước giá vẽ kêu cót kệt.
+Tấm ván sàn trước giá vẽ khẽ cọt kẹt.
 
 "*Lyra?*"
 
-Ông đứng ở ngưỡng cửa. Vai quấn một chiếc khăn, tay cầm kính đọc, và trên mặt là một biểu cảm mà cô không đọc nổi trong một lần.
+Bố đang đứng ở ngưỡng cửa. Chiếc khăn tắm vắt ngang vai, chiếc kính đọc sách cầm trên tay và nét mặt ông mang một vẻ mà cô không thể nào đọc ra ngay được.
 
-"Bố ơi, con — "
+"Ba, con—"
 
-"Con đã mở cánh cửa đó bao lâu rồi?"
+"Con mở cánh cửa này bao lâu rồi?"
 
-"Từ thứ Ba. Từ khi con năm tuổi."
+"Từ hôm thứ Ba. Từ hồi con lên năm."
 
-Màu sắc rút khỏi mặt ông. Ông đưa tay bám lấy khung cửa.
+Sắc mặt ông tái mét. Ông chống một tay lên khung cửa.
 
-"Vậy là nó đã mở suốt năm năm," ông nói, "và bố đã là người đóng nó."
+"Vậy là nó đã mở suốt năm năm qua," ông nói, "trong khi bố thì cứ cặm cụi đóng nó lại."
 
 ---
 
-Ông không hét. Lyra đã gồng mình chờ một trận hét và nhận được một thứ tệ hơn nhiều: một người đàn ông đứng ở ngưỡng cửa cố kiểm soát hơi thở, và thất bại, và thấy rõ là xấu hổ vì sự thất bại đó.
+Ông không hề quát mắng. Lyra đã chuẩn bị tinh thần đón nhận một trận lôi đình nhưng điều cô nhận được còn tồi tệ hơn gấp bội: một người đàn ông đứng nơi ngưỡng cửa đang cố kìm nén nhịp thở của mình, thất bại, và lộ rõ vẻ hổ thẹn vì sự thất bại ấy.
 
-"Bố đã dặn con đừng vào trong đó."
+"Bố đã bảo con đừng vào đây cơ mà."
 
 "Con biết."
 
-"Không phải vì bố không muốn con vào. Con hiểu điều đó không? Bố không đóng cánh cửa đó để giấu con một thứ gì. Bố đóng nó vì bố không thể — " Ông dừng lại. Ông tháo kính và ấn gót hai tay vào mắt, một việc ông chưa từng làm một lần nào trước mặt cô. "Bố không thể đứng trong đó."
+"Không phải vì bố muốn giấu giếm con điều gì. Con có hiểu không? Bố khép cánh cửa đó lại không phải để che giấu con. Bố khép lại vì bố không thể — " Ông nghẹn lời. Ông tháo kính ra, ấn cườm tay vào hai hốc mắt, một hành động ông chưa từng một lần làm trước mặt cô. "Bố không thể chịu đựng nổi khi đứng trong căn phòng này."
 
-"Nhưng đó chỉ là *đồ của mẹ* thôi, bố ơi."
+"Nhưng đó chỉ là *đồ của mẹ* thôi mà Ba."
 
-"Ừ," ông nói. "Chính xác là thế, và chính vì thế mà bố không thể đứng trong nó, và bố đã không đứng trong nó kể từ ngày mười một tháng Chín năm năm trước, và con vừa nói với bố rằng con biết căn phòng này tám năm rồi, nghĩa là bố đã nói dối con từ khi con năm tuổi, và bố cần một lát, và bố sẽ không giả vờ là mình có nó."
+"Phải," ông nói. "Chính xác là như vậy, và đó chính là lý do bố không thể đứng nổi ở đây, bố đã không bước chân vào đây kể từ ngày mười một tháng Chín của năm năm trước. Vậy mà con vừa bảo con đã biết về căn phòng này tám năm nay, nghĩa là bố đã nói dối con từ khi con mới lên năm tuổi. Bố cần một chút thời gian tĩnh tâm, và bố sẽ không giả vờ như mình đang ổn."
 
-Ông đi ngồi xuống bậc thang dưới cùng, một chỗ ngồi không thoải mái, và ông đã chọn nó.
+Ông bước ra và ngồi bệt xuống bậc cầu thang dưới cùng, một chỗ ngồi chẳng hề thoải mái chút nào, nhưng ông đã chủ tâm chọn nó.
 
-Lyra đứng ở ngưỡng cửa xưởng vẽ của mẹ và nhìn gáy đầu của cha và hiểu rằng cô đã, mà chẳng hề muốn, lấy đi của ông một thứ. Không phải căn phòng. Mà là *việc không biết*. Ông đã dành năm năm để đóng một cánh cửa để khỏi phải đứng trong nó, và cô đã, chẳng có ý gì, lấy đi lý do duy nhất khiến cánh cửa được giữ đóng.
+Lyra đứng nơi ngưỡng cửa phòng vẽ của mẹ, nhìn vào sau gáy cha mình và hiểu rằng, dẫu không hề cố ý, cô vừa tước đoạt đi của ông một điều gì đó. Không phải căn phòng. Mà là *sự không hay biết*. Ông đã dành suốt năm năm trời khép chặt một cánh cửa để không phải đối diện với nỗi đau trong đó, còn cô, một cách vô tình, đã xóa bỏ lý do duy nhất khiến cánh cửa ấy được khép kín bấy lâu.
 
-"Con xin lỗi," cô nói.
+"Con xin lỗi bố," cô khẽ nói.
 
-"Đừng xin lỗi. Không phải vì chuyện đó." Ông không quay lại. "Lyra, bố muốn nói rất rõ một điều, vì bố nghĩ con đã rút ra một kết luận, và bố nghĩ kết luận đó hợp lý, và bố nghĩ nó sai. Bố không giữ con ngoài căn phòng đó để con không nhìn thấy những sợi chỉ. Nếu bố có thể ngăn con nhìn thấy sợi chỉ, bố đã làm rồi, và bố đã cảm thấy mình như một người hùng, và bố đã là một kẻ ngốc, và kể ra bố đã mất con luôn."
+"Đừng xin lỗi. Không phải vì chuyện đó." Ông không quay đầu lại. "Lyra, bố muốn nói thật rõ một điều, vì bố nghĩ con đang suy diễn và suy diễn ấy nghe có vẻ hợp lý nhưng lại hoàn toàn sai lầm. Bố không hề ngăn con vào căn phòng đó để cấm con nhìn thấy những sợi chỉ. Nếu bố có thể ngăn con nhìn thấy những sợi chỉ thì bố đã làm rồi, và khi ấy bố sẽ cảm thấy mình như một người hùng, nhưng thực chất bố sẽ chỉ là một kẻ ngu ngốc, và bố sẽ đánh mất con trong cuộc đánh đổi đó."
 
-"Vậy thì tại sao?"
+"Thế thì vì sao hả bố?"
 
-"Vì những người nhìn thấy những gì con nhìn thấy đều kết thúc *một mình*, Lyra. Mẹ con đã nói với bố điều đó khi chúng tôi gặp nhau. Bà nói: khả năng nhìn không phải là vấn đề. Vấn đề là nó đặt một tấm kính giữa con và mọi con người khác trên hành tinh này, và con được đứng nhìn tất cả họ xuyên qua tấm kính đó, và không ai được nhìn con." Ông xoay chiếc kính trong hai tay. "Và bố đã nghĩ: đừng để bà ấy là người đó. Đừng để con gái chúng ta. Chừng nào bố còn có tiếng nói trong chuyện này."
+"Bởi vì những người nhìn thấy những gì con nhìn thấy cuối cùng đều kết thúc trong *cô độc*, Lyra ạ. Mẹ con đã nói với bố điều đó khi hai người mới gặp nhau. Bà ấy bảo: năng lực nhìn thấu không phải là vấn đề. Vấn đề là nó đặt một tấm kính chắn giữa con với mọi con người khác trên hành tinh này, con có thể quan sát tất cả bọn họ qua tấm kính ấy, nhưng tuyệt nhiên chẳng ai có thể nhìn thấu được con." Ông xoay xoay chiếc kính trong tay. "Và bố đã tự nhủ: không thể là con bé. Không thể là con gái của bố con mình. Chừng nào bố còn có tiếng nói thì chuyện đó không bao giờ được phép xảy ra."
 
-"Và dẫu vậy."
+"Thế nhưng."
 
-"Và dẫu vậy." Ông đứng dậy. "Và dẫu vậy bà ấy đã bước vào căn phòng đó ngày mười một tháng Chín, năm năm trước, và nói với bố rằng bà ấy đã tìm thấy một thứ gì đó, và bố bảo bà ấy chỉ mệt thôi, và bà ấy đi trở lại xưởng vẽ và đóng cửa, và sáng hôm sau bà ấy không còn trong đó, và sáng hôm sau bà ấy không còn trong nhà."
+"Thế nhưng." Ông đứng dậy. "Thế nhưng bà ấy đã bước vào căn phòng đó vào ngày mười một tháng Chín năm năm trước, bảo với bố rằng bà ấy đã tìm ra một điều gì đó, bố bảo bà ấy chỉ vì mệt mỏi quá thôi, rồi bà ấy quay lại phòng vẽ khép cửa lại, và sáng hôm sau bà ấy không còn ở trong đó nữa, sáng hôm sau bà ấy không còn ở trong căn nhà này nữa."
 
-Tiếng mưa đã to hơn.
+Tiếng mưa rơi bên ngoài dường như nặng hạt hơn.
 
-"Bố ơi, đâu phải—"
+"Ba, chuyện đâu phải—"
 
-"Bố biết đó không phải là những gì đã xảy ra. Bố có cả một hồ sơ về những gì đã xảy ra. Báo cáo cảnh sát, một cuộc tìm kiếm kéo dài mười một tháng, một luật sư đã cầm tiền của chúng ta suốt hai năm." Ông bước lên lại hai bậc thang cuối và dừng trước mặt cô. "Điều bố chưa bao giờ giải thích được, Lyra, và điều bố chưa từng một lần nói thành lời trong ngôi nhà này, là rằng bố đã *nhẹ nhõm*. Rằng khi cảnh sát cuối cùng cũng ngừng tới, khi hàng xóm ngừng hỏi, khi chúng tôi rời ngôi nhà ở Ellery Street và bố bỏ xưởng vẽ lại phía sau, bố đã nhẹ nhõm. Và bố chưa bao giờ tha thứ cho mình vì điều đó, và tối nay bố kể cho con nghe vì con đã vào căn phòng đó hai lần rồi và con sẽ không dừng lại, và con xứng đáng biết mình đang bước vào cái gì trước khi bước vào nó."
+"Bố biết sự việc không đơn giản như thế. Bố có cả một tập hồ sơ về những gì đã xảy ra. Báo cáo của cảnh sát, một cuộc tìm kiếm kéo dài mười một tháng trời, một tay luật sư ngốn tiền của chúng ta suốt hai năm ròng." Ông bước ngược lên hai bậc thang cuối cùng và dừng lại ngay trước mặt cô. "Điều mà bố chưa bao giờ giải thích nổi, Lyra ạ, và điều bố chưa từng một lần dám thốt ra thành lời trong căn nhà này, là bố đã cảm thấy *nhẹ nhõm*. Rằng khi cảnh sát cuối cùng cũng thôi không đến nữa, khi hàng xóm thôi không dò hỏi, và khi bố con mình dọn khỏi căn nhà trên phố Ellery để bỏ lại phòng vẽ sau lưng, bố đã cảm thấy nhẹ nhõm vô cùng. Bố chưa bao giờ tha thứ cho bản thân vì cảm giác đó, và tối nay bố nói ra cho con biết bởi vì con đã vào căn phòng này hai lần rồi và con sẽ không dừng lại đâu, con xứng đáng được biết mình đang dấn thân vào điều gì trước khi bước tiếp."
 
-Cô đứng rất im. Cái nghiêng màu xanh bạc trong căn phòng sau lưng cô khẽ xê dịch, theo cách nước xê dịch.
+Cô đứng lặng như hóa đá. Luồng sáng bạc xanh trong căn phòng sau lưng khẽ xao động, tựa như làn nước gợn.
 
-"Con đang bước vào cái gì?"
+"Con đang dấn thân vào điều gì ạ?"
 
-"Căn phòng đó, để bắt đầu." Ông suýt thì mỉm cười. "Và còn rất nhiều thứ hơn thế nữa ngoài căn phòng đó, nếu con muốn biết toàn bộ. Ra khỏi đó đi. Ngồi xuống. Bố sẽ kể những phần bố chịu đựng được khi nói thành lời, rồi hai bố con sẽ cãi nhau về phần còn lại, và rồi — biết đâu, nếu bố tìm được một cách làm mà không phải cách của kẻ hèn — bố sẽ kể cho con về lá thư đến sáu ngày trước."
+"Trước hết là căn phòng đó." Ông thoáng nở một nụ cười gượng. "Và còn nhiều điều hơn căn phòng đó rất nhiều, nếu con muốn biết trọn vẹn sự thật. Ra khỏi đó đi con. Ngồi xuống đây. Bố sẽ kể cho con nghe những phần bố còn đủ can đảm để nói thành lời, rồi hai bố con mình sẽ tranh cãi về phần còn lại, và rồi — có lẽ, nếu bố tìm ra được một cách kể không hèn nhát — bố sẽ kể cho con nghe về lá thư gửi đến sáu ngày trước."
 
 ---
 
-Tối hôm đó ông có kể cho cô về lá thư, và ông mất một tiếng bốn mươi phút, và phần lớn ông kể đúng.
+Ông đã kể cho cô nghe về bức thư vào tối hôm đó, câu chuyện kéo dài một tiếng bốn mươi phút, và ông đã thuật lại gần như chính xác mọi chi tiết.
 
-Thư gửi tới địa chỉ của trường đại học, vì địa chỉ đó có sẵn trong hồ sơ, và đó là giấy màu kem với một con dấu ông không nhận ra, và thư đề tên *Cô Lyra Chen*, và nói rằng khả năng của cô — *cái nhìn quý hiếm và khác thường của cô*, văn bản viết vậy — là một món quà xứng đáng được vun trồng, và rằng có một tổ chức đã tồn tại, đã dạy việc dùng món quà đó một cách có kỷ luật từ năm 1798, và rằng tổ chức đó sẽ ghé thành phố của cô, và sẽ vui lòng được trò chuyện cùng cô và cùng cha cô, và rằng việc nhận lá thư này không hàm ý bất cứ nghĩa vụ nào.
+Thư gửi đến địa chỉ trường đại học của ông, vì địa chỉ trường lưu trong hồ sơ lưu trữ, viết trên giấy màu kem với một con dấu lạ lẫm mà ông không nhận ra, đề người nhận là *Cô Lyra Chen*. Bức thư nói rằng năng lực của cô — *góc nhìn hiếm có và phi thường của cô*, nguyên văn là vậy — là một tài bẩm xứng đáng được bồi dưỡng, rằng có một học viện đã giảng dạy cách sử dụng tài bẩm ấy một cách có kỷ luật từ năm 1798, và họ sẽ cử người tới thị trấn này, rất vui lòng được diện kiến cô cùng cha cô, đồng thời khẳng định việc nhận thư không ràng buộc bất kỳ nghĩa vụ nào.
 
-"Họ đưa cho bố tên con," Lyra nói.
+"Họ nêu đích danh tên con sao?" Lyra hỏi.
 
-"Họ đưa tên con, trường của con, và ngày của lần cuối con bị đưa rời khuôn viên trường vì một việc trông giống như cơn động kinh." Ông nói đều. "Chi tiết cuối cùng đó là điều bố muốn con ngồi lại với nó một lát, vì bố đã ngồi lại với nó suốt ba tuần rồi, và bố vẫn chưa đặt nó xuống được."
+"Họ nêu tên con, trường học của con, và cả ngày tháng lần gần nhất con phải rời trường vì một triệu chứng trông như cơn co giật." Ông nói bằng giọng điềm tĩnh. "Chi tiết cuối cùng đó là điều bố muốn con ngẫm nghĩ một chút, bởi vì bố đã phải ôm nỗi bận tâm ấy suốt ba tuần nay mà không tài nào dứt ra được."
 
-Lyra nhìn lá thư. Nó được làm rất kỹ. Đó là điều cô cứ quay lại mãi. Đó là loại giấy tốt nhất cô từng cầm trên tay, và con dấu là một đường duy nhất, một sợi chỉ, luồn qua một mắt kim, và nó được dập nổi chứ không phải in, và đã có ai đó nghĩ đến trọng lượng của nó trong lòng bàn tay của một người khác.
+Lyra nhìn bức thư. Nó được làm rất tỉ mỉ, tinh xảo. Đó là điều khiến cô chú ý mãi. Chất giấy tốt nhất cô từng chạm tay vào, con dấu chỉ là một nét chỉ đơn lẻ xuyên qua một lỗ kim, được dập nổi chứ không phải in mực thông thường, ắt hẳn ai đó đã cân nhắc rất kỹ về sức nặng của nó khi nằm trên tay người khác.
 
 "Bố đã làm gì với nó?"
 
-"Bố nhét nó vào ngăn kéo, dưới tờ hóa đơn điện thoại mà bố đã không trả." Ông im lặng một giây. "Bố không tự hào về việc đó. Bố muốn nói cho chính xác: bố không tự hào về nó, và bố vẫn làm, và lý do bố làm là vì bố không tính ra được mình muốn điều gì xảy ra, mà một người đàn ông không tính ra được mình muốn gì sẽ làm gần như bất cứ điều gì để trì hoãn việc tìm ra."
+"Bố nhét nó vào ngăn kéo dưới hóa đơn điện thoại chưa thanh toán." Ông im lặng một thoáng. "Bố không hề tự hào về việc đó. Nói một cách chính xác: bố chẳng tự hào chút nào, nhưng bố vẫn làm vậy, và lý do là bố không thể xác định nổi mình muốn điều gì xảy ra tiếp theo, mà một kẻ không biết mình muốn gì thì sẽ làm đủ mọi cách để trì hoãn việc đối diện với sự thật."
 
-"Bố sẽ trả lời họ chứ?"
+"Bố có định trả lời họ không?"
 
-"Bố đã trả lời họ rồi. Sáng nay, trước khi con thức. Bố gọi điện theo số trên lá thư và nói chuyện với một phụ nữ trẻ tên Eleanor Weaver, người cực kỳ nhã nhặn, và người ấy nói với bố rằng sẽ có một buổi gặp gỡ không chính thức vào thứ Bảy ở một hiệu sách trong thành phố, rằng các gia đình được chào đón, và rằng không ai sẽ bị tiếp cận nếu bố không có mặt." Ông xoay tách trà. "Bố đã nói chúng ta sẽ đến. Bố nói câu đó trước cả khi quyết định. Bố muốn câu này được ghi vào biên bản: bố đã là một kẻ hèn tuyệt đối trong chuyện này suốt ba tuần qua, và bây giờ bố đã dừng lại."
+"Bố đã trả lời rồi. Sáng nay, trước khi con thức dậy. Bố đã gọi đến số điện thoại ghi trên thư và nói chuyện với một phụ nữ trẻ tên là Eleanor Weaver, cô ấy hết sức lịch thiệp, bảo rằng sẽ có một buổi gặp gỡ thân mật vào thứ Bảy tại một hiệu sách trong thị trấn, các gia đình đều được hoan nghênh, và tuyệt đối không ai được phép tiếp cận con nếu không có mặt bố." Ông xoay nhẹ tách trà. "Bố bảo hai bố con mình sẽ đến. Bố đồng ý trước cả khi kịp cân nhắc kỹ. Bố muốn ghi nhận rõ ràng rằng bố đã cư xử như một kẻ hoàn toàn hèn nhát suốt ba tuần qua và giờ thì bố đã chấm dứt điều đó."
 
-Lyra nhìn ông một lúc lâu.
+Lyra nhìn ông hồi lâu.
 
-"Bố sẽ không để con đi một mình chứ."
+"Bố sẽ không để con đi một mình chứ?"
 
-"Không."
+"Không bao giờ."
 
-"Bố đi cùng."
+"Bố sẽ đi cùng con?"
 
-"Bố đi cùng." Ông suýt mỉm cười lần nữa. "Lyra, bố không làm được cái việc con làm, và bố sẽ không bao giờ làm được, và bố đã mất hai năm giả vờ tin con về chuyện đó và bố cực kỳ mệt vì giả vờ. Nhưng bố có thể ngồi trong một căn phòng và cực kỳ không được chào đón và cực kỳ chẳng giúp được gì, và bố có thể là người ngồi góc phòng, không thuộc thế giới của họ, và có một phiên bản của chuyện này mà ở đó nó là thứ hữu dụng duy nhất trong căn phòng, và bố định tìm cho ra liệu có phải vậy không."
+"Bố sẽ đi cùng con." Ông lại thoáng mỉm cười. "Lyra à, bố không thể làm những việc con làm, và vĩnh viễn không bao giờ làm được, bố đã dành hai năm giả vờ tin con về chuyện đó và bố đã quá mệt mỏi với sự giả vờ ấy rồi. Nhưng bố có thể ngồi trong căn phòng đó, trở thành một kẻ cực kỳ khó chịu và chẳng giúp ích được tích sự gì, bố có thể là người ngồi ở góc phòng không thuộc về thế giới của họ, và biết đâu sẽ có một tình huống mà sự hiện diện đó lại là điều hữu ích nhất trong cả căn phòng, và bố dự định sẽ tìm hiểu xem liệu có tình huống ấy hay không."
 
-Mưa đã tạnh. Qua cửa sổ, con phố toả ra mùi ẩm ướt, mùi xanh mướt, và hoàn toàn bình thường.
+Mưa đã tạnh hẳn. Qua ô cửa sổ, con phố bốc lên mùi ẩm ướt, xanh ngắt và hoàn toàn bình dị đời thường.
 
-"Bố ơi," Lyra nói. "Họ biết tên con. Họ biết ngày của chuyện ở trường."
+"Ba ơi," Lyra cất tiếng. "Họ biết tên con. Họ biết cả ngày xảy ra sự cố ở trường."
 
-"Ừ."
+"Phải."
 
-"Chúng ta có nên sợ không?"
+"Hai bố con mình có nên sợ hãi không?"
 
-Wei Chen cân nhắc câu hỏi với cái nghiêm túc mà ông mang đến cho mọi việc, và Lyra yêu ông vì điều đó, và sợ hãi cạnh ông, và hai thứ đó ngồi xuống cạnh nhau và ở lại đó.
+Wei Chen suy ngẫm câu hỏi ấy với sự nghiêm cẩn mà ông luôn dành cho mọi vấn đề trên đời, và Lyra yêu ông vì điều đó, cô sợ hãi cùng với ông, và hai cảm xúc ấy ngồi cạnh nhau trong lòng, yên vị ở đó.
 
-"Bố nghĩ," ông nói, "rằng chúng ta nên cẩn trọng, chứ không nên sợ hãi, và rằng sự khác biệt giữa hai thứ đó sẽ là toàn bộ đề tài của sáu tháng tiếp theo trong đời bố." Ông đứng dậy, bỏ lá thư vào túi, và dừng lại ở ngưỡng cửa. "Và Lyra này. Một điều nữa thôi, rồi chúng ta sẽ ăn tối và bố sẽ không bàn luận về nó."
+"Bố nghĩ," ông nói, "chúng ta nên cẩn trọng, chứ không nên sợ hãi, và sự khác biệt giữa hai thái độ đó sẽ là toàn bộ chủ đề trong sáu tháng tới của cuộc đời bố." Ông đứng dậy, đút lá thư vào túi áo, rồi dừng lại nơi ngưỡng cửa. "Còn một điều này nữa, Lyra. Một điều nữa thôi, rồi chúng ta đi ăn tối và bố sẽ không bàn thêm gì nữa."
 
-"Ừ."
+"Vâng ạ."
 
-"Người phụ nữ trong cuộc điện thoại. Bà ta biết tên của mẹ con."
+"Người phụ nữ nói chuyện qua điện thoại. Cô ấy biết tên của mẹ con."
 
-Căn bếp lạnh hẳn đi theo cái kiểu chẳng liên quan gì đến cửa sổ.
+Căn bếp bỗng trở nên lạnh toát theo một cách chẳng liên quan gì đến khung cửa sổ.
 
-"Bà ta có hỏi về mẹ," Lyra nói.
+"Cô ấy hỏi về mẹ sao bố?" Lyra thảng thốt.
 
-"Bà ta hỏi về mẹ bằng tên, Lyra. Không phải 'người mẹ.' Không phải 'bà ấy.' Một cái tên." Ông nhìn cô một lúc lâu. "Mẹ con đã đến nơi đó. Giờ thì bố biết rồi. Bố biết điều đó suốt bốn năm nay và chưa từng nói ra trong ngôi nhà này, và tối nay bố nói ra, và đó là tất cả, hết. Bố không còn chắc mình đang bảo vệ điều gì nữa. Ra ăn cơm."
+"Cô ấy hỏi đích danh mẹ con, Lyra ạ. Không phải 'người mẹ'. Cũng chẳng phải 'bà ấy'. Mà là một cái tên rõ ràng." Ông nhìn cô hồi lâu. "Mẹ con từng đến nơi đó. Giờ thì bố biết chắc điều đó rồi. Bố đã biết điều đó suốt bốn năm qua mà chưa từng hé răng trong căn nhà này, tối nay bố nói ra, và đó là lời cuối cùng về chuyện này. Bố không còn chắc mình đang cố bảo vệ điều gì nữa. Đi ăn cơm thôi con."
 
 ---
 
-*Ghi Chú Cộng Hưởng Sợi Chỉ: Hồ sơ Học viện C-2214. Đã truy xuất hồ sơ ghi danh trước đây của một thân nhân trực hệ (L. Chen, 2008–2009, một phần). Ghi chú bổ sung bởi E. Weaver: đề nghị con bé được đánh giá trước khi lịch của Hội đồng đóng. Hồ sơ được đánh dấu để rà soát bởi [ĐÃ XÓA].*
+*Ghi Chú Cộng Hưởng Sợi Chỉ: Hồ sơ Học viện C-2214. Đã truy xuất thông tin nhập học trước đây của thân nhân cấp một (L. Chen, 2008–2009, dở dang). Ghi chú bổ sung của E. Weaver: đề nghị đánh giá cô bé trước khi lịch trình của Hội đồng khép lại. Hồ sơ được đánh dấu để [ĐÃ BIÊN TẬP] thẩm xét.*
 
-# Chương 3: Sự Thừa Nhận
+# Chương 3: Nhận Diện
 
 *Thứ Sáu, 30 tháng Tám.*
 
-Tập hồ sơ nằm trên bàn bếp khi Lyra đi xuống, úp mặt, bốn cạnh vuông tắp, còn bố cô đang ngồi đầu bên kia bàn làm cái việc ông vẫn làm với tờ báo, tức là đưa nó ra xa một cánh tay và mấp máy môi.
+Tập hồ sơ đã nằm sẵn trên bàn ăn khi Lyra bước xuống, úp mặt bìa xuống dưới, các mép giấy được căn chỉnh vuông vắn, còn cha cô ngồi ở đầu bàn bên kia, đang làm cái việc ông vẫn thường làm với tờ báo: cầm tờ báo cách một sải tay và mấp máy môi.
 
-"Bố lại làm cái việc cầm bút chì lên mà không di chuyển nó rồi", cô nói.
+"Bố lại đang làm cái trò cầm bút chì giữ đơ ra mà không nhúc nhích rồi đấy," cô nói.
 
-"Bố không làm cái việc nào cả."
+"Bố có làm cái gì đâu."
 
-"Bố làm một cái việc gì đó bằng miệng. Khóe miệng lại phẳng đi một chút."
+"Bố có làm một điệu bộ bằng khóe miệng mà. Khóe miệng bố hơi trễ xuống."
 
-Ông đặt tờ báo xuống. "Bố đã gọi điện cho người phụ nữ ấy hôm qua."
+Ông đặt tờ báo xuống. "Hôm qua bố đã gọi điện cho người phụ nữ đó."
 
-"Bố đã nói với con là gọi rồi. Bố nói hai lần, rồi đưa cho con số điện thoại, rồi dặn con cẩn thận với số đó, và đúng chỗ đó là chỗ con đã nghĩ suốt mười tám tiếng đồng hồ." Lyra đặt cặp lên ghế và không cởi áo khoác. "Bà ấy nói có chứ?"
+"Bố đã kể với con rồi mà. Bố kể hai lần liền, rồi bố cho con biết con số, rồi bố dặn con phải cẩn thận với con số đó, và đó là điều con đã suy nghĩ suốt mười tám tiếng đồng hồ qua." Lyra đặt chiếc túi lên ghế và không cởi áo khoác. "Bà ấy có đồng ý không bố?"
 
-"Bà ấy nói sẵn lòng đón tiếp gia đình. Bà ấy nói sẽ không ai bị tiếp cận nếu con không có mặt. Bà ấy nói bà tên là Eleanor Weaver, và bà làm việc này đã mười một năm, và rồi bà ấy nói — " Ông ngừng lại.
+"Bà ấy bảo gia đình luôn được hoan nghênh. Rằng sẽ không ai được phép tiếp cận con nếu không có mặt con ở đó. Bà ấy nói tên bà ấy là Eleanor Weaver và bà ấy đã làm công việc này suốt mười một năm, và bà ấy bảo — " Ông ngừng bặt.
 
-"Nói gì?"
+"Bảo gì hả bố?"
 
-"Bà ấy nói, và bố xin trích nguyên văn, *Hãy nói với con gái ông rằng con số trên bảng là một mức độ nghiêm trọng chứ không phải phần trăm của bất cứ thứ gì.* Rồi bà ấy nói bà rất tiếc, rồi bà cúp máy." Wei Chen tháo kính. "Bố làm giáo sư đại học đã hai mươi mốt năm, Lyra, và trong hai mươi mốt năm chưa bao giờ có một người ở vị trí có thẩm quyền nào nói với bố điều gì như thế, và bố không biết phải làm gì với điều đó."
+"Bà ấy bảo, và bố xin trích nguyên văn: *Hãy nói với con gái ông rằng con số trên bảng thông báo chỉ là một chỉ số đo mức độ nghiêm trọng chứ không phải là tỷ lệ phần trăm của bất cứ thứ gì cả.* Rồi sau đó bà ấy nói lời xin lỗi, và cúp máy." Wei Chen tháo kính ra. "Bố đã làm giáo sư đại học suốt hai mươi mốt năm trời, Lyra ạ, và trong suốt hai mươi mốt năm đó chưa từng có một ai ở vị trí có thẩm quyền lại nói với bố một câu như thế, và bố không biết phải xử lý điều đó ra sao."
 
-Lyra đứng trong bếp, vẫn nguyên áo khoác, và không còn chắc mình muốn khóc hay muốn cười, bởi cái cô thật sự cảm thấy là một thứ nằm ở giữa và tệ hơn nhiều, đó là *nhẹ nhõm*, và sự nhẹ nhõm ấy lớn đến mức cô phải chống một tay xuống bàn.
+Lyra đứng lặng trong căn bếp với chiếc áo khoác trên người, nhận ra mình chẳng rõ nên khóc hay nên cười, và cảm xúc thực sự đang cuộn trào trong lòng là một thứ gì đó nằm ở khoảng giữa và tồi tệ hơn nhiều: đó là sự *nhẹ nhõm*, và cảm giác nhẹ nhõm ấy lớn đến mức cô phải tì một tay lên mặt bàn.
 
-"Vậy là bố đi à", cô nói.
+"Vậy là bố sẽ đi," cô nói.
 
-"Bố chưa quyết định chuyện đó."
+"Bố chưa quyết định điều đó."
 
 "Bàba."
 
-"Bố đã quyết định rằng mình sẽ ngồi vào một căn phòng và vô tích sự hết mực", bố cô nói, "và ngoài chuyện đó ra bố chưa quyết định gì thêm, và bố muốn sự phân biệt ấy được tôn trọng."
+"Bố chỉ quyết định rằng bố sẽ ngồi trong một căn phòng và trở thành một kẻ hoàn toàn vô dụng," cha cô nói, "ngoài ra bố chưa quyết định bất cứ điều gì khác, và bố muốn con phân biệt rõ sự khác nhau đó."
 
 ---
 
-Cô bắt bố nói cho ra lẽ. Việc đó ngốn bốn mươi phút, và cô hơi xấu hổ khi thấy mình giỏi việc đó đến mức nào, còn ông hơi xấu hổ khi thấy mình dễ bị điều khiển đến nhường nào, và hai người họ cùng nhau đi hết được toàn bộ câu chuyện, kiểu việc mà mất bốn mươi phút khi cả hai cùng cẩn thận và khoảng bốn giây khi không.
+Cô đã ép ông phải nói ra cho rành rọt. Việc đó ngốn mất bốn mươi phút và cô thầm thấy hơi hổ thẹn vì mình lại khéo xoay xở chuyện đó đến thế, còn ông thì thấy hơi xấu hổ vì nhận ra mình lại dễ bị điều khiển đến vậy. Cả hai đã cùng nhau đi qua trọn vẹn câu chuyện — cái loại chuyện thường mất bốn mươi phút khi cả hai đều giữ kẽ thận trọng, và chỉ mất chừng bốn giây khi người ta không buồn giữ kẽ.
 
-Chuyện đầu tiên cô xác lập được là chẩn đoán. "Thư của bác sĩ Ekwueme ghi: chảy máu sợi chỉ giao cảm. Bà ấy nói điều đó nghĩa là đầu con đang làm gì đó với đầu bố. Con muốn nghe bố nói ra câu đó."
+Điều đầu tiên cô xác minh là kết quả chẩn đoán. "Lá thư của Bác sĩ Ekwueme ghi là hiện tượng chảy máu sợi chỉ giao cảm. Bà ấy bảo điều đó có nghĩa là đầu óc của con đang tác động xấu lên đầu óc của bố. Con muốn nghe chính miệng bố nói ra điều đó."
 
-"Bố không thể nói điều đó. Bố có một cơ chế, một cái tên, mà một cơ chế thì không giống với một sự thật về chính cái hộp sọ của bố." Ông lật tập hồ sơ lại. "Cái bố nói được là hai chuyện này bắt đầu trong cùng một tháng, và chưa một lần bố có thể làm cho chúng chưa từng bắt đầu."
+"Bố không thể nói ra được. Bố có một cơ chế, một cái tên gọi, nhưng một cơ chế thì không tương đương với một sự thật diễn ra trong chính hộp sọ của bố." Ông lật tập hồ sơ lại. "Điều bố có thể khẳng định là hai chuyện đó cùng bắt đầu trong cùng một tháng và bố chưa từng có cách nào đảo ngược lại chúng."
 
-"Chuyện thứ hai", Lyra nói.
+"Điều thứ hai," Lyra nói tiếp.
 
-Chuyện thứ hai là bức thư được gửi cho *Cô Lyra Chen* tại địa chỉ của trường đại học, và bố cô đã lấy nó ra khỏi ngăn kéo, nơi nó nằm dưới tờ hóa đơn điện thoại ông chưa trả, bốn lần riêng biệt, trong khung từ tám giờ sáng đến năm giờ rưỡi chiều, và đã đọc nó, và đã cất vào chỗ cũ, và đã làm cái việc ông vẫn làm vào cuối một ngày tồi tệ, tức là đứng ở bồn rửa chén mười một phút với vòi nước khóa chặt.
+Điều thứ hai là bức thư đề người nhận là *Cô Lyra Chen* gửi tới địa chỉ trường đại học của ông, và cha cô đã lấy nó ra khỏi ngăn kéo bên dưới hóa đơn điện thoại chưa thanh toán đúng bốn lần riêng biệt trong khoảng từ tám giờ sáng đến năm giờ rưỡi chiều, đã đọc nó, cất nó lại chỗ cũ, rồi làm cái việc ông vẫn làm vào cuối một ngày tồi tệ: đứng bên bồn rửa suốt mười một phút đồng hồ mà không hề mở vòi nước.
 
-"Vậy là bố biết từ ngày hai mươi hai."
+"Vậy là bố đã biết từ hôm ngày hai mươi hai."
 
-"Bố biết từ ngày hai mươi hai."
+"Bố đã biết từ ngày hai mươi hai."
 
-"Và bố giấu con tám ngày."
+"Và bố đã giấu con suốt tám ngày trời."
 
-"Không." Wei Chen không ngẩng đầu. "Và bố xin được phép nói lý do, vì bố biết câu đó sẽ nghe ra sao, và bố vẫn muốn nói câu đó."
+"Ừ." Wei Chen không ngước mắt lên. "Và bố muốn được phép giải thích lý do, vì bố biết nghe nó sẽ ra sao, nhưng bố vẫn muốn nói ra."
 
-"Nói đi."
+"Bố nói tiếp đi."
 
-"Vì nếu bố nói với con ngay ngày hai mươi hai, con đã bắt đầu vạch kế hoạch rồi. Và có một phiên bản của con giỏi vạch kế hoạch hơn tất cả chúng ta, Lyra, và chính phiên bản đó là phiên bản đang sợ hãi, và bố đã nhìn con sợ hãi vì bố suốt hai năm nay, và bố không muốn trở thành lý do khiến con trở nên có tổ chức." Ông đặt cả hai bàn tay úp xuống mặt bàn, việc mà cô chưa từng thấy ông làm dù chỉ một lần. "Đó là lý do thật. Còn lý do kia là bố không muốn có cuộc nói chuyện đó. Cả đời này bố chưa từng có lúc không muốn có một cuộc nói chuyện, và thứ Ba vừa rồi bố ngồi trong bệnh viện và nhìn một người phụ nữ nói với con gái bố rằng cái điều ở con bé đang giết chết bố, và bố phát hiện ra mình thà có cuộc nói chuyện ấy vào một ngày thứ Bảy còn hơn vào một buổi tối thứ Sáu, và đó là một điều ở bố mà bố không tự hào, và con có quyền biết điều đó."
+"Bởi vì nếu bố nói với con vào ngày hai mươi hai, con sẽ bắt đầu lên kế hoạch ngay lập tức. Và có một phiên bản của con giỏi lên kế hoạch hơn tất cả chúng ta, Lyra ạ, và phiên bản ấy chính là lúc con đang sợ hãi nhất. Bố đã nhìn thấy con sợ hãi vì bố suốt hai năm qua và bố không muốn mình trở thành lý do khiến con phải trở nên chu toàn, ngăn nắp như thế." Ông áp phẳng hai bàn tay lên mặt bàn, một cử chỉ cô chưa từng thấy ông làm bao giờ. "Đó là lý do thật lòng. Còn lý do kia là bố không muốn đối diện với cuộc trò chuyện này. Cả đời bố chưa bao giờ lẩn tránh một cuộc trò chuyện nào, thế mà thứ Ba tuần trước, khi ngồi trong bệnh viện nhìn một người phụ nữ nói với con gái mình rằng điều bất thường ở con bé đang dần giết chết bố nó, bố phát hiện ra rằng bố thà có cuộc trò chuyện này vào một ngày thứ Bảy hơn là vào một tối thứ Sáu. Đó là một điểm yếu ở bản thân mà bố không hề tự hào, nhưng con có quyền được biết."
 
-Lyra nghĩ về câu đó một thoáng, lâu hơn mức cô cần.
+Lyra ngẫm nghĩ về điều đó lâu hơn mức cần thiết.
 
-"Ừ", cô nói. "Được. Cái đó thì — được. Chưa ổn đâu, nhưng con xử lý được." Cô kéo chiếc ghế thứ ba ra. "Giờ làm nốt chuyện còn lại."
+"Được rồi," cô nói. "Vâng. Như thế là... được rồi. Dù chẳng dễ chịu gì, nhưng con chấp nhận được." Cô kéo chiếc ghế thứ ba ra. "Giờ bố nói điều kia đi."
 
-"Chuyện còn lại nào."
+"Điều nào nữa?"
 
-"Thứ Năm vừa rồi bố nói bố muốn ba thứ từ con trước khi con đi, nhưng bố mới chỉ nói một thứ, rồi tập hồ sơ xuất hiện và con quên mất." Lyra chống hai khuỷu tay lên bàn. "Từ thứ Năm tới giờ bố đang giữ một điều gì đó, điều đó về mẹ của con, và con đã nhìn bố không nói ra nó suốt hai ngày. Nói đi."
+"Hôm thứ Năm bố bảo bố muốn con hứa ba điều trước khi đi, mà bố mới chỉ nói có một điều, rồi tập hồ sơ xuất hiện làm con quên bẵng đi mất." Lyra chống hai khuỷu tay lên bàn. "Bố đã ôm giữ một điều gì đó từ hôm thứ Năm, điều đó liên quan đến mẹ con và con đã thấy bố ngập ngừng không nói suốt hai ngày qua. Bố nói ra đi."
 
-Wei Chen nhìn xuống chén trà.
+Wei Chen nhìn chăm chú vào chén trà của mình.
 
-"Mẹ con từng ở ngôi trường đó", ông nói.
+"Mẹ con từng học ở ngôi trường đó," ông nói.
 
-Căn bếp rất lặng.
+Căn bếp bỗng chìm vào tĩnh lặng tuyệt đối.
 
-"Bao lâu?"
+"Trong bao lâu hả bố?"
 
-"Bốn tháng, vào mùa xuân năm 2002. Bà ấy ba mươi ba tuổi, là điều tuyệt nhất bố từng gặp trong đời, và có chừng bốn tháng bà ấy hạnh phúc vô cùng, theo cái kiểu mà trước đó bố chưa từng thấy ở bà và từ đó tới nay cũng chưa thấy lại." Ông nói cẩn thận, như người bước trên một cái sàn mà mình biết là đã hỏng. "Bà ấy về nhà và bà ấy không còn như trước và bà ấy không chịu nói cho bố điều gì đã xảy ra, và bố đã không hỏi, vì bố không muốn trở thành kiểu đàn ông hỏi vợ câu đó vào cuối một buổi tiệc tối."
+"Bốn tháng, vào mùa xuân năm 2002. Khi ấy bà ấy ba mươi ba tuổi, là người tuyệt vời nhất bố từng gặp trên đời, và trong khoảng bốn tháng đó bà ấy đã vô cùng hạnh phúc, theo một cách bố chưa từng thấy ở bà ấy trước đó và cũng chưa bao giờ thấy lại sau này." Ông nói hết sức cẩn trọng, tựa như đang bước đi trên một mặt sàn mà mình biết rõ là sắp sập. "Bà ấy trở về nhà và không còn như xưa nữa, bà ấy nhất quyết không chịu kể cho bố nghe chuyện gì đã xảy ra, còn bố thì không gặng hỏi, bởi bố không muốn trở thành một kẻ tra vấn vợ mình sau một bữa tiệc tối."
 
-"Bà ấy kể với bố gì?"
+"Mẹ đã nói những gì với bố?"
 
-"Hai điều. Bà ấy nói phương pháp của họ sai, rằng bà đã tranh cãi về nó và đã thua, và rằng bà sẽ thay vào đó làm theo cách của riêng mình. Và bà ấy nói — " Ông ngừng lại, rồi bắt đầu lại, và lần thứ hai câu ấy thoát ra khỏi ông lệch đi một bên. "Bà ấy dặn rằng nếu có chuyện gì xảy ra với bà, bố không được để bất cứ ai áp một *phương pháp* lên bà. Bà nói rất dứt khoát. Bà nói: *Nó sẽ không phải là một con quái vật, Wei. Nó sẽ là một bảng tính.*"
+"Hai điều. Bà ấy bảo phương pháp của họ là sai lầm, rằng bà ấy đã tranh luận về điều đó và đã thua cuộc, và rằng bà ấy sẽ tự làm theo cách riêng của mình. Và bà ấy bảo với bố — " Ông ngập ngừng, rồi bắt đầu lại, và lần thứ hai lời nói tuôn ra méo mó gượng gạo. "Bà ấy bảo rằng nếu có bất trắc gì xảy ra với bà ấy, bố tuyệt đối không được để bất kỳ ai áp đặt một *phương pháp* nào lên người bà ấy. Bà ấy dặn rất rành rọt. Bà ấy bảo: *Đó sẽ không phải là một con quái vật đâu, anh Wei. Nó sẽ là một bảng tính biểu mẫu.*"
 
-Bàn tay Lyra đưa lên xương ức, lên mảng da trần. Viên ngọc vẫn nằm trong nhà bà nội, cùng với tất cả những thứ khác của mẹ, và chuyện Nai Nai không hề nói một lời nào về bất cứ điều gì trong số đó, không hiểu sao, lại tệ hơn nhiều so với việc bà có nói ra.
+Bàn tay Lyra vô thức chạm lên xương ức, vào làn da trần. Mặt ngọc bích vẫn nằm bên nhà bà nội, cùng với tất cả những di vật khác của mẹ, và việc Nai Nai không hề hé răng nửa lời về bất cứ điều gì trong số đó chẳng hiểu sao lại đáng sợ hơn nhiều so với việc bà nói ra.
 
-"Và sau đó?" cô hỏi.
+"Và rồi sao nữa hả bố?" cô hỏi.
 
-"Và sau đó, vào tháng Chín năm nay là tròn năm năm, bà một mình đi vào một căn buồng dưới tòa nhà đó, vào một đêm, không nói với ai rằng bà đi, và sáng hôm sau bà không còn ở trong nhà." Ông nói điều đó mà không thêm chút kịch tính nào, và đó là cách ông trao những điều tệ nhất. "Người ta đã tìm kiếm trong mười một tháng. Chính bố là người khuyên bà đừng nhận vị trí đó. Suốt sáu năm nay, ngày nào bố cũng làm lại phép tính ấy, và nó đều ra cùng một kết quả, và bố muốn được ghi nhận rằng phép tính không phải là vấn đề."
+"Và rồi, đúng năm năm trước vào tháng Chín này, bà ấy một mình bước vào một căn buồng bên dưới tòa nhà đó trong đêm tối, chẳng nói với ai về việc mình đi, và sáng hôm sau bà ấy không còn ở trong căn nhà này nữa." Ông nói điều đó mà không chút khoa trương kịch tính, đó chính là cách ông thông báo những tin tức tồi tệ nhất. "Người ta tìm kiếm suốt mười một tháng trời. Chính bố là người đã khuyên bà ấy đừng nhận vị trí đó. Bố đã làm phép tính số học về chuyện đó mỗi ngày suốt sáu năm qua và lần nào kết quả cũng ra y như cũ, và bố muốn con ghi nhớ rằng phép tính số học chưa bao giờ là vấn đề cốt lõi."
 
-"Đó là chuyện thứ ba", Lyra nói khẽ.
+"Đó là điều thứ ba," Lyra khẽ nói.
 
-"Ừ."
+"Phải."
 
-"Thế chuyện thứ tư thì sao?"
+"Vậy điều thứ tư là gì?"
 
-Wei Chen tháo kính ra lau vào áo sơ mi, việc chưa bao giờ có kết quả, và việc mà Lyra đã nhìn ông làm chừng bốn trăm lần trong đời mình, và chưa từng một lần thấy nó thất bại ở nhiệm vụ của nó: cái việc ông làm thay vì khóc.
+Wei Chen tháo kính ra, lau vào vạt áo sơ mi, một hành động chẳng có tác dụng gì mà Lyra đã chứng kiến có lẽ đến bốn trăm lần trong đời và chưa từng thấy nó thất bại trong việc trở thành thứ ông làm thay cho việc khóc.
 
-"Không có chuyện thứ tư", ông nói. "Bố có ba thứ và đã nói hai thứ, giờ bố đi ra đứng ở bồn rửa chén đây, còn con sẽ ngồi ở cái bàn đó và thể hiện cái tuổi mười sáu của mình với bố một lát, rồi hai bố con sẽ ăn trứng."
+"Không có điều thứ tư nào cả," ông nói. "Bố chỉ có ba điều, đã nói hai điều rồi và giờ bố sẽ ra đứng bên bồn rửa, còn con thì cứ việc ngồi ở chiếc bàn này và làm một đứa trẻ mười sáu tuổi nhặng xị lên với bố một lát, rồi sau đó chúng ta đi tráng trứng."
 
 ---
 
-Cô thể hiện cái tuổi mười sáu của mình với ông trong mười một phút.
+Cô đã làm một đứa trẻ mười sáu tuổi nhặng xị lên với ông suốt mười một phút đồng hồ.
 
-Cô moi được từ ông điều kiện thứ ba — cái điều kiện về việc không làm điều đó vì ông — và cô nghe nó, và cô không đồng ý với nó, và cô nói thẳng với ông như vậy, và ông để mặc cô, và một thứ gì đó trong căn bếp nhẹ đi chừng bốn phần trăm. Rồi cô đi được tới phần thực tế thì đâm trúng bức tường.
+Cô đã cạy được từ miệng ông điều kiện thứ ba — điều kiện về việc không được làm chuyện đó vì ông — cô đã lắng nghe, kiên quyết không đồng thuận, cô nói thẳng điều đó với ông, và ông chấp nhận, và không khí trong căn bếp dường như nhẹ nhõm hơn được chừng bốn phần trăm. Thế rồi cô bắt đầu bước sang phần thực tế và vấp phải một bức tường ngăn cách.
 
 "Chợ Lớn."
 
 "Ừ."
 
-"Bố xuất cảnh năm bốn tuổi."
+"Bố xuất cảnh năm lên bốn tuổi."
 
-"Bố xuất cảnh năm bốn tuổi. Mẹ bố sinh ra ở đó. Bà của bố được học ở đó, trong một căn nhà trên một con đường tên Hậu Giang, do một người phụ nữ dạy, và người phụ nữ ấy chính là bà của người đã dạy bố." Sợi dây chuyền của Nai Nai nằm trên bàn giữa hai người, cuộn tròn. "Đó là một câu rất dài, và bố chưa từng nói to câu đó với bất kỳ ai, và từ thứ Sáu đến giờ bố cứ chờ xem liệu mình có nói được không."
+"Bố xuất cảnh năm lên bốn tuổi. Mẹ của bố sinh ra ở đó. Bà của bố được truyền dạy nghề ở đó, trong một căn nhà trên một con phố tên là Hậu Giang, bởi một người phụ nữ vốn là bà ngoại của người phụ nữ đã dạy nghề cho bố." Sợi dây chuyền của Nai Nai nằm cuộn tròn trên bàn giữa hai người. "Đó là một câu chuyện rất dài và bố chưa từng nói to thành lời với bất kỳ ai, từ hôm thứ Sáu tới giờ bố cứ chờ xem liệu mình có đủ dũng khí nói ra hay không."
 
-"Và Lin biết điều đó. Lin biết tất cả những điều đó, mà mẹ lại được dạy *ngay ở đây*—"
+"Và Lin biết điều đó. Mẹ biết tất cả những chuyện đó, thế mà mẹ lại được dạy dỗ *ngay tại đây*—"
 
-"Ở đây, trong căn bếp này, do một người phụ nữ với cây kim ngọc và một cái tính nóng dạy, từ khi sáu tuổi, vì mẹ của con và mẹ của bố là kiểu bạn bè trao con cái mình cho nhau trông giữ." Ông lật ngược sợi dây chuyền bằng một ngón tay. "Lyra. Bố muốn hết sức cẩn thận ở đây, vì bố có thể cảm nhận được con đang tới một nơi nào đó rồi, và bố thà rằng con không tới đó với tốc độ."
+"Ngay tại đây, trong chính căn bếp này, bởi một người đàn bà cầm cây kim ngọc và tính tình nóng nảy, từ khi mẹ con mới sáu tuổi, bởi vì mẹ của Lin và mẹ của bố là kiểu bạn bè thân thiết từng gửi con cái cho nhau trông nom." Ông dùng một ngón tay lật nhẹ sợi dây chuyền. "Lyra à. Bố muốn hết sức thận trọng ở điểm này, bởi vì bố cảm nhận được con đang vội vàng đi tới một kết luận nào đó rồi, và bố thà rằng con đừng lao tới đó với tốc độ chóng mặt như thế."
 
-"Con đang tới một chỗ nào đó."
+"Con đang tìm đến một kết luận."
 
-"Bố biết. Ai cũng vậy. Gia đình có rất nhiều người nhìn thấy những thứ, và tất cả đều lọt vào cùng một tòa nhà, và tòa nhà đó là lý do mẹ con không có trong căn bếp này." Ông nhìn cô. "Chợ Lớn không phải là nơi có vàng. Nó là nơi có gia đình của con. Đó là hai câu khác nhau và bố muốn chúng được giữ tách biệt một thời gian."
+"Bố biết. Ai cũng vậy cả. Trong gia đình ta có rất nhiều người có khả năng nhìn thấy những điều kỳ lạ, và tất cả bọn họ rốt cuộc đều bước chân vào cùng một tòa nhà đó, và tòa nhà đó chính là lý do khiến mẹ con không còn ngồi trong căn bếp này nữa." Ông nhìn thẳng vào cô. "Chợ Lớn không phải là nơi cất giấu kho báu vàng ròng. Đó là nơi cội nguồn gia tộc của con. Đó là hai câu hoàn toàn khác nhau và bố muốn con giữ chúng tách biệt một thời gian."
 
-Lyra nhìn ra cửa sổ một lúc.
+Lyra nhìn đăm đăm ra ngoài cửa sổ một lúc lâu.
 
-"Vậy là tấm bản đồ sai", cô nói.
+"Vậy là tấm bản đồ đó sai rồi," cô nói.
 
-"Bản đồ của mẹ con là *bản đồ của bà ngoại con*, và nó được vẽ vào khoảng năm 1996, và nó ghi phía bắc, gần Canada, và nó không ghi lý do, và nó không ghi thời gian, và có một nét gạch xuyên qua chữ 'gần' bằng chính nét chữ của bà, như thể bà đã cãi nhau với chính mình về nó." Ông đang lục tập hồ sơ, và trong tập có một bản photo, và rõ ràng ông đã tự mang nó đi photo ở một tiệm photo, trong giờ ăn trưa, đó là điều dễ mến duy nhất cô học được về bố mình trong hai năm. "Bố đã nhìn nó suốt tám ngày. Bố không phải là người nhìn thấy gì cả. Bố nhìn nó tám ngày và không thể nói với con là nó có ý nghĩa gì không, và lý do bố không thể nói là bố không biết mình đang nhìn cái gì, và bố đã dành cả sự nghiệp của mình để căm ghét loại câu nói đó."
+"Bản đồ của mẹ con thực chất là *bản đồ của bà ngoại con*, nó được vẽ vào khoảng năm 1996, chỉ ghi hướng bắc, gần Canada, không ghi lý do, không ghi thời gian, và có một nét gạch ngang chữ 'gần' bằng chính nét bút của bà như thể bà đã từng tự tranh luận với chính mình về điều đó." Lúc này ông đang lật giở tập hồ sơ, trong đó có một bản sao chụp mà rõ ràng ông đã tự tay mang ra tiệm photocopy trong giờ nghỉ trưa — đó là điều đáng mến nhất cô nhận ra ở cha mình suốt hai năm qua. "Bố đã nhìn nó suốt tám ngày trời. Bố không phải là người nhìn thấy bất cứ thứ gì. Bố nhìn nó tám ngày ròng mà không thể nói cho con biết liệu nó có mang ý nghĩa gì hay không, và lý do bố không thể nói là vì bố hoàn toàn không biết mình đang nhìn vào cái gì, mà cả cuộc đời làm nghiên cứu của bố luôn căm ghét cái kiểu tuyên bố mơ hồ như thế."
 
-"Vậy bố nghĩ nó là gì?"
+"Vậy bố nghĩ nó là gì ạ?"
 
-"Bố nghĩ", bố cô nói, "rằng mẹ con đã ra đi tìm một thứ gì đó, rằng bà đã nói với bà nội con về việc đó trong cơn hoảng loạn, rằng người bà tin tưởng sẽ giúp bà tìm ra thứ đó chính là người điều hành ngôi trường, và rằng hoặc bà tìm ra nó, nói với họ, và nó bị bịt kín, hoặc bà không tìm ra nó và nó làm bà hoảng sợ tới mức chui vào một căn buồng vào một đêm mà không ai biết bà đang ở đâu." Ông chỉnh tập hồ sơ cho vuông vắn. "Đó là hai câu chuyện khả dĩ. Trong câu chuyện thứ nhất bà là một người tử đạo và bố là một kẻ ngu đã giữ bà ở nhà. Trong câu chuyện thứ hai bà là một người phụ nữ đã hoảng sợ và đã một mình đưa ra một quyết định sai, và bố vẫn là kẻ ngu đã giữ bà ở nhà, và sự khác biệt giữa hai câu chuyện ấy đã chín năm tuổi, và bố không được biết."
+"Bố nghĩ," cha cô chậm rãi nói, "rằng mẹ con đã cất công đi tìm kiếm một thứ gì đó, rằng bà ấy đã kể với bà nội con về việc đó trong cơn hoảng loạn, rằng người bà ấy tin tưởng sẽ giúp tìm ra nó chính là kẻ đang điều hành ngôi trường kia. Và rằng hoặc là bà ấy đã tìm ra nó, nói cho họ biết để rồi bị bưng bít phi tang; hoặc là bà ấy không tìm ra nó và nỗi sợ hãi đã xua đuổi bà ấy bước vào căn buồng đó trong một đêm tối mịt chẳng ai hay biết." Ông vuốt lại tập hồ sơ cho ngay ngắn. "Đó là hai khả năng có thể xảy ra. Trong khả năng thứ nhất, bà ấy là một người tử vì đạo còn bố là một kẻ ngu xuẩn đã giam chân bà ấy ở nhà. Trong khả năng thứ hai, bà ấy là một người phụ nữ hoảng sợ đã đơn độc đưa ra một quyết định tồi tệ, và bố vẫn cứ là một kẻ ngu xuẩn đã giam chân bà ấy ở nhà. Khoảng cách giữa hai câu chuyện ấy đã kéo dài chín năm rồi, và bố không có cách nào tìm ra sự thật."
 
 ---
 
-Lúc bốn giờ, cô ra tận cổng đợi ông đi làm về, việc cô không làm từ khoảng chín tuổi, và không ai trong hai người nhắc tới việc đó.
+Lúc bốn giờ chiều, cô ra tận cổng ngõ đón ông đi làm về, điều cô đã không làm từ hồi lên chín tuổi và cả hai đều ngầm hiểu mà không nhắc tới.
 
 "Ba."
 
-"Ừm."
+"Ừ con."
 
-"Nếu thứ Bảy con bước vào một căn phòng mà mọi người trong đó đều rất tử tế, rất quan tâm, và hiểu biết nhiều hơn con một chút về chính mẹ của con, thì con phải làm gì?"
+"Nếu thứ Bảy này con bước vào một căn phòng mà ai nấy đều hết sức niềm nở, hết sức quan tâm và biết rõ về mẹ con hơn cả bản thân con, thì con phải làm gì?"
 
-Wei Chen dừng lại trên vỉa hè, tháo cặp tài liệu khỏi vai, đặt nó xuống, việc mà ông vốn không cần phải làm.
+Wei Chen dừng chân trên vỉa hè, tháo chiếc cặp tài liệu khỏi vai rồi đặt xuống đất, một cử chỉ vốn dĩ không cần thiết.
 
-"Con muốn câu trả lời chiến thuật hay câu trả lời thật", ông nói.
+"Con muốn nghe câu trả lời mang tính chiến thuật hay câu trả lời thật lòng?" ông hỏi.
 
-"Con không phân biệt được."
+"Con không phân biệt nổi."
 
-"Câu thật." Ông chuyển cặp tài liệu sang tay kia. "Con sẽ rất giỏi trong căn phòng đó, Lyra, và bố muốn con biết rằng bố đã nghĩ về việc này và đã đi đến kết luận, và bố muốn con được cảnh báo trước, vì nó không phải là điều con đang mong đợi. Con sẽ không thể biết họ có đang nói dối con hay không. Không ai có thể. Đó không phải là một thất bại của đạo đức họ, đó chính là cái mà một căn phòng đầy những người biết chuyện tồn tại *để làm*. Con sẽ không thể biết, con mười sáu tuổi, con sẽ ngồi đó và cảm nhận toàn bộ cấu trúc của nó, và sẽ có một khoảnh khắc — khoảnh khắc đó sẽ ngắn, sẽ dài chừng bốn giây — khi con cảm thấy bị cám dỗ muốn trở nên chắc chắn."
+"Câu thật lòng." Ông đổi cặp tài liệu sang tay kia. "Con sẽ thể hiện rất tốt trong căn phòng đó, Lyra ạ, và bố muốn con biết rằng bố đã suy nghĩ kỹ về chuyện này và đã đi đến kết luận, bố muốn cảnh báo trước cho con, bởi vì nó sẽ không giống như những gì con tưởng tượng đâu. Con sẽ không tài nào nhận biết được liệu họ có đang nói dối con hay không. Chẳng ai có thể nhận ra được. Đó không phải vì đạo đức của họ suy đồi, mà một căn phòng đầy những kẻ nắm bắt thông tin sinh ra *chính là để làm việc đó*. Con sẽ không phân biệt được đâu, con mới mười sáu tuổi, con sẽ ngồi đó và cảm nhận toàn bộ cấu trúc quyền lực của căn phòng, và sẽ có một khoảnh khắc — một khoảnh khắc rất ngắn thôi, chừng bốn giây đồng hồ — khi con bị cám dỗ muốn trở nên quả quyết."
 
-"Chắc chắn về cái gì?"
+"Quả quyết về điều gì ạ?"
 
-"Về việc ai trong bọn họ đang nói dối." Ông nhặt cặp tài liệu lên. "Và bố muốn con biết, trước khi chúng ta tới chỗ đó, rằng chính *bố* đã không phân biệt được suốt năm năm, rằng bố đã dùng mọi công cụ mình có, và rằng một người đã làm giáo sư hai mươi mốt năm và đã dạy bốn trăm sinh viên cách không tin vào một lập luận tồi thì cũng không tài nào moi tới đáy chuyện này được. Nên con cũng sẽ không thể. Đó không phải là điều đáng xấu hổ ở tuổi mười sáu. Đó là tình trạng đích thực của một người yêu thương một người đã mất tích, và không có kỹ thuật nào cho việc đó, và ai nói với con là có, người đó đang bán hàng."
+"Về việc ai trong số họ đang nói dối." Ông nhấc chiếc cặp lên. "Và bố muốn con hiểu rõ, trước khi chúng ta bước chân tới đó, rằng chính *bố* cũng đã không tài nào phân biệt nổi suốt năm năm qua, dẫu bố đã vận dụng mọi công cụ mình có trong tay. Một kẻ đã làm giáo sư suốt hai mươi mốt năm và từng dạy cho bốn trăm sinh viên cách không bao giờ tin vào một lập luận ngụy biện rốt cuộc cũng chẳng thể nào chạm tới chân tướng sự việc này. Cho nên con cũng sẽ không thể làm được đâu. Đó không phải là điều đáng hổ thẹn ở tuổi mười sáu. Đó là tình cảnh thực tế của một người yêu thương một người thân đã mất tích, chẳng có bí quyết kỹ thuật nào cho chuyện đó cả, và bất cứ ai bảo với con rằng có, kẻ đó chỉ đang mị dân mà thôi."
 
-"Vậy con phải *làm* gì?"
+"Thế thì con phải *làm* gì hả bố?"
 
-"Con ghi lại mọi điều bất kỳ ai nói với con mà con không thể tự đoán ra, kể cả những lời tử tế." Ông bắt đầu bước đi. "Đặc biệt là những lời tử tế. Trong một ngôi trường như thế, những lời tử tế là những lời đã bị uốn nắn. Con sẽ cảm nhận được sự uốn nắn mà sẽ không chứng minh được, nên con sẽ ghi nó lại đúng theo hình dáng nó đến với con, và mười năm nữa con sẽ mừng vì đã làm vậy."
-
----
-
-Đêm đó cô ngồi ở cuối chiếc giường của mình với hai bàn tay rỗng, vì tất cả những gì thuộc về mẹ vẫn nằm trong nhà bà nội, nơi chúng vẫn luôn nằm, và cô đã quyết định — thành lời, với chính mình, trong một căn phòng trống, điều mà cô biết là không giống với việc quyết định — rằng cô đã hết chờ người ta trao cho mình bất cứ thứ gì trong số đó, và rằng ngày mai cô sẽ hỏi.
-
-Thay vào đó, cô nằm ngửa, giơ hai bàn tay của chính mình lên trên mặt và nhìn chúng cho tới khi căn phòng bắt đầu làm cái việc của nó, việc nó vẫn làm: cái hộp nhỏ ấm áp của căn phòng ngủ không còn là một chiếc hộp nhỏ ấm áp nữa mà trở thành một căn phòng có một căn phòng thứ hai nằm phía sau.
-
-Cô đã có cái đó từ khi sáu tuổi.
-
-Cô chưa từng kể với ai. Không Rivera, không Nai Nai, không bố. Mười năm của một căn phòng thứ hai, và không một lời.
-
-*Chưa bao giờ có ai hỏi tôi căn phòng thứ hai có gì*, cô nghĩ, nằm đó với hai bàn tay rỗng. *Không một ai, trong mười năm. Không bố, người để ý khi tôi không ăn. Không Nai Nai, người đếm nhịp thở của tôi.*
-
-Căn phòng thứ hai vẫn ở đó. Nó đã ở đó từ khi cô sáu tuổi, và nó chưa từng một lần chứa đựng bất cứ điều gì, và chủ nhật này cô sẽ tìm ra trong đó có gì, và cô sẽ không sợ điều đó, và cô sợ điều đó đến tột cùng.
-
-Cô nằm trong bóng tối, và không ngủ, và không bật đèn lên, và không gỡ tờ giấy khỏi cửa.
+"Con hãy ghi lại tất cả mọi điều mà bất kỳ ai nói với con mà con không thể tự mình đoán biết trước, kể cả những lời nói tử tế." Ông bắt đầu rảo bước. "Đặc biệt là những lời tử tế. Trong một ngôi trường như thế, những lời tử tế chính là những thứ đã được gọt giũa tinh vi nhất. Con sẽ cảm nhận được sự gọt giũa ấy mà chẳng thể chứng minh nổi, vậy nên con hãy cứ ghi chép lại chính xác theo hình dáng lúc nó đến với con, rồi mười năm nữa con sẽ thấy biết ơn vì mình đã làm vậy."
 
 ---
 
-*Ghi Chú Cộng Hưởng Sợi Chỉ: C-2214. Các điều kiện của người bảo hộ đã được tiếp nhận và ghi nguyên văn vào biên bản: (1) sự hộ tống, vô điều kiện sau giờ đầu tiên; (2) không tiết lộ chẩn đoán cho ngôi trường trước khi có sự đồng thuận của người bảo hộ; (3) từ chối dứt khoát mọi sự dụ dỗ nào được đưa ra vì lợi ích của người nhìn thấu của một bên thứ ba. Một điều kiện nữa do người bảo hộ đề xuất và không được chấp nhận: người nhìn thấu đã tuyên bố sẽ không đồng ý với điều kiện đó, và mục này đứng trong biên bản với tư cách một sự việc được ghi lại chứ không phải với tư cách một sự thỏa thuận. Ghi chú của E. Weaver: đã hiểu. Tôi sẽ nêu điều thứ ba với ủy ban của chính mình vào thứ Năm và tôi mong đợi là mình sẽ thua. Ghi chú bổ sung của R. Ekwueme (bên ngoài): xin lưu ý rằng giấy giới thiệu gửi cho bà đã được lập vào ngày mười lăm và rằng lá thư ngày hai mươi hai không phải là yếu tố khởi phát. Đã có ai đó đưa ra một quyết định về đứa trẻ này trước khi bất kỳ chúng ta nào được biết điều gì.*
+Đêm hôm đó, cô ngồi ở mép giường của mình với hai bàn tay trống trơn, bởi mọi di vật của mẹ vẫn nằm bên nhà bà nội như bấy lâu nay, và cô đã quyết định — nói thành lời với chính mình trong căn phòng vắng, dẫu cô ý thức được rằng làm vậy chưa hẳn đã là ra quyết định — rằng cô sẽ thôi không chờ đợi người ta ban phát bất cứ thứ gì cho mình nữa, và ngày mai cô sẽ sang hỏi thẳng.
+
+Thay vào đó, cô nằm ngửa, giơ hai bàn tay lên trước mặt và ngắm nhìn chúng cho đến khi căn phòng lại bắt đầu làm cái việc quen thuộc của nó: chiếc hộp nhỏ ấm áp của phòng ngủ bỗng thôi không còn là chiếc hộp nhỏ ấm áp nữa mà biến thành một căn phòng có một căn phòng thứ hai ẩn hiện phía sau.
+
+Cô đã trải nghiệm điều đó từ năm lên sáu tuổi.
+
+Cô chưa từng thổ lộ với bất kỳ ai. Không nói với cô Rivera, không nói với Nai Nai, không nói với bố. Mười năm trời sống cùng một căn phòng thứ hai, mà không một lời thốt ra.
+
+*Chưa từng có một ai hỏi mình có gì trong căn phòng thứ hai,* cô nghĩ thầm, nằm đó với hai bàn tay trống không. *Không một người nào trong suốt mười năm ròng. Kể cả bố, người luôn nhận ra mỗi khi mình bỏ ăn. Kể cả Nai Nai, người luôn đếm từng nhịp thở của mình.*
+
+Căn phòng thứ hai vẫn luôn ở đó. Nó đã hiện diện từ năm cô lên sáu, và chưa từng một lần chứa đựng bất cứ thứ gì bên trong, và vào ngày Chủ Nhật tới đây cô sẽ khám phá xem thực sự có gì trong đó. Cô sẽ không sợ hãi điều đó, dẫu trong lòng cô đang sợ hãi đến tột cùng.
+
+Cô nằm im trong bóng tối, không tài nào chợp mắt, không bật đèn, và cũng không gỡ tờ giấy ghi chú dán ngoài cửa phòng.
+
+---
+
+*Ghi Chú Cộng Hưởng Sợi Chỉ: C-2214. Các điều kiện của người bảo hộ đã được tiếp nhận và ghi nguyên văn vào biên bản: (1) người giám hộ được đi kèm, vô điều kiện sau giờ đầu tiên; (2) không tiết lộ thông tin chẩn đoán cho nhà trường trước khi có sự đồng thuận của người bảo hộ; (3) từ chối dứt khoát mọi sự dụ dỗ nào được đưa ra nhân danh lợi ích của người nhìn thấu từ một bên thứ ba. Một điều kiện nữa do người bảo hộ đưa ra đã không được chấp thuận: người nhìn thấu đã tuyên bố cô bé sẽ không đồng ý với điều kiện đó, và mục này được ghi lại trong biên bản như một sự việc có thật chứ không phải một sự thỏa thuận. Ghi chú của E. Weaver: Đã hiểu. Tôi sẽ đưa điều khoản thứ ba ra trước ủy ban của mình vào thứ Năm và tôi lường trước là mình sẽ thua. Ghi chú bổ sung của R. Ekwueme (chuyên gia độc lập bên ngoài): Xin lưu ý rằng phiếu giới thiệu gửi tới quý vị đã được lập từ ngày mười lăm và lá thư ngày hai mươi hai không phải là yếu tố khởi phát. Đã có ai đó đưa ra quyết định về đứa trẻ này trước khi ai trong hai chúng ta kịp hay biết điều gì.*
 
 # Chương 4: Lời Mời
 
-*Thứ Bảy, 31 tháng Tám. Căn bếp của Nai Nai ở Ellery Street, rồi một góc phố trên đường về nhà.*
+*Thứ Bảy, 31 tháng Tám. Căn bếp của Nai Nai trên phố Ellery, rồi một góc đường trên lối về nhà.*
 
-> "Một truyền thống không phải là một bộ quy tắc. Nó là một cuộc tranh luận đã tiếp diễn suốt một khoảng thời gian rất dài giữa những người đã chết."
+> "Một truyền thống không phải là một bộ quy tắc. Nó là một cuộc tranh luận đã kéo dài rất lâu giữa những người đã khuất."
 >
-> — Nai Nai, khi được hỏi vì sao bà của bà không bao giờ ghi bất cứ điều gì ra giấy
+> — Nai Nai, khi được hỏi vì sao bà cố không bao giờ ghi chép bất cứ điều gì lại
 
-Chuyến xe buýt đi Ellery Street mất năm mươi lăm phút, còn ngày trước chỉ mất bốn mươi phút, và Lyra dành mười phút đầu để nhìn một sợi chỉ nối giữa người lái xe và một người phụ nữ ngồi hàng ghế thứ ba, và ba mươi phút tiếp theo để tìm hiểu vì sao cô không thể tắt nó đi.
+Chuyến xe buýt tới phố Ellery mất năm mươi lăm phút trong khi trước đây chỉ mất bốn mươi phút, và Lyra đã dành mười phút đầu tiên để dõi theo một sợi chỉ giăng giữa bác tài xế với một người phụ nữ ở hàng ghế thứ ba, rồi ba mươi phút tiếp theo để tìm hiểu xem vì sao mình không tài nào ngắt bỏ nó đi được.
 
-Cô không thể tắt nó đi. Đó mới là điều mới. Suốt hai năm nó cứ đến rồi lại đi — một tuần tệ, một tháng tệ, một buổi chiều trong hành lang khi mọi thứ đều hóa thành một sơ đồ đi dây, và cô đã về nhà ấn đầu xuống gối. Nhưng từ ngày mười lăm, nó đã ở hẳn vào và sinh sống luôn, và cứ như thể có ai đó đã vặn cái nút chỉnh sáng lên trong một căn phòng mà trước đó cô còn không biết là có tồn tại.
+Cô không thể ngắt bỏ nó. Đó là điều hoàn toàn mới. Suốt hai năm qua, nó cứ đến rồi đi — một tuần tồi tệ, một tháng ảm đạm, một buổi chiều ngoài hành lang khi mọi thứ bỗng biến thành một sơ đồ mạch điện và cô phải chạy về nhà vùi đầu xuống dưới gối. Nhưng kể từ ngày mười lăm trở lại đây, nó đã cắm rễ và ngụ cư hẳn trong đầu cô, tựa như có ai đó vừa vặn chiếc chiết áp tăng độ sáng trong một căn phòng mà trước đó cô chưa từng hay biết là có tồn tại.
 
-Ở điểm dừng cuối cùng trước khi tới nhà bà, một người đàn ông khiêng một chiếc xe đạp lên xe, và cả chiều dài lối đi từ cửa đến đuôi xe lập tức đầy ắp những sợi chỉ, và Lyra ngồi với hai tay để trên đùi, mắt nhắm, để mặc tất cả tràn qua người, và nó — cô phải thành thật, khi đang ngồi đó nhắm mắt — thực sự êm dịu. Đó là khoảng yên tĩnh duy nhất mà cô có được.
+Tại trạm dừng cuối cùng trước khi tới nhà bà nội, một người đàn ông dắt xe đạp bước lên, và toàn bộ lối đi giữa cửa trước và cửa sau bỗng ngập tràn những đường chỉ, Lyra ngồi im, hai tay đặt trong lòng, mắt nhắm nghiền để mặc cho luồng sóng ấy tràn qua người, và điều đó — cô phải thú thật với lòng mình khi ngồi đó nhắm nghiền mắt — mang lại một cảm giác thật thư thái. Đó là khoảng lặng yên ả duy nhất cô có được.
 
-*Đó mới là vấn đề,* cô nghĩ. *Tôi đã tìm ra thứ giúp được mình, và nó lại chính là thứ nằm trong đầu bố tôi.*
+*Đó mới chính là tai họa,* cô thầm nghĩ. *Mình vừa tìm ra thứ giúp bản thân dễ chịu hơn, nhưng nó lại chính là thứ đang hành hạ đầu óc của bố.*
 
 ---
 
-Anmei Chen tám mươi mốt tuổi, sống trong một ngôi nhà trên Ellery Street, cách bốn dãy phố với nơi Lyra và bố cô từng sống trước đây, và lý do con phố mang cái tên đó là vì cả hai ngôi nhà từng thuộc về cùng một gia đình và được đặt theo họ của gia đình ấy — mà ở gia đình này, cái họ đó không hẳn là một cái họ, mà là một quyết định hành chính được đưa ra vào khoảng năm 1911.
+Anmei Chen năm nay tám mươi mốt tuổi, sống trong một căn nhà trên phố Ellery, cách nơi Lyra và cha cô từng sống trước đây bốn dãy nhà. Lý do con phố mang cái tên ấy là vì cả hai căn nhà đều từng thuộc về cùng một gia đình và được đặt theo tên của dòng họ — mà ở gia đình này, tên họ không hẳn là một họ tộc truyền thống cho bằng một quyết định mang tính hành chính được đưa ra vào khoảng năm 1911.
 
-Bà của cô đang đứng ở cửa với một chiếc khăn lau chén vắt qua vai.
+Bà nội cô đang đứng nơi bậu cửa với chiếc khăn lau chén vắt ngang vai.
 
-"Cháu mặc áo khoác đồng phục đến nhà bà, giữa tháng Tám đấy."
+"Cháu mặc áo khoác đồng phục trường đến nhà bà giữa tháng Tám thế này đấy à."
 
-"Trời đang mưa."
+"Trời đang mưa mà bà."
 
-"Trời không mưa. Từ thứ Ba tới giờ không hề mưa. Cháu mặc áo khoác đồng phục vì cháu không biết phải làm gì khác với hai bàn tay của mình." Anmei Chen quay đi. "Bà Sáu làm *bánh tét* rồi. Cháu sẽ ăn. Cháu không có quyền ý kiến về phần thịt, cũng không có quyền ý kiến về bát cơm thêm, và nếu cháu dám nói cháu không đói, tôi sẽ gọi điện cho bố cháu và báo nguyên văn lời cháu nói."
+"Trời không có mưa. Từ hôm thứ Ba tới giờ chẳng có giọt mưa nào cả. Cháu mặc áo khoác đồng phục là vì cháu không biết phải làm gì với hai bàn tay của mình thì có." Anmei Chen xoay người bước vào trong. "Bà Sáu làm *bánh tét* rồi đấy. Cháu phải ăn. Cháu không có quyền kén chọn phần thịt mỡ, cũng không có quyền từ chối phần bánh ăn thêm, và nếu cháu dám bảo cháu không đói, tôi sẽ gọi điện ngay cho bố cháu để mách nguyên văn lời cháu nói."
 
 "Nai Nai—"
 
-"Cháu sẽ ăn, rồi cháu sẽ kể tôi nghe về lá thư, rồi tôi sẽ kể cháu nghe về ngôi trường, và chúng ta sẽ không đứng bàn chuyện này ở cửa nhà như hai người phụ nữ ở chợ."
+"Cháu sẽ ăn, rồi sau đó cháu sẽ kể cho tôi nghe về bức thư, rồi tôi sẽ kể cho cháu nghe về ngôi trường đó, và chúng ta sẽ không đứng bàn chuyện hệ trọng này ngoài ngưỡng cửa như hai người đàn bà ngoài chợ đâu."
 
 ---
 
-Bánh tét là loại bánh hình trụ của tỉnh quê nhà bà, gói trong lá chuối và luộc hàng giờ, và là thứ đầu tiên trong đời Lyra tự tay làm ra mà từng có người nhờ. Hồi đó cô mười một tuổi. Cô đã nhồi quá nhiều nhân vào một góc, và đã bị nhắc về chuyện đó suốt sáu năm.
+Bánh tét là món bánh hình trụ đòn đượm nét quê nhà của bà, được gói ghém trong lớp lá chuối xanh và luộc kỹ suốt nhiều giờ liền, và đó cũng là món đầu tiên Lyra từng tự tay làm ra mà có người ngỏ lời xin nếm thử. Khi ấy cô mới mười một tuổi. Cô đã nhồi quá nhiều nhân vào một góc bánh và bị bà nhắc nhở suốt sáu năm trời.
 
-Cô ăn hai cái. Bà của cô ngồi nhìn với vẻ thỏa mãn phẳng lặng của một người phụ nữ thấy kế hoạch của mình đang có kết quả.
+Cô ăn liền hai khoanh. Bà nội ngồi nhìn cô ăn với vẻ hài lòng phẳng lặng của một người phụ nữ thấy kế hoạch của mình đang vận hành trơn tru.
 
-"Cháu đang có một câu hỏi," Anmei Chen nói, "và cháu mang nó theo từ lúc lên xe buýt, và đó chính là câu hỏi cháu từng hỏi tôi trong ngày sinh nhật lần thứ năm — câu *sao bà lúc nào cũng biết con đang nghĩ gì* — và hôm đó tôi đã trả lời, giờ tôi cũng sẽ trả lời, và lần này cháu sẽ còn ít thích câu trả lời hơn."
+"Cháu đang có một thắc mắc," Anmei Chen nói, "và cháu đã ôm ấp nó từ lúc bước chân lên xe buýt. Đó cũng chính là câu hỏi cháu từng hỏi tôi vào ngày sinh nhật thứ năm — câu hỏi *sao bà lúc nào cũng biết tỏng con đang nghĩ gì* — và ngày đó tôi đã trả lời, giờ tôi lại nhắc lại, chỉ có điều lần này cháu sẽ ít thích câu trả lời hơn đấy."
 
-"Bà đếm hơi thở của cháu."
+"Bà đếm từng nhịp thở của cháu."
 
-"Hơi thở của cháu nhanh lên khi cháu nói dối và chậm lại khi cháu sợ, và còn có một loại thứ ba: khi cháu đang giữ một thứ gì đó đứng rất yên để không ai hỏi cháu về nó." Bà của cô nhúng một miếng bánh vào tách trà và không ăn. "Cháu đang sợ. Và cháu đang giữ một chuyện. Và cháu cũng đang nói dối, nhưng về một chuyện nhỏ, và tôi sẽ bỏ qua chuyện đó, vì đến khi sẵn sàng cháu sẽ tự kể, và cho tới giờ tôi chưa từng thấy ai tổn thương vì được phép tự đến với một điều theo nhịp thời gian của riêng mình."
+"Hơi thở của cháu dồn dập khi cháu nói dối, chậm lại khi cháu sợ hãi, và còn có một kiểu thở thứ ba: khi cháu đang cố giữ cho một điều gì đó thật phẳng lặng để không ai dò hỏi về nó." Bà nội nhúng một miếng bánh vào chén trà rồi không buồn ăn. "Cháu đang sợ hãi. Cháu đang che giấu một điều. Và cháu cũng đang nói dối, dẫu chỉ là một chuyện vặt vãnh, nên tôi sẽ bỏ qua cho cháu, bởi vì khi nào sẵn sàng cháu sẽ tự nói ra thôi, mà từ trước tới nay tôi chưa từng thấy ai bị tổn hại khi được phép tự mình thấu tỏ mọi chuyện theo đúng thời điểm của riêng họ cả."
 
-Lyra đặt cặp đũa xuống.
+Lyra buông đũa xuống bàn.
 
-"Nai Nai. Lá thư đến chín ngày trước, cháu mới biết vào thứ Sáu, và cháu chưa kể với bà vì cháu không muốn bị người ta kể cho nghe chuyện này chuyện nọ."
+"Nai Nai. Bức thư đã gửi đến chín ngày trước, cháu mới biết chuyện hôm thứ Sáu, và sở dĩ cháu chưa nói với bà là vì cháu không muốn bị người ta nhồi nhét vào đầu đủ thứ chuyện."
 
-Chiếc khăn lau chén rời khỏi vai, được đặt lên lưng ghế, rất chủ đích, theo cách người ta đặt xuống một thứ sắp tới sẽ cần đến.
+Chiếc khăn lau chén được nhấc khỏi vai bà, đặt lên lưng ghế một cách hết sức chậm rãi và chủ ý, tựa như cái cách người ta đặt xuống một vật dụng sắp sửa phải dùng tới.
 
-"Ngồi xuống đã," Anmei Chen bảo.
-
----
-
-Chiếc hộp được khảm xà cừ, và hoa văn trên nắp là một nút thắt mà Lyra nhìn thấy trong mơ từ khi còn nhỏ và chưa bao giờ vẽ lại được.
-
-Bên trong, trên một tấm lụa xanh đã phai màu, nằm một mặt dây ngọc bích.
-
-Không lớn. Bằng cỡ một cái móng tay, hình dáng gần tròn mà không hẳn tròn, khoan lỗ ở đầu trên và đeo bằng một sợi dây từng được thay lúc nào đó bằng một màu không ăn khớp.
-
-Anmei Chen không nhấc nó ra. Bà đặt một ngón tay lên và để nguyên đó.
-
-"Của ai?"
-
-"Của mẹ cháu. Trước đó là của mẹ của mẹ cháu, và của bà của mẹ cháu, và nó được truyền xuống theo dòng họ Ho, vào thời mà dòng ấy còn tồn tại, nghĩa là năm 1975 nó đã đi lên hướng Bắc, rời Sài Gòn, dưới đáy một chiếc hộp thiếc, rồi lại đi xuống phương Nam khi mẹ cháu đến xứ này, và rồi nó dừng lại ở mẹ cháu." Ngón tay không nhúc nhích. "Nó không phải miếng ngọc bích gì có giá trị lớn. Nó không phải một báu vật. Nó là một *chìa khóa*, và là chìa khóa của một thứ không tồn tại, và lý do sau bốn thế hệ nó vẫn còn tác dụng là vì bất cứ ai từng nắm nó đều mong nó như thế."
-
-"Nó mở ra cái gì?"
-
-"Không mở ra cái gì cả." Anmei Chen cuối cùng cũng ngẩng đầu lên. "Đó là điều tôi sắp kể cho cháu nghe, và tôi đã giữ riêng nó suốt tám mươi mốt năm, và chỉ một lần duy nhất, nên cháu hãy nghe hình dáng của nó trước, rồi mới đến nội dung."
-
-Bà ngồi xuống.
-
-"Bà của cháu — mẹ tôi, người cháu chưa từng gặp, mất vào mùa đông năm chín mươi chín — ngày xưa nhìn thấy được hai loại thứ. Nếu có người hỏi, bà sẽ nói rằng bà nhìn thấy *những sợi chỉ* và *những dòng chảy*, và nếu cháu là một đứa trẻ ngốc, cháu sẽ ghi lại câu đó và tưởng đó là thơ. Nó không phải thơ. Nó là một thứ duy nhất, nhìn từ hai đầu."
-
-"Giải thích đi."
-
-"*Những sợi chỉ* là cái riêng. Đường nối giữa một người và một người, một người và một nơi chốn, một người và điều họ định làm kế tiếp. Những sợi lâu đời nhất thì thật lâu đời: một bà và một cô cháu gái, một ngôi nhà và gia đình đã sống trong nó, một cô giáo và học trò mà cô sắp đánh trượt. Chúng *thuộc về cháu* — cháu nhìn thấy được chúng, và theo cách xưa cũ cháu có thể chạm vào chúng, và mọi điều cháu làm với một sợi chỉ là điều cháu đã làm với một con người." Ngón tay bà vẫn đặt trên mặt dây. "*Dòng chảy* là đầu bên kia. Chúng là những gì một nơi chốn đã từng là. Chúng không được làm nên từ con người; chúng được làm nên từ tất cả những kẻ từng hiện diện trong một nơi chốn và không còn ở đó nữa. Chúng chậm hơn, chúng không thuộc về ai cả, và chúng là thứ duy nhất trong gia đình này mà một người có ý tốt không thể làm đau được."
-
-"Còn mẹ?"
-
-"Mẹ cháu có trọn vẹn tất cả." Một khoảng ngừng. "Đủ cả phổ. Cả hai đầu, cùng một lúc, và cả những mối nối giữa chúng — thứ thứ ba mà mẹ tôi không làm được, còn mẹ cháu làm được từ khoảng mười một tuổi. Khi mẹ cháu nhìn vào một căn phòng, mẹ cháu không hề nhìn thấy căn phòng. Mẹ cháu nhìn thấy căn phòng *và mọi điều từng xảy ra trong nó*, và mẹ cháu không thể tắt đi thứ nào trong hai thứ đó, và từ mười bốn tuổi, mẹ cháu không thể tắt đi phần mà hai thứ ấy không bao giờ đồng ý với nhau."
-
-"Dòng chảy không bao giờ đồng thuận à?"
-
-"Chưa từng một lần. Trong tám mươi mốt năm chưa từng một lần." Anmei Chen nhấc tách trà lên. "Đó là phần bố cháu không thể chấp nhận, và cũng là phần tôi muốn cháu mang theo đến ngôi trường ấy vào thứ Bảy. Mẹ cháu không phải một người phụ nữ có một món quà đẹp. Nó là một người phụ nữ mang trong lòng một *mâu thuẫn*, từ mười một tuổi, và nó đã mất hai mươi chín năm để học cách giữ một mâu thuẫn mà không giải quyết nó. Có ba người còn sống từng nhìn thấy điều đó: một người đang ngồi trước mặt tôi, ăn bánh của tôi; một người trong số còn lại là một người phụ nữ tên Mei-Hua, là em ruột của bố cháu, làm việc ở ngôi trường cháu sắp đến vào thứ Bảy, và tôi đã không nói chuyện với người đó suốt năm năm. Người thứ ba là một người đàn ông ở Lyon, chưa từng gặp mẹ cháu, đã đọc mọi thứ mẹ cháu từng xuất bản; tôi chưa bao giờ kể với ông ta bất cứ điều gì trong chuyện này, và ông ta không biết có nên tin tôi hay không."
-
-Lyra hạ tay xuống.
-
-"Ở ngôi trường đó không có người cô nào của cháu."
-
-"Cháu có đúng một người, và cháu chưa từng gặp người đó, và trong khoảng mười phút nữa tôi sẽ giải thích, và cháu sẽ không thích bất kỳ phần nào của chuyện đó đâu." Bà của cô nhấp trà. "Ăn đi."
+"Ngồi tựa lưng ra sau đi," Anmei Chen bảo.
 
 ---
 
-Phần giải thích kéo dài mười một phút và còn tệ hơn những gì Lyra tưởng tượng nổi.
+Chiếc hộp được khảm xà cừ tinh xảo, hoa văn trên nắp hộp là một nút thắt mà Lyra từng thấy trong những giấc mơ từ thuở ấu thơ nhưng chưa bao giờ vẽ lại nổi.
 
-"Bố cháu là con trai tôi," Anmei Chen nói. "Mẹ cháu là *con dâu* của tôi, và trước đó, mẹ cháu là học trò của tôi, từ sáu tuổi, vì mẹ của mẹ cháu và tôi là kiểu bạn bè trao con cái cho nhau trông hộ. Mẹ của mẹ cháu là người họ Ho. Mẹ của tôi cũng là người họ Ho. Có ba người trong chúng tôi còn sống làm được trọn vẹn thứ đó; hai người thuộc về gia đình này, người thứ ba là em gái mẹ cháu, còn người thứ tư — người thứ tư là một người phụ nữ tên Lin Mei-Hua, sinh năm một nghìn chín trăm hai mươi tại Chợ Lớn, đã làm một việc gì đó ở khu phố này vào mùa thu năm một nghìn chín trăm bốn mươi ba, là bà cố của cháu bên ngoại, mất năm một nghìn chín trăm chín mươi bốn; tôi biết đến bà ấy từ khi tôi hai mươi tư tuổi, và cả đời tôi đã kể về bà ấy với cháu đúng một lần, và hôm nay sẽ không kể lại."
+Bên trong hộp, đặt trên tấm lụa xanh đã phai màu thời gian, là một mặt dây chuyền bằng ngọc bích.
 
-"Bốn người. Và Mei-Hua là một trong số đó."
+Không quá lớn. Chỉ cỡ bằng móng tay cái, mang hình dáng gần như một chiếc đĩa tròn dẫu không hoàn toàn tròn trịa, được khoan một lỗ nhỏ ở phía trên và luồn qua một sợi dây từng được thay thế vào một thời điểm nào đó bằng một sắc màu cọc cạch.
 
-"Mei-Hua là một trong số đó, và nó là em ruột của bố cháu, và chính nó đã dạy mẹ cháu những điều tôi không thể dạy, vì Mei-Hua thì *nhanh* còn tôi thì *chính xác*, và mẹ cháu cần cả hai, và ở hai người họ có rất nhiều điều như thế. Tôi có một đầu, còn nó có hai, và đó là toàn bộ sự khác biệt giữa tôi và nó, và tôi chưa từng một lần oán trách điều đó, và tôi đã oán trách điều đó không ngừng." Khóe miệng Anmei Chen khẽ động. "Và bố cháu gặp mẹ cháu vào năm một nghìn chín trăm chín mươi sáu, tại một dịp mà cả hai đều cho là không đáng nhắc tới, và cưới mẹ cháu vào năm sau, và đó là cách hai gia đình đã cãi nhau với nhau xuyên qua một đại dương suốt bốn mươi năm lại trở thành một gia đình với hai cái họ và một người bà rất mệt mỏi."
+Anmei Chen không nhấc nó ra. Bà đặt một ngón tay lên mặt ngọc và giữ nguyên ở đó.
 
-"Vậy nên khi bố cháu nói—"
+"Cái này của ai vậy bà?"
 
-"Bố cháu nói *gia đình chúng ta không đông người*, và ông ấy nói câu đó bằng giọng của một người đã nói nó suốt mười sáu năm và chưa từng một lần bị ai cãi lại, và ông ấy biết mình đang nói dối, và ông ấy chưa bao giờ tìm ra mình đang nói dối ai." Bà đặt tách xuống. "Và điều đó đưa chúng ta đến phần cháu thực sự muốn nghe. Mei-Hua là Chánh Văn phòng của Học viện đó. Nó làm chức ấy đã mười một năm. Chính nó là người đã ký vào hồ sơ của cháu, và chính nó là người đã không trả lời một trong mười một câu hỏi tôi đặt ra cho nó vào mùa xuân năm 2007; nó không trả lời vì nó sợ, và tôi đã không dồn nó, vì tôi cũng sợ, và vì tôi đã là một kẻ hèn khi có đứa cháu gái trong phòng."
+"Của mẹ cháu. Trước đó là của mẹ bà ấy, rồi của mẹ của mẹ bà ấy, nó được truyền lại theo dòng họ Hồ từ cái thời mà dòng họ ấy còn nguyên vẹn, nghĩa là nó từng xuôi ngược ra Bắc rời khỏi Sài Gòn vào năm 1975 dưới đáy một chiếc hộp thiếc, rồi lại trôi dạt về phương Nam khi mẹ cháu sang đất nước này, và rồi dừng lại ở đời bà ấy." Ngón tay bà vẫn không hề nhúc nhích. "Nó không phải là thứ ngọc bích có giá trị liên thành gì đâu. Nó chẳng phải của báu. Nó là một *chiếc chìa khóa*, và là chìa khóa mở vào một thứ vốn không hề tồn tại, và lý do nó vẫn còn phát huy tác dụng sau bốn thế hệ là bởi vì bất kỳ ai từng nắm giữ nó đều tha thiết mong muốn nó làm được điều đó."
 
----
+"Nó mở ra cái gì hả bà?"
 
-"Chuyện gì đã xảy ra với mẹ," Lyra nói.
+"Chẳng mở ra cái gì cả." Cuối cùng Anmei Chen cũng ngước mắt nhìn lên. "Đó chính là điều tôi sắp sửa nói cho cháu nghe đây, và tôi đã gìn giữ điều này suốt tám mươi mốt năm cuộc đời chỉ để nói một lần duy nhất, nên cháu hãy lắng nghe cái hình dáng của nó trước khi nghe đến nội dung bên trong."
 
-"Chuyện gì đã xảy ra với nó."
+Bà ngồi thẳng lưng lại.
 
-"Mẹ định phát biểu trước Hội đồng. Bà kể cho cháu rồi. Mẹ đến tìm bà vào một đêm, mang theo một tấm bản đồ, và nói *những mô thức của sự mục ruỗng* và *mù lòa thể chế*, và đêm sau thì mẹ đã biến mất."
+"Bà ngoại của cháu — tức mẹ của tôi, người cháu chưa từng được gặp mặt, người đã qua đời vào mùa đông năm chín mươi chín — ngày xưa từng nhìn thấy hai loại hiện tượng. Nếu cháu hỏi, bà ấy sẽ bảo với cháu rằng bà thấy *những sợi chỉ* và *những dòng chảy*, và nếu cháu là một đứa trẻ ngây ngô, cháu sẽ ghi chép lại rồi tưởng đó là thơ ca lãng mạn. Nó chẳng phải thơ ca đâu. Nó là cùng một thực thể duy nhất, được nhìn từ hai đầu mối khác nhau."
 
-"Nó đến đây vào ngày mười một tháng Chín, năm năm trước, khoảng mười một giờ đêm, và nó đã ở trong nhà được bốn tiếng mà chưa mở gì ra, và cũng không định mở." Giọng Anmei Chen không đổi. "Nó trải một tấm bản đồ lên chiếc bàn này. Đó là một tấm bản đồ tệ — tôi chưa từng thấy thứ gì tương tự, nó không phải bản đồ của một nơi chốn, nó là bản đồ của một *đại lượng*. Và nó nói: nó hội tụ về một nơi chưa từng có ai nhìn vào, và việc đếm là một bức tường do những kẻ cần một chỗ để chỉ tay vào dựng nên. Và tôi hỏi, *Lin, ai đi cùng con*, và nó đáp, *không ai đi cùng con cả, đó là toàn bộ vấn đề*, và rồi nó nói một câu mà năm năm nay tôi nghĩ về mỗi ngày."
+"Bà giải thích rõ hơn đi ạ."
 
-"Mẹ nói gì?"
+"*Những sợi chỉ* thuộc về từng cá nhân riêng lẻ. Đó là đường dây nối giữa người với người, giữa người với một chốn nơi, giữa một người với những toan tính họ định làm tiếp theo. Những sợi chỉ lâu đời nhất thường rất thiêng liêng: giữa người bà và đứa cháu gái, giữa một nếp nhà và gia đình từng gắn bó qua bao thế hệ, giữa người cô giáo và đứa học trò mà cô sắp sửa đánh trượt. Chúng thuộc về *riêng cháu* — cháu có thể nhìn thấy chúng, và theo phép tắc cổ truyền, cháu có thể chạm tay vào chúng, và bất cứ điều gì cháu tác động lên một sợi chỉ đều chính là điều cháu vừa làm đối với một con người bằng xương bằng thịt." Ngón tay bà vẫn đặt trên mặt ngọc. "*Những dòng chảy* lại là đầu mối phía bên kia. Chúng là tất cả những gì một vùng đất từng trải qua. Chúng không được tạo nên từ từng con người cụ thể; chúng được bồi đắp từ tất cả những kiếp người từng hiện diện nơi chốn ấy nhưng giờ đây không còn ở đó nữa. Chúng luân chuyển chậm rãi hơn, không thuộc quyền sở hữu của bất kỳ ai, và là thứ duy nhất trong gia tộc này không bao giờ bị tổn thương bởi một kẻ dẫu mang thiện ý."
 
-"Nó nói: *nếu con đi một mình, họ sẽ ghi lại chuyện này thành một người phụ nữ đi một mình, và đó sẽ là cách đọc đúng, và mười năm nữa sẽ có một cô gái làm được điều con làm được, và cô ấy cũng sẽ đi một mình, và nó lại sẽ là cách đọc đúng.*" Bàn tay Anmei Chen đã áp phẳng lên khăn phủ bàn. "Và tôi bảo: *vậy thì đừng đi một mình.* Và nó nói: *con đã một mình tám năm rồi, bà. Chỉ còn bà là người con chưa từng phải ở một mình cùng.*"
+"Thế còn mẹ cháu thì sao hả bà?"
 
-Căn bếp im ắng tuyệt đối.
+"Mẹ cháu có trọn vẹn cả hai đầu." Bà dừng lại một thoáng. "Tri giác đa phổ trọn vẹn. Thấy cả hai đầu mối cùng một lúc, và thấy cả những mối liên kết chằng chịt giữa chúng, đó chính là điều thứ ba mà mẹ tôi không làm được còn mẹ cháu thì đã làm được từ năm lên mười một tuổi. Khi mẹ cháu nhìn vào một căn phòng, bà ấy không đơn thuần nhìn thấy căn phòng đó. Bà ấy nhìn thấy căn phòng *cùng tất cả những gì từng xảy ra trong đó*, và bà ấy không tài nào tắt bỏ được một trong hai cái nhìn, và từ năm mười bốn tuổi, bà ấy không tài nào tắt bỏ nổi cái phần mà hai cái nhìn ấy xung đột chan chát với nhau."
 
-"Rồi sau đó chuyện gì xảy ra," Lyra nói.
+"Các dòng chảy không chịu hòa hợp với nhau sao bà?"
 
-"Nó bước qua cánh cửa này vào khoảng một giờ rưỡi sáng, và nó đã không quay lại, và tôi ngồi ở chiếc bàn này cho đến khi trời sáng, và tám giờ tôi gọi điện cho bố cháu, và bố cháu là điều tệ nhất từng xảy ra với tôi, vì ông ấy nói *tôi đã bảo trước rồi*." Hai bàn tay của bà không còn vững hẳn, và bà xử lý điều đó bằng cách với lấy ấm trà và rót rất dở. "Tôi chưa tha thứ cho ông ấy vì câu nói đó, và ông ấy chưa tha thứ cho tôi vì cú điện thoại đó, và chúng tôi đã có năm năm chỉ toàn những ngày chủ nhật. Ông ấy vẫn đến. Ngồi ở đó. Đọc. Chúng tôi không nói về chuyện đó. Đó là gia đình văn minh nhất thành phố này, và nó được xây ngay trên một điều không ai có thể nói thành lời."
+"Chưa từng hòa hợp lấy một lần. Suốt tám mươi mốt năm qua chưa bao giờ." Anmei Chen nhấp một ngụm trà. "Đó chính là điều mà bố cháu không tài nào chấp nhận nổi, và đó cũng là điều tôi muốn cháu mang theo đến ngôi trường đó vào thứ Bảy này. Mẹ cháu không phải là một người phụ nữ mang trong mình một tài bẩm tuyệt mỹ. Bà ấy là một người phụ nữ mang trong mình một *nỗi mâu thuẫn xâu xé*, từ năm lên mười một tuổi, và bà ấy đã dành hai mươi chín năm cuộc đời để học cách ôm giữ nỗi mâu thuẫn đó mà không tìm cách cưỡng cầu hóa giải nó. Chỉ có đúng ba người trên cõi đời này từng chứng kiến điều đó, một người đang ngồi trước mặt tôi ăn bánh tét, người thứ hai là một người phụ nữ tên là Mei-Hua, cô ruột của cháu, tức em gái của bố cháu, người đang làm việc tại ngôi trường cháu sắp tới vào thứ Bảy, người mà năm năm nay tôi chưa hề hé răng nói chuyện nửa lời. Người thứ ba là một người đàn ông ở Lyon, kẻ chưa từng gặp mặt mẹ cháu nhưng đã đọc không sót một bài viết nào bà từng công bố, tôi chưa từng hé lộ những chuyện này với ông ta, và ông ta thì chẳng biết có nên tin lời tôi hay không."
 
----
+Lyra buông thõng bàn tay xuống.
 
-Bà đi sang bên chiếc tủ kia.
+"Cháu làm gì có người cô nào ở ngôi trường đó đâu bà."
 
-"Ba tập ký họa. Nó để lại chúng trong xưởng vẽ, và cảnh sát không lấy đi thứ gì, vì xưởng vẽ không phải là bằng chứng của bất cứ điều gì, và tôi đến lấy chúng mười một ngày sau, trước khi bố cháu kết thúc cuộc soát xét." Nai Nai đặt lên bàn một chiếc túi da, đã từng được vá lại lúc nào đó bằng một màu chỉ khác. "Tôi chưa mở chúng ra. Tôi không đọc được cái nhìn ấy; tôi chưa từng có trọn vẹn nó, chỉ có một đầu thôi. Nhưng năm năm nay tôi nhìn những bức vẽ của nó mỗi ngày, và tôi hiểu được có lẽ một phần mười những gì nằm trên những trang giấy ấy, và một phần mười ấy đủ để tôi biết rằng nó không phải là một người phụ nữ đã lạc mất đường."
-
-Bà đi tới ngăn kéo, lấy ra một chiếc hộp xà cừ nhỏ, đặt cạnh chiếc túi.
-
-"Cái đó cũng là của cháu. Nó chẳng là gì đâu. Một tấm lụa, một cây kim, và một người phụ nữ trong một cửa hàng ở một khu phố người Hoa, nhìn một đứa con trai chừng chín tuổi đang vẽ lên khăn trải bàn và nói, *Con có đôi tay cho cái này. Đừng để ai bán cho con một đôi tay tốt hơn.*"
-
-Lyra nhìn hai thứ, rồi nhìn bà mình.
-
-"Sao lại là bây giờ?"
-
-"Vì sáng thứ Hai cháu sẽ bước lên một chuyến tàu, và vì tôi đã ngồi giữ chiếc bàn này cùng những thứ trên đó suốt năm năm nay, và vì cháu vừa đi bệnh viện về, và được người ta bảo rằng cái thứ ấy của cháu nằm ở bố cháu, và vẫn còn một phiên bản khác của câu chuyện này, trong đó tôi im lặng thêm năm năm nữa, rồi cháu hai mươi mốt tuổi, vẫn vác trên vai một bí mật, và vẫn có một căn phòng thứ hai phía sau đôi mắt mà cháu chưa từng kể với bất kỳ ai."
-
-Đầu Lyra ngẩng phắt lên.
-
-"Sao bà biết về cái—"
-
-"Vì chính tôi xây nó, cô bé à." Anmei Chen nói câu đó mà không hề có chút kịch tính nào. "Tôi đặt nó vào đó khi cháu sáu tuổi. Tôi ngồi trên nền nhà này với cháu, và tôi dạy cháu cách tìm căn phòng sau căn phòng, vì *dòng chảy* nằm trong đó, và vì dòng chảy là thứ duy nhất không ai có thể lấy đi khỏi cháu, và vì tôi đã nghĩ — " Bà dừng lại. Bà lấy chiếc khăn lau mắt, dứt khoát, như thể đó là việc người ta làm sau đó. "Vì tôi đã nghĩ rằng nếu tôi trao cho cháu thứ đó, thì cho dù tôi không trao nổi cho cháu những điều khác, cháu vẫn sẽ có một nơi để chui vào mà không ai có thể nhét vào một ngôi trường."
+"Cháu có duy nhất một người cô, cháu chưa từng gặp mặt, và tôi sẽ giải thích chuyện đó trong vòng mười phút nữa và cháu sẽ chẳng thích thú gì bất cứ phần nào trong câu chuyện đó đâu." Bà nội lại nhấp trà. "Ăn đi cháu."
 
 ---
 
-Lyra không mở những tập ký họa ra cho đến khi cô đã ngồi trên chuyến xe.
+Lời giải thích kéo dài mười một phút và còn cay đắng hơn những gì Lyra có thể mường tượng.
 
-Cô mở cuốn đầu tiên trên đầu gối, với chiếc túi da đặt trên đùi và màu xám trôi ngang ô cửa sổ phía sau nó, và lật từng trang thật chậm, và nó còn tệ hơn cả tang tóc: đó là một bộ óc của một người phụ nữ, trải phẳng ra, ngăn nắp theo thứ tự, với ngày tháng ghi trên đó.
+"Bố cháu là con trai tôi," Anmei Chen nói. "Mẹ cháu là *con dâu* của tôi, và trước đó là học trò của tôi từ năm sáu tuổi, bởi vì mẹ của Lin và tôi là kiểu bạn bè thâm giao từng gửi con cái cho nhau trông nom chăm sóc. Mẹ của Lin mang họ Hồ. Mẹ tôi cũng mang họ Hồ. Hiện chỉ còn ba người chúng tôi còn sống là nắm giữ trọn vẹn thuật này, hai người nằm trong gia tộc này, người thứ ba là chị gái của mẹ cháu, và người thứ tư — người thứ tư là một phụ nữ tên là Lin Mei-Hua, sinh năm 1920 tại Chợ Lớn, người từng làm một chuyện kinh thiên động địa ở khu phố ấy vào mùa thu năm 1943, và là bà cố ngoại của cháu, người đã qua đời năm 1994. Tôi biết về bà ấy từ năm tôi hai mươi tư tuổi, cả đời tôi mới chỉ kể cho cháu nghe đúng một lần duy nhất và hôm nay tôi sẽ không nhắc lại nữa."
 
-Những bức vẽ về một tách trà duy nhất, chú thích rải ra suốt mười một tháng, với màu sắc và trọng lượng của sợi nối giữa tách trà và bàn tay và bàn tay và ngày hôm đó và ngày hôm đó và giá của trà, trong một hệ thống ký hiệu dùng một biểu tượng cô không biết và một nét vẽ nhỏ hình sóng nước. Ghi chú bằng tiếng Anh, tiếng Trung, và tiếng Việt, có khi nằm trong cùng một câu, như thể những ý tưởng chưa chịu thống nhất với nhau sẽ dùng thứ tiếng nào.
+"Bốn người. Và cô Mei-Hua là một trong số đó."
 
-Và rồi, trong cuốn thứ ba, ở một trang cô đã lật qua rồi lại lật về, một tấm bản đồ.
+"Mei-Hua là một, cô ấy là em gái của bố cháu, và cô ấy chính là người đã truyền dạy cho mẹ cháu những điều mà tôi không thể dạy nổi, bởi vì Mei-Hua rất *nhanh nhạy* còn tôi thì *chuẩn tắc*, mà mẹ cháu thì cần cả hai đức tính đó, giữa hai người họ có quá nhiều điểm tương đồng. Tôi chỉ nắm giữ một đầu mối trong khi cô ấy nắm trọn cả hai đầu, đó là toàn bộ sự khác biệt giữa hai chúng tôi, tôi chưa từng một lần oán hận chuyện đó, mà thực ra là tôi luôn ngấm ngầm oán hận khôn nguôi." Khóe môi Anmei Chen khẽ giật giật. "Thế rồi bố cháu gặp mẹ cháu vào năm 1996, trong một dịp mà cả hai đều thấy chẳng đáng bận tâm nhắc tới, rồi cưới nhau vào năm sau, và thế là hai gia đình từng tranh cãi với nhau qua cả một đại dương suốt bốn mươi năm ròng bỗng trở thành một gia đình duy nhất mang hai họ khác nhau và có một bà nội vô cùng mỏi mệt."
 
-Không phải bản đồ của nơi nào cả. Đó là một sơ đồ: vô số đường mảnh vẽ bằng màu bạc trên một nền bạc, tất cả đều chạy vào phía trong, hội tụ về đâu đó ngoài kia, vượt qua rìa phải của trang giấy, và cô mất trọn một phút mới hiểu ra rằng thứ nằm ở rìa phải ấy không phải là một họa tiết trang trí. Đó là một nơi chốn, vẽ bằng những đường kẻ bản đồ thông thường, ở tỷ lệ mà cả một bán cầu chỉ to bằng một cái móng tay.
+"Vậy khi bố cháu bảo—"
 
-Và một dòng ghi chú bên cạnh, bằng nét chữ cẩn thận của Lin:
+"Bố cháu luôn mồm bảo *nhà mình đâu có đông người*, và ông ấy nói bằng cái giọng của một kẻ đã lặp đi lặp lại câu đó suốt mười sáu năm mà chưa từng bị ai bẻ lại, ông ấy biết thừa là mình đang nói dối, nhưng ông ấy chẳng bao giờ buồn tìm hiểu xem rốt cuộc mình đang nói dối ai." Bà đặt chén trà xuống. "Điều đó dẫn chúng ta đến phần cháu thực sự muốn nghe. Mei-Hua hiện là Chánh Văn phòng của Học viện đó. Cô ấy giữ chức vụ đó suốt mười một năm nay rồi. Cô ấy chính là người đã ký tên vào tập hồ sơ của cháu, và cũng chính là người đã không buồn trả lời bất kỳ câu nào trong số mười một câu hỏi tôi gửi cho cô ấy vào mùa xuân năm 2007. Cô ấy không trả lời vì cô ấy sợ hãi, còn tôi thì không gặng ép, bởi vì tôi cũng sợ hãi, và bởi vì tôi là một kẻ hèn nhát khi có đứa cháu gái ngồi ngay trong phòng."
 
-> *Không phải ở đây. Ai cũng mặc định là ở đây, vì ở đây là nơi người ta tiến hành việc đếm, mà việc đếm thì sai. Nó hội tụ về một nơi chưa từng có ai nhìn vào. Có một hòn đảo ở Thái Bình Dương không xuất hiện trên đa số các hải đồ, và những tấm hải đồ có nó lại mâu thuẫn với nhau về vị trí của nó. Tôi chưa từng đến đó. Tôi đã nói chuyện với hai người khẳng định từng thấy nước ở đó chuyển động theo một kiểu mà nước không hề chuyển động, và không ai trong hai người cho tôi được một ngày tháng, và đến cuối cuộc trò chuyện thì cả hai đều sợ tôi.*
+---
+
+"Chuyện gì đã xảy ra với mẹ cháu hả bà?" Lyra hỏi dồn.
+
+"Chuyện gì đã xảy ra với bà ấy ư."
+
+"Mẹ cháu từng định đến đối chất với Hội đồng. Bà đã bảo với cháu thế mà. Mẹ đến tìm bà trong đêm với một tấm bản đồ và mẹ bảo *những mẫu hình suy thoái* cùng sự *mù quáng của cả thể chế*, thế rồi đêm hôm sau mẹ biến mất."
+
+"Mẹ cháu đến đây vào ngày mười một tháng Chín, năm năm trước, vào khoảng mười một giờ đêm, bà ấy đã ở trong nhà suốt bốn tiếng đồng hồ mà không hề dỡ hành lý, và bà ấy cũng chẳng có ý định dỡ hành lý." Giọng Anmei Chen vẫn đều đều không đổi. "Mẹ cháu đặt một tấm bản đồ lên chiếc bàn này. Một tấm bản đồ kỳ quặc — cả đời tôi chưa từng thấy thứ gì giống như thế, nó không phải là bản đồ của một vùng đất địa lý, nó là bản đồ của một *đại lượng*. Và bà ấy bảo: nó đang hội tụ về một nơi chưa từng có ai ngó ngàng tới, và việc đếm số kia chỉ là một bức tường do những kẻ cần một nơi chốn để chỉ tay vào dựng nên mà thôi. Tôi hỏi: *Lin, ai sẽ đi cùng con*, bà ấy đáp: *Chẳng có ai đi cùng con cả, đó mới là toàn bộ vấn đề*, và rồi bà ấy nói một câu mà suốt năm năm qua ngày nào tôi cũng nghĩ tới."
+
+"Mẹ đã nói gì hả bà?"
+
+"Bà ấy nói: *Nếu con đi một mình, họ sẽ ghi vào biên bản rằng đó là một người đàn bà đơn độc, và đó sẽ là cách diễn giải đúng đắn; rồi mười năm nữa sẽ lại có một cô bé có năng lực như con và cô bé ấy cũng sẽ đi một mình, và họ lại diễn giải đúng đắn y như thế một lần nữa.*" Bàn tay Anmei Chen áp chặt lên tấm khăn trải bàn. "Tôi bảo: *Thế thì con đừng đi một mình nữa.* Mẹ cháu đáp: *Con đã cô độc suốt tám năm nay rồi, Bà ơi. Bà là người duy nhất khiến con không cảm thấy mình đơn độc.*"
+
+Căn bếp chìm vào một khoảng lặng đến ngột ngạt.
+
+"Và rồi chuyện gì xảy ra tiếp theo hả bà?" Lyra hỏi khẽ.
+
+"Bà ấy bước chân ra khỏi cánh cửa này vào khoảng một giờ rưỡi sáng và không bao giờ quay trở lại nữa. Tôi ngồi bên chiếc bàn này cho tới tận khi trời rạng sáng, và đúng tám giờ tôi gọi điện cho bố cháu, và bố cháu chính là điều tồi tệ nhất từng xảy đến với tôi, bởi vì ông ấy bảo *tôi đã bảo với bà rồi mà*." Đôi tay bà nội run rẩy thấy rõ, và bà đối phó với điều đó bằng cách với lấy ấm trà rồi rót nước một cách vụng về. "Tôi chưa bao giờ tha thứ cho ông ấy vì câu nói đó, và ông ấy cũng chưa từng tha thứ cho tôi vì cú điện thoại đó, và thế là chúng tôi có năm năm trời của những ngày Chủ Nhật. Ông ấy đến đây. Ngồi đực ra đó. Đọc sách. Hai mẹ con tuyệt đối không đả động gì tới chuyện cũ. Đó là gia đình văn minh nhất cái thành phố này, và nó được dựng xây bên trên một sự thật mà chẳng ai dám thốt ra thành lời."
+
+---
+
+Bà bước sang chiếc tủ đối diện.
+
+"Ba cuốn sổ ký họa. Mẹ cháu để lại chúng trong phòng vẽ và cảnh sát chẳng buồn thu giữ thứ gì, bởi vì phòng vẽ không phải là bằng chứng của bất cứ vụ án nào, và tôi đã đến mang chúng về mười một ngày sau đó, trước khi bố cháu kết thúc cuộc tìm kiếm." Nai Nai đặt một chiếc túi da lên bàn, chiếc túi từng được khâu vá lại bằng một loại chỉ khác màu. "Tôi chưa từng mở chúng ra. Tôi không đọc được tri giác; tôi chưa bao giờ có được trọn vẹn năng lực ấy, chỉ nắm được một đầu mối mà thôi. Nhưng tôi đã ngắm nhìn những bức vẽ của bà ấy mỗi ngày suốt năm năm qua, và tôi hiểu được chừng một phần mười những gì ghi trên các trang giấy đó, và một phần mười ấy đã đủ để tôi biết chắc rằng mẹ cháu không phải là một người đàn bà lầm đường lạc lối."
+
+Bà bước lại ngăn kéo, lấy ra một chiếc hộp khảm xà cừ nhỏ, đặt cạnh chiếc túi da.
+
+"Cái này cũng là của cháu. Chẳng có gì to tát đâu. Chỉ lụa, một cây kim, và một người phụ nữ trong một cửa tiệm ở Khu phố Tàu từng nhìn một đứa bé chừng chín tuổi đang vẽ lên khăn trải bàn mà bảo rằng: *Cháu có đôi bàn tay để làm việc này. Đừng để bất kỳ ai bán cho cháu một đôi tay tốt hơn.*"
+
+Lyra nhìn trân trân vào hai món đồ, rồi ngước nhìn bà nội.
+
+"Sao lại là lúc này hả bà?"
+
+"Bởi vì sáng thứ Hai tới cháu sẽ bước chân lên tàu, bởi vì tôi đã ôm giữ chuyện này bên chiếc bàn suốt năm năm nay rồi, và bởi vì cháu vừa từ bệnh viện về và được người ta thông báo rằng thứ bất thường trong người cháu đang nằm trong đầu bố cháu. Và biết đâu sẽ có một tình huống trong đó tôi tiếp tục im lặng thêm năm năm nữa để rồi khi cháu hai mươi mốt tuổi cháu vẫn phải cưu mang một bí mật và vẫn giấu kín một căn phòng thứ hai sau đáy mắt mà chưa từng thổ lộ với bất kỳ ai."
+
+Lyra ngẩng phắt đầu lên.
+
+"Làm sao bà biết về—"
+
+"Bởi vì chính bà đã dựng nên nó đấy, con ạ." Anmei Chen nói điều đó mà không chút kịch tính khoa trương. "Bà đã đặt nó vào đó khi con mới lên sáu. Bà đã ngồi trên sàn nhà này cùng con, dạy con cách tìm thấy căn phòng ẩn sau căn phòng, bởi vì đó chính là nơi *những dòng chảy* ngự trị, và bởi vì những dòng chảy là thứ duy nhất không ai có thể tước đoạt khỏi tay con, và bởi vì bà nghĩ — " Bà nghẹn lời. Bà vội lấy khăn lau mắt, một cách dứt khoát, như thể đó là việc người ta phải làm sau một cơn xúc động. "Bởi vì bà nghĩ rằng nếu bà trao cho con được nơi chốn đó, thì dẫu sau này bà có thất bại trong việc trao cho con bất cứ điều gì khác, con vẫn sẽ luôn có một chốn để quay về mà không một trường học nào có thể giam cầm nổi."
+
+---
+
+Lyra không hề mở những cuốn sổ ký họa cho tới khi đã ngồi yên vị trên chuyến xe buýt.
+
+Cô mở cuốn đầu tiên trên đầu gối, đặt chiếc túi da trong lòng, nhìn qua ô cửa kính đang xám xịt lại ngoài kia, chầm chậm lật giở từng trang, và cảm giác ấy còn đau đớn hơn cả sự tang tóc: đó là tâm trí của một người phụ nữ, được phơi bày trọn vẹn, rành mạch, có đề ngày tháng cẩn thận.
+
+Những bức vẽ về một chiếc tách trà duy nhất, kèm theo những lời chú giải kéo dài suốt mười một tháng trời, ghi chép tỉ mỉ về sắc màu và sức nặng của mối liên kết giữa chiếc tách với bàn tay, giữa bàn tay với ngày tháng, giữa ngày tháng với giá cả của lá trà, theo một hệ thống ký hiệu sử dụng một biểu tượng kỳ lạ mà cô chưa từng thấy cùng một hình vẽ gợn sóng nhỏ. Những dòng ghi chú bằng tiếng Anh, tiếng Hoa và tiếng Việt, đôi khi chen chúc trong cùng một câu, tựa như các ý niệm vẫn chưa chịu thống nhất về một ngôn ngữ chung.
+
+Và rồi, trong cuốn sổ thứ ba, trên một trang giấy cô lỡ tay lật qua rồi vội vàng quay lại, là một tấm bản đồ.
+
+Không phải bản đồ của bất kỳ vùng đất nào. Đó là một sơ đồ: vô số những đường nét mảnh mai được vẽ bằng mực bạc trên nền màu bạc, tất cả đều hướng vào tâm, hội tụ tại một điểm nằm chếch ra ngoài mép phải của trang giấy. Phải mất trọn một phút cô mới nhận ra rằng cái chấm nhỏ nơi mép phải ấy không phải là nét vẽ trang trí. Đó là một địa danh có thật, được phác họa theo những đường nét trắc địa thông thường, ở một tỷ lệ mà cả một bán cầu chỉ thu nhỏ lại bằng chiếc móng tay.
+
+Và một dòng ghi chú bên cạnh, bằng nét chữ cẩn trọng của mẹ Lin:
+
+> *Không phải ở đây. Mọi người đều đinh ninh là ở đây, bởi vì đây là nơi việc đếm số được tiến hành, và việc đếm số ấy hoàn toàn sai lầm. Nó đang hội tụ về một nơi chốn chưa từng có ai ngó ngàng tới. Có một hòn đảo ở Thái Bình Dương không hề xuất hiện trên hầu hết các hải đồ, và những tấm hải đồ có ghi nhận nó thì lại bất đồng với nhau về tọa độ chính xác. Tôi chưa từng đặt chân đến đó. Tôi đã nói chuyện với hai người tự nhận là từng nhìn thấy mặt nước nơi ấy chuyển động theo một cách mà nước bình thường không bao giờ chuyển động, thế nhưng chẳng ai trong hai người họ nhớ nổi ngày tháng, và cả hai đều tỏ ra khiếp sợ tôi vào cuối cuộc trò chuyện.*
 >
-> *Đừng tin việc đếm. Việc đếm là một bức tường do những kẻ cần một chỗ để chỉ tay vào dựng nên.*
+> *Đừng tin vào việc đếm số. Việc đếm số chỉ là một bức tường thành do những kẻ cần một nơi chốn để chỉ tay vào dựng nên mà thôi.*
 >
-> *B. — nếu dòng chữ này đến được với bà, mà nó sẽ không đến được với bà đâu, vì bà sẽ làm đúng như những gì tôi đã làm và đi một mình: thứ đang đếm không phải là một nơi chốn, cũng không phải là một con người. Nó là một thói quen, thói quen ấy lâu đời hơn ngôi trường, và đó chính là lý do họ cần con số.*
+> *B. — nếu dòng này đến được tay anh, mà nó sẽ chẳng bao giờ đến được tay anh đâu, bởi vì anh sẽ lại làm điều tôi từng làm và dấn bước một mình: cái thứ đang làm việc đếm kia không phải là một nơi chốn và cũng chẳng phải là một con người. Nó là một thói quen cố hữu, và thói quen ấy còn có trước cả ngôi trường, đó chính là lý do vì sao họ cần con số đó đến vậy.*
 
-Lyra đọc nó bốn lần. Rồi cô gấp tập lại, nhét vào chiếc túi da, và nhìn ra cửa sổ về một khu công nghiệp ướt sũng đang trôi qua trong bóng tối, và lần đầu tiên trong đời, cô cảm nhận được một thứ chóng mặt rất cụ thể: cái cảm giác của một người nắm trong tay một món chứng cứ mà mình hoàn toàn chắc chắn là quan trọng, và hoàn toàn không có ý tưởng gì về việc phải làm gì với nó.
+Lyra đọc đi đọc lại đoạn văn ấy bốn lần. Rồi cô khép cuốn sổ lại, cất cẩn thận vào chiếc túi da, phóng tầm mắt qua cửa sổ nhìn khu công nghiệp sũng nước trôi vụt qua trong bóng đêm, và lần đầu tiên trong đời cảm nhận được cơn chóng mặt đặc trưng khi nắm giữ trong tay một bằng chứng mà mình tin chắc là tối quan trọng nhưng lại hoàn toàn mù tịt không biết phải làm gì với nó.
 
-Rồi cô lấy điện thoại ra, gõ một tin nhắn, và nghĩ rất lâu trước khi gửi nó.
+Cô rút điện thoại ra, soạn một tin nhắn, ngẫm nghĩ rất lâu trước khi quyết định có gửi hay không.
 
-Gửi cho bố: *Tối nay con sẽ hỏi bố một điều, và con muốn bố trả lời thật. Bố đã từng đọc bất cứ cuốn sổ nào của mẹ chưa?*
+Gửi cho bố: *Tối nay con muốn hỏi bố một chuyện và con muốn bố trả lời thật lòng. Bố đã bao giờ đọc bất kỳ cuốn sổ ghi chép nào của mẹ chưa?*
 
-Và rồi cô cũng đã không gửi nó, vì cô mới mười sáu tuổi, vì cô đang ngồi trên xe buýt, vì cô có một căn phòng thứ hai phía sau đôi mắt mà chưa một lần cô kể với bất kỳ ai, và vì sáng thứ Hai một người đàn ông với trí nhớ rất tốt sẽ xếp ngay ngắn một xấp ghi chú trên bục giảng theo đúng cách bố cô xếp ngay ngắn một xấp ghi chú trên bàn bếp, và cô sẽ phải ngồi trong một căn phòng và phóng thẳng tuổi mười sáu của mình vào mặt ông ta, và đêm nay cô không thể nghĩ về bố mình.
+Thế rồi cô cũng không gửi đi, bởi vì cô mới mười sáu tuổi, bởi vì cô đang ngồi trên xe buýt, bởi vì cô đang có một căn phòng thứ hai ẩn sau đôi mắt mà chưa từng thổ lộ với ai, và bởi vì sáng thứ Hai tới sẽ có một người đàn ông với trí nhớ siêu phàm chỉnh lại xấp tài liệu trên bục giảng theo đúng cái cách cha cô vẫn chỉnh xấp tài liệu trên bàn ăn, và cô sẽ phải ngồi trong căn phòng đó làm một đứa trẻ mười sáu tuổi trước mặt ông ta, tối nay cô không thể nghĩ thêm về bố mình được nữa.
 
-Chiếc mặt dây đã nằm vòng qua cổ cô trước khi cô kịp tới góc phố. Nó ấm lên trong vòng một phút, và giữ ấm mãi, và đã làm lại điều nó từng làm ở phòng mĩ thuật của trường, một lần duy nhất, trong tích tắc: con phố bỗng *sâu* hơn, như thể có một con phố thứ hai phía sau con phố đầu tiên, và có ai đó trong con phố thứ hai đang đưa ra một bàn tay.
+Mặt dây chuyền đã nằm trên cổ cô trước khi cô bước tới góc phố. Nó ấm lên chỉ trong vòng một phút, giữ nguyên hơi ấm, và làm đúng cái việc nó từng làm một lần trong phòng mỹ thuật ở trường, trong một phần tích tắc: con phố bỗng trở nên *sâu thẳm hơn*, tựa như có một con phố thứ hai ẩn hiện sau con phố thứ nhất, và một ai đó trên con phố thứ hai ấy vừa đưa một bàn tay ra.
 
-Cô đặt bàn tay mình lên nó, lên sợi dây, và nói thành tiếng, ở một góc phố ướt, trong một thành phố mà cô chưa bao giờ nghĩ đến việc rời đi, bằng một thứ tiếng mà trong vòng nghìn dặm không ai có thể hiểu được cô đang nói gì:
+Cô đặt bàn tay mình lên trên mặt ngọc, chạm vào sợi dây, và nói thành lời, ngay tại góc phố sũng nước trong một thành phố cô chưa từng mảy may nghĩ tới chuyện rời xa, bằng một thứ ngôn ngữ mà trong vòng bán kính nghìn dặm chẳng có ai hiểu được lời cô nói:
 
-"Mẹ. Con sẽ cẩn thận. Con muốn mẹ biết điều đó. Con sẽ cẩn thận, và con sẽ không làm việc này vì bất kỳ ai."
+"Mẹ ơi. Con sẽ hết sức cẩn thận. Con muốn mẹ biết điều đó. Con sẽ hết sức cẩn thận và con sẽ không làm chuyện này vì bất kỳ một ai khác."
 
-Hơi ấm không thay đổi, không đáp lại, và cũng không cần phải đáp lại.
+Hơi ấm nơi mặt ngọc không hề biến đổi, không đáp lời, và cũng chẳng cần phải đáp lời.
 
 ---
 
-*Ghi Chú Cộng Hưởng Sợi Chỉ: C-2214. Người bảo hộ thứ hai Anmei Chen (hộ gia đình nội; nhìn-lụa nhờ được truyền dạy, không phải do huyết thống) chỉ được liên hệ thông qua người nhìn thấu, không liên hệ trực tiếp. Chỉ thị: không một thành viên nhân sự nào được mô tả gia đình, sửa chữa gia đình, hay diễn tả thực hành của gia đình trước người nhìn thấu như là truyền thống, như là văn hóa dân gian, hay như là dữ liệu. Tài liệu của gia đình được trao cho người nhìn thấu theo quyết định của người bảo hộ. Ghi chú bổ sung của R. Ekwueme (bên ngoài): người bảo hộ đã yêu cầu tôi ghi vào biên bản rằng việc giới thiệu đến ông/bà không phải là tác nhân kích hoạt bức thư đề ngày hai mươi hai của ông/bà, và rằng gia đình này đã hiểu vì sao, và mong được ghi nhận rằng nó cũng không phải là tác nhân kích hoạt cho việc giới thiệu đó. Ghi chú bổ sung của E. Weaver: Tôi sẽ phải nói với con bé, vào thứ Bảy, rằng cô của con bé đang cách đó bốn mươi mét, và đã như vậy suốt mười một năm. Tôi đã trì hoãn chuyện đó được sáu năm rồi.*
+*Ghi Chú Cộng Hưởng Sợi Chỉ: C-2214. Người bảo hộ thứ hai Anmei Chen (thuộc hộ gia đình bên nội; tiếp thu năng lực nhìn sợi chỉ qua truyền thụ, không theo đường máu mủ) sẽ được liên hệ thông qua người nhìn thấu chứ không liên hệ trực tiếp. Chỉ thị nghiêm cấm nhân viên mô tả gia đình, uốn nắn gia đình, hoặc quy kết các tập tục của gia đình người nhìn thấu là truyền thống, là văn hóa dân gian hay là dữ liệu nghiên cứu. Các di vật của gia đình được bàn giao cho người nhìn thấu tùy theo quyết định của người bảo hộ. Ghi chú bổ sung của R. Ekwueme (chuyên gia độc lập bên ngoài): Người bảo hộ yêu cầu tôi ghi nhận rằng phiếu giới thiệu gửi tới quý vị không phải là yếu tố thúc đẩy bức thư ngày hai mươi hai của quý vị, và gia đình này hiểu rõ nguyên do, đồng thời muốn ghi nhận thêm rằng bức thư ấy cũng không phải là động cơ của phiếu giới thiệu. Ghi chú bổ sung của E. Weaver: Thứ Bảy này tôi sẽ phải nói với cô bé rằng người cô ruột của em đang ở cách đó chỉ bốn mươi mét và đã ở đó suốt mười một năm nay. Tôi đã trì hoãn việc nói ra điều này suốt sáu năm trời.*
 
 # Chương 5: Sự Cắt Đứt
 
@@ -1183,17 +1183,17 @@ Họ không được phép ra khỏi căn phòng sau.
 
 Osei đặt một chiếc máy tính bảng lên bàn rồi xoay mặt nó lại, và Lyra nhìn vào, và hiểu được khoảng một phần năm trong đó, và biết ơn vì bốn phần năm còn lại chỉ là một hình dạng chứ không phải một câu chữ.
 
-"Bố của em," Osei nói, hướng về phía Wei Chen. "Ngày hai mươi chín tháng Tám. Đây là lần đầu tiên tôi thấy các chỉ số thất tim dịch chuyển, và tôi muốn nói ba điều về nó, và tôi muốn thứ tự được giữ nguyên."
+"Về trường hợp của ông," Osei nói, hướng về phía Wei Chen. "Ngày hai mươi chín tháng Tám. Đây là lần đầu tiên tôi thấy các chỉ số tâm thất dịch chuyển, và tôi muốn nói ba điều về nó, và tôi muốn thứ tự được giữ nguyên."
 
 "Xin mời."
 
-"Một. Không có cơ chế nào liên quan đến chảy máu hiện diện trong này mà chúng ta có thể đảo ngược, và tôi biết đó là một câu em không muốn nghe, và tôi đã nói câu đó với gia đình này suốt hai tuần qua, và tôi cũng đã nói với ông ấy, và ông ấy đã đón nhận nó dễ hơn sắp tới em sẽ đón nhận." Osei không ngẩng đầu. "Hai. Thứ hiện diện trong này là một cơ bắp đã lặng lẽ chết dần từ rất lâu rồi, và điều đó không dính dáng gì đến một món quà, và đó là lý do cuộc chặn lại vào ngày hai mươi bảy tháng Tám—" bà liếc về phía Lyra, người trước đó không hề biết đó là ngày hai mươi bảy, "—không phải một biến cố chảy máu. Ba. Ca chảy máu vẫn đang chạy, và nó vẫn đang trích từ ông ấy cái giá của nó, và nó *cũng* không phải thứ sẽ giết ông ấy trong ba tháng tới, và nếu bất kỳ ai trong căn phòng này nói với em rằng cắt đi sự cảm nhận của con gái sẽ cứu được mạng sống của ông ấy, thì người đó đang nói với em một điều đúng về mặt số học và sai hoàn toàn, và tôi muốn em để ý đến hình dạng của câu đó, vì đó là hình dạng của mọi thứ mà ngành này nói ra."
+"Một. Không có cơ chế nào liên quan đến hiện tượng chảy máu trong này mà chúng ta có thể đảo ngược được, và tôi biết đó là một câu ông không hề muốn nghe. Tôi đã nói câu đó với gia đình này suốt hai tuần qua, và tôi cũng đã nói với chính ông, và ông đã đón nhận nó tốt hơn những gì sắp tới ông sẽ đón nhận." Osei không ngẩng đầu. "Hai. Thứ hiện diện trong này là một khối cơ tim đã âm thầm chết dần từ rất lâu rồi, và điều đó không dính dáng gì đến một tài bẩm, và đó là lý do cơn ngừng tim vào ngày hai mươi bảy tháng Tám—" bà liếc về phía Lyra, người trước đó không hề biết đó là ngày hai mươi bảy, "—không phải là một biến cố chảy máu. Ba. Hiện tượng chảy máu vẫn đang diễn ra, và nó vẫn đang bòn rút ông, nhưng nó cũng không phải là thứ sẽ cướp đi mạng sống của ông trong ba tháng tới. Và nếu bất kỳ ai trong căn phòng này nói với ông rằng việc cắt đứt tri giác của con gái ông sẽ cứu được mạng sống của ông, thì người đó đang nói với ông một điều đúng về mặt số học nhưng hoàn toàn sai lệch, và tôi muốn ông để ý đến hình dạng của câu nói đó, vì đó là hình dạng của mọi thứ mà cái ngành này nói ra."
 
-"Vậy thì hình dạng đó là gì," Lyra nói.
+"Vậy thì hình dạng đó là gì ạ," Lyra cất tiếng.
 
 Lần đầu tiên, Osei nhìn cô.
 
-"Hình dạng là thế này: một sự cải thiện thật sự cho một vấn đề thật sự đã nằm trong tầm tay của em, và nó đòi một cái giá không thể trả bằng tiền, và người phải trả chính là em, và mọi người trong căn phòng đều có một lý do chính đáng." Bà đặt chiếc máy tính bảng xuống. "Đó là hình dạng. Luôn luôn là hình dạng đó. Tôi lăn lộn với chuyện này mười một năm và chưa từng một lần thấy nó kết thúc bằng bất kỳ kết cục nào khác."
+"Hình dạng đó là: một sự cải thiện có thật cho một vấn đề có thật đã nằm sẵn trong tầm tay, và nó đòi hỏi một cái giá không thể trả bằng tiền, và người phải trả giá lại chính là cháu, trong khi mọi người trong căn phòng đều có một lý do hết sức chính đáng." Bà đặt chiếc máy tính bảng xuống. "Đó là hình dạng của nó. Luôn luôn là như vậy. Tôi đã làm nghề này mười một năm và chưa từng một lần thấy nó diễn ra theo bất kỳ cách nào khác."
 
 ---
 
@@ -1267,13 +1267,13 @@ Hai bàn tay Lyra lạnh đi.
 
 "...ồ."
 
-"Thế." Elena Vance kéo cho thẳng chiếc áo khoác. "Hai lời khuyên, miễn phí, từ một người sắp mắc một sai lầm lớn hơn của cậu rất nhiều. Một. Cậu ta nói thật với cậu về cái giá. Đó mới là điều cậu nên sợ — chứ không phải chuyện cậu ta nói dối cậu. Nếu cậu ta nói dối cậu thì buổi chiều này đã là một buổi chiều dễ chịu hơn nhiều rồi." Cô đặt tay lên khung cửa. "Hai. Cậu sẽ dành cả tuần sau để quyết định có tin cậu ta hay không, và cậu sẽ làm điều đó một mình, và nó sẽ có vẻ như là sự tôn trọng. Nó không phải. Nó chỉ là sự im lặng."
+"Thế." Elena Vance kéo cho thẳng chiếc áo khoác. "Hai lời khuyên, miễn phí, từ một người sắp mắc một sai lầm lớn hơn của cậu rất nhiều. Một. Thầy ấy nói thật với cậu về cái giá đấy. Đó mới là điều cậu nên sợ — chứ không phải chuyện thầy ấy nói dối cậu. Nếu thầy ấy nói dối cậu thì buổi chiều này đã là một buổi chiều dễ chịu hơn nhiều rồi." Cô đặt tay lên khung cửa. "Hai. Cậu sẽ dành cả tuần sau để quyết định có tin thầy ấy hay không, và cậu sẽ làm điều đó một mình, và nó sẽ có vẻ như là sự tôn trọng. Không phải đâu. Nó chỉ là sự im lặng mà thôi."
 
 Cô ta biến mất trước khi Lyra kịp đáp lại, và chiếc chuông trên cửa kêu hai lần, và phải đến sau đó Lyra mới nhận ra mình chưa từng một lần nhìn thấy những sợi chỉ của cô gái ấy, và đã không hề nhìn.
 
 ---
 
-*Ghi Chú Cộng Hưởng Sợi Chỉ: Sự kiện tiếp cận cộng đồng, Westbrook, 31 tháng Tám. Người tham dự: 61. Người nhìn thấu hiện diện: 14. Can thiệp: 1 (không biến chứng; 4 phút; kết quả tốt; **chưa thu được sự đồng thuận trước đó và không thể thu được — đối tượng bất tỉnh mười chín phút và không có người thân hiện diện**). Bác sĩ trực tiếp xử trí: *không phải* bác sĩ O. Osei (căn phòng đã bị dọn rỗng trước khi bà tới). Y tế tại chỗ: y tá trường học, một người. Người ứng cứu tại chỗ có chuyên môn về sợi chỉ: M. Harlow, người mà văn phòng này chưa từng xác lập được thẩm quyền và đã hai lần từ chối tìm hiểu về việc đó. Đã thông báo cho gia đình: có. Chuyển gửi bác sĩ A. Osei: có, do bác sĩ M. Harlow thực hiện, bất chấp sự phản đối của gia đình. Ghi chú đính kèm do văn phòng của nhân viên đăng ký trực bổ sung: Cơ quan Chăm sóc Người Có Sợi Chỉ Được Cảm nhận, điều chín, yêu cầu một người ứng cứu thứ hai được nêu tên tại mọi buổi tiếp cận cộng đồng công khai. Đã không có người ứng cứu thứ hai. Đã có một tấm thảm.*
+*Ghi Chú Cộng Hưởng Sợi Chỉ: Sự kiện tiếp cận cộng đồng, Westbrook, 31 tháng Tám. Người tham dự: 61. Người nhìn thấu hiện diện: 14. Can thiệp: 1 (không biến chứng; 4 phút; kết quả tốt; **chưa thu được sự đồng thuận trước đó và không thể thu được — đối tượng bất tỉnh mười chín phút và không có người thân hiện diện**). Bác sĩ trực tiếp xử trí: *không phải* bác sĩ O. Osei (căn phòng đã bị dọn rỗng trước khi bà tới). Y tế tại chỗ: y tá trường học, một người. Người ứng cứu tại chỗ có chuyên môn về sợi chỉ: M. Harlow, người mà văn phòng này chưa từng xác lập được thẩm quyền và đã hai lần từ chối tìm hiểu về việc đó. Đã thông báo cho gia đình: có. Chuyển gửi bác sĩ A. Osei: có, do bác sĩ M. Harlow thực hiện, bất chấp sự phản đối của gia đình. Ghi chú đính kèm do văn phòng Chánh Văn phòng trực bổ sung: Cơ quan Chăm sóc Người Có Sợi Chỉ Được Cảm nhận, điều chín, yêu cầu một người ứng cứu thứ hai được nêu tên tại mọi buổi tiếp cận cộng đồng công khai. Đã không có người ứng cứu thứ hai. Đã có một tấm thảm.*
 
 # Chương 6: Gánh Nặng Ký Ức
 
@@ -1301,7 +1301,7 @@ Giờ thì đã lên tới khuỷu tay. Thứ Sáu nó còn ở cổ tay. Ông c
 
 Ông đã bày ra ba tập hồ sơ. Tập thứ ba ông chưa mở.
 
-Tập đầu là Ben Ruiz. Mười bảy tháng đánh giá, một phiếu đồng thuận có chữ ký của một người mẹ đã ký vội, một báo cáo vận tốc và một dải cộng hưởng ở mức đầu hai mươi, một cậu bé biết đọc người khác như những cậu bé khác đọc bóng đá, một giọng nói tuột về phẳng và trẻ nhỏ mỗi khi cậu chồm dậy khỏi sàn, và một lời dặn duy nhất do chính tay cậu viết ở cuối trang bốn của phiếu đồng thuận, rằng *Em muốn được biết tất cả, và nếu em được biết tất cả thì em sẽ hỏi ông những câu mà ông sẽ không thích, và đó là thỏa thuận, và em mười bảy tuổi và em có quyền thỏa thuận. *Cộng hưởng, và một đường trên biểu đồ đã phẳng lì từ ngày mười tám tháng Tám, và bên cạnh tất cả những điều đó, bằng chính nét chữ của cậu bé, là câu ông đã viết vào lề và chưa cho bất kỳ ai xem:
+Tập đầu là Ben Ruiz. Mười bảy tháng đánh giá, một phiếu đồng thuận có chữ ký của một người mẹ đã ký vội, một báo cáo vận tốc và một dải cộng hưởng ở mức đầu hai mươi, một cậu bé biết đọc người khác như những cậu bé khác đọc bóng đá, một giọng nói tuột về phẳng và trẻ nhỏ mỗi khi cậu chồm dậy khỏi sàn, và một lời dặn duy nhất do chính tay cậu viết ở cuối trang bốn của phiếu đồng thuận, rằng *Em muốn được biết tất cả, và nếu em được biết tất cả thì em sẽ hỏi ông những câu mà ông sẽ không thích, và đó là thỏa thuận, và em mười bảy tuổi và em có quyền thỏa thuận.* Cộng hưởng, và một đường trên biểu đồ đã phẳng lì từ ngày mười tám tháng Tám, và bên cạnh tất cả những điều đó, bằng chính nét chữ của ông, là câu ông đã viết vào lề và chưa cho bất kỳ ai xem:
 
 *Đây là người tôi sẽ không thể gánh nổi.*
 
@@ -1353,7 +1353,7 @@ Aiko đã ba mươi hai tuổi. Mei đã bảy tuổi. Hai đồng nghiệp đã
 
 Trong ngăn kéo ông có một tấm thẻ mà ông đã mang theo từ ngày mười sáu tháng Tám, và đó là một đề xuất, và nó thực sự hay, và ông đã kiểm tra nó mười một lần, và ông chưa một lần viết ra nó sẽ phải trả giá bằng gì.
 
-Bây giờ ông viết ra, vì đã nửa đêm rưỡi, và vì người phụ nữ đã khuất được sáu năm rồi, người từng dạy ông rằng một con số đứng một mình là một thứ không có chút sức nặng nào bên trong, và ông đã hứa với cô, trong một căn bếp của thành phố này, vào một ngày chủ nhật, bằng cái giọng ông dành cho những lời hứa ông định giữ.
+Bây giờ ông viết ra, vì đã là mười hai giờ rưỡi đêm, và vì người phụ nữ đã khuất được sáu năm rồi, người từng dạy ông rằng một con số đứng một mình là một thứ không có chút sức nặng nào bên trong, và ông đã hứa với cô, trong một căn bếp của thành phố này, vào một ngày chủ nhật, bằng cái giọng ông dành cho những lời hứa ông định giữ.
 
 *Cái giá của nó: một đứa trẻ mười sáu tuổi sẽ mất đi một phần của chính mình mà không ai có thể đoán trước, không thể đảo ngược, và đã không được tham vấn. Con bé sẽ còn sống. Bố con bé sẽ còn sống. Tôi sẽ là người đã làm điều đó, và tôi cũng sẽ là người nói trước cái giá với con bé, và đó không phải là cùng một người, và người thứ hai mới là người tôi sẽ phải trở thành.*
 
@@ -1387,13 +1387,13 @@ Harlow đọc nó bốn lần.
 
 Ông tắt đèn.
 
-"Harlow," ông nói, với căn phòng, bằng giọng của một người đàn ông đang làm một phép tính rất dài. "Ông đã mười bốn năm không hỏi một lời nào. Giờ hoặc là không bao giờ, và phép toán chẳng thèm biết."
+"Harlow," ông nói, với căn phòng, bằng giọng của một người đàn ông đang làm một phép tính rất dài. "Ông đã mười bốn năm không hỏi một lời nào. Giờ hoặc là không bao giờ, và phép toán chẳng bận tâm."
 
 Rồi ông về nhà, và không ngủ, và không mở tập hồ sơ thứ ba, và không đưa tay lật mặt dây chuyền, vì đó là một con hạc được gấp từ giấy chỉ bạc bằng đôi bàn tay của một đứa trẻ bảy tuổi vào tuần thứ hai của tháng Tư, và ông đã đeo nó mười sáu năm, và đó là vật duy nhất trong những gì ông sở hữu mà không phải là một công cụ.
 
 ---
 
-*Ghi Chú Cộng Hưởng Sợi Chỉ: M.H. — Can thiệp 11, cộng dồn. Từ chối: 0. Đề nghị có người ứng cứu thứ hai: 0 trên 11. Còn tồn: Ruiz, B. — kết quả ổn định, tri giác: không có, sẽ cần một bản giải trình khi tròn 18; người mẹ chưa được trao bản nào và sẽ được báo bằng một lá thư nếu không có ai trong tòa nhà này chịu làm việc đó bằng tay. Chuang, S. — đã chuyển gửi. Okafor, D. — từ chối ngay từ lúc tiếp nhận; xem hồ sơ. Còn tồn và không có trong hồ sơ: yêu cầu của E.V. về kho sách không giám sát, được M.H. phê duyệt mà không đọc mẫu đơn. Đề nghị rằng trong tương lai hãy để một người không phải tôi đọc mẫu đơn đó, và tôi biết ghi chú này là một hệ thống mà trong đó tôi là thành viên duy nhất.*
+*Ghi Chú Cộng Hưởng Sợi Chỉ: M.H. — Can thiệp 11, cộng dồn. Từ chối: 0. Đề nghị có người ứng cứu thứ hai: 0 trên 11. Còn tồn: Ruiz, B. — kết quả ổn định, tri giác: không có, sẽ cần một bản giải trình khi tròn 18; người mẹ chưa được trao bản nào và sẽ được báo bằng một lá thư trừ phi có ai đó trong tòa nhà này đích thân đến gặp trực tiếp để thông báo. Chuang, S. — đã chuyển gửi. Okafor, D. — từ chối ngay từ lúc tiếp nhận; xem hồ sơ. Còn tồn và không có trong hồ sơ: yêu cầu của E.V. về kho sách không giám sát, được M.H. phê duyệt mà không đọc mẫu đơn. Đề nghị rằng trong tương lai hãy để một người không phải tôi đọc mẫu đơn đó, và tôi biết ghi chú này là một hệ thống mà trong đó tôi là thành viên duy nhất.*
 
 # Chương 7: Cái Bóng Của Người Cha
 
@@ -1401,7 +1401,7 @@ Rồi ông về nhà, và không ngủ, và không mở tập hồ sơ thứ ba,
 
 ## PHÒNG KHÁM
 
-Elena Vance đã tìm thấy Priya Raman nằm sấp trên hành lang ngoài khu vòi sen phía tây lúc chín giờ hai mươi đêm, nơi đám năm nhất tìm đến khi chiếc trường trong lồng ngực ồn quá đến mức không thể ngồi ở trong nhà, và vì thế, theo nhận định kỹ càng của Elena Vance, đó là hành lang hữu dụng nhất trong toàn tòa nhà.
+Elena Vance đã tìm thấy Priya Raman nằm sấp trên hành lang ngoài khu vòi sen phía tây lúc chín giờ hai mươi đêm, nơi học sinh năm nhất thường tìm đến khi trường cảm nhận trong lồng ngực trở nên quá đỗi ồn ào đến mức không thể chịu nổi nếu cứ ngồi yên trong phòng, và vì thế, theo nhận định thấu đáo của Elena Vance, đó là hành lang hữu ích nhất trong toàn bộ tòa nhà.
 
 Cô quỳ xuống bên cạnh con bé mà không đụng vào, và đó là điều đầu tiên cô làm đúng, điều cô phải trả giá mới học được trong tuần thứ hai.
 
@@ -1531,11 +1531,11 @@ Rafi ngồi xuống.
 
 "*Chuẩn xác*," Harlow nói. "Chép lại. Ghi cả ngày vào, và ngày mới là phần quan trọng, vì mười năm nữa thứ duy nhất cứu được mạng em sẽ là có thể chứng minh em đã cẩn thận vào một buổi chiều cụ thể."
 
-Rafi chép lại. Nó chép cẩn thận, cầm bút sai kiểu, mất bốn phút, và Harlow kệ nó.
+Rafi chép lại. Nó chép cẩn thận, cầm bút sai kiểu, mất bốn phút, và Harlow cứ để mặc cho cậu bé làm.
 
 Và rồi, đang chép dở, thằng bé ngẩng lên.
 
-"Thầy — abuela của em nói chiếc trường là một dụng cụ. Bà ấy nói người ta chỉ được hiệu chuẩn một dụng cụ, không được *cãi* với nó."
+"Thầy — abuela của em nói trường cảm nhận là một dụng cụ. Bà ấy nói người ta chỉ được hiệu chuẩn một dụng cụ, không được *cãi* với nó."
 
 "Đúng."
 
@@ -1545,7 +1545,7 @@ Và rồi, đang chép dở, thằng bé ngẩng lên.
 
 ---
 
-Ông tiễn Rafi ra tới ký túc xá lúc nửa đêm rưỡi và đứng dưới chân cầu thang trong mưa, tiếng bước chân của thằng bé đi lên các tầng, và ông đứng đó lâu hơn nhiều so với mức mà một người đàn ông đứng trong mưa cần.
+Ông tiễn Rafi ra tới ký túc xá lúc mười hai giờ rưỡi đêm và đứng dưới chân cầu thang trong mưa, tiếng bước chân của thằng bé đi lên các tầng, và ông đứng đó lâu hơn nhiều so với mức mà một người đàn ông đứng trong mưa cần.
 
 Từng có một phiên bản của chuyện này, trong đó ông nói với họ. Từng có một phiên bản trong đó ông nói với cả khóa năm nhất, giữa hội trường, vào tháng Chín, và nhìn căn phòng nguội lạnh. Thực ra ông đã soạn nó, vào tháng Ba, trong quyển sổ xanh; bản thảo dài bốn trang, và trang thứ tư là lý do ông chưa từng gửi nó, và trang thứ tư là một đoạn văn về một cô gái mười lăm tuổi.
 
@@ -1616,7 +1616,7 @@ Lyra đã không hoàn toàn tin lời cô ấy.
 
 "Lộ rõ đến vậy à?"
 
-"Lộ rõ đến vậy thật. Tớ là Wren Zhou. Năm ba, chuyên ngành cộng hưởng, và tớ làm cái này đã sáu năm, mà đến cổng tớ vẫn kéo ra đúng cái mặt đó." Wren lật cổ áo đồng phục lại và cho Lyra xem một vết bỏng to bằng đồng xu, nhợt nhạt và nhẵn thín. "Trận động chỉ đầu tiên tớ từng cảm nhận. Hồi đó tớ mười một tuổi. Tớ ngồi ngay giữa hành lang suốt bốn mươi phút, nhất quyết không cho ai dìu dậy, và halmeoni của tớ *tức điên* vì vụ đó, và đó là phần duy nhất hay ho."
+"Lộ rõ đến vậy thật. Tớ là Wren Zhou. Năm ba, chuyên ngành cộng hưởng, và tớ làm cái này đã sáu năm, mà đến cổng tớ vẫn kéo ra đúng cái mặt đó." Wren lật cổ tay áo đồng phục lại và cho Lyra xem một vết sẹo bỏng to bằng đồng xu, nhợt nhạt và nhẵn thín. "Cơn Weave-Quake đầu tiên tớ từng cảm nhận. Hồi đó tớ mười một tuổi. Tớ ngồi ngay giữa hành lang suốt bốn mươi phút, nhất quyết không cho ai dìu dậy, và halmeoni của tớ *tức điên* vì vụ đó, và đó là phần duy nhất hay ho."
 
 "Wren Zhou."
 
@@ -1652,8 +1652,8 @@ Bốn tấm bảng, gắn trên vòm thay vì dọc theo tường, để không 
 
 > **BỘ ĐẾM WEAVE-QUAKE** — 17% · ĐẠT CHUẨN
 > **DỰ PHÓNG HỎNG NODE** — T+9 ngày, 14:00 (khảo sát năm 1997, tái kiểm chứng năm 2009)
-> **BIẾN DẠNG ĐỊA PHƯƠNG (THÁP ĐÔNG)** — 0.4% · đạt chuẩn
-> **BỘ THU** — 4% công suất
+> **BIẾN DẠNG CỤC BỘ (THÁP ĐÔNG)** — 0.4% · đạt chuẩn
+> **BỘ THU** — 4% sức chứa
 
 *Bốn con số khác nhau,* Lyra nghĩ. *Bốn câu hỏi khác nhau. Số lớn là mức độ nghiêm trọng của toàn bộ mạng lưới kết giới, và đó là một mức độ nghiêm trọng, không phải phần trăm của thứ gì đó có thể chỉ tay vào được. Số thứ hai là mô hình của Hội đồng về ngày mà Nexus Phía Nam sụp đổ, và trên đó có ghi một ngày, và một ngày tháng trên tường là một thứ đáng sợ khác hẳn một con số. Số thứ ba là tòa nhà này đang rơi vào cảnh nguy cấp cỡ nào. Số thứ tư là cỗ bộ thu nỗi sợ cũ dưới phòng gym đã đầy đến đâu, và không ai biết nó để làm gì, và nó không hề nằm trong sổ tay học sinh.*
 
@@ -1759,7 +1759,7 @@ Cô thở. Hít vào bốn nhịp. Giữ bốn nhịp. Thở ra bốn nhịp.
 
 "Eli," cô bạn ở cánh tay cô nói, thật lòng. "Chứ bây giờ thì không."
 
-"Tớ đâu có nói bây giờ. Tớ nói về sau này. Zara. Zara Washington." Cô bạn rút tay khỏi cánh tay Lyra, đợi, rồi đặt lại, và Lyra cảm nhận được sự khác biệt: một hơi ấm không phải nhiệt độ, và *bên dưới* hơi ấm là một kết cấu. Những ốc văn. Những khối chữ gọn ghẽ của một câu chuyện được kể quanh một cái tên, một cuộc đời, một món nợ.
+"Tớ đâu có nói bây giờ. Tớ nói về sau này. Zara. Zara Washington." Cô bạn rút tay khỏi cánh tay Lyra, đợi, rồi đặt lại, và Lyra cảm nhận được sự khác biệt: một hơi ấm không phải nhiệt độ, và *bên dưới* hơi ấm là một kết cấu. Những khung cartouche. Những khối chữ gọn ghẽ của một câu chuyện được kể quanh một cái tên, một cuộc đời, một món nợ.
 
 "Tớ là Zara. Nhà mẹ tớ gốc Ai Cập. Nhà tớ không đọc người, nhà tớ đọc những câu chuyện bao quanh người. Cậu là một câu chuyện rất ngắn, và nó chưa kể xong." Môi Zara siết lại. "À, và cậu đang làm đau khoảng chín trăm người, và tớ muốn chuyện đó dừng lại trước khi cậu quyết định thêm bất cứ điều gì khác về bản thân mình."
 
@@ -1865,7 +1865,7 @@ Cô đã chuẩn bị tinh thần cho một điều gì đó. Từ chuyến tàu
 
 Ông để câu ấy nằm im đúng chừng thời gian nó cần.
 
-"Chúng là một môi trường truyền. Chúng có tính chất. Chúng truyền tải, chúng suy giảm, chúng giao thoa, chúng có thể được cảm ứng, có thể được triệt tiêu, và — đây chính là đoạn mà sách giáo khoa của các em né tránh — chúng phản ứng trước ý muốn với một độ trễ đo đạc được, từ bốn phần mười đến chín phần mười giây. Bốn phần mười. Đúng bằng thời gian một người kịp giật mình."
+"Chúng là một môi trường truyền. Chúng có tính chất. Chúng truyền tải, chúng suy hao, chúng giao thoa, chúng có thể được cảm ứng, có thể được giảm chấn, và — đây chính là đoạn mà sách giáo khoa của các em né tránh — chúng phản ứng trước ý muốn với một độ trễ đo đạc được, từ bốn phần mười đến chín phần mười giây. Bốn phần mười. Đúng bằng thời gian một người kịp giật mình."
 
 Ông viết lên bảng mà không quay người lại.
 
@@ -1911,7 +1911,7 @@ Không ai nhúc nhích.
 
 Im lặng kéo dài rưỡi nhịp.
 
-Eli huýt vai vào cô. Cô đã không nhận ra mình đang nín thở. "Cái quan sát của cậu," cậu ấy nói, khẽ, gấp gáp. "Cái cậu đã nói với cô Rivera. Cái *cảm giác* của nó. Hỏi ông ấy đi."
+Eli huých vai vào cô. Cô đã không nhận ra mình đang nín thở. "Cái quan sát của cậu," cậu ấy nói, khẽ, gấp gáp. "Cái cậu đã nói với cô Rivera. Cái *cảm giác* của nó. Hỏi ông ấy đi."
 
 Cô giơ tay lên. Cảm giác như đang đưa tay vào lửa rồi mới phát hiện ngọn lửa đứng về phía mình.
 
@@ -1998,15 +1998,15 @@ Cô đã dành trọn một ngày để sợ hãi trong một tòa nhà mới, v
 
 ## CUỘC GỌI LÚC BẢY GIỜ
 
-Chiếc điện thoại ở hành lang đông của phòng khám có một sợi dây, và sợi dây quá ngắn để với tới cầu thang, và Lyra nhận ra mình phải đứng trong một khung cửa cụ thể thì mới nghe được mà không bị nghe lén, và rằng cô đã đứng đó bốn mươi phút vào sáng thứ Sáu, và rằng Giáo sư Tanaka bắt gặp cô ở đó lúc tám giờ kém mười mà không nói bất cứ điều gì về chuyện đó, chuyện Lyra sẽ còn suy nghĩ về sau.
+Chiếc điện thoại ở hành lang đông của phòng khám có một sợi dây, và sợi dây quá ngắn để với tới cầu thang, và Lyra nhận ra mình phải đứng trong một khung cửa cụ thể để bên kia nghe được mình mà không bị người ngoài nghe lén, và rằng cô đã đứng đó bốn mươi phút vào sáng thứ Sáu, và rằng Giáo sư Tanaka bắt gặp cô ở đó lúc tám giờ kém mười mà không nói bất cứ điều gì về chuyện đó, chuyện Lyra sẽ còn suy nghĩ về sau.
 
 Bố cô đang ở Khu C của Westbrook và đã ở đó được một ngày. Ông không được phép di chuyển, và đã ngừng cãi về chuyện đó từ tối thứ Năm, một chuyện mới, và nó còn tệ hơn.
 
-"Họ gắn lên tôi một con số," ông nói. "Ba mươi mốt. Và người phụ nữ đọc con số ấy đã thốt ra từ *tống máu* giữa hành lang, hai lần, trước mặt vợ tôi, mà vợ tôi thì là mẹ tôi, và mẹ tôi đã bắt đầu ghi chép."
+"Họ gắn lên bố một con số," ông nói. "Ba mươi mốt. Và người phụ nữ đọc con số ấy đã thốt ra từ *tống máu* giữa hành lang, hai lần, trước mặt vợ bố, mà vợ bố thì là mẹ bố, và mẹ bố đã bắt đầu ghi chép."
 
 "Ghi chú đó để làm gì?"
 
-"Bà nội con. Bà ấy gọi cho tôi. Bà có rất nhiều kinh nghiệm với những người hoảng sợ trong các cơ sở, và không có chút kinh nghiệm nào với bệnh nhân tim cả, và bà đã quyết định đích thân chỉ huy chuyện này." Một khoảng lặng; tiếng một người đàn ông xoay xoay chiếc tách. "Bà ấy còn nói với tôi một câu mà tôi sẽ nhắc lại với con đúng một lần rồi không bao giờ nữa. Bà ấy nói: *Bàba ba. Hỏi họ con số của chuyện kia. Không phải trái tim. Chuyện kia. Hỏi họ con số của chuyện kia rồi ghi ra giấy, và đừng để họ nhét nó vào ngăn kéo.*"
+"Bà nội con. Mẹ gọi cho bố. Bà có rất nhiều kinh nghiệm với những người hoảng sợ trong các cơ sở, và không có chút kinh nghiệm nào với bệnh nhân tim cả, và bà đã quyết định đích thân chỉ huy chuyện này." Một khoảng lặng; tiếng một người đàn ông xoay xoay chiếc tách. "Bà còn nói với bố một câu mà bố sẽ nhắc lại với con đúng một lần rồi không bao giờ nữa. Bà nói: *Bàba ba. Hỏi họ con số của chuyện kia. Không phải trái tim. Chuyện kia. Hỏi họ con số của chuyện kia rồi ghi ra giấy, và đừng để họ nhét nó vào ngăn kéo.*"
 
 Lyra đứng trong khung cửa, ống nghe áp vào tai, nhìn ra hành lang.
 
@@ -2016,7 +2016,7 @@ Lyra đứng trong khung cửa, ống nghe áp vào tai, nhìn ra hành lang.
 
 "Hôm thứ Bảy họ nói rằng riêng nó một mình thì đã cho bố thêm nhiều năm."
 
-"Họ nói vậy. Tôi có nó bằng văn bản, vì tôi đã yêu cầu bằng văn bản, và tôi muốn con để ý rằng tôi đã yêu cầu, vì cả đời tôi chưa một lần xin bất cứ thứ gì bằng văn bản, và tôi đã làm điều đó sáng thứ Bảy, ở hành lang ngoài một hiệu sách, và tôi làm điều đó vì một người phụ nữ tôi chưa từng gặp đã nhìn tôi và nói *hình dáng của câu đó là hình dáng của mọi thứ ngành này nói ra* và tôi muốn câu đó nằm trong một ngăn kéo của riêng tôi."
+"Họ nói vậy. Bố có nó bằng văn bản, vì bố đã yêu cầu bằng văn bản, và bố muốn con để ý rằng bố đã yêu cầu, vì cả đời bố chưa từng một lần đòi hỏi bất cứ thứ gì bằng văn bản, và bố đã làm điều đó sáng thứ Bảy, ở hành lang ngoài một hiệu sách, và bố làm điều đó vì một người phụ nữ bố chưa từng gặp đã nhìn bố và nói *hình dáng của câu đó là hình dáng của mọi thứ ngành này nói ra* và bố muốn câu đó nằm trong một ngăn kéo của riêng bố."
 
 Dòng bảy viết: *việc chuyển viện cần chữ ký xác nhận của Hội đồng và một thư của bác sĩ chuyên khoa tim mạch cấp cao, và ngày chủ nhật thì không có bác sĩ chuyên khoa tim mạch cấp cao nào.*
 
@@ -2028,7 +2028,7 @@ Dòng bảy viết: *việc chuyển viện cần chữ ký xác nhận của H�
 
 Bố cô bật cười, rồi phải ngừng lại, vì cơn cười.
 
-"Tối nay tôi gọi lại cho con," ông nói. "Đi dự thi đi. Lyra — con số của chuyện kia. Bất kể nó là gì, khi họ đưa nó cho con, *đừng để họ nhét nó vào ngăn kéo.*"
+"Tối nay bố gọi lại cho con," ông nói. "Đi làm bài thi đi. Lyra — con số của chuyện kia. Bất kể nó là gì, khi họ đưa nó cho con, *đừng để họ nhét nó vào ngăn kéo.*"
 
 ---
 
@@ -2396,7 +2396,7 @@ Milo bước ra khỏi cổng vòm với tóc dựng ngược, áo sơ mi tuột
 
 "Milo—"
 
-"Chur," Milo Reyes nói, và lấy chiếc áo sơ mi khỏi tay cô, và không hỏi lại, và đó là việc tử tế duy nhất mà bất kỳ ai làm cho cô trong cả tuần ấy.
+"Chur," Milo Reyes nói, và lấy chiếc áo sơ mi khỏi tay cô, và không hỏi lại, và đó là điều tử tế nhất mà bất kỳ ai làm cho cô trong cả tuần ấy.
 
 ## BẢN VẼ KỸ THUẬT
 
@@ -2458,7 +2458,7 @@ Hai giờ kém mười, tấm bảng trên tường — cái nhỏ, cái chỉ h
 > **BỘ ĐẾM** — 31% · NGHIÊM TRỌNG
 > **DỰ PHÓNG HỎNG NODE** — T+13 ngày, 14:00 *(chạy lại trên dữ liệu một phần)*
 > **BIẾN DẠNG CỤC BỘ (THÁP ĐÔNG)** — 9.1% · tăng cao
-> **BỘ THU** — 87% công suất
+> **BỘ THU** — 87% sức chứa
 
 Bảng thứ tư là thứ không ai từng giải thích. Bộ thu dưới phòng gym đã ở mức bốn phần trăm vào thứ Hai.
 
@@ -2466,7 +2466,7 @@ Lyra đứng dậy, khoác áo lên bộ đồ ngủ, và đi xuống ba tầng 
 
 ---
 
-## VÒNG VÂY
+## VÀNH ĐAI PHONG TỎA
 
 *Thứ Tư 11 tháng Chín - Thứ Năm 12 tháng Chín. Sân trong, và rồi tới hồ sơ.*
 
@@ -2476,7 +2476,7 @@ Kỹ sư Tư vấn đến vào thứ Tư với hai người đàn ông và một
 
 Bộ dữ liệu tham chiếu nằm trong Mê Cung. Đó là lý do bộ đếm của Hội đồng kể từ sáng thứ Tư ghi *dữ liệu một phần* ở mọi dòng đầu, và đó là lý do từ đó không ai có thể nói con số đó nghĩa là gì, và đó là lý do con số của một cậu bé trong một căn phòng ở Tháp Đông có thể bị lấy làm con số của Học viện.
 
-Họ giăng một vòng vây dọc hành lang cột và chống đỡ nhịp vòm vào thứ Tư, và thứ gỗ ấy được gọi là tạm thời trong mọi văn kiện nhắc tới nó, kể cả văn kiện mà một người nào đó đã đề nghị gọi nó bằng một cái tên khác và bị từ chối.
+Họ lập một hàng rào phong tỏa dọc hành lang cột và chống đỡ nhịp vòm vào thứ Tư, và thứ gỗ ấy được gọi là tạm thời trong mọi văn kiện nhắc tới nó, kể cả văn kiện mà một người nào đó đã đề nghị gọi nó bằng một cái tên khác và bị từ chối.
 
 Cánh vòm không được tuyên bố là an toàn. Nó được tuyên bố là đi qua được, vào thứ Năm, bởi một người đàn ông với tấm kẹp giấy, và đó không phải là cùng một câu, và chính câu thứ hai mới là điều mà một Chánh Văn phòng đã dựa vào để ký một điều kiện ra vào, trong văn phòng ở sân, vào chiều thứ Năm, bằng một nét chữ không khó đọc.
 
@@ -2494,7 +2494,7 @@ Cánh vòm không được tuyên bố là an toàn. Nó được tuyên bố l�
 
 Tấm thông báo được dán lên lúc chín giờ, dài bốn dòng, và nó đổi hẳn hình dáng của buổi sáng, vì tất cả mọi người trong hội trường đều được báo từ tháng Tám rằng Tiến sĩ Chen sẽ thị phạm, và vì thế tất cả mọi người trong hội trường đã không đọc bất cứ thứ gì về đạo đức sợi chỉ từ đầu học kỳ, và có hai trăm mười một sinh viên năm nhất, và khoảng sáu mươi người trong số họ đã chuẩn bị sẵn câu hỏi.
 
-*Tiến sĩ M-H. Chen sẽ chủ trì buổi seminar thứ Năm. Trong trường hợp bà vắng mặt, Giáo sư Harlow đã xin phép phát biểu.*
+*Tiến sĩ M-H. Chen sẽ chủ trì buổi seminar thứ Năm. Vì bà vắng mặt, Giáo sư Harlow đã xin phép phát biểu.*
 
 Lyra đọc tấm thông báo bốn lần và không hiểu vì sao nó khiến cô thấy như có ai đó vừa rút một chiếc ghế ra khỏi một hàng ghế.
 
@@ -2514,7 +2514,7 @@ Lyra đọc tấm thông báo bốn lần và không hiểu vì sao nó khiến 
 
 Trưởng lão Adebayo Adeyemi lấy phần phát biểu trước tiên, không ai mời, và ông làm điều đó theo cách khiến lời xin phép trở nên thừa thãi: ông bước xuống vào vòng tròn, ngồi lên phiến đá obsidian, bắt chéo chân, trong bộ áo choàng mang màu của một buổi chiều tháng Chín, và ông chờ.
 
-"Tôi dạy những gì tôi biết và tôi không biết những gì ông dạy," ông nói. "Chúng ta sẽ cùng sai. Phía sau có một chiếc ghế dài cho bất kỳ ai thấy mình sắp xỉu, và tôi bảy mươi mốt tuổi, và tôi có một cái đầu gối, và tôi sẽ dùng chiếc ghế ấy, và tôi muốn điều này được ghi vào biên bản rằng tôi đã nói trước, vì một người đàn ông ở tuổi tôi mà không nói trước là đang diễn."
+"Tôi dạy những gì tôi biết và tôi không biết những gì ông dạy," ông nói. "Chúng ta sẽ cùng sai. Phía sau có một chiếc ghế dài cho bất kỳ ai thấy mình sắp xỉu, và tôi bảy mươi mốt tuổi, cái đầu gối của tôi dạo này có vấn đề, và tôi sẽ dùng chiếc ghế ấy, và tôi muốn điều này được ghi vào biên bản rằng tôi đã nói trước, vì một người đàn ông ở tuổi tôi mà không nói trước là đang diễn."
 
 Rồi ông tạo ra một thứ.
 
@@ -2824,7 +2824,7 @@ Sau đó, ngoài hành lang, Lyra nói: "Đó là điều hay nhất mà em từ
 
 "Đã ghi nhận," Harlow nói.
 
-"Ines là mẹ tôi," Elena Vance nói. "Mẹ tôi còn sống. Mẹ đang ở trong một chương trình chăm sóc ở thị trấn này, và chị gái tôi đã ở trong cùng chương trình đó từ năm mười hai tuổi, và người cuối cùng trong tòa nhà này đã viết cái tên đó vào một mẫu đơn năm 2011 là ông. Và *Mira* không phải là tên của cô ấy, và cũng không phải tên của bất kỳ ai. Đó là cái xảy ra khi một người đàn ông đã giữ một trang giấy trong ngăn kéo suốt hai năm cố nói thành lời một cái tên mà lẽ ra ông ta không bao giờ được biết."
+"Ines là mẹ tôi," Elena Vance nói. "Mẹ tôi còn sống. Mẹ đang ở trong một chương trình chăm sóc ở thị trấn này, và em gái tôi đã ở trong cùng chương trình đó từ năm mười hai tuổi, và người cuối cùng trong tòa nhà này đã viết cái tên đó vào một mẫu đơn năm 2011 là ông. Và *Mira* không phải là tên của cô ấy, và cũng không phải tên của bất kỳ ai. Đó là cái xảy ra khi một người đàn ông đã giữ một trang giấy trong ngăn kéo suốt hai năm cố nói thành lời một cái tên mà lẽ ra ông ta không bao giờ được biết."
 
 Không ai trong hành lang nhúc nhích.
 
@@ -2908,7 +2908,7 @@ Phòng của Elara Vance ở tầng ba của ký túc xá phía đông và nó t
 
 Trống trơn. Giường được dọn gọn. Bàn ngăn nắp. Một chồng bài tập trên mặt bàn, xếp vuông vức. Một chiếc lược trên kệ phía trên bồn rửa mặt. Ba đêm của một học kỳ đã sống trong một căn phòng, và không có một điều gì *sai* trong tất cả những thứ đó, và cũng chẳng còn gì trong đó cả.
 
-Bảng giám sát của chính ký túc xá nói điều nó nói: **CƯ DÂN, E. VANCE, TẦNG 3. TÌNH TRẠNG CHIẾM NGỘI: TRỐNG TỪ 11 THÁNG CHÍN LÚC 23:14.**
+Bảng giám sát của chính ký túc xá nói điều nó nói: **CƯ DÂN, E. VANCE, TẦNG 3. TÌNH TRẠNG CHIẾM CHỖ: TRỐNG TỪ 11 THÁNG CHÍN LÚC 23:14.**
 
 Một đêm.
 
@@ -2992,7 +2992,7 @@ Sáng hôm sau, lúc mười giờ mười phút, Eli Park đứng ở hành lan
 
 ## ĐI TRƯỚC CHÍN MƯƠI GIÂY
 
-Tiến sĩ Mei-Hua Chen đã đi trước họ sáu mươi tám giây trong mười một ngày, và lý do không phải là trí tuệ, không phải là huấn luyện, mà chính là điều hữu ích duy nhất mà Lyra Chen học được trong mùa thu năm 2013.
+Tiến sĩ Mei-Hua Chen đã đi trước họ sáu mươi tám giây trong mười một ngày, và lý do không phải là trí tuệ, không phải là huấn luyện, mà chính là điều hữu ích nhất mà Lyra Chen học được trong mùa thu năm 2013.
 
 Bà đã không đến phòng An ninh. Bà đi bộ, với một nhịp bước hoàn toàn bình thường, dọc một hành lang, ngang qua một cửa thoát hiểm, rồi xuyên qua một cửa thoát hiểm, rồi xuống một cầu thang phục vụ, và cầu thang phục vụ dẫn xuống một tầng ngầm mà chín ngày trước, trong buổi chiều đầu tiên của cô, Lyra Chen đã từng đi ngang qua và đã tưởng đó là một *kho chứa*, và Chánh Văn phòng mở khóa nó bằng chiếc chìa khóa xỏ dây xích quanh cổ và không nói gì, và để cánh cửa đứng mở, và đó chính là lời nhắn.
 
@@ -3002,7 +3002,7 @@ Rồi bà nói: "Bốn em. Hai em sắp làm một việc gì đó dũng cảm v
 
 "Dưới tòa nhà này có một cỗ máy." Tiến sĩ Chen mở một cánh cửa. "Tôi biết dưới tòa nhà này có một cỗ máy từ mười một năm trước. Tôi chưa từng nhìn thấy nó. Nó không có trong bản kiểm kê của Hội đồng. Nó không có trong bản kiểm kê của *tôi*, và tôi đã làm Chánh Văn phòng của Học viện này trong mười một năm, và tôi đã ký cho việc di dời một nồi hơi khỏi tầng ngầm đó năm 2011, và người đàn ông đến làm việc đó đã không chịu đi qua cánh cửa thứ hai và không chịu nói tại sao, và tôi đã không hỏi tại sao, và hai năm nay tôi nghĩ về chuyện đó mỗi ngày."
 
-*Lyra nhìn bà. Đây là người dì mà mười hai ngày trước cô đã nói chuyện suốt mười một phút trong một hành lang, người đã nói rằng: cháu là người Chen đầu tiên trong nhà này sau bốn thế hệ không phải là người thông minh nhất trong phòng, và điều đó là một sự nhẹ nhõm, và dì rất lấy làm tiếc, và dì cũng cực kỳ vui.*
+*Lyra nhìn bà. Đây là người cô mà mười hai ngày trước cô đã nói chuyện suốt mười một phút trong một hành lang, người đã nói rằng: cháu là người Chen đầu tiên trong nhà này sau bốn thế hệ không phải là người thông minh nhất trong phòng, và điều đó là một sự nhẹ nhõm, và cô rất lấy làm tiếc, và cô cũng cực kỳ mừng.*
 
 "Ở tầng ba ký túc xá phía Đông có một cô gái," Tiến sĩ Chen nói, "đã bước vào căn phòng đó ngày mười một tháng Chín lúc hai mươi ba giờ mười bốn, để đổi lấy một tấm phiếu do tự tay cô ấy ký, trên đó ghi cô ấy mười lăm tuổi, và sáng nay tôi phát hiện ra điều này trong một hành lang vì một cậu bé mười sáu tuổi đã đưa cho tôi một tờ giấy, và cả sáng nay tôi đã phải quyết định mình sẽ làm gì với chuyện đó, và tôi đã quyết định rằng tôi sẽ làm mọi thứ Hội đồng yêu cầu và *không một việc nào hơn*, và tôi muốn bốn em giúp tôi phần việc mà Hội đồng không thể làm."
 
@@ -3034,7 +3034,7 @@ Họ đưa cậu bé ra ngoài lúc mười một giờ hai mươi.
 
 Và đây là điều về chuyện đó, điều nằm trong bản ghi và điều mà Lyra đã xin để được phép trở thành điều đầu tiên mà bất cứ ai nói tại bất kỳ hội thảo nào về mùa thu năm 2013:
 
-Không ai phải dũng cảm. Đó là toàn bộ kết luận. Ủy ban Điều tra đã xác định, trong chín ngày, rằng những sự kiện tháng Chín năm 2013 tại Học viện Threadweaver không phải là một câu chuyện về bốn thiếu niên. Đó là câu chuyện về việc tòa nhà này có khả năng thực hiện bao nhiêu *thủ tục bình thường, chuyên nghiệp, phi anh hùng* nếu chỉ cần có người chịu để nó xảy ra, và về một người phụ nữ sáu mươi tám tuổi đã biết trong mười một năm rằng bên dưới mình có một cỗ máy, và đã dành mười một ngày âm thầm tìm ra trong mười một trăm người của tòa nhà này thì bốn người nào có thể được tin cậy giao một việc lưu hồ sơ.
+Không ai phải dũng cảm. Đó là toàn bộ kết luận. Ủy ban Điều tra đã xác định, trong chín ngày, rằng những sự kiện tháng Chín năm 2013 tại Học viện Threadweaver không phải là một câu chuyện về bốn thiếu niên. Đó là câu chuyện về việc tòa nhà này có khả năng thực hiện bao nhiêu *thủ tục bình thường, chuyên nghiệp, phi anh hùng* nếu chỉ cần có người chịu để nó xảy ra, và về một người phụ nữ sáu mươi tám tuổi đã biết trong mười một năm rằng bên dưới mình có một cỗ máy, và đã dành mười một ngày âm thầm tìm ra trong một nghìn một trăm người của tòa nhà này thì bốn người nào có thể được tin cậy giao một việc lưu hồ sơ.
 
 Tên của Eli Park nằm trong đó vì cậu đã đưa cho bà một tờ giấy trong một hành lang, ban ngày, có người làm chứng.
 
@@ -3174,11 +3174,11 @@ Họ ra ngoài lúc 3:53. Vòm cửa sập xuống lúc 4:20.
 
 Hai mươi bảy phút, đó là khoảng biên, và khoảng biên là toàn bộ lý do vì sao có một sổ đăng ký của vụ bốn mươi mốt, một bảng thứ năm, và một Đạo luật đã được sửa đổi chỉ trong hai tuần, và khoảng biên là như sau:
 
-Tanaka có bốn người canh, một bộ đàm, một lịch đánh giá chín năm tuổi và quyền hạn của người hướng dẫn cao cấp nhất hiện diện tại hiện trường. Tiến sĩ Chen có một mệnh lệnh khẩn cấp của Chánh Văn phòng, tức là một tờ giấy có thể đóng cửa một tòa nhà. Và Marcus Harlow — người có một giấy lệnh của Hội đồng Truyền Thống cho phép một buổi thị phạm có giám sát, người đã ở trong tòa nhà hai ngày mà không có sự cho phép, và người mang trong mình mười một tuần — bước vào một sân lúc 3:56 và nói, trước mặt bốn người canh, trước mặt một nhân viên đăng ký trực, trước mặt một Hiệu trưởng ở đầu dây điện thoại, và trước mặt hai trăm mười một sinh viên đang ngồi trong giảng đường bên kia một bức tường:
+Tanaka có bốn người canh, một bộ đàm, một lịch đánh giá chín năm tuổi và quyền hạn của người hướng dẫn cao cấp nhất hiện diện tại hiện trường. Tiến sĩ Chen có một mệnh lệnh khẩn cấp của Chánh Văn phòng, tức là một tờ giấy có thể đóng cửa một tòa nhà. Và Marcus Harlow — người có một giấy lệnh của Hội đồng Truyền Thống cho phép một buổi thị phạm có giám sát, người đã ở trong tòa nhà hai ngày mà không có sự cho phép, và người mang trong mình mười một tuần — bước vào một sân lúc 3:56 và nói, trước mặt bốn người canh, trước mặt Chánh Văn phòng, trước mặt một Hiệu trưởng ở đầu dây điện thoại, và trước mặt hai trăm mười một sinh viên đang ngồi trong giảng đường bên kia một bức tường:
 
 "Đưa tôi ra ngoài. Cho tôi vào một hành lang với một chiếc ghế. Tôi có một thiết bị đo trong tòa nhà đó và tôi chưa đọc nó kể từ thứ Hai, và tôi sẽ đọc nó trong một hành lang với hai người canh đứng bên ngoài, và nếu tôi bước ra khỏi hành lang đó trước khi vòm sập, các người có thể bắt tôi, và nếu tôi không bước ra khỏi hành lang đó, các người có thể nói với Hội đồng rằng một thành viên của ban giảng huấn này cuối cùng đã làm đúng một việc."
 
-Anh ở trong một hành lang với một chiếc ghế từ 4:04 đến 9:40 tối hôm đó, và bốn người canh đứng bên ngoài, và anh chuyển cho Tanaka một chiếc tai nghe lúc 4:31, và chiếc tai nghe nằm trong biên bản, và nó dài bốn phút, và Chủ tịch đã đọc nó to lên bốn lần, và đó là bốn phút của một người đàn ông năm mươi bốn tuổi truyền đạt hướng dẫn vận hành của một thiết bị do chính anh chế tạo, cho một người hướng dẫn, bằng một ngôn ngữ gần như hoàn toàn về *đường truyền lực*, và về một vết hỏng trong tấm lưới phía Đông rộng khoảng một bàn tay, và bốn mươi giây cuối cùng của nó là thế này:
+Ông ở trong một hành lang với một chiếc ghế từ 4:04 đến 9:40 tối hôm đó, và bốn người canh đứng bên ngoài, và ông chuyển cho Tanaka một chiếc tai nghe lúc 4:31, và chiếc tai nghe nằm trong biên bản, và nó dài bốn phút, và Chủ tịch đã đọc nó to lên bốn lần, và đó là bốn phút của một người đàn ông năm mươi bốn tuổi truyền đạt hướng dẫn vận hành của một thiết bị do chính ông chế tạo, cho một người hướng dẫn, bằng một ngôn ngữ gần như hoàn toàn về *đường truyền lực*, và về một vết hỏng trong tấm lưới phía Đông rộng khoảng một bàn tay, và bốn mươi giây cuối cùng của nó là thế này:
 
 "—và *vành* không phải là một phần của nó. Vành là một số đọc, không phải là một kết cấu. Đừng để bất kỳ ai đưa tay lại gần vành. Đó là điều đã xảy ra với cậu bé, là điều đã xảy ra với tôi trong hội trường thị phạm, và là điều đã xảy ra với một người phụ nữ hai mươi bốn tuổi trong một khu vườn, và đó là một trường hợp *chạm sượt*, và mỗi người trong chúng ta đều từng mắc lỗi đó, và tôi đã mắc nó mười một lần, và tôi đang xin bà, như một ân tình nghề nghiệp giữa hai người chưa từng thích nhau, hãy để tòa nhà sập xuống cái lồng chứ không phải xuống cậu bé, và tôi biết tôi đang xin một người phụ nữ phá hủy mười một năm công việc của tôi, và tôi muốn việc tôi đã xin như vậy được ghi vào biên bản."
 
@@ -3222,7 +3222,7 @@ Giường đầu là của Maya Sandoval, hai mươi mốt tuổi, đang học n
 
 Giường thứ hai là của Sam Whitfield, mười tám tuổi, người đã ở trong hội trường thị phạm, người đang tự thở, người có phiếu theo dõi ghi *ổn định*, và người chưa tỉnh lại.
 
-Giường thứ ba là của Thandiwe Mbeki, mười bảy tuổi, năm hai, người đang có bốn lượt khách đến thăm cùng một lúc, và không ai trong bốn người ấy nói nổi với ai một lời.
+Giường thứ ba là của Thandiwe Mbeki, mười bảy tuổi, năm hai, người đang có bốn người khách đến thăm cùng một lúc, và không ai trong bốn người ấy nói nổi với ai một lời.
 
 Giường thứ tư là của Ben Ruiz, mười bảy tuổi, học sinh cuối cấp trường Westbrook High, người đã gục xuống trên tấm thảm của một hiệu sách vào ngày ba mươi mốt tháng Tám trước mặt sáu mươi người, người mà Lyra đã nói chuyện chừng chín mươi giây tối hôm đó mà không biết cậu ta là ai, và người đã tử tế với cô.
 
@@ -3408,7 +3408,7 @@ Một đứa trẻ, đang thút thít, cách đây chừng hai trăm mét xuốn
 
 Cậu bé bị kẹt ở chỗ một đoạn tường ranh của Học viện đã đổ sụp chắn ngang một đường dịch vụ, và nó trông chừng tám tuổi, và nó mặc một chiếc áo khoác có thêu huy hiệu của một ngôi trường Harlow không nhận ra, và trong chiếc áo dính rất nhiều máu, và dường như không một giọt là của nó.
 
-Kenji Nakamura, tám tuổi, người Hokkaido, và em gái nó, Ren, chín tuổi, đang nằm dưới một mét tường, của chính bức tường ấy, và sẽ không bao giờ ra được nữa, và đội hiện trường đã tìm thấy cô bé lúc chín giờ đêm qua và đã ghi dòng *không phát hiện người sống sót* lúc chín giờ đêm qua, và thứ tự của hai dòng ghi chép ấy là thực tế hành chính tệ nhất mà Harlow từng gặp trong đời.
+Kenji Nakamura, tám tuổi, người Hokkaido, và chị gái nó, Ren, chín tuổi, đang nằm dưới một mét tường, của chính bức tường ấy, và sẽ không bao giờ ra được nữa, và đội hiện trường đã tìm thấy cô bé lúc chín giờ đêm qua và đã ghi dòng *không phát hiện người sống sót* lúc chín giờ đêm qua, và thứ tự của hai dòng ghi chép ấy là thực tế hành chính tệ nhất mà Harlow từng gặp trong đời.
 
 Những sợi chỉ trong người cậu bé là một đống đổ nát, theo một kiểu Harlow chỉ từng thấy một lần.
 
@@ -3430,9 +3430,9 @@ Cảm nhận của Harlow phóng ra qua nếp gấp, rất nhanh, đúng theo c�
 
 "Ren không ở đây," ông nói. "Tôi lấy làm tiếc. Nhìn tôi này. Con không sao. Con sẽ không sao đâu."
 
-"...em gái."
+"...chị con."
 
-"Tôi biết. Tôi lấy làm tiếc. Em con là Ren, và tôi đã ghi lại cái tên đó." Ông nói câu ấy vì ông đã học được ở Kyoto rằng điều người ta không được nghe nói về những người họ đã mất không phải là nỗi mất mát, mà là việc có một ai đó đã chịu khó học lấy cái tên. "Còn con tên gì?"
+"Tôi biết. Tôi lấy làm tiếc. Chị con là Ren, và tôi đã ghi lại cái tên đó." Ông nói câu ấy vì ông đã học được ở Kyoto rằng điều người ta không được nghe nói về những người họ đã mất không phải là nỗi mất mát, mà là việc có một ai đó đã chịu khó học lấy cái tên. "Còn con tên gì?"
 
 "Kenji." Cậu bé nói được cái tên rồi bám chặt lấy nó, như bao đứa trẻ vẫn thế. "Nakamura."
 
@@ -3456,7 +3456,7 @@ Hoặc ông có thể đem cậu bé đến một nơi biên bản không với 
 
 Ông không muốn làm cách thứ hai. Ông biết, theo một cách xa xôi và chẳng giúp được gì, rằng việc không muốn làm nó là một bằng chứng, và rằng đó là bằng chứng duy nhất ông từng có cho thấy mình là một con người chứ không phải một quy trình.
 
-Ông điền cả mười một mục. Ông viết *08:40, trẻ được cứu sống từ sườn phía tây lúc 06:20, tình trạng ổn định, đã ghép* — rồi ông cầm lại cây bút và viết thêm cái tên, và tuổi, và ngôi trường, và tên của người em gái, và cả thời điểm đội hiện trường ghi dòng *không phát hiện người sống sót*, vì hai mươi năm nữa sẽ có ai đó đọc tệp hồ sơ này, và họ sẽ muốn biết ông đã biết những gì và biết từ lúc nào.
+Ông điền cả mười một mục. Ông viết *08:40, trẻ được cứu sống từ sườn phía tây lúc 06:20, tình trạng ổn định, đã ghép* — rồi ông cầm lại cây bút và viết thêm cái tên, và tuổi, và ngôi trường, và tên của người chị gái, và cả thời điểm đội hiện trường ghi dòng *không phát hiện người sống sót*, vì hai mươi năm nữa sẽ có ai đó đọc tệp hồ sơ này, và họ sẽ muốn biết ông đã biết những gì và biết từ lúc nào.
 
 Rồi ông làm điều ông đã trì hoãn từ 06:20, đó là gửi nó lên cấp trên, và việc đó tốn của ông bốn mươi phút và bốn lần bị từ chối, và đến 09:20 thì cậu bé đã nằm trong một khu bệnh, với một nhân viên an ninh đứng ngoài cửa và một dòng chú thích trên hồ sơ ghi *không được chuyển nơi khác nếu thiếu sự đồng ý bằng văn bản của Giáo sư M. Harlow*, một điều do ông gây ra, và một điều ông đã cố ý làm, và một điều ông sẽ phải có khả năng giải thích.
 
@@ -3598,11 +3598,11 @@ Thứ nhất là một biên bản họp Hội đồng, đã được ký đối
 
 Ông đọc bản ghi đó bốn lần. Về sau ông sẽ còn suy nghĩ về nó rất lâu, và nó chưa từng một lần thay đổi điều ông làm, và ông chưa từng xác định nổi điều đó khiến việc của ông đáng được tha thứ hơn hay kém hơn.
 
-Thứ hai là một cường độ tín hiệu. Một cảnh báo khuôn viên, được ghi lúc mười một giờ hai mươi hai đêm hôm ấy, từ Kho Lưu Trữ Hạn Chế: một vụ xâm nhập tại kệ sự cố chiều không gian, bốn người, kết giới triệt âm đã bị công phá. Nó được gửi tới bàn điều khiển của ông và của Trưởng An ninh, và bản sao phía Trưởng An ninh được mở trước, vào phút hai mươi bốn, và không được chuyển tiếp trong mười một phút.
+Thứ hai là một cường độ tín hiệu. Một cảnh báo khuôn viên, được ghi lúc mười một giờ hai mươi hai đêm hôm ấy, từ Kho Lưu Trữ Hạn Chế: một vụ xâm nhập tại kệ sự cố chiều không gian, bốn người, kết giới giảm chấn đã bị công phá. Nó được gửi tới bàn điều khiển của ông và của Trưởng An ninh, và bản sao phía Trưởng An ninh được mở trước, vào phút hai mươi bốn, và không được chuyển tiếp trong mười một phút.
 
 Có người đã mở hồ sơ Kyoto trong tối nay. Có người đã đi tới kệ đó, và không phải đi tới kệ đó một cách tình cờ, vì kệ nằm ở cuối phòng, và hồ sơ nằm trong một hộp, và hộp không dán nhãn.
 
-Thứ ba là một danh sách tên, và cái tên thứ hai trên đó được viết bằng một nét chữ ông đã không thấy suốt mười sáu năm, trên một mẫu đơn do một người phụ nữ ở Portland điền, một người không biết mình đang điền cái gì, với bốn trăm đô la, vào tháng Ba.
+Thứ ba là một danh sách tên, và cái tên thứ hai trên đó được viết bằng một nét chữ ông đã không thấy suốt mười sáu năm, trên một mẫu đơn do một người phụ nữ ở Portland điền, một người không biết mình đang điền cái gì, để lấy bốn trăm đô la, vào tháng Ba.
 
 Ông đặt cả ba thứ xuống, đứng bên cửa sổ nhìn sang ký túc xá phía Đông, nơi có bốn ngọn đèn đang sáng và ba trong số đó thuộc về những đứa trẻ chẳng có việc gì phải làm ở Kho Lưu Trữ mà có đủ mọi việc phải làm trong một căn phòng cách hai tầng phía trên căn ông đang đứng.
 
@@ -3644,7 +3644,7 @@ Rồi Eli tìm thấy bộ bản vẽ thứ hai nằm dưới báo cáo sự c�
 
 Harlow đứng thứ hai từ trái, trẻ hơn, và tay anh vòng qua vai một người phụ nữ Nhật khoảng ba mươi tuổi, tóc bới cao.
 
-Bên cạnh cô ta, nắm lấy tay cả hai người, là một bé gái lên sáu lên bảy, tóc tết hai búi, và một vẻ thù địch công khai đối với máy ảnh.
+Bên cạnh cô ta, nắm lấy tay cả hai người, là một bé gái lên sáu lên bảy, tóc tết hai bím, và một vẻ thù địch công khai đối với máy ảnh.
 
 "Con bé có hàm của ông ta", Zara nói. "Đó là con gái ông ta. Nó là con gái ông ta, đúng không."
 
@@ -3706,7 +3706,7 @@ Eli úp điện thoại xuống mặt bàn, đè cả hai tay lên nó, rất c�
 
 ## THỨ THỨ HAI, TỨC LÀ MỘT BẢN VẼ
 
-Bản vẽ của Kênh Magnus nằm dưới báo cáo sự cố, gấp làm đôi, và tờ giấy đã bốn mươi năm tuổi, đã bị mở ra rồi gấp lại nhiều lần đến mức mềm nhũn.
+Bản vẽ của Kênh Magnus nằm dưới báo cáo sự cố, gấp hai lần, và tờ giấy đã bốn mươi năm tuổi, đã bị mở ra rồi gấp lại nhiều lần đến mức mềm nhũn.
 
 Eli trải phẳng chúng ra, đặt hai tay lên mặt bàn hai bên, và không đụng vào chúng trong mười một giây, khoảng thời gian dài nhất mà bất kỳ ai trong bọn từng thấy cậu không đụng vào một thứ gì.
 
@@ -3978,7 +3978,7 @@ Milo ngồi xuống bậc thang dưới cùng, đặt cánh tay còn lành lên 
 
 "Chủ nhật," Zara nói.
 
-"Vậy thứ Hai là ngày mai." Eli lấy lại hơi. "Tớ sẽ đi gặp Chánh Văn phòng. Bà là một nhân viên đăng ký, và đó là công việc của bà, và bà không nằm trong cỗ máy. Eli Park không quan trọng đến mức bị đưa vào trong cỗ máy."
+"Vậy thứ Hai là ngày mai." Eli lấy lại hơi. "Tớ sẽ đi gặp Chánh Văn phòng. Bà là Chánh Văn phòng, và đó là công việc của bà, và bà không nằm trong cỗ máy. Eli Park không quan trọng đến mức bị đưa vào trong cỗ máy."
 
 *Bộ đếm Weave-Quake: 50% bất ổn. Dự phóng hỏng node: T+13 ngày. Bộ dữ liệu tham chiếu đã bị phá hủy trong vụ sụp đổ Mê Cung ngày mười tháng Chín; đây là lần chạy lại của Hội đồng trên dữ liệu một phần, và không ai nói thành lời rằng đó là một phỏng đoán.*
 
@@ -3990,11 +3990,11 @@ Milo ngồi xuống bậc thang dưới cùng, đặt cánh tay còn lành lên 
 
 ## CÁNH CỬA KHÓA
 
-Cửa văn phòng Hiệu trưởng Weaver khóa kín lúc ba giờ kém hai mươi phút sáng, và Lyra đã biết trước nó sẽ thế, và dưới khe cửa có một vệt đèn, và đó là thông tin mới, và nó tệ hơn cả ổ khóa.
+Cửa văn phòng Hiệu trưởng Weaver khóa kín lúc bốn giờ kém hai mươi phút sáng, và Lyra đã biết trước nó sẽ thế, và dưới khe cửa có một vệt đèn, và đó là thông tin mới, và nó tệ hơn cả ổ khóa.
 
 Cô đứng trong hành lang bên ngoài cánh cửa suốt mười một phút, với bốn thanh giấy gãy giắt trong vỏ điện thoại và một cánh tay trái được quấn bằng một dải vải xé từ chính chiếc áo của cô, vì Phòng khám đã đóng cửa và cậu bé trực bàn nhìn vết bỏng đúng một cái rồi bảo cô quay lại lúc tám giờ, và cô đã nói *nó đúng là loại bỏng đó*, và cậu ta đã nói *tôi biết nó là loại gì, quay lại lúc tám giờ.*
 
-Sau đó không còn kế hoạch nào. Kế hoạch nằm trên một bậc thềm bên ngoài thư viện, và nó là của Eli, và nó bắt đầu lúc tám giờ sáng, ở văn phòng Chánh Văn phòng, và nó là tám giờ sáng, và cô đang ở đây lúc ba giờ kém hai mươi, và khoảng cách giữa hai sự thật đó là chừng hai trăm mét và mười một tiếng, và cô không thể làm nó nhỏ lại chỉ bằng cách đứng yên.
+Sau đó không còn kế hoạch nào. Kế hoạch nằm trên một bậc thềm bên ngoài thư viện, và nó là của Eli, và nó bắt đầu lúc tám giờ sáng, ở văn phòng Chánh Văn phòng, và nó là tám giờ sáng, và cô đang ở đây lúc bốn giờ kém hai mươi, và khoảng cách giữa hai sự thật đó là chừng hai trăm mét và mười một tiếng, và cô không thể làm nó nhỏ lại chỉ bằng cách đứng yên.
 
 Thế là cô đi xuống một tầng để xem đèn kia là của ai, và câu trả lời nằm trên một cánh cửa ở chân cầu thang dịch vụ, và câu trả lời là đêm nay của Hiệu trưởng đang trôi qua ở khu An ninh.
 
@@ -4014,7 +4014,7 @@ Cô đẩy nó lên bàn, áp tai vào cửa thông gió, và ngay trong hai gi�
 
 ## NHỮNG GÌ CÔ NGHE THẤY
 
-Những gì theo sau là những gì Lyra Chen nghe được qua một cửa thông gió, lúc ba giờ kém hai mươi phút sáng ngày mười lăm tháng Chín, và nó được ghi lại ở đây vì chính cô đã ghi lại nó, đêm hôm đó, ở phần cuối của một cuốn sổ tay, mỗi lần mười một chữ, và vì cô rất cẩn trọng với sự khác nhau giữa cái cô nghe được và cái cô suy ra, và vì sự khác nhau đó, hóa ra, đã quan trọng trong suốt một khoảng thời gian rất dài.
+Những gì theo sau là những gì Lyra Chen nghe được qua một cửa thông gió, lúc bốn giờ kém hai mươi phút sáng ngày mười lăm tháng Chín, và nó được ghi lại ở đây vì chính cô đã ghi lại nó, đêm hôm đó, ở phần cuối của một cuốn sổ tay, mỗi lần mười một chữ, và vì cô rất cẩn trọng với sự khác nhau giữa cái cô nghe được và cái cô suy ra, và vì sự khác nhau đó, hóa ra, đã quan trọng trong suốt một khoảng thời gian rất dài.
 
 Cô nghe thấy hai giọng nói. Một giọng là của Harlow, giọng mà cô nhận ra. Giọng kia là của một người phụ nữ khoảng năm mươi lăm tuổi, với nguyên âm hơi bẹt theo kiểu bờ Tây, và đó không phải là giọng của An ninh — cô đã nghe An ninh nói suốt cả tuần — và khi người phụ nữ cuối cùng cũng thốt lên một cái tên, thành tiếng, với một người đàn ông, thì đó là *Marcus*, và nó được nói ra theo cái cách mà người ta nói một cái tên đã nói trong riêng tư.
 
@@ -4060,7 +4060,7 @@ Cô đi đến cầu thang, và xuống, và băng qua sân, và lên khu ký t�
 
 Có một phiên bản của câu chuyện này, trong đó một cô gái mười sáu tuổi đập cửa văn phòng Hiệu trưởng lúc năm giờ sáng, với một cánh tay bỏng và một cuốn sổ ghi đầy một âm mưu, và đó là sự khởi đầu của một điều gì đó.
 
-Có một phiên bản, trong đó cô quay về phòng của mình với bốn thanh giấy gãy, và chờ năm tiếng để một cậu con trai bị trật khớp vai đi gặp một nhân viên đăng ký về một nghị quyết của Hội đồng, và Lyra Chen đã chọn phiên bản thứ hai, trên một bậc cầu thang, một mình, lúc năm giờ mười phút sáng, và đưa ra lý do rằng cô không biết người phụ nữ sau cánh cửa đó có trong đó hay không.
+Có một phiên bản, trong đó cô quay về phòng của mình với bốn thanh giấy gãy, và chờ năm tiếng để một cậu con trai bị trật khớp vai đi gặp Chánh Văn phòng về một nghị quyết của Hội đồng, và Lyra Chen đã chọn phiên bản thứ hai, trên một bậc cầu thang, một mình, lúc năm giờ mười phút sáng, và đưa ra lý do rằng cô không biết người phụ nữ sau cánh cửa đó có trong đó hay không.
 
 Và lý do cô đã không đưa ra, lý do cô thay vào đó nói với Eli Park vào tháng Mười, lý do đã vào biên bản, là thế này: *nếu Hiệu trưởng có trong đó thì tức là tôi đã nói với bà rằng tôi biết, và tôi có bốn người bạn. Nếu bà không trong đó thì tôi đã lãng phí mất bốn tiếng duy nhất mà tôi có, và tôi thà lãng phí bốn tiếng còn hơn nhận sai về một người phụ nữ mà, nếu không phải như thế, có thể là người lớn duy nhất trong tòa nhà này.*
 
@@ -4138,7 +4138,7 @@ Bốn dòng. Việc đó sẽ mất của đội hiện trường bốn giờ.
 
 Nếu ông nhận bốn dòng ấy, thì đến ngày hai mươi bảy tháng Mười Một năm hai nghìn hai mươi sáu, ở Portland sẽ có một cậu bé hai mươi mốt tuổi không tồn tại trong bất kỳ hồ sơ nào, chị gái cậu cũng không tồn tại trong hồ sơ nào, và cậu sẽ kéo nốt phần đời còn lại với một chiếc cầu vĩnh viễn trong lồng ngực mà không ai từng phê chuẩn và không bác sĩ nào trên đời gỡ ra được, và cậu sẽ không bao giờ tìm được tờ giấy ghi rằng *ông ta đã làm điều này với tôi*.
 
-Còn Harlow, phần của riêng ông thì đã từng bị lấy đi rồi. Mười một ngày vừa qua ông đã dành để đi đến quyết định rằng sẽ không nhận thêm cái gì nữa, và ông đã quyết như vậy lúc nửa đêm, một mình, sau khi tính toán rằng cậu bé trong miệng hố, với riêng ông, kém giá trị hơn cô gái trong ký túc xá với một biên độ khổng lồ.
+Harlow đã từng bị tước đi người của chính mình. Mười một ngày qua ông đã dành để đi đến quyết định rằng ông sẽ không tước đoạt của một ai khác, và ông đã quyết như vậy lúc nửa đêm, một mình, sau khi tính toán rằng cậu bé trong miệng hố, với riêng ông, kém giá trị hơn cô gái trong ký túc xá với một biên độ khổng lồ.
 
 Ông cũng viết cả điều đó ra giấy. Đó là trang bốn của hồ sơ.
 
@@ -4286,7 +4286,7 @@ Chiếc terminal ghi nhật ký tin nhắn lúc 07:21 ngày 15 tháng Chín. M�
 
 Bộ phận An ninh nhận nó lúc 07:21. Trưởng An ninh đọc nó lúc 07:38, điều Eli xác định được nhờ một xác nhận đã đọc trên bản sao gửi Chánh Văn phòng, bản sao mà văn phòng này có nghĩa vụ phải trả lại.
 
-Bản sao gửi Chánh Văn phòng đã đến, và bác sĩ Mei-Hua Chen đọc nó lúc tám giờ sáng hôm sau, và đó là lý do một người phụ nữ đã biết suốt mười một năm rằng dưới chân mình có một cỗ máy lại có mặt trong văn phòng của mình lúc tám giờ sáng ngày mười sáu, với bốn tấm ảnh, một cánh tay bị thương của một cậu con trai, và một danh sách viết ra toàn bộ những thứ bọn họ không có.
+Bản sao gửi Chánh Văn phòng đã đến, và Tiến sĩ Mei-Hua Chen đọc nó lúc tám giờ sáng hôm sau, và đó là lý do một người phụ nữ đã biết suốt mười một năm rằng dưới chân mình có một cỗ máy lại có mặt trong văn phòng của mình lúc tám giờ sáng ngày mười sáu, với bốn tấm ảnh, một cánh tay bị thương của một cậu con trai, và một danh sách viết ra toàn bộ những thứ bọn họ không có.
 
 Bản sao gửi Hội đồng thì không, trong mười một tiếng.
 
@@ -4422,11 +4422,11 @@ Cậu hiểu. Khi thời khắc đến, bọn họ phải ra khỏi tòa nhà n�
 
 "Kênh Magnus," Harlow giải thích trong lúc các kỹ thuật viên đẩy vào một phiên bản nhỏ hơn của thiết bị Lyra từng thấy trong phòng thí nghiệm của ông ta, "là đỉnh cao của công nghệ ổn định sợi chỉ. Bằng cách tạo ra một ma trận trích xuất và tái phân phối có kiểm soát, chúng ta có thể ngăn chặn những cú sụp đổ Nexus thảm khốc."
 
-Chiếc thiết bị ù lên sống dậy. Đó là một mô hình chạy thật, kích cỡ chỉ bằng một phần tư, và trong nó vẫn có đúng những đường nứt ấy, và bạc đen thoát ra khỏi nó thành từng luồng cuộn chậm, và những luồng cuộn ấy trườn về phía Lyra rồi dừng lại cách cô chừng một gang tay, và đậu yên ở đó, kiên nhẫn, như nước đứng lặng trên miệng một con đập tràn.
+Chiếc thiết bị ù lên sống dậy. Đó là một mô hình chạy thật, kích cỡ chỉ bằng một phần tư, và trong nó vẫn có đúng những đường nứt ấy, và bạc đen thoát ra khỏi nó thành từng luồng cuộn chậm, và những luồng cuộn ấy trườn về phía Lyra rồi dừng lại cách cô chừng một foot, và đậu yên ở đó, kiên nhẫn, như nước đứng lặng trên miệng một con đập tràn.
 
 "Quá trình cần một cây cầu cộng hưởng," Harlow nói tiếp, giọng chuyển sang tông giảng bài đúng lúc ông ta chuẩn bị phạm một tội ác. "Một người mà chữ ký sợi chỉ có thể dẫn dắt và giữ ổn định các năng lượng hỗn loạn."
 
-Lyra cảm thấy dòng chảy băng qua khoảng không gang tay ấy và tìm thấy mình, và mặt dây chuyền của cô bùng lên cái nóng cảnh báo. Đây không phải một buổi thị phạm — đây là một cuộc rút thật. Harlow định chạy nó trên người cô trong hai mươi phút, trước mặt toàn thể lớp năm nhất, và gọi nó là buổi thị phạm.
+Lyra cảm thấy dòng chảy băng qua khoảng không một foot ấy và tìm thấy mình, và mặt dây chuyền của cô bùng lên cái nóng cảnh báo. Đây không phải một buổi thị phạm — đây là một cuộc rút thật. Harlow định chạy nó trên người cô trong hai mươi phút, trước mặt toàn thể lớp năm nhất, và gọi nó là buổi thị phạm.
 
 Nhưng biết đâu... biết đâu cô có thể lợi dụng chính cái này. Nếu cỗ máy có thể rút một dòng chảy ra khỏi mạng lưới, thì ắt phải có một con đường mà dòng chảy đi vào, và cái gì lấy được một thứ thì có thể bị ép trả lại thứ đó. Dùng nó để cắt đứt mối nối của chính mình với chiều không gian sợi chỉ, phá tan cú chảy máu giao cảm đang giết chết bố cô.
 
@@ -4558,7 +4558,7 @@ Lyra không đáp. Osei đang nhìn về bức tường bên kia phòng theo cá
 
 Viên ngọc bích nơi cổ cô lạnh lẽo, và nó là một hòn đá, và nó đã là một hòn đá suốt bốn trăm năm trước khi có người nghĩ đến việc buộc nó quanh cổ một đứa trẻ, và nó sẽ chẳng giúp được gì.
 
-## BẢNG ĐỀM ĐÃ LÀM GÌ
+## BẢNG ĐẾM ĐÃ LÀM GÌ
 
 *Muộn hơn nữa. Tháp Đông, giữa đống đổ nát của Hội trường Bảy.*
 
@@ -4572,7 +4572,7 @@ Năm mươi bốn phần trăm, và ba mươi giờ. Và rồi, trong mười m�
 
 *42% bất ổn. 48 giờ.*
 
-Bộ thu dưới phòng gym, thứ từng nằm ở tám mươi bảy phần trăm công suất, rỗng xuống còn mười một. Mô hình của Hội đồng đã giơ cả hai tay đầu hàng, tự tái chuẩn so với một chữ ký mà nó không hề có cơ sở so sánh, và tự kéo dài dự báo của chính mình thêm mười tám giờ, hết sức thận trọng, bằng mực tím.
+Bộ thu dưới phòng gym, thứ từng nằm ở tám mươi bảy phần trăm sức chứa, rỗng xuống còn mười một. Mô hình của Hội đồng đã giơ cả hai tay đầu hàng, tự tái chuẩn so với một chữ ký mà nó không hề có cơ sở so sánh, và tự kéo dài dự báo của chính mình thêm mười tám giờ, hết sức thận trọng, bằng mực tím.
 
 Trưởng An ninh Blackwood đã đứng trước tấm bảng đó rất lâu, rồi đã nói đúng một từ vào thiết bị đeo cổ tay, rồi đã nói to, với không một ai cả: "Ra thế."
 
@@ -5093,7 +5093,7 @@ Cái lõi, ông nói, mà không hề chạm vào nó: đó là một bài toán
 
 "Tarrant," Harlow nói. Ông ta đã không nhúc nhích. "Điều đó không thể xảy ra. Riêng chênh lệch sức căng đã—"
 
-"Ông Harlow, tôi là một nhà thống kê và là học trò của vợ ông, và tôi đã làm việc này chín ngày, và tôi sắp nói ra điều mà tôi nghĩ ông đã biết suốt bốn tháng và chưa nói." Giọng Wei không hề lên cao. "Ông không đọc được buồng kín vì ông không có khả năng đọc nó. Điều đó đúng. Nhưng ông không có khả năng đọc nó vì trong mạch không có *con gái* của ông. Mười một năm một mình và ông không đọc được nó. Bốn tháng với một cô mười lăm tuổi trong đội ngũ của mình và ông vẫn không đọc được nó, và lần thứ hai là vì ông đã nhìn vào cô bé chứ không nhìn vào tấm lưới, và tôi xin ông — với tư cách một đồng nghiệp — đừng nhìn cô bé lúc này."
+"Ông Harlow, tôi là một nhà thống kê và là học trò của vợ ông, và tôi đã làm việc này chín ngày, và tôi sắp nói ra điều mà tôi nghĩ ông đã biết suốt bốn tháng và chưa nói." Giọng Wei không hề lên cao. "Ông không đọc được buồng kín vì ông không có khả năng đọc nó. Điều đó đúng. Nhưng ông không có khả năng đọc nó vì trong mạch không có một *cô con gái*. Mười một năm một mình và ông không đọc được nó. Bốn tháng với một cô mười lăm tuổi trong đội ngũ của mình và ông vẫn không đọc được nó, và lần thứ hai là vì ông đã nhìn vào cô bé chứ không nhìn vào tấm lưới, và tôi xin ông — với tư cách một đồng nghiệp — đừng nhìn cô bé lúc này."
 
 Căn phòng im phăng phắc.
 
@@ -5168,7 +5168,7 @@ Và nó là *của cô*, và nó không phải món quà, và nó cũng không p
 
 Nhà bệnh xá thoang mùi ruột quả đào, và mùi thuốc khử trùng ai đó đã thoa lên mặt cô, và những gì cô vẫn còn cảm thấy trong răng là pha lê, và ozone, và một quả chuông bị bỏ ngoài mưa. Cô nằm trên một chiếc giường sắt, tấm chăn kéo ngang đến cằm. Dưới tấm chăn có một cái lạnh chẳng liên quan gì đến nhiệt độ căn phòng, và đến ngày thứ hai thì cô đã thôi nhắc đến nó.
 
-Bạn bè cô ở đó — cả ba người, chuyện đó đã phải sắp xếp kha khá, và bác sĩ Osei chỉ chịu cho phép với điều kiện không một ai hỏi Lyra lấy một câu về ba mươi giờ vừa qua. Milo ngồi thẳng. Cậu ngồi trên tay ghế chứ không phải trên sàn, và chưa một lần nhắc đến việc mình đang làm cái chuyện kia, và Lyra yêu cậu rất nhiều vì điều đó. Bác sĩ Mei-Hua Chen đứng ở khung cửa, và đã đứng đó trong phần lớn bốn phút vừa qua, với tư thế của một người phụ nữ đã quyết định là sẽ hiện diện nhưng chưa quyết định nổi mình sẽ là một vị khách ghé thăm hay không.
+Bạn bè cô ở đó — cả ba người, chuyện đó đã phải sắp xếp kha khá, và bác sĩ Osei chỉ chịu cho phép với điều kiện không một ai hỏi Lyra lấy một câu về ba mươi giờ vừa qua. Milo ngồi thẳng. Cậu ngồi trên tay ghế chứ không phải trên sàn, và chưa một lần nhắc đến việc mình đang làm cái chuyện kia, và Lyra yêu cậu rất nhiều vì điều đó. Tiến sĩ Mei-Hua Chen đứng ở khung cửa, và đã đứng đó trong phần lớn bốn phút vừa qua, với tư thế của một người phụ nữ đã quyết định là sẽ hiện diện nhưng chưa quyết định nổi mình sẽ là một vị khách ghé thăm hay không.
 
 Eli đang lau rửa một vết trầy ở thái dương cô, một vết cô không nhớ là mình từng bị. Cậu làm việc đó với sự tập trung cậu vẫn dành cho một văn bản viết bằng hai thứ tiếng, và không hề nhìn cô, và hai bàn tay cậu hoàn toàn vững, và Lyra thấy đây là điều êm dịu nhất đã xảy đến với cô trong cả tháng nay.
 
@@ -5286,7 +5286,7 @@ Bác sĩ Amara Osei đi giữa các giường bệnh, chữ ký của một ngư
 
 "Ổn định," bà nói, ở giường thứ tư. "Và tôi muốn chữ *ổn định* được ghi vào biên bản với đúng nghĩa nó mang trên một tờ phiếu theo dõi: tim vẫn làm tròn việc của nó, và chữ ký sợi chỉ không tự quay lại. Chín mươi tám xuống sáu mươi phần trăm theo quan sát. Số ba ở mức toàn phần. Và một chỗ chảy máu ốc tai ở số hai, sẽ lành, tôi đưa vào đây vì nếu không thì thứ mất mát duy nhất ai cũng nhắc tới sẽ chỉ là cái mất mát về sợi chỉ."
 
-"Mù sợi chỉ," bác sĩ Mei-Hua Chen nói.
+"Mù sợi chỉ," Tiến sĩ Mei-Hua Chen nói.
 
 "Mù sợi chỉ. Đúng. Và tôi muốn điều này được nói thẳng ra trong một căn phòng có những đứa trẻ này ở trong đó: mù sợi chỉ không phải là mù, và không phải là chết, và không phải là một thứ các em tự gây cho mình vì làm việc quá sức trong phòng thí nghiệm." Osei viết gì đó lên bảng bằng màu thứ ba. "Đó là màu thứ ba. Đó mới là điều tôi thực sự đang nói. Mỗi một cái tên trong đây đều sẽ rời khỏi đây và vẫn làm được một điều gì đó. Chỉ là không phải điều các em đến đây để tìm."
 
@@ -5298,7 +5298,7 @@ Zara đứng ở khung cửa. Cô đã hỏi, đã bị trả lời là không, 
 
 "Em có thể được *giám sát*," Osei nói, "mà đó là một chuyện khác, và tôi biết đó là một chuyện khác, và tôi vẫn cứ làm thế."
 
-Zara đến bên giường thứ tư. Maya Sandoval, học sinh năm ba, người đã gục xuống trong một hành lang hôm mười tháng Chín và từ đó chưa mở mắt. Những sợi chỉ của Zara vươn ra — Lyra cũng cảm nhận được cả điều đó, theo kiểu bạn cảm thấy bàn tay ai đó đặt lên một cánh cửa ở căn phòng khác — rồi dừng lại cách con bé một gang tay, và khi thu về thì đã sai.
+Zara đến bên giường thứ tư. Maya Sandoval, học sinh năm ba, người đã gục xuống trong một hành lang hôm mười tháng Chín và từ đó chưa mở mắt. Những sợi chỉ của Zara vươn ra — Lyra cũng cảm nhận được cả điều đó, theo kiểu bạn cảm thấy bàn tay ai đó đặt lên một cánh cửa ở căn phòng khác — rồi dừng lại cách cô bé chừng một foot, và khi thu về thì đã sai.
 
 "Có một thứ chắn ngang," Zara nói.
 
@@ -5637,7 +5637,7 @@ Và rồi, vào đêm thứ chín, Mirembe Blackwood đã bước qua cánh cử
 
 "Họ đã nói không," Harlow nói. "Trong mạch. Tôi nghe thấy họ. Họ nói không, và tôi đã ngồi trong căn phòng này chín ngày với hai tiếng không trong đầu và chưa tìm được nơi nào để đặt chúng—"
 
-"Họ nói không trong một tấm lưới không có năng lượng, không có người nghe, và không có cách nào biết tiếng không đó có sống qua nổi buổi sáng hay không." Blackwood đứng dậy. "Marcus, tôi là kẻ thù, và tôi nói điều này với ông như một sự thật chứ không phải như một mối đe dọa: nếu Hội đồng mở vụ án đó, hai người họ được thả ra, và họ bị *thả thật*, và cỗ máy không còn nguồn, và cuộc bỏ phiếu chống lại chúng ta, và cú sụp đổ tức thời không có gì đỡ lấy, và ở đâu đó trong thung lũng này, mười một nghìn người sẽ biết chuyện theo cách tệ nhất có thể. Còn nếu vụ án đó được đặt trở lại vào mạch, hai người họ ở nguyên nơi họ đang ở, và cỗ máy có nguồn, và cuộc bỏ phiếu nghiêng sang chiều kia, và mười một nghìn người sẽ không phải trải qua một tuần tồi tệ."
+"Họ nói không trong một tấm lưới không có năng lượng, không có người nghe, và không có cách nào biết tiếng không đó có sống qua nổi buổi sáng hay không." Blackwood đứng dậy. "Marcus, tôi là kẻ thù, và tôi nói điều này với ông như một sự thật chứ không phải như một mối đe dọa: nếu Hội đồng mở buồng chứa đó, hai người họ được thả ra, và họ bị *thả thật*, và cỗ máy không còn nguồn, và cuộc bỏ phiếu chống lại chúng ta, và cú sụp đổ tức thời không có gì đỡ lấy, và ở đâu đó trong thung lũng này, mười một nghìn người sẽ biết chuyện theo cách tệ nhất có thể. Còn nếu buồng chứa đó được đặt trở lại vào mạch, hai người họ ở nguyên nơi họ đang ở, và cỗ máy có nguồn, và cuộc bỏ phiếu nghiêng sang chiều kia, và mười một nghìn người sẽ không phải trải qua một tuần tồi tệ."
 
 "Và hai người họ thì ở lại."
 
@@ -5734,7 +5734,7 @@ Thế giới nằm ngang thì không sao. Thế giới chứa đầy một thứ
 
 Ông bước vào lúc ba giờ rưỡi, với một chiếc ghế.
 
-Đó là điều đầu tiên. Ông bước vào với một chiếc ghế, rồi ngồi xuống trong nó, rồi đặt một quyển nhật ký da đã sờn lên mặt chăn, và Lyra úp bàn tay lên tấm chăn cạnh quyển nhật ký mà không đụng vào nó, và cảm nhận được khoảng sáu inch vải bông bệnh viện, và rất nhiều *ông ấy*.
+Đó là điều đầu tiên. Ông bước vào với một chiếc ghế, rồi ngồi xuống chiếc ghế, rồi đặt một quyển nhật ký da đã sờn lên mặt chăn, và Lyra úp bàn tay lên tấm chăn cạnh quyển nhật ký mà không đụng vào nó, và cảm nhận được khoảng sáu inch vải bông bệnh viện, và rất nhiều *ông ấy*.
 
 Ông ấy khác mà cũng không khác. Chính cái đó, sau cùng, là điều làm cô sụp đổ, chứ không phải lời xin lỗi.
 
@@ -5754,9 +5754,9 @@ Thế giới nằm ngang thì không sao. Thế giới chứa đầy một thứ
 
 "Một." Ông xoay một trang về phía cô, và cô nghiêng người, và không chạm vào nó. "Mẹ con là một nhà khoa học. Đó là câu mà suốt mười một năm bố đã không nói, vì bố nghĩ nói ra sẽ làm mọi thứ tệ hơn, mà nó không làm mọi thứ tệ hơn, nó làm mọi thứ *trở nên khả dĩ*, và bố xin lỗi — bố thật sự xin lỗi, Lyra — vì mười một năm làm mọi thứ tệ hơn."
 
-"Mẹ vẽ tranh chúng con," Lyra nói.
+"Mẹ vẽ tranh bố con mình," Lyra nói.
 
-"Mẹ vẽ tranh chúng con và mẹ ghi lại những gì mẹ xác lập được và không xác lập được, và mẹ đánh số từng trang, và mẹ có *ba* trang trong quyển nhật ký này về đạo đức của việc đo một đứa trẻ mà không cho trẻ biết, và ba trang ấy có ghi ngày, vào tháng Hai trước khi con chào đời, và chúng viết về một *người nhìn thấu mười một tuổi* mà mẹ đang theo dõi, và không có một ghi chú nào cho biết đứa trẻ mười một tuổi ấy là con nhà ai, và bố đã bỏ ra hai ngày cho nó, và bố sẽ không tìm ra được, và bố muốn nói thành lời rằng bố đã tìm rồi."
+"Mẹ vẽ tranh bố con mình và mẹ ghi lại những gì mẹ xác lập được và không xác lập được, và mẹ đánh số từng trang, và mẹ có *ba* trang trong quyển nhật ký này về đạo đức của việc đo một đứa trẻ mà không cho trẻ biết, và ba trang ấy có ghi ngày, vào tháng Hai trước khi con chào đời, và chúng viết về một *người nhìn thấu mười một tuổi* mà mẹ đang theo dõi, và không có một ghi chú nào cho biết đứa trẻ mười một tuổi ấy là con nhà ai, và bố đã bỏ ra hai ngày cho nó, và bố sẽ không tìm ra được, và bố muốn nói thành lời rằng bố đã tìm rồi."
 
 "Mẹ theo dõi con của người khác," Lyra nói. "Mẹ đã làm thế với con."
 
@@ -6141,9 +6141,9 @@ Cô ngồi trong căn phòng tử tế chín phút sau khi ông ta nói hết, v
 
 "Chuyện đó là vào tháng Năm. Thứ Ba tuần trước tôi làm nó vì một lý do khác và tôi không tự hào về nó." Ông ta quay lại. "Tôi làm nó vì bốn ngày nữa em sẽ ở trong một căn phòng, và vì em mười sáu tuổi, và vì bất cứ điều gì em nói trong căn phòng đó sẽ là thứ duy nhất trong toàn bộ quy trình không do một người đàn ông màu xám viết ra, và tôi đã mất chín ngày ngồi trong một căn phòng tử tế để phát hiện ra rằng tôi không muốn là giọng nói duy nhất trong chuyện này."
 
-"Đó không phải là một lý do không vị tha."
+"Đó không hẳn là một lý do vị tha."
 
-"Đó là lý do *ít* vị tha nhất mà tôi có thể có được," Harlow nói, "và tôi biết câu đó nghe thế nào, và tôi muốn em chú ý tới việc tôi chưa hề xin em bất cứ thứ gì, một câu mà kể từ năm 2009 tôi đã không tài nào dựng nổi."
+"Đó là lý do *ít ích kỷ nhất* mà tôi có thể có được," Harlow nói, "và tôi biết câu đó nghe thế nào, và tôi muốn em chú ý tới việc tôi chưa hề xin em bất cứ thứ gì, một câu mà kể từ năm 2009 tôi đã không tài nào dựng nổi."
 
 "Ông muốn tôi đi vào trong cỗ máy."
 
@@ -6227,7 +6227,7 @@ Khi bị buộc phải tham chiến, những phép chiếu đồng cảm của Z
 
 Dưới Kho Lưu Trữ có một căn phòng Học viện đã ngừng sử dụng, bên trong giữ một đường dẫn thứ hai đã ngủ đông lâu đến mức các thực tập sinh gọi nó là cái lạnh, và có bốn tên đặc vụ đứng ở cửa, và không ai trong bốn người là người Học viện, và bên trong, hai kỹ thuật viên đang làm việc trên một thứ gì đó đen kịt.
 
-"Nghe này," Lyra nói, và áp phẳng lòng bàn tay lên bức tường, và tảng đá đang gào thét, điều vốn không phải chuyện của đá, và điều cô đã từng cảm nhận một lần trước đây trong một hành lang trên tầng mười bốn và kể từ đó chưa ngủ lại ngon. "Chúng không đến vì bất cứ thứ gì trong tòa nhà này. Chúng đến vì cái lạnh, và chúng đang bật nó lên."
+"Nghe này," Lyra nói, và áp phẳng lòng bàn tay lên bức tường, và tảng đá đang gào thét, điều vốn không phải chuyện của đá, và điều cô đã từng cảm nhận một lần trước đây trong một hành lang vào ngày mười bốn và kể từ đó chưa ngủ lại ngon. "Chúng không đến vì bất cứ thứ gì trong tòa nhà này. Chúng đến vì cái lạnh, và chúng đang bật nó lên."
 
 "Nó không phải một cỗ máy," Eli nói. "Nhìn hệ dây cáp kìa. Nó không rút năng lượng, nó đang *được cho ăn*. Có ai đó đang giữ nó mở từ bên ngoài, và căn phòng chính là cái miệng."
 
@@ -6649,11 +6649,11 @@ Và rồi khung hình không kết thúc. Nó kéo dài thêm bốn mươi giây
 
 Có chín người trên sàn Tầng ngầm 7 chưa từng nghe câu hỏi đó, và hai người canh, và một chuyên viên tuân thủ, và Marcus Harlow, và ông đã trả lời nó.
 
-"Không," ông nói. "Tôi chưa từng một lần ghi con ngày thứ hai ra giấy."
+"Không," ông nói. "Tôi chưa từng một lần ghi mốc ngày thứ hai ra giấy."
 
 "Vì sao không?"
 
-"Vì nó không giúp được tôi," ông nói, "và vì ngày mười một tháng Tư năm 1997, trong một khu vườn ở Kyoto, con gái tôi còn sống, và ngày mười một tháng Tư năm 2002, trong một căn phòng dưới lòng ngọn núi này, một người phụ nữ ba mươi hai tuổi đã bước vào, vào một ngày thứ Năm, vì tuần đó là tuần hoa nở, và nếu tôi ghi con ngày thứ hai cạnh con ngày đầu tiên thì tôi phải nhìn chúng, và mười một năm nay tôi không nhìn nổi chúng, và tôi muốn điều này được ghi vào biên bản, và tôi muốn nó vào biên bản bằng đúng những từ đó, vì biên bản là nơi duy nhất còn lại mà ai đó có thể kiểm chứng một điều gì đó về tôi."
+"Vì nó không giúp được tôi," ông nói, "và vì ngày mười một tháng Tư năm 1997, trong một khu vườn ở Kyoto, con gái tôi còn sống, và ngày mười một tháng Tư năm 2002, trong một căn phòng dưới lòng ngọn núi này, một người phụ nữ ba mươi hai tuổi đã bước vào, vào một ngày thứ Năm, vì tuần đó là tuần hoa nở, và nếu tôi ghi mốc ngày thứ hai cạnh mốc ngày đầu tiên thì tôi phải nhìn chúng, và mười một năm nay tôi không nhìn nổi chúng, và tôi muốn điều này được ghi vào biên bản, và tôi muốn nó vào biên bản bằng đúng những từ đó, vì biên bản là nơi duy nhất còn lại mà ai đó có thể kiểm chứng một điều gì đó về tôi."
 
 ---
 
@@ -6665,7 +6665,7 @@ Có chín người trên sàn Tầng ngầm 7 chưa từng nghe câu hỏi đó,
 
 Ông giơ tập giấy lên.
 
-"**Một.** Đưa vụ bốn mươi mốt trở lại mạch. Ba mươi chín người trong một tấm lưới, ba mươi bảy người trong số đó đã chết từ 1941, và hai người thì không, và một trong hai người đó mười lăm tuổi. Đó là một nguồn điện. Đó là nguồn điện duy nhất. Nó sẽ giữ mạch vô thời hạn, giữ nó với giá rẻ, và sẽ khiến toà nhà này hợp pháp vào thứ Sáu. Nó cũng là điều mà tôi đã dành mười một năm để từ chối làm, trong một căn phòng mà không ai nghe thấy tôi từ chối, và bây giờ một người cầm tấm kẹp giấy đã yêu cầu tôi làm điều đó — hình như là thứ duy nhất từng có tác dụng với tôi."
+"**Một.** Đưa hộp vụ bốn mươi mốt trở lại mạch. Ba mươi chín người trong một tấm lưới, ba mươi bảy người trong số đó đã chết từ 1941, và hai người thì không, và một trong hai người đó mười lăm tuổi. Đó là một nguồn điện. Đó là nguồn điện duy nhất. Nó sẽ giữ mạch vô thời hạn, giữ nó với giá rẻ, và sẽ khiến toà nhà này hợp pháp vào thứ Sáu. Nó cũng là điều mà tôi đã dành mười một năm để từ chối làm, trong một căn phòng mà không ai nghe thấy tôi từ chối, và bây giờ một người cầm tấm kẹp giấy đã yêu cầu tôi làm điều đó — hình như là thứ duy nhất từng có tác dụng với tôi."
 
 Không ai thở.
 
@@ -6675,7 +6675,7 @@ Không ai thở.
 
 Bố Lyra chưa nhúc nhích. Bàn tay ông đặt trên lưng một chiếc ghế.
 
-"**Bốn.**" Harlow xoay tập giấy lại. "Gánh nó. Chia tải. Đó là phương án chưa từng nằm trong danh sách của bất kỳ ai, vì nó đòi hỏi mạch phải *được giữ* trong lúc đang được dựng lại, mà giữ nó đòi hỏi một con người, và một con người là phương án ba. Vậy: đây không phải một phương án thứ tư. Đây là một nhận định về phương án thứ tư, và nhận định là nó không tồn tại, và nó không tồn tại vì một lý do chẳng dính dáng gì đến vật lý, và lý do là từng người trong các em, không trừ một ai, đều thà được *xong việc* còn hơn phải *chịu trách nhiệm*, và tôi cũng tính mình vào đó, và tôi đã tính mình vào đó từ năm 1997, và tôi muốn bốn em ghi điều đó ra giấy và mang theo."
+"**Bốn.**" Harlow xoay tập giấy lại. "Gánh nó. Chia tải. Đó là phương án chưa từng nằm trong danh sách của bất kỳ ai, vì nó đòi hỏi mạch phải *được giữ* trong lúc đang được dựng lại, mà giữ nó đòi hỏi một con người, và một con người là phương án ba. Vậy: đây không phải một phương án thứ tư. Đây là một nhận định về phương án thứ tư, và nhận định là nó không tồn tại, và nó không tồn tại vì một lý do chẳng dính dáng gì đến vật lý, và lý do là từng người trong các vị, không trừ một ai, đều thà được *xong việc* còn hơn phải *chịu trách nhiệm*, và tôi cũng tính mình vào đó, và tôi đã tính mình vào đó từ năm 1997, và tôi muốn bốn vị ghi điều đó ra giấy và mang theo."
 
 Ông đặt bút xuống.
 
@@ -6698,7 +6698,7 @@ Rồi cô lấy bàn tay che lên những dòng chữ, phòng khi bố nhìn th�
 
 *Ghi Chú Cộng Hưởng Sợi Chỉ: Tầng ngầm 7, 01:10–03:30. Có mặt: C, L. (không ràng buộc). P, E.C. (không ràng buộc). Reyes, M. (không ràng buộc, xuất viện trái ý kiến y khoa bằng văn bản lúc 22:40). Washington, Z. (không ràng buộc). Tarrant, M., tuân thủ. Tiến sĩ C., M-H., qua đường chỉ. QUAN SÁT VIÊN Rowntree, M. (người bảo vệ quyền lợi). C, W. (bệnh nhân, tự di chuyển đến, từ chối người hộ tống). C-2214 §9 được chính đối tượng viện dẫn lúc 00:52, có người làm chứng. Bốn phương án được ghi biên bản nguyên văn lúc 03:10 bởi M.H. và được Tarrant ký đối chứng. Mục 3 được ghi biên bản là "không tồn tại". Văn phòng này ghi lại rằng nó đã viết những từ "không tồn tại" và rằng nó tin vào những từ đó, và rằng nó đã viết chúng trong một cuốn sách mà một cô gái mười chín tuổi có thể đọc — một việc nó chưa từng làm.*
 
-*Khung hình ghi 15/04/97 11:41 được phát trọn vẹn, không bình luận, theo yêu cầu của M.H. Con ngày thứ hai được đối tượng nêu ra lúc 01:40 và không được văn phòng này trả lời. Bản ghi đã được chuyển đến cán bộ chứng cứ của Hội đồng, niêm phong, chờ xử lý.*
+*Khung hình ghi 15/04/97 11:41 được phát trọn vẹn, không bình luận, theo yêu cầu của M.H. Mốc ngày thứ hai được đối tượng nêu ra lúc 01:40 và không được văn phòng này trả lời. Bản ghi đã được chuyển đến cán bộ chứng cứ của Hội đồng, niêm phong, chờ xử lý.*
 
 # Chương 30: Điều Họ Muốn
 
@@ -6794,7 +6794,7 @@ Eli đòi xem mô hình. Cậu có cái hộp và có bút, và đến sáu gi�
 
 Wei Chen im lặng một lúc. Ấm nước đã sôi từ lúc nào và chưa được tắt.
 
-"Đường gãy," ông nói. "Cái thứ mà con bé đã rơi xuống. Vào chủ nhật." Ông nhìn con gái. "Con đã đi xuống một *vết nứt* trong lõi. Không phải xuyên qua ma trận. Mà xuyên qua một vết gãy bám theo bàn tay con. Và vết gãy vẫn còn đó — bố nhìn từ đây là thấy, nó là một đường đứt trong thân tấm lưới, rộng khoảng một bàn tay, và nó chưa khép lại, vì con bé đã *đứng trong đó* suốt bốn ngày, mà giữ một vết gãy mở không phải là giữ một cánh cửa, và sự khác nhau nằm ở chỗ một vết gãy thì có thể được *lót*."
+"Vết nứt," ông nói. "Cái thứ mà con bé đã rơi xuống. Vào chủ nhật." Ông nhìn con gái. "Con đã đi xuống một *vết nứt* trong lõi. Không phải xuyên qua ma trận. Mà xuyên qua một vết gãy bám theo bàn tay con. Và vết gãy vẫn còn đó — bố nhìn từ đây là thấy, nó là một đường đứt trong thân tấm lưới, rộng khoảng một bàn tay, và nó chưa khép lại, vì con bé đã *đứng trong đó* suốt bốn ngày, mà giữ một vết gãy mở không phải là giữ một cánh cửa, và sự khác nhau nằm ở chỗ một vết gãy thì có thể được *lót*."
 
 Im lặng.
 
@@ -6872,7 +6872,7 @@ Lúc bảy giờ kém mười sáng, trên sàn của Tầng ngầm 7, với b�
 
 "Sao cậu biết được?"
 
-"Vì nó chưa ngả vàng." Cậu quay lại. "Và vì phía bên kia có một cái bản lề và một chốt bấm bằng ngón tay cái, và tớ đọc tài liệu cả đời rồi, và đó là một *cửa hatch*."
+"Vì nó chưa ngả vàng." Cậu quay lại. "Và vì phía bên kia có một cái bản lề và một chốt bấm bằng ngón tay cái, và tớ đọc tài liệu cả đời rồi, và đó là một *cửa nắp kiểm tra*."
 
 Lyra đặt bàn tay phẳng lên đó. Và cô cảm nhận được nó, cái điều mới, cái mà cô đã mất trọn hai tuần để học cách nghi ngờ: một khối chú ý dày như cả một căn phòng, ép vào một cánh cửa, và sau cánh cửa thì không có gì hết, và bên dưới cái không có gì đó, sâu xuống tận sáu mươi feet, một *sự ấm*.
 
@@ -6916,7 +6916,7 @@ Không một ai để mắt đến cánh cửa.
 
 Cô tên là Mirembe Blackwood. Cô là Trưởng An ninh của Học viện Threadweaver. Cô đã ký duyệt việc chuyển Marcus Harlow vào một khu giam khóa mười sáu ngày trước, một việc cô đã làm để giữ ông khỏi danh sách của Hội đồng, một việc cô đã làm vì một tờ đơn, và tờ đơn đó đã là cả cuộc đời cô suốt bốn năm.
 
-Và vào thứ Ba ngày mùng một tháng Mười, lúc bảy giờ mười bốn sáng, đứng ở khung cửa, vừa nghe thấy cái tên Vance được đọc thành tiếng trong một căn phòng cô đã ra lệnh niêm phong, cô đã hiểu ra trong khoảng hai giây rằng Nơi Trú Ẩn đã mở, rằng một người bảo vệ quyền lợi của Hội đồng đang có mặt trong phòng, rằng người đó mười chín tuổi và mới được bổ nhiệm vào thứ Sáu bởi một nhân viên đăng ký chẳng có thẩm quyền ký thứ gì, và rằng nếu cô báo cáo thì món đồ sẽ bị niêm phong, danh sách sẽ bị tịch thu, và bốn trong số bảy sẽ bị một thiết chế ghi vào hồ sơ làm chứng cứ, và mọi thứ cô đã làm trong bốn năm sẽ hóa ra là do chính thiết chế đó *làm*, và sẽ không còn gì trong đó được trả lại bao giờ.
+Và vào thứ Ba ngày mùng một tháng Mười, lúc bảy giờ mười bốn sáng, đứng ở khung cửa, vừa nghe thấy cái tên Vance được đọc thành tiếng trong một căn phòng cô đã ra lệnh niêm phong, cô đã hiểu ra trong khoảng hai giây rằng Nơi Trú Ẩn đã mở, rằng một người bảo vệ quyền lợi của Hội đồng đang có mặt trong phòng, rằng người đó mười chín tuổi và mới được bổ nhiệm vào thứ Sáu bởi một vị Chánh Văn phòng chẳng có thẩm quyền ký thứ gì, và rằng nếu cô báo cáo thì món đồ sẽ bị niêm phong, danh sách sẽ bị tịch thu, và bốn trong số bảy sẽ bị một thiết chế ghi vào hồ sơ làm chứng cứ, và mọi thứ cô đã làm trong bốn năm sẽ hóa ra là do chính thiết chế đó *làm*, và sẽ không còn gì trong đó được trả lại bao giờ.
 
 Thế là cô đi lên cầu thang, và đóng cánh cửa lại, và đứng bên kia cửa, trong bóng tối, khoảng một phút rưỡi.
 
@@ -6964,7 +6964,7 @@ Bà Weaver đi xuống lúc tám giờ mười phút, đã thức hai ngày tr�
 
 "Thưa Hiệu trưởng—"
 
-"Biên bản lúc 17:04 ngày mười lăm, việc ghi đè khâu tiếp nhận, bốn người canh đã khiêng cô đi ngang qua tôi trên một chiếc cáng, và một nhân viên đăng ký đã gác một đơn khiếu nại suốt sáu năm — tôi sẽ nói ngay bây giờ, và tôi muốn nó được ghi lại, rằng tôi chính là lý do khiến từng việc một trong số đó trở nên khó khăn thay vì dễ hơn. Tôi đã không bị ai cản trở. Tôi đã *chậm*, và tôi chậm vì tôi cứ chờ đợi một phiên bản của chuyện này mà trong đó không ai bị tổn thương, và phiên bản đó không tồn tại, và tôi năm mươi bốn tuổi và đã làm Hiệu trưởng sáu năm, và tôi muốn ghi vào biên bản rằng sáu năm đó là những năm dễ chịu nhất trong đời làm việc của tôi, và tôi sẽ không nhận lại chúng thêm lần nào nữa."
+"Biên bản lúc 17:04 ngày mười lăm, việc ghi đè khâu tiếp nhận, bốn người canh đã khiêng cô đi ngang qua tôi trên một chiếc cáng, và một vị Chánh Văn phòng đã gác một đơn khiếu nại suốt sáu năm — tôi sẽ nói ngay bây giờ, và tôi muốn nó được ghi lại, rằng tôi chính là lý do khiến từng việc một trong số đó trở nên khó khăn thay vì dễ hơn. Tôi đã không bị ai cản trở. Tôi đã *chậm*, và tôi chậm vì tôi cứ chờ đợi một phiên bản của chuyện này mà trong đó không ai bị tổn thương, và phiên bản đó không tồn tại, và tôi năm mươi bốn tuổi và đã làm Hiệu trưởng sáu năm, và tôi muốn ghi vào biên bản rằng sáu năm đó là những năm dễ chịu nhất trong đời làm việc của tôi, và tôi sẽ không nhận lại chúng thêm lần nào nữa."
 
 Bà đặt một tập hồ sơ xuống ghế dài.
 
@@ -7014,7 +7014,7 @@ Giảng đường có sàn đá và trần vòm cuốn và rất nhiều sợi c
 
 Harlow đứng dậy ở hàng thứ ba, trong một chiếc áo khoác rõ ràng là ông đã không đổi, và Lyra để ý đôi tay ông vẫn vững, điều cô nhìn rất rõ từ chỗ mình ngồi, và hiểu rằng gần như toàn bộ phần còn lại của ông thì không.
 
-"Sáu mươi ba phần trăm," ông nói. "Đó là chỉ số mức độ nghiêm trọng của mạng lưới kết giới. Nó không phải là phần trăm của bất cứ thứ gì. Con số nghĩa là: trong số những thứ mà mạng lưới này có thể bị yêu cầu gánh giữ, hiện nó đang xoay xở được khoảng sáu mươi ba phần trăm, và phần còn lại đang được giữ bởi một cô gái mười sáu tuổi, lúc này đang ngủ và không biết rằng mình đang ngủ, hay rằng mình đã ngủ suốt bốn ngày, hay rằng nguyên nhân là một lỗi hỏng trong cỗ máy, rộng chừng một bàn tay."
+"Sáu mươi ba phần trăm," ông nói. "Đó là chỉ số mức độ nghiêm trọng của mạng lưới kết giới. Nó không phải là phần trăm của bất cứ thứ gì. Con số nghĩa là: trong số những thứ mà mạng lưới này có thể bị yêu cầu gánh giữ, hiện nó đang xoay xở được khoảng sáu mươi ba phần trăm, và phần còn lại đang được giữ bởi một cô gái mười sáu tuổi, lúc này đang ngủ và không biết rằng mình đang ngủ, hay rằng mình đã ngủ suốt bốn ngày, hay rằng nguyên nhân là một vết nứt trong cỗ máy, rộng chừng một bàn tay."
 
 "Marcus—"
 
@@ -7058,7 +7058,7 @@ Harlow không trả lời suốt bốn giây.
 
 "Mời ông cụ thể hóa."
 
-"Tất cả những gì tôi có là một cỗ máy có một **nguồn** và một **bộ truyền**. Tấm lưới là nguồn. Lyra Chen là bộ truyền. Không phải mẹ cô, và không phải một Chen nào mười chín tuổi; trong chuyện này không có Chen nào khác, và nếu ai đó đã ghi một Chen vào đâu đó thì người đó đã ghi tên một người không tồn tại. Đó là toàn bộ sự việc. Và một cỗ máy có thể được đi lại dây ở đầu truyền, và điều tôi đã làm từ đêm chủ nhật tới giờ, với một cây bút, với điện thoại của Tiến sĩ Chen, và với rất nhiều sự giúp đỡ của một cậu bé mười sáu tuổi, là tìm xem lỗi hỏng mà cô ấy đã lao xuống có thể được *lót* lại hay không."
+"Tất cả những gì tôi có là một cỗ máy có một **nguồn** và một **bộ truyền**. Tấm lưới là nguồn. Lyra Chen là bộ truyền. Không phải mẹ cô, và không phải một Chen nào mười chín tuổi; trong chuyện này không có Chen nào khác, và nếu ai đó đã ghi một Chen vào đâu đó thì người đó đã ghi tên một người không tồn tại. Đó là toàn bộ sự việc. Và một cỗ máy có thể được đi lại dây ở đầu truyền, và điều tôi đã làm từ đêm chủ nhật tới giờ, với một cây bút, với điện thoại của Tiến sĩ Chen, và với rất nhiều sự giúp đỡ của một cậu bé mười sáu tuổi, là tìm xem vết nứt mà cô ấy đã lao xuống có thể được *lót* lại hay không."
 
 "Lót bằng gì?"
 
@@ -7068,11 +7068,11 @@ Harlow không trả lời suốt bốn giây.
 
 Ông đặt tờ giấy xuống sàn, vì không có bàn, rồi quỳ xuống bằng cái đầu gối hỏng để trải phẳng nó, và một người phụ nữ ở hàng thứ tư đứng dậy, quỳ xuống và trải phẳng đầu kia của tờ giấy, và không nói gì, và Wei Chen gật đầu với bà một lần.
 
-"Lỗi hỏng nằm ở nơi bàn tay cô ấy từng ở. Nó rộng một bàn tay. Đó là một vết nứt trong một lõi kết cấu lưới, và bốn ngày nay nó chưa khép lại, và nó sẽ không khép trong khi cô ấy còn ở trong đó, vì nó đang được *sử dụng*." Ông gõ nhẹ vào tờ giấy. "Một lỗi hỏng có thể được lót lại. Một vết nứt trên tường có thể được lót rồi mới chịu tải, và nó sẽ gánh được tải, và tải sẽ đi qua lớp lót thay vì qua vết nứt, và không ai hỏi gì vết nứt nữa. Đó là toàn bộ ngành kỹ thuật dân dụng của hai trăm năm qua, và tôi đã đứng nhìn bốn trăm sinh viên không học được điều đó."
+"Vết nứt nằm ở nơi bàn tay cô ấy từng ở. Nó rộng một bàn tay. Đó là một vết nứt trong một lõi kết cấu lưới, và bốn ngày nay nó chưa khép lại, và nó sẽ không khép trong khi cô ấy còn ở trong đó, vì nó đang được *sử dụng*." Ông gõ nhẹ vào tờ giấy. "Một vết nứt có thể được lót lại. Một vết nứt trên tường có thể được lót rồi mới chịu tải, và nó sẽ gánh được tải, và tải sẽ đi qua lớp lót thay vì qua vết nứt, và không ai hỏi gì vết nứt nữa. Đó là toàn bộ ngành kỹ thuật dân dụng của hai trăm năm qua, và tôi đã đứng nhìn bốn trăm sinh viên không học được điều đó."
 
 "Bằng một thân hình bên trong nó."
 
-"Bằng một *hình dạng* bên trong nó. Không phải một người. Một thứ có hình học của một con người và không có bất cứ thứ gì khác." Wei Chen đứng dậy. "Tấm lưới đã chạy từ 1941 và nó đã dạy cơ thể cậu ấy hình học của một cỗ máy. Đó không phải huyền bí học và cũng không phải ẩn dụ; đó là một sự thật được đo đạc mà Giáo sư Osei và tôi đều đã xác minh, và đó là lý do duy nhất khiến còn có người nói chuyện với tôi. Sáu mươi tám phần trăm làn da của cậu ấy mang mô thức của một mạch. Nếu mô thức ấy được đặt *vào trong* lỗi hỏng, lỗi hỏng sẽ gánh tải mà không cần đến cậu ấy."
+"Bằng một *hình dạng* bên trong nó. Không phải một người. Một thứ có hình học của một con người và không có bất cứ thứ gì khác." Wei Chen đứng dậy. "Tấm lưới đã chạy từ 1941 và nó đã dạy cơ thể cậu ấy hình học của một cỗ máy. Đó không phải huyền bí học và cũng không phải ẩn dụ; đó là một sự thật được đo đạc mà Giáo sư Osei và tôi đều đã xác minh, và đó là lý do duy nhất khiến còn có người nói chuyện với tôi. Sáu mươi tám phần trăm làn da của cậu ấy mang mô thức của một mạch. Nếu mô thức ấy được đặt *vào trong* vết nứt, vết nứt sẽ gánh tải mà không cần đến cậu ấy."
 
 Im lặng.
 
@@ -7086,7 +7086,7 @@ Im lặng.
 
 *Eli Park, mười sáu tuổi, ngồi trên một cái sàn, trong một tòa nhà cậu đã ở hai mươi tám ngày, tay cầm một tờ khăn giấy.* Lyra thấy mắt mình nóng lên và phải ngước nhìn trần nhà.
 
-"Mười hai phần trăm cộng hưởng của một người mười sáu tuổi, và nó giữ được mười chín giờ," Eli nói. "Về lỗi hỏng này, tôi đã sai chín lần. Tôi đã ghi điều đó lại. Con số thứ mười hai mới đúng, và con số thứ mười hai nhàm chán, và nhàm chán là thứ chúng ta muốn, vì ba tuần nay chúng ta sống trong một tòa nhà nơi mọi thứ nghe có vẻ thú vị đều hóa ra là một thảm họa."
+"Mười hai phần trăm cộng hưởng của một người mười sáu tuổi, và nó giữ được mười chín giờ," Eli nói. "Về vết nứt này, tôi đã sai chín lần. Tôi đã ghi điều đó lại. Con số thứ mười hai mới đúng, và con số thứ mười hai nhàm chán, và nhàm chán là thứ chúng ta muốn, vì ba tuần nay chúng ta sống trong một tòa nhà nơi mọi thứ nghe có vẻ thú vị đều hóa ra là một thảm họa."
 
 "Không thể lấy thêm của cô ấy à?" một người hỏi.
 
@@ -7166,7 +7166,7 @@ Người ta đã phải nhường cậu phát biểu hai lần.
 
 Nó mất của cậu mười một phút, và cậu có một tờ khăn giấy và không hề có bản vẽ, và tờ khăn giấy dài bốn dòng, và khi nó kết thúc, Eleanor Weaver úp mặt vào hai tay khoảng bốn giây, và Tiến sĩ Mei-Hua Chen — Chánh Văn phòng, người cô, người đã ngồi trên cái ghế đó mười một năm và đã sống trong nỗi sợ suốt sáu năm trong số đó — nói "Ôi" thành tiếng, bằng một giọng nhỏ, ngay giữa một giảng đường.
 
-"Nó không phải một con số nhỏ hơn," Eli nói. "Nó là một mạch lớn hơn. Bộ truyền đã gánh tám mươi tám phần trăm tải, và nguồn gánh mười hai. Nếu ta lót lại lỗi hỏng — và ta làm được, bằng một hình dạng, bằng chính mô hình của cô Chen, và nó *nhàm chán* — thì bộ truyền có thể gánh tới sáu mươi phần trăm, chứ không phải tám mươi tám. Nghĩa là nguồn chỉ phải giữ bốn mươi."
+"Nó không phải một con số nhỏ hơn," Eli nói. "Nó là một mạch lớn hơn. Bộ truyền đã gánh tám mươi tám phần trăm tải, và nguồn gánh mười hai. Nếu ta lót lại vết nứt — và ta làm được, bằng một hình dạng, bằng chính mô hình của cô Chen, và nó *nhàm chán* — thì bộ truyền có thể gánh tới sáu mươi phần trăm, chứ không phải tám mươi tám. Nghĩa là nguồn chỉ phải giữ bốn mươi."
 
 "Và nguồn là—"
 
@@ -7194,7 +7194,7 @@ Và mẹ cô đã viết, trên một trang có ghi ngày là tháng Hai trướ
 
 *Kiểm soát không phải là lời giải. Hiệp thông là con đường duy nhất. Một hệ thống đòi hỏi một cái giá từ một người chưa từng đồng ý trả nó thì không phải là một hệ thống. Đó là một hàng chờ.*
 
-# Chương 32: Lỗi
+# Chương 32: Vết Nứt
 
 > "Tôi đã đọc hồ sơ của cô ấy. Từng bản một, kể cả bản tôi không đọc được, chính là bản cô ấy chưa từng cho tôi biết là có tồn tại. Cô ấy giỏi việc này hơn tôi. Cô ấy đã giỏi việc này hơn tôi từ khi cô ấy mười một tuổi, và tôi đã biết điều đó từ khi cô ấy mười một tuổi, và tôi đã không có lấy một việc hữu ích nào để làm với chuyện đó, và tôi sẽ không đứng đây mà giả vờ điều ngược lại."
 >
@@ -7218,17 +7218,17 @@ Cô đã thức khoảng bốn mươi giờ và hầu hết thời gian ở tron
 
 Lyra ngồi xuống.
 
-Rồi Mei-Hua Chen — dì của cô, người mà cô đã gặp nói chuyện vào ngày hai tháng Mười, lúc chín giờ mười phút sáng, trong một hành lang, kéo dài mười một phút, người đã dành trọn mười một phút ấy để xin lỗi về những việc không phải lỗi của dì, và rồi, ở phần cuối, đã nói: *cháu là người Chen đầu tiên trong gia đình này sau bốn thế hệ không phải là người thông minh nhất trong phòng, và đó là một *sự nhẹ nhõm*, và dì xin lỗi, và dì cũng vô cùng mừng* — đặt lên bàn một tờ giấy.
+Rồi Mei-Hua Chen — cô của cô, người mà cô đã gặp nói chuyện vào ngày hai tháng Mười, lúc chín giờ mười phút sáng, trong một hành lang, kéo dài mười một phút, người đã dành trọn mười một phút ấy để xin lỗi về những việc không phải lỗi của cô, và rồi, ở phần cuối, đã nói: *cháu là người Chen đầu tiên trong gia đình này sau bốn thế hệ không phải là người thông minh nhất trong phòng, và đó là một *sự nhẹ nhõm*, và cô xin lỗi, và cô cũng vô cùng mừng* — đặt lên bàn một tờ giấy.
 
-"Đó là một mẫu đơn," dì nói. "Nó có tên là văn tự áp dụng thân thể tự nguyện. Một trang, mặt trước mặt sau, được soạn năm 1974 bởi một luật sư không tin nó sẽ bao giờ được dùng đến, và trong lịch sử của tổ chức này mới có đúng một trường hợp khác, và bản của trường hợp đó nằm trong một viện bảo tàng ở Lyon."
+"Đó là một mẫu đơn," cô nói. "Nó có tên là văn tự áp dụng thân thể tự nguyện. Một trang, mặt trước mặt sau, được soạn năm 1974 bởi một luật sư không tin nó sẽ bao giờ được dùng đến, và trong lịch sử của tổ chức này mới có đúng một trường hợp khác, và bản của trường hợp đó nằm trong một viện bảo tàng ở Lyon."
 
 "Nó ghi gì."
 
-"Nó ghi: *người nộp đơn xin chiếm một khe hở, trong thời hạn do viên chức của văn tự quyết định, với những điều khoản được ghi trong bảng điều khoản ở Phụ lục B, và từ bỏ các quyền bảo hộ của điều bốn đến điều mười chín, tính cả hai đầu.*" Giọng người dì không đổi. "Từ điều bốn đến điều mười chín là các điều về đồng thuận. Ký nó nghĩa là về sau không ai được hỏi cháu liệu có muốn chọn khác đi hay không."
+"Nó ghi: *người nộp đơn xin chiếm một khe hở, trong thời hạn do viên chức của văn tự quyết định, với những điều khoản được ghi trong bảng điều khoản ở Phụ lục B, và từ bỏ các quyền bảo hộ của điều bốn đến điều mười chín, tính cả hai đầu.*" Giọng người cô không đổi. "Từ điều bốn đến điều mười chín là các điều về đồng thuận. Ký nó nghĩa là về sau không ai được hỏi cháu liệu có muốn chọn khác đi hay không."
 
 "Cháu biết nó có nghĩa gì."
 
-"Dì biết cháu biết nó có nghĩa gì, và dì muốn nói thêm một điều nữa bằng giọng của riêng dì, rồi dì sẽ không nói lại lần nữa." Mei-Hua Chen đặt cả hai bàn tay áp sấp lên mặt bàn. "Dì đã làm Chánh Văn phòng của Học viện này mười một năm. Dì đã ký bốn nghìn bảy trăm mười một mẫu đơn. Chưa một lần dì từ chối mẫu nào. Đó không phải là khoe khoang, đó là *lời trách dì giữ với chính mình*, và trong mười một năm, dì là người trong tòa nhà này nói rằng các mẫu đơn có hiệu lực, và lý do các mẫu đơn có hiệu lực là vì người *từ chối* chúng luôn luôn là một người không biết đọc."
+"Cô biết cháu biết nó có nghĩa gì, và cô muốn nói thêm một điều nữa bằng giọng của riêng cô, rồi cô sẽ không nói lại lần nữa." Mei-Hua Chen đặt cả hai bàn tay áp sấp lên mặt bàn. "Cô đã làm Chánh Văn phòng của Học viện này mười một năm. Cô đã ký bốn nghìn bảy trăm mười một mẫu đơn. Chưa một lần cô từ chối mẫu nào. Đó không phải là khoe khoang, đó là *lời trách cô giữ với chính mình*, và trong mười một năm, cô là người trong tòa nhà này nói rằng các mẫu đơn có hiệu lực, và lý do các mẫu đơn có hiệu lực là vì người *từ chối* chúng luôn luôn là một người không biết đọc."
 
 ---
 
@@ -7306,7 +7306,7 @@ Lyra nhìn ông một lúc.
 
 "Ba điều, và tôi sẽ nói thật cụ thể, và Eli Park sẽ ghi chúng lại vì cậu ấy làm việc đó tốt hơn tôi, và vì nếu chỉ có một mình tôi đủ quyền buộc thi hành chúng thì chúng không phải là điều kiện, chúng là *điều ước*."
 
-Cô nhìn sang dì mình.
+Cô nhìn sang cô mình.
 
 "Một. Khi tấm lưới được mở, nó sẽ được mở bởi một người nào đó không phải tôi. Tôi sẽ đọc nó từ vết nứt và tôi sẽ hỏi nó câu hỏi ấy, rồi tôi sẽ không còn ở trong phòng, vì tôi sẽ ở trong vết nứt, và vì tôi đã ở trong một cỗ máy bốn ngày và đã phát hiện mình cực kỳ giỏi việc là người duy nhất làm một việc, và chính điều đó đã đưa Milo Reyes vào một giường bệnh."
 
@@ -7384,7 +7384,7 @@ Chuyện này không kịch tính. Đó là điều Lyra nói về sau, với kh
 
 ---
 
-## VẾT LỖI
+## VẾT NỨT
 
 Cô đi vào theo cách cô đã đi vào hôm chủ nhật, và đó là cách duy nhất hiện có: qua một khe nứt, nghiêng một bên, vào khoảng hở giữa những gì cỗ máy được dựng lên để chịu và những gì cô đã nhét vào nó chiều thứ Bảy, khi cô với tay đưa một sợi dây lên trong một hội trường thị phạm trước hai trăm nhân chứng.
 
@@ -7460,7 +7460,7 @@ Không ai nói gì.
 
 Ông tái ngắt. Đó là điều đầu tiên.
 
-Ông bước sang tuổi năm mươi ba được tám tháng nhưng trông như bảy mươi, tóc ông đã bạc hai bên trong tám ngày, và da hai cẳng tay ông có một hoa văn mà Lyra nhìn thấy được bằng thứ mới mẻ kia, thứ mới mẻ vừa khủng khiếp vừa hữu dụng kia, thứ đi vào cô qua hai lòng bàn tay và nói cho cô biết nhiệt độ của sự chú ý: một tấm lưới bằng những đường đen mảnh, cách nhau một gang tay, chạy dọc lên hai cánh tay theo một hoa văn không phải là phát ban, không phải là vết bỏng, và là, không thể nhầm lẫn, một *sơ đồ*.
+Ông bước sang tuổi năm mươi ba được tám tháng nhưng trông như bảy mươi, tóc ông đã bạc hai bên trong tám ngày, và da hai cẳng tay ông có một hoa văn mà Lyra nhìn thấy được bằng thứ mới mẻ kia, thứ mới mẻ vừa khủng khiếp vừa hữu dụng kia, thứ đi vào cô qua hai lòng bàn tay và nói cho cô biết nhiệt độ của sự chú ý: một tấm lưới bằng những đường đen mảnh, cách nhau chiều rộng một bàn tay, chạy dọc lên hai cánh tay theo một hoa văn không phải là phát ban, không phải là vết bỏng, và là, không thể nhầm lẫn, một *sơ đồ*.
 
 Cô ngồi xuống sàn bên cạnh cái cáng vì trong phòng máy không có ghế, và vì cô đã phát hiện ra rằng mình không làm nổi việc kia.
 
@@ -7654,16 +7654,16 @@ Eli Park đặt bút xuống, và nhìn tấm bảng trên cửa, tấm bảng g
 
 ---
 
-*Bộ đếm Weave-Quake: 41% bất ổn. Dự phóng hỏng node: T+1.148 ngày. Nguồn: khảo sát lại sau sự kiện, 2014, công bố 2016. Ghi chú: Hội đồng đã cho dự phóng theo giờ nghỉ hưu vào năm 2014 và việc nghỉ hưu đó đã vấp phải sự phản đối của một thành viên và của sinh viên bảo vệ quyền lợi.*
+*Bộ đếm Weave-Quake: 41% bất ổn. Dự phóng hỏng node: T+1.148 ngày. Nguồn: khảo sát lại sau sự kiện, 2014, công bố 2016. Ghi chú: Hội đồng đã bãi bỏ dự phóng theo giờ vào năm 2014 và quyết định bãi bỏ đó đã vấp phải sự phản đối của một thành viên và của sinh viên bảo vệ quyền lợi.*
 
 *Tấm bảng thứ năm, tấm không có con số nào trên đó, tấm được viết ra vào ngày một tháng Mười theo yêu cầu của một bệnh nhân và là tấm bảng duy nhất trong tòa nhà này mà từng có người xin:*
 
 > **C-2214 — TÌNH TRẠNG**
-> **NGUỒN:** Bàn 4, sổ 41. Có đo bằng đồng hồ. Chữ ký người canh. Đã lót 2 tháng Mười 2013.
+> **NGUỒN:** Bệ 4, sổ 41. Có đo bằng đồng hồ. Chữ ký người canh. Đã lót 2 tháng Mười 2013.
 > **THỜI GIAN GIỮ ĐÃ DÙNG:** 3 giờ 41 phút. Một lần.
 > **ĐIỂM NEO (kết cấu):** không.
 > **KHE HỞ CÓ NGƯỜI CHIẾM:** một. Xem văn tự. Mọi lần đều được liệt kê.
-> **GHI CHÚ, do tay Chánh Văn phòng:** phía truyền bị giới hạn ở 60% và có một hình trong một vết nứt và nó không phải là người. Phía truyền bị giới hạn vì vết nứt chỉ rộng một gang tay. Chưa ai từng nới rộng một vết nứt trong tòa nhà này. Đó là toàn bộ phần kỹ thuật, và đó là toàn bộ lập trường đạo đức, và nó sẽ còn đúng sau bốn năm và sau bốn mươi.
+> **GHI CHÚ, do tay Chánh Văn phòng:** phía truyền bị giới hạn ở 60% và có một hình trong một vết nứt và nó không phải là người. Phía truyền bị giới hạn vì vết nứt chỉ rộng một bàn tay. Chưa ai từng nới rộng một vết nứt trong tòa nhà này. Đó là toàn bộ phần kỹ thuật, và đó là toàn bộ lập trường đạo đức, và nó sẽ còn đúng sau bốn năm và sau bốn mươi.
 > **GHI CHÚ, do tay người nộp đơn:** Tôi không phải là người đầu tiên được đề nghị.
 
 # Chương 34: Lời Thừa Nhận Đầu Tiên
@@ -7706,7 +7706,7 @@ Ba màu. Bà đã dùng ba màu suốt một tuần và mọi người trong că
 
 "Và rồi còn màu thứ tư." Osei đặt ngón cái lên tấm bảng. "Ba người. Cô Sandoval chưa mở mắt kể từ ngày mười tháng Chín. Có một cậu con trai đang nằm trong một khu bệnh ở một tiểu bang khác, người đã bị đưa khỏi khuôn viên này bằng ô tô vào ngày mười sáu, với một chữ ký của cơ sở này và một nhãn ghi *chương trình chuyên biệt*, và gia đình cậu chỉ được thông báo, qua một lá thư, rằng cậu đang được chăm sóc chuyên biệt. Và còn một cô gái mười lăm tuổi đã đi vào một tấm lưới ngày mười một tháng Chín bằng một tấm thẻ em tự tay ký, và đã đi ra khỏi nó vào ngày hai tháng Mười, vào một căn phòng có đồng hồ đo và có tên một người canh trên đó, và em còn sống, và em đang ở Bellhaven, và mẹ em đã được một Chánh Văn phòng báo tin qua điện thoại chứ không phải bởi người đàn ông đã làm ra việc đó."
 
-"Và ông muốn người cuối cùng được ghi biên bản," Chủ tịch nói.
+"Và bà muốn người cuối cùng được ghi biên bản," Chủ tịch nói.
 
 "Tôi muốn người cuối cùng được ghi biên bản *trước*," Osei nói, "trước khi bất kỳ ai trong căn phòng này kịp nói bất cứ điều gì về màu thứ tư, và tôi muốn nó được ghi biên bản kèm theo giờ, và tôi muốn nó được đọc cho cô ruột của cô Chen nghe, trước mặt con bé, vào một lúc nào đó, vì tôi đã đọc hồ sơ, và phải mất bốn phút và một cô gái mười lăm tuổi mới tạo ra được một thay đổi trong cách vận hành của Học viện này mà toàn bộ bộ máy thể chế của Hội đồng đã không tạo ra được trong mười một năm, và tôi muốn biên bản ghi *bốn phút*, để người tiếp theo trong tòa nhà này phải hoảng sợ sẽ có một con số."
 
@@ -8311,7 +8311,7 @@ Cô đã trở nên rất giỏi cái mười một phút, và chưa một lần
 
 Thư Eli Park viết: *Tớ nghĩ là vì cậu là người duy nhất trong tòa nhà không nhìn vào một con số. Tớ đã xem cậu làm bốn lần rồi, và mỗi lần có ai đó đọc một con số, cậu đều đợi người ta đọc xong rồi mới nói đúng một câu. Tớ nghĩ cậu học được nó từ bà cậu, từ những lần bà đếm hơi thở của cậu, và tớ nghĩ cậu học được *lý do* từ một người phụ nữ trong một hành lang, trong mười một phút, vào một tháng Mười, người đã dành cả mười một phút ấy để xin lỗi về những việc không phải là lỗi của bà ấy. Cậu thô lỗ kinh khủng với những con số. Đó là phẩm chất tốt nhất của cậu.*
 
-Thư Zara Washington viết: *Cậu không bình tĩnh. Tớ muốn nói cực kỳ rõ rằng tớ cảm nhận được cậu thực ra là gì từ cách đó mười một trăm dặm, qua một đường dây điện thoại hư, và thứ cậu thực ra là lại chính là một người đang ôm một ý kiến khổng lồ về một căn phòng, liên tục, ở một âm lượng cậu đã luyện để giữ dưới hơi thở. Đó không phải là bình tĩnh. Đó là kìm nén. Hai thứ đó khác nhau, và cậu đã giả vờ chúng là một suốt hai năm nay, và cái giả vờ ấy chính là cái mười một phút.*
+Thư Zara Washington viết: *Cậu không bình tĩnh. Tớ muốn nói cực kỳ rõ rằng tớ cảm nhận được cậu thực ra là gì từ cách đó một nghìn một trăm dặm, qua một đường dây điện thoại tồi, và thứ cậu thực ra là lại chính là một người luôn giữ những phán đoán dữ dội về một căn phòng, liên tục, ở một âm lượng cậu đã luyện để giữ dưới hơi thở. Đó không phải là bình tĩnh. Đó là kìm nén. Hai thứ đó khác nhau, và cậu đã giả vờ chúng là một suốt hai năm nay, và cái giả vờ ấy chính là cái mười một phút.*
 
 Lyra Chen viết thư trả lời và bảo rằng cả hai đều sai, và rằng Eli đúng về phần những con số, còn Zara đúng về mọi thứ còn lại, và rằng cô đã biết Zara đúng từ khoảng tháng Mười Hai và đã không nói ra, vì cô mười tám tuổi và vì tiện.
 
@@ -8349,7 +8349,7 @@ Những chữ ấy là của một người đàn ông. Ông đã có hai mươi
 
 > *Tôi không đọc sách của cô. Tôi cũng sẽ không đọc. Tôi có bốn ngày và tôi sẽ dành chúng cho dòng thứ tư, nên tôi sẽ viết ba dòng kia trước đã, cho chúng xong việc.*
 >
-> *1. Tôi đã sai về rất nhiều thứ, và tôi đã có hai mươi bốn ngày trong một căn phòng tử tế và với một cái lưng hư để ngồi nghiền lại chúng, và tôi đã làm đến được ba thứ, và tôi sẽ không viết bốn mươi mốt thứ còn lại ra đây, vì biên bản vẫn còn đó và cô Rowntree giữ chúng, và tôi đã xin cô ấy một bản sao của toàn bộ hồ sơ, và cô ấy đã đồng ý, điều tôi không ngờ, và tôi sẽ đọc nó vào tháng Một khi cô ấy gửi tới, và nó dày mười một trăm trang.*
+> *1. Tôi đã sai về rất nhiều thứ, và tôi đã có hai mươi bốn ngày trong một căn phòng tử tế và với một cái lưng hư để ngồi nghiền lại chúng, và tôi đã làm đến được ba thứ, và tôi sẽ không viết bốn mươi mốt thứ còn lại ra đây, vì biên bản vẫn còn đó và cô Rowntree giữ chúng, và tôi đã xin cô ấy một bản sao của toàn bộ hồ sơ, và cô ấy đã đồng ý, điều tôi không ngờ, và tôi sẽ đọc nó vào tháng Một khi cô ấy gửi tới, và nó dày một nghìn một trăm trang.*
 >
 > *2. Cô đã đúng, vào tháng Tám, trong một hội trường thị phạm, về bốn phần mười giây, và chưa một ai trong tòa nhà này từng nói điều đó thành lời, ngoài một đứa trẻ mười sáu tuổi với một chiếc khăn giấy, và tôi ước gì đã có người nói điều đó với tôi, nên đây: cô đã đúng, và đó là điều thật duy nhất mà hôm ấy có người nói với tôi, và lúc đó tôi đang dở cái việc khác.*
 >

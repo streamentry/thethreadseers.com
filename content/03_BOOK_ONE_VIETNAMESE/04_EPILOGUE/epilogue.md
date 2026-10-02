@@ -14,7 +14,7 @@ Cô đã trở nên rất giỏi cái mười một phút, và chưa một lần
 
 Thư Eli Park viết: *Tớ nghĩ là vì cậu là người duy nhất trong tòa nhà không nhìn vào một con số. Tớ đã xem cậu làm bốn lần rồi, và mỗi lần có ai đó đọc một con số, cậu đều đợi người ta đọc xong rồi mới nói đúng một câu. Tớ nghĩ cậu học được nó từ bà cậu, từ những lần bà đếm hơi thở của cậu, và tớ nghĩ cậu học được *lý do* từ một người phụ nữ trong một hành lang, trong mười một phút, vào một tháng Mười, người đã dành cả mười một phút ấy để xin lỗi về những việc không phải là lỗi của bà ấy. Cậu thô lỗ kinh khủng với những con số. Đó là phẩm chất tốt nhất của cậu.*
 
-Thư Zara Washington viết: *Cậu không bình tĩnh. Tớ muốn nói cực kỳ rõ rằng tớ cảm nhận được cậu thực ra là gì từ cách đó mười một trăm dặm, qua một đường dây điện thoại hư, và thứ cậu thực ra là lại chính là một người đang ôm một ý kiến khổng lồ về một căn phòng, liên tục, ở một âm lượng cậu đã luyện để giữ dưới hơi thở. Đó không phải là bình tĩnh. Đó là kìm nén. Hai thứ đó khác nhau, và cậu đã giả vờ chúng là một suốt hai năm nay, và cái giả vờ ấy chính là cái mười một phút.*
+Thư Zara Washington viết: *Cậu không bình tĩnh. Tớ muốn nói cực kỳ rõ rằng tớ cảm nhận được cậu thực ra là gì từ cách đó một nghìn một trăm dặm, qua một đường dây điện thoại tồi, và thứ cậu thực ra là lại chính là một người luôn giữ những phán đoán dữ dội về một căn phòng, liên tục, ở một âm lượng cậu đã luyện để giữ dưới hơi thở. Đó không phải là bình tĩnh. Đó là kìm nén. Hai thứ đó khác nhau, và cậu đã giả vờ chúng là một suốt hai năm nay, và cái giả vờ ấy chính là cái mười một phút.*
 
 Lyra Chen viết thư trả lời và bảo rằng cả hai đều sai, và rằng Eli đúng về phần những con số, còn Zara đúng về mọi thứ còn lại, và rằng cô đã biết Zara đúng từ khoảng tháng Mười Hai và đã không nói ra, vì cô mười tám tuổi và vì tiện.
 
@@ -52,7 +52,7 @@ Những chữ ấy là của một người đàn ông. Ông đã có hai mươi
 
 > *Tôi không đọc sách của cô. Tôi cũng sẽ không đọc. Tôi có bốn ngày và tôi sẽ dành chúng cho dòng thứ tư, nên tôi sẽ viết ba dòng kia trước đã, cho chúng xong việc.*
 >
-> *1. Tôi đã sai về rất nhiều thứ, và tôi đã có hai mươi bốn ngày trong một căn phòng tử tế và với một cái lưng hư để ngồi nghiền lại chúng, và tôi đã làm đến được ba thứ, và tôi sẽ không viết bốn mươi mốt thứ còn lại ra đây, vì biên bản vẫn còn đó và cô Rowntree giữ chúng, và tôi đã xin cô ấy một bản sao của toàn bộ hồ sơ, và cô ấy đã đồng ý, điều tôi không ngờ, và tôi sẽ đọc nó vào tháng Một khi cô ấy gửi tới, và nó dày mười một trăm trang.*
+> *1. Tôi đã sai về rất nhiều thứ, và tôi đã có hai mươi bốn ngày trong một căn phòng tử tế và với một cái lưng hư để ngồi nghiền lại chúng, và tôi đã làm đến được ba thứ, và tôi sẽ không viết bốn mươi mốt thứ còn lại ra đây, vì biên bản vẫn còn đó và cô Rowntree giữ chúng, và tôi đã xin cô ấy một bản sao của toàn bộ hồ sơ, và cô ấy đã đồng ý, điều tôi không ngờ, và tôi sẽ đọc nó vào tháng Một khi cô ấy gửi tới, và nó dày một nghìn một trăm trang.*
 >
 > *2. Cô đã đúng, vào tháng Tám, trong một hội trường thị phạm, về bốn phần mười giây, và chưa một ai trong tòa nhà này từng nói điều đó thành lời, ngoài một đứa trẻ mười sáu tuổi với một chiếc khăn giấy, và tôi ước gì đã có người nói điều đó với tôi, nên đây: cô đã đúng, và đó là điều thật duy nhất mà hôm ấy có người nói với tôi, và lúc đó tôi đang dở cái việc khác.*
 >
