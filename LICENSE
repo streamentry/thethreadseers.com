@@ -1,0 +1,58 @@
+# License & Copyright Notice
+
+This repository uses a **Dual License** model to maintain a welcoming, open-source software codebase while strictly protecting the author's intellectual property, literary universe, manuscripts, audio recordings, and original creative works.
+
+---
+
+## 1. Software Code & Tooling — MIT License
+
+Copyright (c) 2024–2026 Lê Việt Hồng (Le Viet Hong) and contributors.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+### Covered Software Components:
+- Source code in `src/` (Astro layouts, components, TypeScript library utilities, and Tailwind styles)
+- Scripts and generation pipelines in `scripts/` (including `gemini_tts.py`, post-build processors, and i18n checkers)
+- Configuration files (`astro.config.mjs`, `tailwind.config.mjs`, etc.)
+
+---
+
+## 2. Literary Content, Characters, World Lore & Audio Recordings — All Rights Reserved
+
+Copyright (c) 2024–2026 Lê Việt Hồng (Le Viet Hong). All Rights Reserved.
+
+All literary texts, book manuscripts, series bibles, world-building lore, character personas, audio recordings, artwork, cover illustrations, and brand assets contained in this repository are the exclusive intellectual property of the author, **Lê Việt Hồng**.
+
+### Specifically Protected Assets:
+- **Manuscripts & Story Content**: All text and markdown files within `content/` (including `content/03_BOOK_ONE/`, `content/03_BOOK_ONE_VIETNAMESE/`, `content/01_SERIES_BIBLE/`, and subsequent volumes)
+- **Audiobook Recordings**: All audio assets within `public/audio/` (including all synthesized narrator tracks, voice models, and MP3 files)
+- **Visual & Brand Assets**: Cover artwork, typography identity, and branding elements within `public/` and `src/`
+
+### Permitted Uses:
+- Viewing, reading, and listening to the materials online or through downloaded offline reader formats (EPUB, PDF, Markdown, MP3) for personal, non-commercial, private study and enjoyment.
+- Fair dealing or fair use citations (quotes, reviews, academic analysis) with appropriate attribution to Lê Việt Hồng and *The Thread Seers*.
+
+### Prohibited Uses (Without Prior Written Permission):
+- Commercial redistribution, resale, sublicensing, or publication of the novel, translations, or audiobooks in any physical or digital format.
+- Creating unauthorized derivative literary, audio, cinematic, game, or theatrical adaptations based on the characters, plot, magic system, or world of *The Thread Seers*.
+- Using the manuscript, world lore, or character names to train proprietary artificial intelligence or commercial language generation models without an explicit license from the copyright holder.
+
+---
+
+For licensing inquiries, translation rights, or adaptation permissions, please contact the author via the official website at [thethreadseers.com](https://thethreadseers.com).
