@@ -20,11 +20,11 @@ const locale = lang
 const tr = (k: Parameters<typeof t>[1], v?: Record<string, string | number>) => t(locale, k, v)
 
 const title =
-  locale === 'vi' ? 'Những Người Thấy Sợi Chỉ: Sách Một — đọc hoặc tải miễn phí' : 'The Thread Seers: Book One — read or download free'
+  locale === 'vi' ? 'Những Người Thấy Sợi Chỉ: Sách Một — Đọc trực tuyến hoặc Tải miễn phí' : 'The Thread Seers: Book One — Read Online or Download Free'
 const description =
   locale === 'vi'
-    ? 'Những Người Thấy Sợi Chỉ, Sách Một: cô nghệ sĩ mười sáu tuổi Lyra Chen nhìn thấy những sợi chỉ rực lạp nối người, nơi chốn, và bí mật. Đọc trực tuyến hoặc tải toàn văn miễn phí.'
-    : 'The Thread Seers Book One: sixteen-year-old artist Lyra Chen can see the luminous threads binding people, places, and secrets. Read it online or download the full text free.'
+    ? 'Những Người Thấy Sợi Chỉ, Sách Một: Cô nghệ sĩ mười sáu tuổi Lyra Chen nhìn thấu những sợi tơ rực sáng nối liền số phận, nơi chốn và bí mật. Thưởng thức trực tuyến hoặc tải toàn văn miễn phí.'
+    : 'The Thread Seers: Book One. Sixteen-year-old artist Lyra Chen perceives the luminous threads binding souls, sanctuaries, and secrets. Read online or download the unabridged text free.'
 
 const schema = jsonLd({
   locale,
@@ -53,7 +53,7 @@ const lines = excerpt[locale]
     <div class="mx-auto max-w-canvas px-6 py-16 lg:px-8 lg:py-24">
       <div class="grid gap-12 lg:grid-cols-12">
         <div class="lg:col-span-4">
-          <figure class="lg:sticky lg:top-8">
+          <figure class="mx-auto max-w-sm lg:max-w-none lg:sticky lg:top-8">
             <div class="overflow-hidden rounded-sm border border-text-primary/15">
               <img
                 src={SITE.cover}

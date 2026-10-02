@@ -61,13 +61,13 @@ const path = `/series/book-one/read/${chapter.slug}`
 const front = chapter.kind === 'front'
 const title =
   locale === 'vi'
-    ? `${heading} — Những Người Thấy Sợi Chỉ, Sách Một (đọc miễn phí)`
-    : `${heading} — The Thread Seers, Book One (read free)`
+    ? `${heading} — Những Người Thấy Sợi Chỉ: Sách Một (đọc miễn phí)`
+    : `${heading} — The Thread Seers: Book One (read free)`
 
 const description = front
   ? locale === 'vi'
-    ? `${heading} của Những Người Thấy Sợi Chỉ, Sách Một, tác giả Lê Việt Hồng. Đọc miễn phí trực tuyến, hoặc tải trọn cuốn sách ở EPUB, PDF và Markdown.`
-    : `${heading} of The Thread Seers, Book One by Le Viet Hong. Read free online, or download the complete book in EPUB, PDF, and Markdown.`
+    ? `${heading} của Những Người Thấy Sợi Chỉ, Sách Một, tác giả Lê Việt Hồng. Thưởng thức toàn văn miễn phí trực tuyến, hoặc tải trọn cuốn sách ở các định dạng EPUB, PDF và Markdown.`
+    : `${heading} of The Thread Seers, Book One by Le Viet Hong. Read free online, or download the unabridged novel in EPUB, PDF, and clean Markdown.`
   : describe(paragraphs, { label: chapter.label, title: heading, locale })
 
 const crumb: { name: string; path: string }[] = [
@@ -180,7 +180,7 @@ const numeral =
           crawlers linking the two editions together. */}
       <div class="mt-12 border-t border-text-primary/10 pt-6">
         <p class="eyebrow">
-          {locale === 'vi' ? 'Đọc bản tiếng Anh' : 'Đọc bản tiếng Việt'}
+          {locale === 'vi' ? 'Đọc bản tiếng Anh' : 'Read in Vietnamese'}
         </p>
         {
           LOCALES.filter((l) => l !== locale).map((l) => (

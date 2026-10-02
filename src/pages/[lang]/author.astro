@@ -18,11 +18,11 @@ const locale = lang
 const tr = (k: Parameters<typeof t>[1], v?: Record<string, string | number>) => t(locale, k, v)
 
 const title =
-  locale === 'vi' ? 'Lê Việt Hồng — tác giả Những Người Thấy Sợi Chỉ' : 'Le Viet Hong — author of The Thread Seers'
+  locale === 'vi' ? 'Lê Việt Hồng — Tác giả Những Người Thấy Sợi Chỉ' : 'Le Viet Hong — Author of The Thread Seers'
 const description =
   locale === 'vi'
-    ? 'Lê Việt Hồng viết tiểu thuyết giả tưởng dành cho thiếu niên, lấy nền tảng từ triết học Phật, khái niệm duyên khởi, và các truyền thống sợi chỉ của văn hoá Trung Hoa, Hàn Quốc, Ấn Độ, Ai Cập, Châu Phi, và bản địa.'
-    : 'Le Viet Hong writes young adult fantasy grounded in Buddhist philosophy, dependent origination, and thread traditions from Chinese, Korean, Indian, Egyptian, African, and Indigenous cultures.'
+    ? 'Lê Việt Hồng sáng tác tiểu thuyết giả tưởng kỳ ảo thiếu niên, khởi nguồn từ triết học Phật giáo, giáo lý Duyên Khởi và các truyền thống dệt sợi cổ xưa của văn hóa Trung Hoa, Hàn Quốc, Ấn Độ, Ai Cập, Châu Phi và bản địa.'
+    : 'Le Viet Hong writes literary young adult fantasy grounded in Buddhist metaphysics, dependent origination, and living thread traditions from cultures across the globe.'
 
 const schema = jsonLd({
   locale,
@@ -50,7 +50,7 @@ const other = locale === 'vi' ? 'en' : 'vi'
     <div class="mx-auto max-w-canvas px-6 py-16 lg:px-8 lg:py-24">
       <div class="grid gap-12 lg:grid-cols-12">
         <div class="lg:col-span-4">
-          <figure class="lg:sticky lg:top-8">
+          <figure class="mx-auto max-w-xs sm:max-w-sm lg:max-w-none lg:sticky lg:top-8">
             <div
               class="flex aspect-square w-full items-center justify-center overflow-hidden rounded-sm border border-text-primary/15 bg-background-secondary"
             >
@@ -92,7 +92,7 @@ const other = locale === 'vi' ? 'en' : 'vi'
               hreflang={other}
               class="ghost-link text-text-muted"
             >
-              {other === 'vi' ? 'Đọc trang này bằng tiếng Việt' : 'Read this page in Vietnamese'}
+              {other === 'vi' ? 'Đọc trang này bằng tiếng Việt' : 'Read this page in English'}
             </a>
           </div>
         </div>

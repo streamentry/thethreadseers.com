@@ -18,12 +18,12 @@ const tr = (k: Parameters<typeof t>[1], v?: Record<string, string | number>) => 
 
 const title =
   locale === 'vi'
-    ? 'Tải Sách Một miễn phí — EPUB, PDF, Markdown'
-    : 'Download Book One free — EPUB, PDF, Markdown'
+    ? 'Tải Sách Một Miễn Phí — EPUB, PDF, Markdown'
+    : 'Download Book One Free — EPUB, PDF, Markdown'
 const description =
   locale === 'vi'
-    ? `Trọn cuốn Những Người Thấy Sợi Chỉ: Sách Một, miễn phí ở EPUB, PDF và Markdown, cả bản tiếng Anh lẫn tiếng Việt. Đủ ${TOTAL_PARTS} phần, không đoạn dẻ thử, không tường thanh toán.`
-    : `The complete Thread Seers Book One, free in EPUB, PDF, and Markdown, in both English and Vietnamese. All ${TOTAL_PARTS} parts, no sample, no paywall.`
+    ? `Trọn vẹn tác phẩm Những Người Thấy Sợi Chỉ: Sách Một, tải về miễn phí ở các định dạng EPUB, PDF và Markdown, bằng cả tiếng Anh lẫn tiếng Việt. Đầy đủ ${TOTAL_PARTS} phần, không cắt đoạn, không tường phí.`
+    : `The complete novel The Thread Seers: Book One, free to download in EPUB, PDF, and clean Markdown, in parallel English and Vietnamese editions. All ${TOTAL_PARTS} parts, unabridged, without paywalls.`
 
 const schema = jsonLd({
   locale,
@@ -75,7 +75,7 @@ const firstChapter = chapterOrder.find((c) => c.kind === 'front' && c.slug === '
               <HoldCta
                 locale={locale}
                 href={`/books/${ownEpub.file}`}
-                label={locale === 'vi' ? 'Giữ sợi chỉ — tải EPUB' : 'Hold the thread — EPUB'}
+                label={locale === 'vi' ? 'Giữ lấy sợi chỉ — tải EPUB' : 'Hold the thread — EPUB'}
                 hint={tr('common.hold')}
               />
               <a
@@ -94,7 +94,7 @@ const firstChapter = chapterOrder.find((c) => c.kind === 'front' && c.slug === '
       {/* Ledger for this locale */}
       <section class="mt-12">
         <p class="eyebrow">
-          {locale === 'vi' ? 'Sổ sách · ấn bản tiếng Việt' : 'Ledger · English edition'}
+          {locale === 'vi' ? 'Sổ lưu · Ấn bản tiếng Việt' : 'Ledger · English edition'}
         </p>
         <ul class="mt-6 border-t border-text-primary/10">
           {
@@ -137,7 +137,7 @@ const firstChapter = chapterOrder.find((c) => c.kind === 'front' && c.slug === '
               <li>
                 <a href={`/books/${item.file}`} download class="ghost-link text-sm text-text-secondary hover:text-text-primary">
                   {item.format} · {sizeLabel(item.bytes, locale)} ·{' '}
-                  {locale === 'vi' ? 'tải bản tiếng Anh' : 'tải bản tiếng Việt'}
+                  {locale === 'vi' ? 'tải bản tiếng Anh' : 'Download Vietnamese edition'}
                 </a>
               </li>
             ))

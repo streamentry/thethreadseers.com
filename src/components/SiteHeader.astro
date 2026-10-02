@@ -23,7 +23,7 @@ const switchLabel = t(locale, 'nav.langSwitch')
   >
     <a
       href={localePath(locale, '/')}
-      class="-m-1.5 p-1.5 font-sans text-base font-light uppercase tracking-[0.32em] text-text-primary"
+      class="-m-1.5 p-1.5 font-sans text-xs sm:text-sm lg:text-base font-light uppercase tracking-[0.16em] sm:tracking-[0.24em] lg:tracking-[0.32em] text-text-primary"
     >
       {wordmark}
     </a>
@@ -84,15 +84,15 @@ const switchLabel = t(locale, 'nav.langSwitch')
   </nav>
 
   <div id="mobile-nav" hidden class="lg:hidden">
-    <div class="fixed inset-0 z-50" data-menu-backdrop></div>
+    <div class="fixed inset-0 z-40 bg-black/75 backdrop-blur-sm transition-opacity" data-menu-backdrop></div>
     <div
-      class="fixed inset-y-0 right-0 z-50 w-full max-w-sm overflow-y-auto border-l border-text-primary/10 bg-background-primary px-6 py-6"
+      class="fixed inset-y-0 right-0 z-50 w-full max-w-sm overflow-y-auto border-l border-text-primary/10 bg-background-primary px-6 py-6 shadow-2xl"
       role="dialog"
       aria-modal="true"
       aria-label={t(locale, 'nav.menu')}
     >
       <div class="flex items-center justify-between">
-        <span class="font-sans text-sm font-light uppercase tracking-[0.32em] text-text-primary">
+        <span class="font-sans text-xs sm:text-sm font-light uppercase tracking-[0.18em] sm:tracking-[0.32em] text-text-primary">
           {wordmark}
         </span>
         <button

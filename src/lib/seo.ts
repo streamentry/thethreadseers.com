@@ -26,8 +26,8 @@ export const SITE = {
   cover: '/img/the_thread_seer_book1.jpg',
   coverAbs: 'https://streamentry.github.io/thethreadseers.com/img/the_thread_seer_book1.jpg',
   description: {
-    en: 'The Thread Seers is a young adult fantasy series about luminous threads, hidden schools, and the choice between control and communion. Book One is free to read online in English and Vietnamese, and free to download.',
-    vi: 'Những Người Thấy Sợi Chỉ là một bộ tiểu thuyết giả tưởng dành cho thiếu niên về những sợi chỉ rực lạp, những ngôi trường ẩn, và lựa chọn giữa kiểm soát và hiệp thông. Sách Một đọc miễn phí trực tuyến bằng tiếng Anh và tiếng Việt, tải về miễn phí.',
+    en: 'The Thread Seers is a metaphysical young adult fantasy saga exploring luminous threads of connection, ancient global traditions, and the sacred choice between control and communion. Book One is free to read online and download unabridged in English and Vietnamese.',
+    vi: 'Những Người Thấy Sợi Chỉ là bộ tiểu thuyết giả tưởng huyền ảo về những sợi tơ kết nối vạn vật, các dòng chảy truyền thống cổ xưa và sự giằng xé giữa kiểm soát và tương giao. Sách Một trọn vẹn đọc trực tuyến và tải về miễn phí bằng cả tiếng Anh lẫn tiếng Việt.',
   },
 } as const
 
@@ -75,7 +75,7 @@ export interface MetaInput {
 
 const COMMON_KEYWORDS = {
   en: 'YA fantasy, young adult fantasy book, free ebook, Lyra Chen, Threadweaver Academy, thread magic, relationship maps, Vietnamese American author, Lumina Press, bản dịch tiếng Việt',
-  vi: 'tiểu thuyết giả tưởng, sách thiếu nhiên, tải sách miễn phí, Lyra Chen, Học viện Dệt Sợi, sợi chỉ, sách tiếng Việt, Le Viet Hong, Lumina Press',
+  vi: 'tiểu thuyết giả tưởng, sách thiếu niên, tải sách miễn phí, Lyra Chen, Học viện Threadweaver, sợi chỉ, sách tiếng Việt, Le Viet Hong, Lumina Press',
 } as const
 
 export const keywordsFor = (locale: Locale, extra?: string) =>
@@ -306,78 +306,78 @@ export function jsonLd(input: JsonLdInput): string {
 export const faq: Record<Locale, [string, string][]> = {
   en: [
     [
-      'Is The Thread Seers Book One free?',
-      'Yes. Book One is free to read online — all 46 parts, in English and Vietnamese — and free to download as EPUB, PDF, and Markdown. There is no sample-only version and no paywall.',
+      'Is The Thread Seers Book One completely free to read?',
+      'Yes. Book One is freely available in its entirety — all 46 parts, unabridged in parallel English and Vietnamese editions — and free to download in EPUB, PDF, and clean Markdown formats. There are no paywalls, subscriptions, or partial samples.',
     ],
     [
       'Can I read The Thread Seers in Vietnamese?',
-      'Yes. A complete Vietnamese edition is available to read online at /vi/series/book-one/read/prologue and to download as EPUB and PDF. The Vietnamese and English texts are the same book: 46 parts in both.',
+      'Yes. An authorized, full-length Vietnamese edition is available to read online at /vi/series/book-one/read/prologue and to download as EPUB and PDF. Both editions are complete and cover all 46 parts of the novel.',
     ],
     [
-      'Who wrote The Thread Seers?',
-      'Le Viet Hong, a Vietnamese American author published by Lumina Press. The series is planned as seven books following Lyra Chen from age 16 to 18.',
+      'Who is the author of The Thread Seers?',
+      'Le Viet Hong (Lê Việt Hồng), a Vietnamese American author published by Lumina Press. The saga is envisioned as a seven-book chronicle following protagonist Lyra Chen from age 16 to 18.',
     ],
     [
-      'What genre is The Thread Seers?',
-      'Young adult fantasy with literary and philosophical depth. The magic system is grounded in dependent origination, a Buddhist concept that nothing exists independently, and the series draws on thread traditions from Chinese, Korean, Indian, Egyptian, African, and Indigenous cultures.',
+      'What genre and philosophy define The Thread Seers?',
+      'It is an evocative work of young adult fantasy imbued with literary depth. Its magic system is rooted in the Buddhist philosophy of dependent origination (Pratītyasamutpāda) — the interdependence of all living things — drawing upon living thread traditions from Chinese, Korean, Indian, Egyptian, Yoruba, and Indigenous cultures.',
     ],
     [
       'Who is Lyra Chen?',
-      'A sixteen-year-old Chinese-American artist and the protagonist of Book One. She sketches “relationship maps” in her notebook margins until the lines begin glowing in the air, revealing luminous threads that bind people, places, and secrets. She is recruited to Threadweaver Academy, a hidden school inside Westbrook Academy in the Berkshire Mountains.',
+      'A sixteen-year-old Chinese-American artist and the protagonist of Book One. She spent years secretly sketching “relationship maps” in her notebook margins until those graphite lines ignited into living, luminous threads binding souls, places, and hidden truths. She is recruited to Threadweaver Academy, a secluded sanctuary nestled within the Berkshire Mountains.',
     ],
     [
-      'How many chapters are in Book One?',
-      `Book One has ${TOTAL_PARTS} parts in reading order: acknowledgments, a prologue set in Saigon in 1943, 43 numbered chapters (some split into parts, like 12A and 12B), and an epilogue.`,
+      'How many parts comprise Book One?',
+      `Book One contains ${TOTAL_PARTS} parts in chronological reading sequence: acknowledgments, an evocative historical prologue set in 1943 Saigon, 43 numbered narrative chapters (including dual-perspective installments such as 12A and 12B), and an epilogue.`,
     ],
     [
-      'How many books are in The Thread Seers series?',
-      'Seven. Book One, The Thread Seers, is complete and free. Book Two, The Weaver’s Shadow, is in progress. Books three through seven are The Convergence Protocol, The Silver Path, The Communion Wars, The Dimensional Bridge, and The Awakening Network.',
+      'What are the titles in The Thread Seers seven-book chronicle?',
+      'The planned seven-volume series comprises: Book One: The Thread Seers (complete and free); Book Two: The Weaver’s Shadow (in progress); Book Three: The Convergence Protocol; Book Four: The Silver Path; Book Five: The Communion Wars; Book Six: The Dimensional Bridge; and Book Seven: The Awakening Network.',
     ],
     [
-      'Is The Thread Seers appropriate for young readers?',
-      'It is written for young adult readers. The book does not simplify its ethics and does not pull its punches about what happens when people treat relationships as resources, but it contains no explicit content.',
+      'Is The Thread Seers suitable for young adult readers?',
+      'Yes. Written specifically for young adults and thoughtful readers of all generations, the story explores grief, moral complexity, and the ethics of human relationship with honesty and nuance, without explicit or gratuitous content.',
     ],
     [
-      'Where can I buy The Thread Seers?',
-      'The full text is free to download from this site. The book is also listed on Amazon Kindle and Google Play Books.',
+      'Where can I download or purchase The Thread Seers?',
+      'The full unabridged novel is hosted and freely downloadable directly from this site. It is also cataloged for convenience on Amazon Kindle and Google Play Books.',
     ],
   ],
   vi: [
     [
-      'Sách Một của Những Người Thấy Sợi Chỉ có miễn phí không?',
-      'Có. Sách Một đọc miễn phí trực tuyến — đủ 46 phần, bằng tiếng Anh và tiếng Việt — và tải về miễn phí dưới dạng EPUB, PDF, và Markdown. Không có phiên bản chỉ gửi đoạn dẻ thử, không có tường thanh toán.',
+      'Sách Một của Những Người Thấy Sợi Chỉ có hoàn toàn miễn phí không?',
+      'Có. Toàn bộ Sách Một được trao gửi hoàn toàn miễn phí — trọn vẹn 46 phần bằng cả tiếng Anh và tiếng Việt — có thể đọc trực tuyến hoặc tải về dưới dạng EPUB, PDF và Markdown. Tuyệt đối không có bản đọc thử cắt xén và không có tường phí thương mại.',
     ],
     [
-      'Tôi có thể đọc Những Người Thấy Sợi Chỉ bằng tiếng Việt không?',
-      'Có. Bản tiếng Việt đầy đủ đọc miễn phí trực tuyến tại /vi/series/book-one/read/prologue và tải về dưới dạng EPUB và PDF. Văn bản tiếng Việt và tiếng Anh là cùng một cuốn sách: 46 phần ở cả hai ngôn ngữ.',
+      'Tôi có thể đọc Những Người Thấy Sợi Chỉ bằng tiếng Việt ở đâu?',
+      'Bạn có thể thưởng thức trọn vẹn bản tiếng Việt trực tuyến tại /vi/series/book-one/read/prologue hoặc tải về các tệp EPUB và PDF hoàn chỉnh. Bản dịch tiếng Việt và bản gốc tiếng Anh là hai văn bản song song, trọn vẹn cả 46 phần.',
     ],
     [
       'Ai là tác giả của Những Người Thấy Sợi Chỉ?',
-      'Lê Việt Hồng, tác giả người Mỹ gốc Việt, xuất bản tại Lumina Press. Cả bộ sách dự kiến gồm bảy cuốn, theo sát Lyra Chen từ năm 16 đến 18 tuổi.',
+      'Lê Việt Hồng (Le Viet Hong), một tác giả người Mỹ gốc Việt, xuất bản bởi Lumina Press. Bộ trường thiên được sáng tác với quy mô bảy tập, theo sát hành trình trưởng thành của Lyra Chen từ năm 16 đến 18 tuổi.',
     ],
     [
-      'Những Người Thấy Sợi Chỉ thuộc thể loại gì?',
-      'Giả tưởng dành cho thiếu niên, với chiều sâu văn chương và triết học. Hệ thống phép thuật dựng trên duyên khởi, một khái niệm Phật giáo cho rằng không gì tồn tại độc lập, và cả bộ lấy cảm hứng từ các truyền thống sợi chỉ của văn hoá Trung Hoa, Hàn Quốc, Ấn Độ, Ai Cập, Châu Phi, và bản địa.',
+      'Những Người Thấy Sợi Chỉ thuộc thể loại gì và mang tư tưởng nào?',
+      'Tiểu thuyết giả tưởng thiếu niên mang chiều sâu triết học và văn chương. Hệ thống phép thuật bắt nguồn từ giáo lý Duyên Khởi của Phật giáo — nhận thức về tính tương tức của vạn vật — kết hợp cùng các truyền thống dệt sợi cổ xưa của văn hóa Trung Hoa, Hàn Quốc, Ấn Độ, Ai Cập, Yoruba và thổ dân bản địa.',
     ],
     [
-      'Lyra Chen là ai?',
-      'Cô nghệ sĩ mười sáu tuổi gốc Hoa kiều và là nhân vật chính của Sách Một. Cô vẽ “bản đồ quan hệ” ở mép sổ vở cho đến khi những đường nét ấy bắt đầu lên ánh trong không khí, hé lộ những sợi chỉ rực lạp nối người, nơi chốn, và bí mật. Cô được Học viện Dệt Sợi chiêu mộ, một trường học ẩn bên trong Westbrook Academy ở dãy Berkshire.',
+      'Nhân vật chính Lyra Chen là ai?',
+      'Một nữ sinh mười sáu tuổi gốc Hoa với niềm đam mê hội họa. Cô âm thầm phác họa “bản đồ quan hệ” bên lề tập vở cho đến khi những đường nét bừng sáng thành những sợi tơ rực rỡ nối kết từng con người, địa danh và bí mật. Cô được chiêu mộ vào Học viện Threadweaver — một thánh địa ẩn giấu bên trong trường nội trú Westbrook tại rặng núi Berkshire.',
     ],
     [
-      'Sách Một có bao nhiêu chương?',
-      `Sách Một gồm ${TOTAL_PARTS} phần theo thứ tự đọc: lời tri ân, hồi mở đầu đặt ở Sài Gòn năm 1943, 43 chương đánh số (một số được chia thành các phần, như 12A và 12B), và hồi kết.`,
+      'Sách Một gồm bao nhiêu phần?',
+      `Sách Một bao gồm ${TOTAL_PARTS} phần theo đúng thứ tự thưởng thức: lời tri ân, hồi mở đầu lịch sử đặt tại Sài Gòn năm 1943, 43 chương truyện đánh số (một số chương chia phần như 12A và 12B), và hồi kết.`,
     ],
     [
-      'Bộ Những Người Thấy Sợi Chỉ có bao nhiêu cuốn?',
-      'Bảy cuốn. Sách Một đã hoàn thành và miễn phí. Sách Hai, Bóng Người Dệt, đang được viết. Sách ba đến bảy là Giao Thức Hội Tụ, Con Đường Bạc, Cuộc Chiến Hiệp Thông, Cầu Nối Chiều Không Gian, và Mạng Lưới Thức Tỉnh.',
+      'Bộ truyện Những Người Thấy Sợi Chỉ gồm những tập nào?',
+      'Bộ trường thiên gồm bảy tập: Sách Một: Những Người Thấy Sợi Chỉ (đã hoàn thành và miễn phí); Sách Hai: Bóng Người Dệt; Sách Ba: Giao Thức Hội Tụ; Sách Bốn: Con Đường Bạc; Sách Năm: Chiến Tranh Tương Giao; Sách Sáu: Cầu Nối Liên Thứ Nguyên; và Sách Bảy: Mạng Lưới Thức Tỉnh.',
     ],
     [
-      'Những Người Thấy Sợi Chỉ có phù hợp với người đọc trẻ không?',
-      'Cuốn sách được viết cho người đọc thiếu niên. Nó không đơn giản hoá đạo đức, cũng không né tránh điều gì xảy ra khi con người đối xử với các mối quan hệ như một nguồn tài nguyên, nhưng không chứa nội dung khiêu dâm.',
+      'Cuốn sách có phù hợp với lứa tuổi thanh thiếu niên không?',
+      'Tác phẩm được sáng tác hướng tới độc giả thiếu niên cũng như những ai yêu thích văn học giàu tính nhân văn. Cuốn sách tiếp cận những nan đề đạo đức và mặt trái của các thiết chế quyền lực một cách chân thực, sâu sắc, hoàn toàn không chứa nội dung khiêu dâm hay dung tục.',
     ],
     [
-      'Tôi có thể mua Những Người Thấy Sợi Chỉ ở đâu?',
-      'Toàn văn được tải miễn phí từ trang này. Cuốn sách cũng có trên Amazon Kindle và Google Play Books.',
+      'Tôi có thể tải hoặc tìm đọc sách ở đâu?',
+      'Toàn văn tác phẩm được phát hành miễn phí trực tiếp trên trang web chính thức này. Cuốn sách cũng có mặt trên Amazon Kindle và Google Play Books.',
     ],
   ],
 }

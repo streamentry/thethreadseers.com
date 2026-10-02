@@ -19,73 +19,79 @@ export const premise: PremiseRow[] = [
     numeral: '01',
     title: { en: 'Listen', vi: 'Lắng nghe' },
     body: {
-      en: 'Recruited to Threadweaver Academy, Lyra learns her gift has a name — and that the institution keeping it is failing. Students are collapsing with their connections hollowed out, and nobody in charge will say why.',
-      vi: 'Được Học viện Dệt Sợi chiêu mộ, Lyra biết năng lực của mình có tên — và biết nơi giữ nó đang hỏng. Học sinh ngã quỵ vì những mối quan hệ của họ bị đục rỗng, và không ai phụ trách sẽ nói lý do.',
+      en: 'Recruited to Threadweaver Academy, Lyra learns her rare perception has a name — and that the institution sworn to protect it is quietly breaking. Students collapse in the corridors with their vital connections hollowed out, while those in authority look away.',
+      vi: 'Được Học viện Threadweaver chiêu mộ, Lyra biết năng lực hiếm hoi của mình có một danh xưng — và nơi chốn gánh vác sứ mệnh chở che nó đang âm thầm sụp đổ. Học sinh ngã quỵ nơi hành lang khi những mối liên kết cốt tủy bị đục rỗng, trong khi những kẻ nắm quyền nhất mực chối từ sự thật.',
     },
   },
   {
     numeral: '02',
     title: { en: 'Seam & scar', vi: 'Đường khâu và vết sẹo' },
     body: {
-      en: 'An ashen black-silver contamination is spreading through the Weave: threads dimming, fraying, going hollow. What used to feel like silk now feels like scar — fibrous, resistant, still holding.',
-      vi: 'Một sự nhiễm ô nhiễm đen bạc màu tro đang lan khắp Dệt Bộ: sợi chỉ tối đi, rở ra, rỗng bên trong. Trước kia cảm giác như tơ lụa, giờ nó cảm giác như một vết sẹo — thô ráp, kháng cự, vẫn còn giữ.',
+      en: 'An ashen black-silver blight creeps through the Weave: threads once vibrant with life are dimming, fraying, and draining cold. What once felt like seamless silk now feels like scar tissue — fibrous, resistant, yet fiercely holding on.',
+      vi: 'Một mầm độc đen bạc màu tro tàn đang âm thầm lan khắp Mạng Dệt: những sợi tơ từng rạng rỡ sinh khí nay lụi tàn, tưa rách và lạnh lẽo rỗng không. Thứ từng êm ái như tơ lụa, giờ đây thô ráp tựa vết sẹo — dai dẳng, kiên cường, và vẫn bền bỉ níu giữ.',
     },
   },
   {
     numeral: '03',
-    title: { en: 'Hold', vi: 'Giữ' },
+    title: { en: 'Hold', vi: 'Nâng niu' },
     body: {
-      en: 'Her father is dying. Her mother’s disappearance leads back to the Academy’s hidden extraction research. So Lyra must choose what kind of power she will become: control, or communion.',
-      vi: 'Cha cô đang hấp hối. Sự biến mất của mẹ dẫn ngược về nghiên cứu khai thác bí mật của Học viện. Nên Lyra phải chọn mình sẽ trở thành quyền lực kiểu nào: kiểm soát, hay hiệp thông.',
+      en: 'Her father is fading. Her mother’s disappearance traces straight back to the Academy’s forbidden extraction engines. Lyra must choose what kind of power she will embody: the cold calculus of control, or the quiet courage of communion.',
+      vi: 'Người cha dần kiệt sức. Sự mất tích bí ẩn của mẹ dẫn thẳng về cỗ máy khai thác năng lượng cấm kỵ của Học viện. Lyra buộc phải lựa chọn thứ sức mạnh mình sẽ dấn bước: sự chi phối lạnh lùng của kiểm soát, hay lòng can trường thầm lặng của tương giao.',
     },
   },
 ]
 
-export const quartet: ThreadNode[] = [
+export const quartet = [
   {
     name: 'Lyra Chen',
-    label: 'silver · self',
-    thread: 'silver',
+    label: { en: 'silver · self', vi: 'bạc · tự thân' },
+    thread: 'silver' as const,
     essence: {
-      en: 'Sixteen, Chinese-American, pockets full of pencils. She sketches relationship maps in notebook margins — until the lines begin glowing in the air. Rare multi-spectrum sight, dry humour, and a habit of carrying everything alone. Learning, deliberately, to say: not anymore.',
-      vi: 'Mười sáu tuổi, gốc Hoa, túi đầy bút chì. Cô vẽ bản đồ quan hệ ở mép sổ vở — cho đến khi những đường nét bắt đầu lên ánh trong không khí. Nhãn đa phổ hiếm gặp, trào hài khô, và thói quen ôm mọi thứ một mình. Đang học, có chủ đích, để nói: không phải nữa.',
+      en: 'Sixteen, Chinese-American, pockets heavy with graphite. She charted the invisible spaces between people until those lines caught fire in mid-air. Gifted with rare multi-spectrum sight, a bone-dry wit, and the solitary habit of bearing every weight alone — she is slowly learning the grace of letting others hold the line.',
+      vi: 'Mười sáu tuổi, gốc Hoa, túi áo luôn đầy những mẩu than chì. Cô phác họa những khoảng lặng vô hình giữa người với người cho đến khi các đường nét bừng sáng giữa thinh không. Sở hữu Nhãn Đa Phổ hiếm thấy, nét dí dỏm thâm trầm và thói quen một mình gánh vác mọi bão giông — cô đang học cách mở lòng để người khác cùng san sẻ.',
     },
   },
   {
     name: 'Milo Rodriguez',
-    label: 'gold · friendship',
-    thread: 'gold',
-    meta: 'the healer',
+    label: { en: 'gold · friendship', vi: 'vàng · tình bạn' },
+    thread: 'gold' as const,
+    meta: { en: 'the healer', vi: 'người chữa lành' },
     essence: {
-      en: 'Thirteen, curandero lineage, empath-resonator. After a sonic injury leaves him with tinnitus, he starts hearing the Weave as music — Thread-Song. Comic relief with perfect pitch for other people’s pain.',
-      vi: 'Mười ba tuổi, dòng dõi curandero, người cộng hưởng cảm thức. Sau một chấn thương âm thanh để lại ù tai, cậu bắt đầu nghe Dệt Bộ như một bản nhạc — Khúc Sợi Chỉ. Vai trò hài hước với đôi tai tuyệt đối nhạy với nỗi đau của người khác.',
+      en: 'Thirteen, carrying the bloodline of curanderos, an empath-resonator whose inner ear was shattered by a sonic accident. Left with permanent tinnitus, he now hears the entire Weave as symphonic music — Thread-Song. Irrepressible humor with an absolute, perfect pitch for the hidden ache in others.',
+      vi: 'Mười ba tuổi, mang huyết thống curandero, một người cộng hưởng cảm thức từng bị tổn thương thính giác sau một tai nạn âm thanh. Mang theo tiếng ù tai vĩnh viễn, cậu lại lắng nghe được trọn vẹn Mạng Dệt như một bản giao hưởng — Khúc Ca Sợi Chỉ. Nụ cười tinh nghịch cùng một đôi tai chuẩn xác tuyệt đối trước nỗi đau giấu kín của tha nhân.',
     },
   },
   {
     name: 'Zara Washington',
-    label: 'gold · friendship',
-    thread: 'gold',
-    meta: 'the leader',
+    label: { en: 'gold · friendship', vi: 'vàng · tình bạn' },
+    thread: 'gold' as const,
+    meta: { en: 'the leader', vi: 'người thủ lĩnh' },
     essence: {
-      en: 'Twelve, Egyptian and African-American, empath-strengthener. Confident, competitive, strategic — a rivalry with Lyra that hardens into the quartet’s deepest alliance. No solos, split tasking, always.',
-      vi: 'Mười hai tuổi, gốc Ai Cập và Mỹ phi Châu Phi, người tăng cường cảm thức. Tự tin, cạnh tranh, có chiến lược — cuộc đối đầu với Lyra cứng lên thành liên minh sâu nhất của nhóm. Không ai đi một mình, chia nhiệm vụ, luôn luôn.',
+      en: 'Twelve, Egyptian and African-American, an empath-strengthener of ferocious intellect. Strategic, unyielding, and fiercely competitive — what begins as sharp friction with Lyra tempers into the quartet’s deepest and most unbreakable anchor. No solos. Never seize.',
+      vi: 'Mười hai tuổi, mang hai dòng máu Ai Cập và Mỹ gốc Phi, một người cường hóa cảm thức sở hữu trí tuệ sắc bén. Táo bạo, kiên định và giàu tư duy chiến lược — mối kình địch ban đầu với Lyra đã được tôi luyện thành điểm tựa vững chãi nhất của bộ tứ. Không ai đơn độc. Tuyệt đối không cưỡng đoạt.',
     },
   },
   {
     name: 'Eli Park',
-    label: 'gold · friendship',
-    thread: 'gold',
-    meta: 'the mind',
+    label: { en: 'gold · friendship', vi: 'vàng · tình bạn' },
+    thread: 'gold' as const,
+    meta: { en: 'the mind', vi: 'trí tuệ' },
     essence: {
-      en: 'Ten, Korean and Indian, Buddhist-raised child-prodigy Thread-Reader. Sensory differences that read subtle patterns everyone else walks past. Socially awkward, fiercely loyal, encyclopedic.',
-      vi: 'Mười tuổi, gốc Hàn Quốc và Ấn Độ, thần đồng đọc sợi được nuôi dạy theo Phật giáo. Những khác biệt về giác quan giúp cậu đọc được các mẫu tinh vi mà người khác bỏ qua. Vụng về xã hội, trung thành tuyệt đối, như bách khoa.',
+      en: 'Ten, Korean and Indian, a prodigy raised in Buddhist contemplative traditions. His neurodivergent sensory awareness registers subtle, shifting tapestries in the Weave that older masters overlook. Soft-spoken, fiercely loyal, and carrying an archive in his mind.',
+      vi: 'Mười tuổi, mang hai dòng máu Hàn Quốc và Ấn Độ, thần đồng đọc sợi lớn lên trong ánh sáng thiền định Phật giáo. Giác quan đặc biệt giúp cậu nhận diện những hoa văn vi tế trong Mạng Dệt mà những bậc thầy lão luyện thường bỏ qua. Trầm mặc, trung thành tuyệt đối, với trí nhớ uyên bác như một kho tàng lưu trữ.',
     },
   },
 ]
 
 /** The shared "person" entries for the quartet strip, in this locale. */
 export function quartetFor(locale: Locale): ThreadNode[] {
-  return quartet.map((n) => ({ ...n, essence: n.essence[locale] }))
+  return quartet.map((n) => ({
+    name: n.name,
+    thread: n.thread,
+    label: n.label[locale],
+    meta: n.meta ? n.meta[locale] : undefined,
+    essence: n.essence[locale],
+  }))
 }
 
 /** Series "about" rows. */
@@ -94,32 +100,32 @@ export const seriesAbout: PremiseRow[] = [
     numeral: '01',
     title: { en: 'Dependent origination', vi: 'Duyên khởi' },
     body: {
-      en: 'The magic is rooted in the Buddhist idea that nothing exists on its own — everything arises from conditions and relationships. That shapes how the characters understand their powers, why extraction hurts, and what communion actually costs.',
-      vi: 'Phép thuật bám rễ vào ý niệm Phật giáo rằng không gì tồn tại một mình — mọi thứ sinh ra từ điều kiện và quan hệ. Điều đó định hình cách các nhân vật hiểu năng lực của mình, vì sao việc khai thác gây đau, và hiệp thông thật sự tốn kém gì.',
+      en: 'The magic system is anchored in the Buddhist truth of Pratītyasamutpāda: nothing exists in isolation; everything arises through causes, conditions, and relationship. That metaphysical foundation dictates how characters perceive their gifts, why mechanical extraction is inherently violent, and what true communion demands of the spirit.',
+      vi: 'Phép thuật trong sách bắt rễ sâu xa từ giáo lý Duyên Khởi của Phật giáo: vạn vật không tự thân tồn tại độc lập mà sinh khởi nương nhờ vào nhân duyên và sự tương tức. Nền tảng triết học ấy định hình cách các nhân vật thấu hiểu năng lực, lý giải vì sao việc bóc tách cưỡng bức là một tội ác, và cái giá thiêng liêng mà sự hiệp thông chân chính đòi hỏi.',
     },
   },
   {
     numeral: '02',
-    title: { en: 'Living traditions', vi: 'Truyền thống còn sống' },
+    title: { en: 'Living traditions', vi: 'Dòng chảy truyền thống' },
     body: {
-      en: 'The story starts in 1943 Saigon and lands in a Massachusetts boarding school where Korean, Indian, Chinese, Egyptian, African, and Indigenous thread traditions are taught side by side — each with its own methods, history, and arguments about what threads are for.',
-      vi: 'Câu chuyện bắt đầu ở Sài Gòn năm 1943 và đặt chân vào một nội trú ở Massachusetts, nơi các truyền thống sợi chỉ Hàn Quốc, Ấn Độ, Trung Hoa, Ai Cập, Châu Phi, và bản địa được dạy cạnh nhau — mỗi truyền thống có phương pháp, lịch sử, và lập luận riêng về việc sợi chỉ để làm gì.',
+      en: 'From 1943 Saigon under Japanese occupation to the secluded halls of a Berkshire boarding school, the narrative honors thread-working traditions from Korean, Indian, Chinese, Egyptian, African, and Indigenous lineages — each bearing centuries of distinct technique, philosophy, and moral cosmology.',
+      vi: 'Từ Sài Gòn năm 1943 chìm trong khói lửa đến khuôn viên cổ kính của trường nội trú vùng Berkshire, thiên truyện tôn vinh những truyền thống dệt sợi của Hàn Quốc, Ấn Độ, Trung Hoa, Ai Cập, Châu Phi và các bộ tộc bản địa — mỗi nền văn hóa mang theo phương pháp, bề dày lịch sử và triết lý nhân sinh riêng biệt.',
     },
   },
   {
     numeral: '03',
-    title: { en: 'Healing against control', vi: 'Chữa lành trước kiểm soát' },
+    title: { en: 'Healing against control', vi: 'Chữa lành trước áp chế' },
     body: {
-      en: 'Harlow extracts thread energy with machines. Lin Chen practiced communion — listening to the Weave, working with it. How do you use power without hollowing out the thing you’re drawing it from?',
-      vi: 'Harlow khai thác năng lượng sợi bằng máy móc. Lin Chen thực hành hiệp thông — lắng nghe Dệt Bộ, làm việc cùng nó. Làm sao dùng quyền lực mà không làm rỗng chính thứ bạn đang rút nó ra?',
+      en: 'Where the antagonist Marcus Harlow extracts thread energy through cold, industrial machinery, Lin Chen practiced communion — listening deeply to the Weave, asking before touching, and weaving in reciprocity. How does one wield immense power without consuming the very world that sustains it?',
+      vi: 'Trong khi Marcus Harlow cưỡng đoạt năng lượng sợi tơ bằng những cỗ máy công nghiệp lạnh lùng, Lin Chen lại thực hành tương giao — lắng nghe thấu đáo Mạng Dệt, hỏi trước khi chạm, và tạo tác trong sự hòa điệu hai chiều. Làm thế nào để nắm giữ sức mạnh mà không làm cạn kiệt chính nguồn sống đã nuôi dưỡng nó?',
     },
   },
   {
     numeral: '04',
-    title: { en: 'Inheritance', vi: 'Di sản' },
+    title: { en: 'Inheritance', vi: 'Dòng chảy di sản' },
     body: {
-      en: 'Lyra’s great-great-grandmother Mei-Hua. Her grandmother Nai Nai. Her missing mother Lin. The knowledge passed down through these women survived displacement, war, and institutional silence. Lyra inherits all of it — including the parts nobody explained.',
-      vi: 'Bà ngoại cố của Lyra, Mei-Hua. Bà nội Nai Nai. Mẹ mất tích của cô, Lin. Tri thức truyền qua những người đàn bà ấy sống sót qua sự di cư, chiến tranh, và sự im lặng của thể chế. Lyra thừa kế tất cả — kể cả những phần không ai giải thích.',
+      en: 'Mei-Hua in colonial Indochina. Nai Nai preserving silk traditions through diaspora. Lin vanishing into the quiet shadows of research. The knowledge carried by these women endured displacement, war, and systemic erasure. Lyra inherits their entire legacy — including the truths no one dared speak aloud.',
+      vi: 'Cố nội Mei-Hua giữa thời Đông Dương tao loạn. Bà nội Nai Nai gìn giữ tinh hoa tơ tằm qua bao thăng trầm di cư. Người mẹ Lin khuất bóng sau bức màn nghiên cứu bí ẩn. Tri thức của những người phụ nữ ấy đã kiên cường vượt qua chiến tranh, lưu lạc và sự xóa nhòa của thể chế. Lyra kế thừa trọn vẹn di sản đó — kể cả những góc khuất chưa từng ai hé lộ.',
     },
   },
 ]
@@ -127,16 +133,16 @@ export const seriesAbout: PremiseRow[] = [
 /** Field notes for the World page. */
 export const fieldNotes = {
   en: [
-    'Loom Tower catches morning sun like hammered brass.',
-    'The Boundary runs misty as a veil — like a watery surface, like heat haze.',
-    'The Tangle commons holds a living tapestry of student gold.',
-    'Emergency red holds. Ozone coats the throat.',
+    'Loom Tower catches the dawn like hammered brass.',
+    'The Boundary wavers misty as silk gauze — like water reflecting heat haze.',
+    'The Tangle commons breathes as a living tapestry of student gold.',
+    'Emergency scarlet holds the hall. Ozone coats the throat.',
   ],
   vi: [
-    'Tháp Khung bắt nắng sớm như đồng đanh giẹ.',
-    'Ranh giới mờ như tấm voan — như mặt nước, như hơi nóng.',
-    'Sảnh chung Mắt Xích chứa một tấm thảm sống của vàng học sinh.',
-    'Đèn báo động đỏ giữ nguyên. Ozon phủ cổ họng.',
+    'Tháp Khung Dệt đón vạt nắng mai lấp lánh như đồng thau dập búa.',
+    'Ranh giới mờ ảo tựa tấm voan mỏng — như gợn nước lăn tăn, như làn hơi nóng chập chờn.',
+    'Sảnh chung Mắt Xích rung động như một tấm thảm sống dệt bằng sắc vàng học sinh.',
+    'Sắc đỏ báo động ghì chặt gian phòng. Mùi khí ozon đọng nơi cuống họng.',
   ],
 } as Record<Locale, string[]>
 
@@ -148,8 +154,8 @@ export const excerpt = {
     'Relief hit first. Then wrongness: thin and metallic, a coin in her palm she hadn’t paid for. The line had steadied, but it hadn’t chosen to.',
   ],
   vi: [
-    'Cô đáp lại bằng áp lực nhỏ bên trong mà cô chưa bao giờ gọi tên thành tiếng, đẩy mép rở dần về giữa. Sợi chỉ đáp ngay lập tức, sạch quá, như một cái chốt khép vào dưới ngón tay cô.',
-    '“Tôi xin lỗi,” Katie nói. “Tôi cũng,” Zach nói. Rồi cậu chớp mắt với chính giọng mình, giật mình. Lời xin lỗi ấy không giống của cậu.',
-    'Có lẽ sự nhẹ nhõm đến trước. Rồi là sự sai lệch: mỏng và kim loại, như một đồng tiền nằm trong lòng bàn tay mà cô chưa từng trả. Sợi chỉ đã ổn định, nhưng nó không hề chọn thế.',
+    'Cô đáp lại bằng một áp lực vô hình từ sâu thẳm mà cô chưa từng thốt nên lời, nhẹ nhàng đẩy mép sợi sờn rách về phía trung tâm. Sợi chỉ phản hồi ngay tức khắc, trơn tru đến gượng gạo, tựa như một then cài vừa sập khớp dưới đầu ngón tay.',
+    '“Tớ xin lỗi,” Katie nói. “Tớ cũng vậy,” Zach đáp. Rồi cậu bạn chớp mắt, ngơ ngác trước chính giọng nói của mình. Lời xin lỗi ấy nghe chẳng hề giống lời cậu.',
+    'Sự nhẹ nhõm ùa đến trước tiên. Rồi kế đó là cảm giác sai lạc: mỏng mảnh và tanh nồng vị kim loại, tựa như một đồng xu rơi vào lòng bàn tay mà cô chưa từng trả giá để có được. Sợi chỉ đã lặng yên, nhưng nó không hề tự nguyện làm điều đó.',
   ],
 } as Record<Locale, string[]>

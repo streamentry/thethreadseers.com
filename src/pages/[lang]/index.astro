@@ -23,12 +23,12 @@ const tr = (k: Parameters<typeof t>[1], v?: Record<string, string | number>) => 
 
 const title =
   locale === 'vi'
-    ? 'Những Người Thấy Sợi Chỉ — bản tiếng Việt, đọc miễn phí'
-    : 'The Thread Seers — free to read in English and Vietnamese'
+    ? 'Những Người Thấy Sợi Chỉ — Toàn văn song ngữ Anh - Việt, đọc miễn phí'
+    : 'The Thread Seers — Read and download free in English and Vietnamese'
 const description =
   locale === 'vi'
-    ? 'Cô nghệ sĩ mười sáu tuổi Lyra Chen vẽ “bản đồ quan hệ” ở mép sổ vở cho đến khi những đường nét bắt đầu lên ánh trong không khí. Sách Một đọc miễn phí trực tuyến và tải về bằng tiếng Anh lẫn tiếng Việt.'
-    : 'Teen artist Lyra Chen sketches “relationship maps” in her margins until the lines begin glowing in the air. Book One is free to read online and download in English and Vietnamese.'
+    ? 'Cô nghệ sĩ mười sáu tuổi Lyra Chen âm thầm phác họa “bản đồ quan hệ” bên lề tập vở cho đến khi những vệt than chì bừng sáng giữa thinh không. Sách Một trọn vẹn đọc trực tuyến và tải về miễn phí bằng cả tiếng Anh lẫn tiếng Việt.'
+    : 'Sixteen-year-old artist Lyra Chen charts the quiet currents between people in her notebook margins — until the lines ignite into living light. Book One is free to read online and download unabridged in English and Vietnamese.'
 
 const epub =
   locale === 'vi'
@@ -100,8 +100,8 @@ const cover = SITE.cover
             <h1 class="mt-6 font-display text-hero font-light text-text-primary">
               {locale === 'vi' ? (
                 <>
-                  Cô vẽ những đường <ThreadSample length={0.62} /> giữa người — rồi chúng bắt đầu{' '}
-                  <ThreadSample length={0.5} color={THREAD.silver} /> lên ánh.
+                  Cô vẽ những đường <ThreadSample length={0.62} /> giữa người với người — rồi chúng bắt đầu{' '}
+                  <ThreadSample length={0.5} color={THREAD.silver} /> bừng sáng.
                 </>
               ) : (
                 <>
@@ -127,7 +127,7 @@ const cover = SITE.cover
           </div>
 
           <div class="lg:col-span-5">
-            <figure class="lg:mt-14 lg:pl-8">
+            <figure class="mx-auto max-w-sm lg:max-w-none lg:mt-14 lg:pl-8">
               <div class="overflow-hidden rounded-sm border border-text-primary/15">
                 <img
                   src={cover}
