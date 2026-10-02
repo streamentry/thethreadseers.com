@@ -56,14 +56,14 @@ for (const file of htmlFiles) {
   let html = readFileSync(file, 'utf8')
   const before = html
 
-  // Astro emits /_astro/... for bundled assets; /books and /img come from
+  // Astro emits /_astro/... for bundled assets; /books, /audio and /img come from
   // public/. Internal page links are written root-absolute by localePath(),
   // i.e. /en/... and /vi/..., which also break under a subpath mount.
   //
   // All of them become depth-relative. Only paths beginning with a quote or
   // paren are touched, so absolute URLs (canonical, hreflang, og:image) are
   // left alone.
-  html = html.replace(/(["'(])\/(_astro\/|books\/|img\/|en\/|vi\/)/g, `$1${prefix}$2`)
+  html = html.replace(/(["'(])\/(_astro\/|books\/|audio\/|img\/|en\/|vi\/)/g, `$1${prefix}$2`)
   // The locale root is emitted with no trailing slash ("/en", "/vi") by
   // localePath(locale, '/'), so it needs its own rule. After the rule above a
   // rewritten link reads "../en/...", where the "/" is preceded by a dot and
@@ -80,7 +80,7 @@ for (const file of htmlFiles) {
   // twice before (PR #1, and the base:'/' regression in PR #3).
   const leftovers = [...html.matchAll(/(?:src|href)="\/(?!https?:)([^"]+)"/g)]
     .map((m) => m[1])
-    .filter((u) => /^(_astro|books|img|en|vi)\//.test(u))
+    .filter((u) => /^(_astro|books|audio|img|en|vi)\//.test(u))
   if (leftovers.length) problems.push(`${rel}: ${[...new Set(leftovers)].join(', ')}`)
 }
 
@@ -316,6 +316,7 @@ const lines = [
   `- PDF (Vietnamese): ${fileUrl('/books/the_thread_seers_sach_mot.pdf')}`,
   `- Markdown (English): ${fileUrl('/books/the_thread_seers.md')}`,
   `- Markdown (Vietnamese): ${fileUrl('/books/the_thread_seers_sach_mot.md')}`,
+  `- Audiobook (Vietnamese MP3 chapters): ${abs('/vi/download#audiobook')}`,
   '',
   '## Pages',
   `- [Home / Trang chủ](${abs('/en/')}) — EN, and [VI](${abs('/vi/')})`,

@@ -9,6 +9,7 @@ import { SITE, jsonLd, keywordsFor, localePath } from '../../../lib/seo'
 import { bookOne } from '../../../lib/content'
 import { excerpt } from '../../../lib/pages'
 import { artifacts, sizeLabel, platformLinks } from '../../../lib/artifacts'
+import { getAvailableAudioTracks } from '../../../lib/audio'
 
 export function getStaticPaths() {
   return [{ params: { lang: 'en' } }, { params: { lang: 'vi' } }]
@@ -38,6 +39,7 @@ const schema = jsonLd({
 const blurb = (locale === 'vi' ? bookOne.vi.blurb : bookOne.en.blurb).split(/(?<=\.)\s+/)
 const mine = artifacts.filter((a) => a.locale === locale)
 const lines = excerpt[locale]
+const audioTracks = getAvailableAudioTracks(locale)
 ---
 
 <Base
@@ -108,6 +110,31 @@ const lines = excerpt[locale]
                   </a>
                 </li>
               ))
+            }
+            {
+              audioTracks.length > 0 && (
+                <li>
+                  <a
+                    href={localePath(locale, '/download#audiobook')}
+                    class="group flex items-baseline justify-between gap-4 border-b border-text-primary/10 py-4 transition-colors duration-300 hover:bg-text-primary/[0.03]"
+                  >
+                    <span class="font-mono text-sm tracking-[0.12em] text-accent-thread">
+                      MP3
+                    </span>
+                    <span class="flex-1 font-serif text-body text-text-secondary">
+                      {locale === 'vi'
+                        ? `Sách nói · Giọng đọc AI (${audioTracks.length} chương đã thu âm, nghe & tải miễn phí)`
+                        : `Audiobook · AI narration (${audioTracks.length} chapters recorded, listen & download free)`}
+                    </span>
+                    <span class="font-mono text-xs text-text-secondary">
+                      192 kbps
+                    </span>
+                    <span class="font-sans text-sm text-text-secondary transition-colors group-hover:text-accent-thread">
+                      →
+                    </span>
+                  </a>
+                </li>
+              )
             }
           </ul>
 

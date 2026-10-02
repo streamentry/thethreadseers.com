@@ -188,6 +188,19 @@ const en: Dict = {
   'reader.failed': 'This thread comes loose here — unable to load chapter.',
   'reader.downloadAll': 'Hold the complete novel',
   'reader.progress': 'part {n} / {total}',
+
+  'audio.title': 'Audiobook · AI Narration',
+  'audio.voice': 'Voiced by Aoede · Gemini 3.8 Flash',
+  'audio.listenOnline': 'Listen online',
+  'audio.downloadMp3': 'Download MP3',
+  'audio.speed': 'Speed',
+  'audio.play': 'Play audio',
+  'audio.pause': 'Pause audio',
+  'audio.seek': 'Seek audio',
+  'audio.downloadSectionTitle': 'Audiobook · Full Voice Edition',
+  'audio.downloadSectionBody': 'Listen directly in your browser or download individual chapter MP3s for offline listening. High-fidelity 192 kbps audio synthesized with natural expression.',
+  'audio.badge': 'Audiobook',
+  'audio.allChapters': '{count} chapters recorded · 192 kbps MP3',
 }
 
 const vi: Dict = {
@@ -350,6 +363,19 @@ const vi: Dict = {
   'reader.failed': 'Sợi chỉ bị đứt ở đây — không thể tải nội dung chương.',
   'reader.downloadAll': 'Lưu trọn vẹn cuốn sách',
   'reader.progress': 'phần {n} / {total}',
+
+  'audio.title': 'Sách nói · Giọng đọc AI',
+  'audio.voice': 'Giọng đọc Aoede · Gemini 3.8 Flash',
+  'audio.listenOnline': 'Nghe trực tuyến',
+  'audio.downloadMp3': 'Tải bản MP3',
+  'audio.speed': 'Tốc độ',
+  'audio.play': 'Phát âm thanh',
+  'audio.pause': 'Tạm dừng',
+  'audio.seek': 'Tua âm thanh',
+  'audio.downloadSectionTitle': 'Sách nói · Ấn bản thu âm trọn bộ',
+  'audio.downloadSectionBody': 'Nghe trực tuyến ngay trên trình duyệt hoặc tải về từng chương MP3 để thưởng thức ngoại tuyến. Âm thanh trung thực cao 192 kbps với biểu cảm tự nhiên.',
+  'audio.badge': 'Sách nói',
+  'audio.allChapters': '{count} chương đã thu âm · MP3 192 kbps',
 }
 
 const dicts: Record<Locale, Dict> = { en, vi }
