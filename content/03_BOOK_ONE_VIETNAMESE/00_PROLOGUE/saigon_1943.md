@@ -1,185 +1,185 @@
 # HỒI MỞ ĐẦU: SÀI GÒN, 1943
 
-Viên đạn đi sát đến mức Mei-Hua cảm thấy cả luồng gió của nó lướt qua tai.
+Viên đạn bay sát đến mức Mei-Hua cảm thấy cả luồng gió rít lướt qua mang tai.
 
-Cô không nhúc nhích. Những sợi chỉ đã báo cho cô trước đó đúng một nhịp tim: nóng, nhanh, một đường đỏ tươi chạy từ lầu hai của nhà kho sang nóc Nhà Hải quan đối diện, và dọc theo đường ấy là một ý định mang hình thù mà cô đã học cách đọc như người ta đọc một cái miệng.
+Cô không nhúc nhích. Những sợi chỉ đã báo cho cô trước đó đúng một nhịp tim: nóng bỏng, chớp nhoáng, một vệt đỏ tươi chạy từ lầu hai của nhà kho sang nóc Nhà Hải quan đối diện, và dọc theo vệt đỏ ấy là một ý định mang hình thù mà cô đã học được cách đọc như người ta đọc một vành môi.
 
-*Hắn ta sẽ bắn.*
+*Hắn sắp bắn.*
 
-"Đứng im," cô nói. "Hắn ta chưa bắn."
+"Khoan đã," cô nói. "Hắn chưa bắn đâu."
 
-Zhang, ép người sát đống thùng hàng bên cạnh, không hỏi cô nghĩa là gì. Mười một tuần làm chung, anh ta đã thôi hỏi. Anh ta cũng đã thôi ám chỉ rằng cô đang phóng đại, điều mà cô quý hơn.
+Zhang, ép người sát đống thùng hàng bên cạnh, không hỏi cô nghĩa là gì. Mười một tuần làm chung, anh đã thôi không gặng hỏi. Anh cũng đã thôi bóng gió rằng cô đang phóng đại, điều mà cô quý hơn nhiều.
 
-Dưới chân họ, sông Sài Gòn trôi đi với màu của một vết bầm. Hai chiếc tàu tuần tiễu để máy rề rề bên bến. Bờ bên kia, dưới những tấm bạt to bằng sàn vũ trường, đống hàng được chất lên, dán nhãn, và đang đói khát. Ở đâu đó phía trên, trên đường Hậu Giang, khu chợ tối đang tan, và mùi của nó — mùi mắm tôm, mùi đường cháy, mùi hoa lài — tràn qua mặt nước, lẫn với mùi gắt hơn của gạo không còn nằm lại trên ruộng.
+Dưới chân họ, sông Sài Gòn trôi đi với màu của một vết bầm. Hai chiếc tàu tuần tiễu nổ máy rập rình bên bến. Bờ bên kia, dưới những tấm bạt to bằng sàn khiêu vũ, hàng hóa được chất đống, dán nhãn, và đói lả. Ở đâu đó phía trên, trên đường Hậu Giang, khu chợ tối đang tan, và mùi của nó — mùi mắm tôm, mùi đường cháy, mùi hoa lài — tràn qua mặt nước, lẫn với mùi gắt hơn của lúa gạo không còn nằm lại trên đồng.
 
 "Lần thứ ba trong tháng này," Zhang nói. "Chúng lấy trọn hạn ngạch của cả đồng bằng."
 
 "Tôi biết."
 
-Anh ta dịch người, và tấm ván lún xuống dưới chân. Mei-Hua đặt ngang bàn tay lên gỗ mà không cần nhìn, dò tìm đường ghép, tìm thấy nó, và biết ơn vì đã tìm thấy, vì hai tay cô đã bắt đầu run và cô cần một việc gì đó để mình còn được làm cho đúng.
+Anh dịch người, và sàn ván hơi lún xuống dưới chân. Mei-Hua áp phẳng bàn tay lên gỗ mà không cần nhìn, dò tìm đường ghép, tìm thấy nó, và thầm biết ơn vì đã tìm thấy, vì hai tay cô đã bắt đầu run và cô cần một việc gì đó để thấy mình vẫn còn tháo vát.
 
-"Lần thứ ba," anh ta nói lại, bằng một giọng khác. "Và lần thứ tư thì họ sẽ gửi bản kê khai về Tokyo."
+"Lần thứ ba," anh lặp lại, bằng một giọng khác. "Và lần thứ tư thì chúng sẽ gửi bản kê khai về Tokyo."
 
-Cô nghiêng đầu vài độ. Trên nước bên dưới, một túm ánh sáng đen bạc chạy từ Nhà Hải quan xuống con tàu ven biển đang cột ở cầu số hai. Nó dày như dây thừng và nó chuyển động không đúng: không phải hơi thở chậm rãi của một sợi dây ràng buộc giữa hai người đã bằng lòng để bị trói vào nhau, mà là cú kéo căng, có chủ đích, của một sợi dây đang được tuột ra khỏi ống quay. Mọi thứ trên nó đang được chở đi một chiều, và không có gì được phép quay ngược lại.
+Cô nghiêng đầu vài độ. Trên mặt nước bên dưới, một túm ánh sáng đen bạc chạy từ Nhà Hải quan xuống con tàu ven biển đang neo ở cầu tàu số hai. Nó dày như dây thừng và chuyển động sai lệch: không phải hơi thở chậm rãi của một sợi dây ràng buộc giữa hai người đã thuận lòng gắn kết, mà là cú kéo căng, có chủ đích, của một sợi dây đang tuôn ra khỏi ống chỉ. Mọi thứ trên đường dây đang bị cuốn đi một chiều, và tuyệt nhiên không có gì được phép quay ngược lại.
 
-"Các mối quen của thầy Nguyễn trong Tổng Hội đã tóm được một tin vào tháng Tám," cô nói. "Họ cho tôi biết hình thù của nó. Tôi muốn tận mắt xem nó."
+"Các mối quen của thầy Nguyễn trong Tổng Hội đã tóm được một tin vào tháng Tám," cô nói. "Họ cho tôi biết hình thù của nó. Tôi muốn tận mắt xem."
 
-"Giờ thì cô thấy được chưa?"
+"Giờ thì cô thấy rồi chứ?"
 
 "Thấy rồi."
 
-"Thế thì cô kể tôi nghe cô thấy gì, để hai người mình cùng sợ về cùng một hướng."
+"Thế thì cô kể tôi nghe cô thấy gì đi, để hai người mình cùng run về một hướng."
 
-Cô gần như quý anh ta vì câu nói đó.
+Cô gần như quý anh vì câu nói đó.
 
 ---
 
-Trong gia tộc cô, sợi chỉ có hai cái tên, và bà của cô đã dặn rất rõ sự khác biệt.
+Trong gia tộc cô, sợi chỉ có hai cái tên, và bà của cô đã phân định rất rành rọt.
 
-*Sợi nối* — 线 (xiàn) — chạy giữa người với người. Giữa một người con gái và căn bếp, một thầy giáo và lớp học, một cô gái và một cậu con trai vẫn chưa nói nổi một điều gì ra tiếng. Chúng hiện rõ. Ai trong nghề cũng thấy được; có người thấy mà chẳng cần cố.
+*Sợi nối* — 线 (xiàn) — giăng giữa người với người. Giữa một người con gái và căn bếp, một người thầy và lớp học, một cô gái và một chàng trai vẫn chưa gom đủ can đảm thốt ra một lời. Chúng hiện rõ mồn một. Ai trong nghề cũng thấy được; có người chẳng cần gắng sức cũng nhìn ra.
 
-*Dòng chảy* — 势 (shì) — thuộc về những nơi chốn. Chúng là trọng lượng chất dồn của đời sống một khu phố: ai đã sinh ra ở đó, ai đã mất ở đó, ai đã ăn, đã cãi nhau và đã đi lễ miếu trên cùng một con đường suốt bốn trăm năm. Chúng không hiện lên mắt. Chúng cũng không, theo cô nghĩ, đúng nghĩa là nghe được. Chúng là áp lực của một chốn đè lên da bạn khi bạn đứng giữa nó và biết rõ nó.
+*Dòng chảy* — 势 (shì) — thuộc về những chốn chốn nơi nơi. Chúng là sức nặng tích tụ qua bao đời sống của một khu phố: ai đã sinh ra ở đó, ai đã nhắm mắt ở đó, ai đã ăn, đã cãi vã và đã đi lễ miếu trên cùng một con đường suốt bốn trăm năm ròng. Chúng không hiện hình trước mắt. Chúng cũng không hẳn, theo cô nghĩ, là thứ nghe được bằng tai. Chúng là áp lực của một chốn đè lên da thịt khi bạn đứng giữa lòng nó và thấu hiểu nó.
 
-Sợi chỉ thì kéo được. Dòng chảy thì không. Đó là toàn bộ những gì cô được dạy, và toàn bộ lập luận của cô, và cô đã thua nó nhiều hơn mức cô đếm nổi.
+Sợi chỉ thì kéo được. Dòng chảy thì không. Đó là toàn bộ những gì cô từng được dạy, và là toàn bộ điều cô từng tranh biện, và cô đã thua trong cuộc tranh biện ấy nhiều lần hơn mức cô có thể nhớ.
 
-Cô nhắm mắt, đặt ngón cái cùng hai ngón tay lên nếp gấp của lòng bàn tay trái, và hít vào bằng mũi.
+Cô nhắm mắt, đặt ngón cái cùng hai ngón tay lên nếp gấp của lòng bàn tay trái, rồi hít vào bằng mũi.
 
-*Hít vào. Ba. Thở ra qua kẽ răng.*
+*Hít vào. Ba nhịp. Thở ra qua kẽ răng.*
 
-Có lần, khi cô chín tuổi, bà của cô bước ra sau lưng, gõ một cái vào xương ức cô bằng mặt muỗng gỗ — *lại* — rồi không nói một lời, và quay về với chén trà của bà. Mười bốn năm rồi, và cô vẫn còn cảm thấy cái gõ ấy.
+Có lần, khi cô chín tuổi, bà bước tới sau lưng, gõ một cái vào xương ức cô bằng sống muỗng gỗ — *làm lại* — rồi không nói một lời, lặng lẽ quay về với chén trà của mình. Mười bốn năm đã trôi qua, và cô vẫn còn cảm nhận được cái gõ ấy.
 
 Cô mở mắt.
 
 Thế giới ùa tới theo từng lớp.
 
-Lớp gần nhất là những thứ nhỏ và riêng: mạch đập ở cổ Zhang, nhanh và ngoan cố; đôi tay của cô; chiếc túi đeo hông nơi cất đồ nghề; người đàn bà đang ngủ cách đó hai dãy phố, sợi chỉ nối bà với đứa cháu trai đã mỏng như giấy ướt trong nửa tháng nay. Dưới lớp đó, đan dọc qua cả khu phố, dòng chảy của đường Hậu Giang — không phải một âm thanh mà là một cái nghiêng, kiểu căn phòng nghiêng đi khi trọng lượng dồn hết về một góc. Nó đã nghiêng từ tháng Ba.
+Lớp gần nhất là những điều nhỏ bé và riêng tư: mạch đập ở cổ Zhang, nhanh và bướng bỉnh; đôi bàn tay của chính cô; chiếc túi đeo bên hông nơi cất đồ nghề; người đàn bà đang ngủ cách đó hai dãy phố, sợi chỉ nối bà với đứa cháu trai đã mỏng như giấy ướt suốt nửa tháng nay. Dưới lớp ấy, đan bện qua cả khu phố, là dòng chảy của đường Hậu Giang — không phải một âm thanh mà là một cái nghiêng mình, tựa như căn phòng nghiêng đi khi quá nhiều sức nặng dồn về một góc. Nó đã nghiêng như thế từ tháng Ba.
 
-Dưới tất cả những thứ đó, và đây là phần khiến cô sợ, là mạch chính.
+Và sâu bên dưới tất cả, phần khiến cô khiếp sợ nhất: những mạch truyền chính.
 
-"Anh thấy sợi dây kia không?" cô nói. "Sợi đen, từ Nhà Hải quan sang con tàu."
+"Anh thấy sợi dây kia không?" cô nói. "Sợi đen, từ Nhà Hải quan nối sang con tàu."
 
-"Tôi có thấy gì đâu."
+"Tôi chẳng thấy gì cả."
 
-"Một sợi dây màu của lưỡi dao đã cùn. Nó đang chở bản kê khai, đang chở cả hạn ngạch gạo, và nó không chở bất cứ thứ gì trở lại." Cô nuốt. "Nó đang bị *tuột ra*. Có người đang rút trên dây, và thứ gì họ lấy thì họ giữ. Không gì chạy ngược lên đầu dây. Anh hiểu điều đó nghĩa là gì không? Nghĩa là mùa màng không hề lên đường. Nó đang bị ăn tiêu ngay nơi nó được trồng ra."
+"Một sợi dây mang màu lưỡi dao đã cùn rỉ. Nó đang chở bản kê khai, chở cả hạn ngạch lúa gạo, và không chở lại bất cứ thứ gì." Cô nuốt khan. "Nó đang bị *tuôn đi*. Có ai đó đang rút từ đầu dây, và hễ lấy được gì là họ giữ riệt lấy. Không có gì chạy ngược lại tuyến. Anh có hiểu điều đó nghĩa là gì không? Nghĩa là mùa màng không hề được vận chuyển đi nơi khác. Nó đang bị ngốn sạch ngay tại mảnh đất nơi nó được làm ra."
 
-Zhang im lặng một lúc. "Thế thì cắt nó đi."
+Zhang im lặng một hồi lâu. "Thế thì cắt phăng nó đi."
 
-"Không."
+"Không được."
 
 "Thế thì làm gì?"
 
 ---
 
-Cô lấy ra chiếc túi.
+Cô lấy chiếc túi ra.
 
-Nó từng là của mẹ cô, và của bà ngoại cô, và cái hộp bên trong còn lâu đời hơn cả nền Cộng hòa. Mẹ cô đã thêu mặt ngoài bằng lụa xanh vào cái thời mà chọn lụa xanh đã là một quyết định phải đắn đo, và mẹ thêu trong một đường lụa liền không ngắt, và công việc ngốn của mẹ bốn năm, và mẹ mất trước khi chiếc túi kịp hoàn thành.
+Nó từng là của mẹ cô, và trước đó là của bà ngoại cô, còn chiếc hộp bên trong thậm chí còn có trước cả nền Cộng hòa. Mẹ cô đã thêu mặt ngoài bằng chỉ lụa xanh vào cái thời mà việc chọn lụa xanh là một quyết định hệ trọng, và mẹ thêu bằng một đường chỉ duy nhất không hề đứt đoạn suốt bốn năm trời, rồi mẹ qua đời trước khi chiếc túi kịp hoàn thành.
 
-Bên trong: một cây kim ngọc, một cạnh đã nhẵn mịn vì ngón cái của bà của cô. Một cuộn lụa đỏ, không có sáp, ngoài tuổi tác ra không bị nhuộm bởi thứ gì. Và một nút lụa đỏ nhỏ, quấn đi quấn lại nhiều lần đến mức thành hình như một nắm tay khép chặt, mà bà của cô đặt vào tay cô ngày tròn mười sáu tuổi, và không hề nói một lời nào về nó.
+Bên trong: một cây kim ngọc, một mép đã nhẵn bóng vì ngón tay cái của bà cô. Một cuộn lụa đỏ, không bôi sáp, ngoài dấu vết thời gian ra thì không nhuộm bất cứ thứ gì khác. Và một nút lụa đỏ nhỏ, quấn đi quấn lại nhiều lần đến mức thành hình như một nắm tay siết chặt, thứ mà bà đã đặt vào tay cô vào ngày sinh nhật thứ mười sáu mà không hề hé môi một lời.
 
-*Những lựa chọn không thể lấy lại*, bà của cô nói, khi cuối cùng Mei-Hua cũng hỏi ra. *Rồi cháu sẽ biết đó là những lựa chọn nào.*
+*Những lựa chọn một khi đã làm thì không bao giờ rút lại được*, bà cô từng nói, khi cuối cùng Mei-Hua cũng cất tiếng hỏi. *Rồi cháu sẽ tự biết đó là những lựa chọn nào.*
 
-"Có một cách làm việc này mà không làm lộ ra sự có mặt của mình," Mei-Hua nói. "Nhưng anh phải giữ cho bên trong thật tĩnh, mà anh không phải là người giữ được tĩnh."
+"Có một cách làm việc này mà không để lộ tung tích," Mei-Hua nói. "Nhưng anh phải giữ cho tâm mình thật tĩnh, mà anh thì không phải tạng người biết ngồi yên."
 
-"Tôi giữ tĩnh được."
+"Tôi tĩnh được chứ."
 
-"Hôm qua anh giữ tĩnh được đúng bốn nhịp rồi quay sang nói với người bán cá rằng sổ của họ tính sai."
+"Hôm qua anh tĩnh được đúng bốn tiếng đếm rồi quay ngoắt sang bảo người bán cá rằng sổ sách tính sai."
 
-"Cái đó thì đúng."
+"Thì sai thật mà."
 
-"Vấn đề không nằm ở đó."
+"Vấn đề không phải ở chỗ đó."
 
-Cô rút cây kim ra. Ngọc mát lạnh, và nó có một trọng lượng như thuộc về một bàn tay nhỏ hơn.
+Cô rút cây kim ngọc ra. Ngọc mát lạnh, mang một sức nặng như thể thuộc về một bàn tay nhỏ bé hơn.
 
-Zhang dồn trọng tâm sang chân kia. "Kể cho tôi kế hoạch. Theo thứ tự. Nhanh."
+Zhang dồn trọng lượng sang chân kia. "Nói cho tôi nghe kế hoạch đi. Từng bước một. Nhanh lên."
 
-"Tôi cắm một ngã rẽ vào tuyến." Cô tuột ra một khúc lụa đỏ dài khoảng một cẳng tay. "Bản kê khai vẫn đi tới nơi nó đang đi. Con tàu vẫn ra khơi. Nhưng một bản sao của dòng chảy — một tiếng vọng của nó — sẽ chạy xuống sợi lụa của tôi, xuống nước, và men theo nước tới Tổng Hội, vì dòng chảy ở Hậu Giang đổ ra sông, và dòng chảy chịu mang nó đi nếu tôi xin cho đúng. Đó mới là phần tốn công. Lụa thì dễ. Dòng chảy thì không."
+"Tôi tạo một nhánh rẽ trên đường dây." Cô mở ra một đoạn lụa đỏ dài chừng một cẳng tay. "Bản kê khai vẫn đi tới nơi nó cần đến. Con tàu vẫn nhổ neo. Nhưng một bản sao của dòng chảy — một tiếng vọng của nó — sẽ chạy dọc sợi lụa của tôi, đi xuống nước, rồi men theo dòng nước đến Tổng Hội. Dòng chảy ở đường Hậu Giang đổ ra sông, và nó sẵn lòng mang tiếng vọng ấy đi nếu tôi mở lời khấn nguyện đúng cách. Đó mới là phần nhọc nhằn nhất. Lụa thì dễ. Dòng chảy thì không."
 
-"Còn đám Nhật?"
+"Còn lính Nhật?"
 
-"Trước sáng chúng sẽ cảm nhận được. Mẫu hình sẽ không chịu nằm yên. Những người đi sợi chỉ của chúng sẽ biết có ai đó đã đụng vào sợi dây ấy trước khi mặt trời mọc."
+"Trước ban mai chúng sẽ cảm nhận được. Mẫu hình sợi sẽ không chịu nằm yên. Những kẻ dọ chỉ của chúng sẽ biết có ai đó đã chạm vào sợi dây ấy trước khi mặt trời ló rạng."
 
-"Thế thì ta đi ngay bây giờ."
+"Thế thì ta rút ngay bây giờ."
 
-"Ta đi sau khi tôi làm xong. Nếu đi bây giờ, ngã rẽ mới làm được một nửa, và một ngã rẽ làm dở còn tệ hơn không có ngã rẽ." Cô nhìn anh. "Mười lăm phút. Đếm giúp tôi, và báo tôi khi nào anh đếm tới tám."
-
----
-
-Để kể lại thì đó không phải là một việc lớn.
-
-Cô quỳ xuống, kim ở tay phải, lụa ở tay trái, và cô không cắt bất cứ thứ gì. Cắt thì sẽ nhanh hơn, và cắt sẽ là một lời tuyên bố: một sợi dây đứt phựt, một cú chấn chạy ngược dọc dây và thắp sáng mọi lớp cảnh giới người Nhật đã giăng giữa sông và cảng, và ai nấy trên đường Hậu Giang sẽ thấy bầu trời giật lên như một sợi dây bị giữ chặt.
-
-Thay vào đó, cô thuyết phục.
-
-*Cậu đang chở một danh sách. Cậu chỉ chở một danh sách thôi. Danh sách thì chép lại được. Đây, một con đường thứ hai. Nó đi tới cùng một chỗ. Nó nhỏ hơn và nó lặng hơn và chẳng ai cần phải biết.*
-
-Lụa cũ và ống quay cũng cũ, và cô đã ngâm sợi trong những vị thuốc bà của cô vẫn dùng, và mỗi tháng một lần cô châm vào lòng bàn tay vì nó, vì một thứ bạn đã trả giá bằng máu sẽ giữ được cả những ý định không nằm trong chủ ý của bạn. Giới học viện phương Tây hẳn sẽ bảo đó là phi khoa học. Tiến sĩ Weber, trong những năm còn đẹp, đã bảo đó là việc chặt chẽ nhất ông từng thấy, rồi mất hai mươi phút cố ghi lại những gì cô đang làm thành một văn bản ông có thể nộp vào đâu đó.
-
-Cô thì thầm bằng phương ngữ của khu phố — không hẳn là một ngôn ngữ; là một cách đặt thanh điệu để cái nghĩa nghiêng về đúng phía — và lụa đỏ bắt đầu đập một nhịp, hai nhịp, rồi đập theo nhịp tim của chính cô, và sợi dây đen bạc không đứt.
-
-Nó *cong*.
-
-Đó là toàn bộ trò, và toàn bộ rủi ro. Một sợi dây đang căng sẽ mang đi xa hơn mức nó nên rất nhiều, dọc theo một đường bạn mới đưa vào, nếu bạn không cẩn thận, vì sợi dây đang căng muốn được thẳng hơn là muốn được thật. Cô cảm thấy nó xảy ra. Cô cảm thấy người Nhật đã dựng tuyến ấy để nó chạy cho hiệu quả, và hiệu quả nghĩa là nó đi theo lối ít sức cản nhất, và cô vừa tạo ra một lối ít sức cản dẫn về một nơi khác.
-
-Mồ hôi chảy vào tóc cô. Dòng chảy dưới hai đầu gối cô nhích đi, giận dỗi, như một người láng giềng nhích mình khi bạn tựa lưng vào tường nhà họ.
-
-*Làm ơn,* cô nghĩ, và lời đó không dành cho sợi lụa. Nó dành cho đường Hậu Giang. *Làm ơn, mang nó giùm. Chỗ này đã từng mang cho tụi tôi những thứ nặng nề hơn một tờ giấy.*
-
-Và khu phố, cái khu phố đã nghiêng từ tháng Ba, nghiêng rất khẽ về phía bên kia.
+"Rút sau khi tôi làm xong. Nếu đi bây giờ, nhánh rẽ mới thành hình một nửa, mà một nhánh rẽ dở dang thì còn nguy hiểm hơn là không có nhánh rẽ nào." Cô nhìn anh. "Mười lăm phút. Đếm giúp tôi, và báo khi anh đếm tới phút thứ tám."
 
 ---
 
-"Tám," Zhang nói.
+Để thuật lại thì đó chẳng phải việc gì đao to búa lớn.
 
-Cô thắt nút cuối cùng. Cô biết mình đang làm việc ấy, rồi cô biết mình đã làm xong nó, mà hai việc đó không phải là một, và đó thường là cảm giác hữu dụng cuối cùng còn lại cho bất cứ ai làm loại việc này.
+Cô quỳ xuống, kim ở tay phải, lụa ở tay trái, và cô không cắt đứt bất cứ thứ gì. Cắt thì sẽ nhanh hơn nhiều, và cắt sẽ là một lời tuyên chiến: một sợi dây đứt phựt, một chấn động dội ngược lên đầu dây và thắp sáng từng kết giới cảnh báo mà quân Nhật đã giăng giữa sông và bến cảng, và bất kỳ ai trên đường Hậu Giang cũng sẽ thấy bầu trời giật nảy lên như một sợi thừng bị ghì chặt.
 
-*Việc rồi,* cô nghĩ. *Nhưng nó không như tôi đã định.*
+Thay vào đó, cô thủ thỉ thuyết phục.
 
-Ngã rẽ giữ được. Đó là tin tốt. Tiếng vọng đang chạy — cô cảm nhận nó lan ra dưới lòng sông, mảnh và lạnh, về phía Tổng Hội, và ở đâu đó phía trên đường Hậu Giang có một người suốt hai năm sáng nào cũng dậy với một khu chợ không còn gì, bỗng thấy dòng chảy dưới chân mình nhẹ đi một chút, và không biết vì sao, và ngủ ngon hơn một chút.
+*Mày đang chở một danh sách. Mày chỉ chở một danh sách thôi mà. Một danh sách thì sao chép lại được. Này, đây là con đường thứ hai. Nó cũng dẫn tới cùng một nơi. Nó nhỏ hơn, êm ả hơn, và chẳng ai cần phải hay biết.*
 
-Tin xấu nằm trong hai tay cô. Cô đã xin sợi dây chở một bản sao, và nó chở theo cả một *sắc điệu*, và sắc điệu ấy vẫn còn trong lụa đỏ, và nó không hề kín đáo, và nó là của cô.
+Lụa đã cũ và ống chỉ cũng đã mòn, cô đã ngâm sợi trong các vị thuốc mà bà vẫn dùng, và mỗi tháng một lần cô chích máu đầu ngón tay cho nó, bởi vì thứ gì đã được trả giá bằng máu sẽ gánh trọn cả những ý niệm nằm ngoài chủ đích ban đầu. Các học viện phương Tây hẳn sẽ gạt đi bảo đó là trò phản khoa học. Tiến sĩ Weber, vào những năm tháng tốt đẹp khi xưa, từng bảo đó là điều nghiêm cẩn nhất ông từng chứng kiến, rồi mất hai mươi phút loay hoay ghi lại những gì cô làm thành một báo cáo để có thể đệ trình lên cấp trên.
 
-"Trước sáng chúng sẽ biết," cô nói. "Không phải biết là gì. Mà là biết ở đâu. Vết nhiễu sẽ nằm trong dòng chảy địa phương như một hòn đá vừa được thả xuống."
+Cô thì thầm bằng phương ngữ của khu phố — không hẳn là một thứ tiếng riêng biệt; chỉ là một cách nhấn nhá thanh điệu sao cho ý tứ ngả về đúng hướng — và sợi lụa đỏ bắt đầu đập một nhịp, hai nhịp, rồi hòa chung nhịp đập với trái tim cô, và sợi dây đen bạc không hề đứt đoạn.
 
-"Thế là ta còn đêm nay."
+Nó *uốn cong*.
 
-"Thế là ta còn đêm nay," cô đồng ý, và cất cây kim, và trả nút thắt đỏ hình nắm tay về lại chiếc túi nơi nó thuộc về, và lần đầu tiên để ý rằng bàn tay của bà của cô trong hình thêu, nếu nhìn từ góc này, đang giữ đúng thứ y hệt như vậy.
+Đó là tất cả ngón nghề, và cũng là toàn bộ hiểm nguy. Một sợi dây đang chịu lực căng sẽ dẫn truyền đi xa hơn mức bình thường rất nhiều dọc theo một lối mới mở, nếu ta bất cẩn, bởi một sợi dây căng thẳng muốn ngay ngắn hơn là muốn chân thực. Cô cảm nhận được điều đó xảy ra. Cô cảm nhận được quân Nhật đã thiết lập tuyến ấy để đạt hiệu suất tối đa, mà hiệu suất tối đa đồng nghĩa với việc chọn con đường có lực cản ít nhất, và cô vừa mở ra một lối đi ít lực cản dẫn sang một ngả khác.
+
+Mồ hôi túa ra chân tóc. Dòng chảy dưới hai đầu gối cô xao động, cằn nhằn, tựa như một người hàng xóm cựa mình khi bạn vô tình dựa lưng vào bức tường nhà họ.
+
+*Làm ơn,* cô thầm khấn, và lời khấn ấy không hướng về sợi lụa. Nó hướng về con đường Hậu Giang. *Làm ơn gánh giùm nó. Chốn này từng chở che cho chúng tôi những thứ nặng nề hơn một tờ giấy nhiều.*
+
+Và khu phố, cái khu phố đã nghiêng mình từ tháng Ba, nghiêng rất khẽ sang chiều ngược lại.
 
 ---
 
-Hai người rút ra dọc theo bức tường, theo lối lúc nãy họ đã đi vào.
+"Tám," Zhang nói khẽ.
 
-Mei-Hua không quay lại nhìn con tàu. Cô ngước lên, hướng về nóc nhà kho nơi sợi chỉ đã báo cho cô biết có người đang đứng, và cô không ngạc nhiên khi thấy hắn, và cô rất hoảng sợ, mà đó là một chuyện khác, và những năm tháng đã dạy cô giữ nó trong ngăn riêng của nó.
+Cô thắt gút cuối cùng. Cô ý thức được mình đang thắt gút, rồi ý thức được mình đã thắt xong, hai trạng thái đó không hề giống nhau, và đó thường là cảm giác hữu ích cuối cùng còn sót lại cho bất cứ ai dấn thân vào công việc kiểu này.
 
-Hắn cao. Hắn là người châu Âu. Những đường chỉ quanh hắn được sắp xếp theo kiểu người đàn ông từng thấy hứng thú với một điều gì đó, rồi đổi lấy sự thuần thục trong nó.
+*Xong rồi,* cô nghĩ. *Nhưng không hoàn toàn như mình dự tính.*
 
-"Chào Tiến sĩ Weber," Mei-Hua nói.
+Nhánh rẽ đứng vững. Đó là tin mừng. Tiếng vọng đang chạy xuôi — cô cảm nhận được nó luồn dưới lòng sông, mảnh dẻ và lạnh buốt, hướng về phía Tổng Hội; và ở đâu đó trên đường Hậu Giang, một người suốt hai năm ròng sáng nào thức giấc cũng đối diện với một khu chợ trống hoang tàn bỗng thấy dòng chảy dưới chân mình dịu đi đôi chút, chẳng rõ vì sao, và chìm vào giấc ngủ yên ả hơn một chút.
 
-Cô cảm nhận được hình dáng của những gì hắn đang làm với mạch chính bên dưới Hậu Giang, trước cả khi hắn giơ một bàn tay. Vẫn là bàn tay đó, và vẫn cái tài đáng sợ đó, và hơi ấm từng có trong nó đã bị lấy ra, thay vào đó là một thứ chạy được.
+Tin dữ nằm ngay trong hai bàn tay cô. Cô đã xin sợi dây chở một bản sao, và nó đã chở theo cả một *âm sắc*, âm sắc ấy vẫn còn đọng lại trong dải lụa đỏ, không hề mờ nhạt, và đó chính là dấu ấn của riêng cô.
 
-*Hắn không làm việc này vì đám Nhật,* cô nghĩ, và ý nghĩ đó còn tệ hơn cả việc hắn làm vì chúng. *Hắn làm vì hắn đã quyết rằng những gì hắn hiểu quan trọng hơn những gì đang hiện diện ở đó.*
+"Trước ban mai chúng sẽ biết," cô nói. "Không phải biết chuyện gì đã xảy ra. Mà là biết ở đâu. Vết nhiễu sẽ đọng lại trong dòng chảy nơi này như một hòn đá vừa ném xuống nước."
 
-"Chúng ta nên báo cho các bậc trưởng bối," Zhang nói, khi hai người đã đi qua hai dãy phố và tiếng nước đã ngoài tầm tai. "Tất cả. Đêm nay."
+"Thế là ta chỉ còn đêm nay."
 
-"Đúng."
+"Phải, ta chỉ còn đêm nay," cô đồng tình, cất cây kim ngọc đi, đặt nút thắt đỏ hình nắm tay trở lại chiếc túi nơi nó thuộc về, và lần đầu tiên nhận ra rằng đôi bàn tay của bà cô trên hoa văn thêu, nếu nhìn từ góc độ này, đang nắm giữ đúng một vật y hệt.
 
-"Về những người đi sợi chỉ mới. Về những cỗ máy."
+---
+
+Họ rút men theo chân tường theo đúng lối lúc vào.
+
+Mei-Hua không ngoái nhìn lại chiếc tàu buôn ven biển. Cô ngước mắt nhìn lên nóc nhà kho nơi sợi chỉ đã mách bảo rằng có bóng người đang đứng, và cô không hề ngạc nhiên khi thấy người đó, dẫu trong lòng trào dâng nỗi sợ hãi tột cùng — nỗi sợ hãi mà năm tháng đã dạy cô cách cất gọn vào một góc riêng.
+
+Người đàn ông cao lớn. Một người châu Âu. Những đường nét bao quanh người ông ta được xếp đặt tựa như một kẻ từng say mê một điều gì đó rồi quay sang làm nó thuần thục, lạnh lùng.
+
+"Chào Tiến sĩ Weber," Mei-Hua cất tiếng.
+
+Cô cảm nhận được hình dáng những gì ông ta đang tác động lên các mạch truyền chính bên dưới lòng đường Hậu Giang trước cả khi ông ta nhấc tay lên. Vẫn là bàn tay ấy, vẫn năng lực ghê gớm ấy, nhưng hơi ấm từng có trong đó đã bị tước sạch, thay bằng một thứ gì đó chỉ thuần túy hoạt động hiệu quả.
+
+*Ông ta không làm chuyện này vì quân Nhật,* cô nghĩ, và ý nghĩ đó còn đáng sợ hơn nếu ông ta làm vì chúng. *Ông ta làm vì ông ta đã quyết rằng những gì mình hiểu biết quan trọng hơn tất cả những gì đang thực sự hiện hữu nơi đây.*
+
+"Chúng ta phải báo cho các bậc trưởng bối," Zhang nói, khi hai người đã rẽ qua hai góc phố và tiếng sóng nước đã lùi xa khỏi tầm tai. "Tất cả mọi người. Ngay đêm nay."
+
+"Phải."
+
+"Về những kẻ dọ chỉ mới. Về những cỗ máy kia."
 
 "Về tất cả."
 
 "Họ có chịu nghe không?"
 
-Mei-Hua nghĩ về bà của cô, người đã lắng nghe một chàng thanh niên Đức suốt hai năm, và đã nghe đúng.
+Mei-Hua nghĩ về bà của mình, người đã chịu lắng nghe một thanh niên Đức suốt hai năm ròng và đã không lầm khi làm vậy.
 
-"Họ sẽ nghe," cô nói. "Họ sẽ không nhanh. Đó là nửa còn lại của chuyện này, và đó là nửa quan trọng, và không ai bao giờ chịu cảnh báo người ta về nó."
+"Họ sẽ nghe," cô nói. "Nhưng họ sẽ không hành động nhanh đâu. Đó là nửa còn lại của vấn đề, nửa hệ trọng nhất, mà chẳng ai từng cảnh báo cho người ta biết trước."
 
-Hai người rẽ vào một con hẻm thơm mùi hoa lài, mùi đường nóng, và mùi bụi đặc trưng của vữa cũ, và sợi chỉ sau lưng cô — sợi chỉ nối một người đàn ông trên nóc nhà với một người đàn bà đang đứng giữa hẻm, và thứ đã từng là, trong một khoảnh khắc, điều trung thực nhất của cả đêm hôm đó — mảnh dần, mảnh dần, và không đứt.
+Họ rẽ vào một con hẻm thơm ngát hương hoa lài, mùi đường nóng, và lớp bụi đặc trưng của những mảng vữa tường cũ kỹ. Và sợi chỉ sau lưng cô — sợi chỉ nối người đàn ông trên mái nhà với người thiếu nữ đứng giữa con hẻm, thứ từng là điều chân thực nhất trong suốt đêm dài — cứ mảnh dần, mảnh dần, nhưng không hề đứt.
 
-Nó không bao giờ đứt. Đó là cái phiền phức của nó. Nó chỉ mỏng dần, và mỏng dần, và một lúc nào đó thì bên phía hắn không còn lại chút gì trên nó.
+Nó không bao giờ đứt. Đó mới là nỗi nghiệt ngã của nó. Nó chỉ mỏng manh dần, mỏng manh dần, cho đến khi phía bên kia đầu dây của ông ta chẳng còn lại bất cứ thứ gì.
 
 ---
 
-*Bảy mươi năm sau, trong một căn bếp ở phía bên kia thế giới, một cô gái mười sáu tuổi sẽ ngồi vào bàn với một cây bút chì than và một bát trà hoa lài, và một bà lão mang đôi mắt của bố cô sẽ kể cho cô rằng những sợi chỉ lụa xuyên qua vạn vật, rằng những dòng sâu chạy bên dưới chính từng nơi chốn, rằng cả hai điều ấy đều đúng, và rằng điều thứ hai chính là điều mà các ngôi trường đã vứt bỏ. Ban đầu cô sẽ không tin bà. Đến cuối buổi chiều cô sẽ tin bà. Phải mất phần đời còn lại cô mới tính ra cái sự tin ấy đã tốn giá gì, và ai là người đã bị gọi đến để trả.*
+*Bảy mươi năm sau, trong một căn bếp ở phía bên kia địa cầu, một cô gái mười sáu tuổi sẽ ngồi bên chiếc bàn gỗ với cây bút chì than và một bát trà hoa lài, và một bà cụ mang đôi mắt giống hệt cha cô sẽ kể cho cô nghe rằng những sợi chỉ lụa luồn qua vạn vật, rằng những dòng sâu ngầm chảy bên dưới chính từng mảnh đất, rằng cả hai điều ấy đều có thật, và rằng điều thứ hai chính là điều các trường ốc đã vứt bỏ từ lâu. Ban đầu cô bé sẽ không tin. Nhưng đến cuối buổi chiều hôm đó, cô bé sẽ tin. Và cô sẽ phải dành trọn phần đời còn lại để hiểu thấu niềm tin ấy đã phải đánh đổi bằng cái giá nào, và ai là người đã bị đòi phải trả.*
 
-*Cô gái có một bà cố bên ngoại, và bà ấy đã làm một phiên bản rất nhỏ của việc này, trong một con hẻm không xa nơi đây, vào một đêm mà gạo đang bị lấy đi và không ai ngăn nổi. Bà đã rẽ một ngã rẽ trên một tuyến mà bà không đủ sức cắt, và đã xin một con đường mang giùm bản sao. Việc đó đã thành công. Việc đó cũng đã chỉ cho kẻ thù biết chính xác con đường ấy nằm ở đâu, và nó đã lấy đi của bà ba mươi mốt năm của một cuộc đời mà bà thà rằng được giữ lại, và bốn người bà yêu, những người không có mặt trong truyện này.*
+*Cô gái có một người bà cố bên họ ngoại, và người phụ nữ ấy từng làm một việc tương tự ở quy mô rất nhỏ, trong một con hẻm không xa nơi này, vào một đêm mà lúa gạo bị cướp bóc và chẳng ai ngăn nổi. Bà đã tạo một nhánh rẽ trên đường dây mà mình không đủ sức cắt, rồi nhờ một con phố mang giùm bản sao chép. Việc đó đã thành công. Việc đó cũng đã chỉ cho kẻ thù biết chính xác con phố ấy nằm ở đâu, và nó lấy đi của bà ba mươi mốt năm của một cuộc đời mà bà thà rằng được giữ lại, cùng bốn người bà yêu thương không có tên trong câu chuyện này.*
 
-*Cả hai phiên bản đều không phải là toàn bộ những gì xảy ra tiếp theo.*
+*Cả hai câu chuyện ấy đều chưa phải là toàn bộ những gì xảy ra tiếp theo.*
