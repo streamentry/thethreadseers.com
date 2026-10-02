@@ -204,6 +204,9 @@ const en: Dict = {
   'audio.nextTrack': 'Next chapter',
   'audio.prevTrack': 'Previous chapter',
   'audio.nowPlaying': 'Now playing',
+  'audio.playAll': 'Play all chapters',
+  'audio.playTrack': 'Play chapter',
+  'audio.readAndListen': 'Read & listen',
 }
 
 const vi: Dict = {
@@ -382,6 +385,9 @@ const vi: Dict = {
   'audio.nextTrack': 'Chương tiếp',
   'audio.prevTrack': 'Chương trước',
   'audio.nowPlaying': 'Đang phát',
+  'audio.playAll': 'Phát toàn bộ sách nói',
+  'audio.playTrack': 'Phát',
+  'audio.readAndListen': 'Đọc & nghe',
 }
 
 const dicts: Record<Locale, Dict> = { en, vi }

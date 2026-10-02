@@ -58,6 +58,18 @@ const playerId = `player-${track.slug}`
     </div>
 
     <div class="flex items-center gap-3">
+      <button
+        type="button"
+        data-player-play-all
+        class="inline-flex items-center gap-1 font-mono text-[0.65rem] uppercase tracking-wider text-accent-thread hover:text-accent-thread/80 transition-colors"
+        title={tr('audio.playAll')}
+      >
+        <svg class="h-3 w-3 fill-current" viewBox="0 0 24 24">
+          <path d="M8 5v14l11-7z" />
+        </svg>
+        <span>{tr('audio.playAll')}</span>
+      </button>
+
       <span
         class="hidden sm:inline-flex items-center gap-1 font-mono text-[0.65rem] text-text-muted"
         title="Tự động phát chương tiếp khi nghe hết"
@@ -305,6 +317,21 @@ const playerId = `player-${track.slug}`
     }
     updateNavButtons()
 
+    const playerPlayAllBtn = root.querySelector<HTMLButtonElement>('[data-player-play-all]')
+
+    function broadcastTrackStatus(isPlaying: boolean) {
+      window.dispatchEvent(
+        new CustomEvent('ts-track-status', {
+          detail: {
+            slug: currentSlug,
+            isPlaying,
+            currentIndex,
+            totalTracks: playlist.length,
+          },
+        })
+      )
+    }
+
     function updatePlayState(isPlaying: boolean) {
       if (isPlaying) {
         playIcon?.classList.add('hidden')
@@ -315,6 +342,7 @@ const playerId = `player-${track.slug}`
         pauseIcon?.classList.add('hidden')
         playBtn?.setAttribute('aria-label', 'Play')
       }
+      broadcastTrackStatus(isPlaying)
     }
 
     // Media Session metadata & control hooks
@@ -515,6 +543,43 @@ const playerId = `player-${track.slug}`
       localStorage.setItem(SPEED_KEY, String(rate))
     })
 
+    // Player-internal play-all button
+    playerPlayAllBtn?.addEventListener('click', () => {
+      hasUserInitiatedPlayback = true
+      playTrackByIndex(0, true)
+    })
+
+    // External "Play All" event
+    const handleGlobalPlayAll = () => {
+      hasUserInitiatedPlayback = true
+      if (currentIndex !== 0 || audio.currentTime === 0) {
+        playTrackByIndex(0, true)
+      } else if (audio.paused) {
+        audio.play().catch(() => {})
+      }
+    }
+    window.addEventListener('ts-play-all', handleGlobalPlayAll)
+
+    // External cue track event (e.g. from chapter cards)
+    const handleGlobalCueTrack = (e: Event) => {
+      const custom = e as CustomEvent<{ slug: string; autoPlay?: boolean }>
+      const slug = custom.detail?.slug
+      if (!slug) return
+      const idx = playlist.findIndex((t) => t.slug === slug)
+      if (idx !== -1) {
+        if (idx === currentIndex && !audio.paused && (custom.detail.autoPlay ?? true)) {
+          audio.pause()
+        } else if (idx === currentIndex && audio.paused && (custom.detail.autoPlay ?? true)) {
+          hasUserInitiatedPlayback = true
+          audio.play().catch(() => {})
+        } else {
+          hasUserInitiatedPlayback = true
+          playTrackByIndex(idx, custom.detail.autoPlay ?? true)
+        }
+      }
+    }
+    window.addEventListener('ts-cue-track', handleGlobalCueTrack)
+
     // Check URL autoplay parameter
     const urlParams = new URLSearchParams(window.location.search)
     if (urlParams.get('autoplay') === '1') {
@@ -524,6 +589,9 @@ const playerId = `player-${track.slug}`
         setupMediaSession()
       }).catch(() => {})
     }
+
+    // Initial status broadcast
+    broadcastTrackStatus(!audio.paused)
   }
 
   function initAll() {
