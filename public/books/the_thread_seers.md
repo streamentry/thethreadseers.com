@@ -1,7 +1,7 @@
 ---
 title: The Thread Seers: Book One
 author: Le Viet Hong
-date: 2026-09-29
+date: 2026-10-08
 ---
 
 # Acknowledgments
@@ -856,7 +856,7 @@ She lay in the dark, and did not sleep, and did not turn the light on, and did n
 
 ---
 
-*Thread Resonance Note: C-2214. Guardian conditions received and entered verbatim: (1) accompaniment, unconditional after the first hour; (2) no diagnostic disclosure to the school in advance of the guardian's consent; (3) explicit refusal of any inducement offered in the seer's interest of a third party. One further condition offered by the guardian and not accepted: the seer has stated she will not agree to it, and the entry stands as a matter of record rather than as an agreement. Note from E. Weaver: understood. I will raise the third with my own committee on Thursday and I expect to lose. Note appended by R. Ekwueme (external): please be aware that the referral to you was made on the fifteenth and that the letter of the twenty-second was not the trigger. Somebody had already made a decision about this child before either of us was told anything.*
+*Thread Resonance Note: C-2214. Guardian conditions received and entered verbatim: (1) accompaniment, unconditional after the first hour; (2) no diagnostic disclosure to the school in advance of the guardian's consent; (3) explicit refusal of any inducement offered in the seer's interest of a third party. One further condition offered by the guardian and not accepted: the seer has stated she will not agree to it, and the entry stands as a matter of record rather than as an agreement. Note from E. Weaver: understood. I will raise the third with my own committee on Thursday and I expect to lose. Note appended by N. Ekwueme (external): please be aware that the referral to you was made on the fifteenth and that the letter of the twenty-second was not the trigger. Somebody had already made a decision about this child before either of us was told anything.*
 
 # Chapter 4: The Invitation
 
@@ -930,7 +930,7 @@ Anmei Chen did not lift it out. She put one finger on it and left it there.
 
 She sat down.
 
-"Your grandmother — my mother, whom you never met, who died in the winter of ninety-nine — used to be able to see two kinds of thing. She would tell you, if you asked, that she saw *threads* and *currents*, and if you were a stupid child you would write that down and think it was poetry. It is not poetry. It is one thing, seen from two ends."
+"Your father's grandmother — my mother, whom you never met, who died in the winter of ninety-nine — used to be able to see two kinds of thing. She would tell you, if you asked, that she saw *threads* and *currents*, and if you were a stupid child you would write that down and think it was poetry. It is not poetry. It is one thing, seen from two ends."
 
 "Explain."
 
@@ -1044,7 +1044,7 @@ The warmth did not change, and did not answer, and did not have to.
 
 ---
 
-*Thread Resonance Note: C-2214. Second guardian Anmei Chen (paternal household; silk-vision by instruction, not by blood) to be contacted through the seer and not directly. Instruct that no member of staff is to describe the family, correct the family, or characterise the family's practice to the seer as tradition, as folklore, or as data. Family materials released to the seer at guardian discretion. Note appended by R. Ekwueme (external): guardian has asked me to record that the referral to you was not the trigger for your letter of the twenty-second, and that this household has understood why, and would like it noted that it was not the trigger for the referral either. Note appended by E. Weaver: I am going to have to tell her, on Saturday, that her aunt is forty metres away and has been for eleven years. I have been putting it off for six.*
+*Thread Resonance Note: C-2214. Second guardian Anmei Chen (paternal household; silk-vision by instruction, not by blood) to be contacted through the seer and not directly. Instruct that no member of staff is to describe the family, correct the family, or characterise the family's practice to the seer as tradition, as folklore, or as data. Family materials released to the seer at guardian discretion. Note appended by N. Ekwueme (external): guardian has asked me to record that the referral to you was not the trigger for your letter of the twenty-second, and that this household has understood why, and would like it noted that it was not the trigger for the referral either. Note appended by E. Weaver: I am going to have to tell her, on Saturday, that her aunt is forty metres away and has been for eleven years. I have been putting it off for six.*
 
 # Chapter 5: The Severance
 
@@ -2001,7 +2001,7 @@ The telephone in the east corridor of the clinic had a cord on it, and the cord 
 
 Her father was in Ward C at Westbrook and had been for a day. He was not allowed to travel and had stopped arguing about it on Thursday night, which was new and worse.
 
-"They've put a number on me," he said. "Thirty-one. And the woman who says the number has said the word *ejection* in a corridor, twice, in front of my wife, and my wife is my mother, and my mother has started taking notes."
+"They've put a number on me," he said. "Thirty-one. And the woman who says the number has said the word *ejection* in a corridor, twice, in front of my mother, and my mother has started taking notes."
 
 "What are the notes for?"
 
@@ -3029,11 +3029,11 @@ He held up the exercise book, and it was a graph, and it was drawn in the back o
 
 They got him out at eleven twenty.
 
-That was the entire margin. Everything that happened after that happened because a woman of sixty-eight years old had been sixty-eight seconds ahead of everybody for eleven days and had known, on the eleventh of September, what she was looking at, and had spent eleven days finding a way to get a boy out of a chair that did not require anybody in this building to be brave.
+That was the entire margin. Everything that happened after that happened because a woman of fifty-seven years old had been sixty-eight seconds ahead of everybody for eleven days and had known, on the eleventh of September, what she was looking at, and had spent eleven days finding a way to get a boy out of a chair that did not require anybody in this building to be brave.
 
 And here is the thing about it, which is in the transcript and which Lyra has asked to be allowed to be the first thing anybody says at a conference about the autumn of 2013:
 
-Nobody had to be brave. That is the whole of the finding. The Inquiry established, over nine days, that the events of September 2013 in Threadweaver Academy were not a story about four teenagers. They are a story about how much *ordinary, competent, unheroic procedure* this building was capable of if somebody would only let it happen, and about a woman of sixty-eight who had known for eleven years that there was a machine under her and had spent eleven days quietly finding out which four of the eleven hundred people in this building could be trusted to do a filing job.
+Nobody had to be brave. That is the whole of the finding. The Inquiry established, over nine days, that the events of September 2013 in Threadweaver Academy were not a story about four teenagers. They are a story about how much *ordinary, competent, unheroic procedure* this building was capable of if somebody would only let it happen, and about a woman of fifty-seven who had known for eleven years that there was a machine under her and had spent eleven days quietly finding out which four of the eleven hundred people in this building could be trusted to do a filing job.
 
 Eli Park's name is in it because he handed her a piece of paper in a corridor in daylight with a witness.
 
@@ -3193,7 +3193,7 @@ And Lyra Chen, who had been in the building for ten days, and who had lost nothi
 
 Which is exactly what Eli Park had said in a cellar, on the Friday, about a piece of paper in a sketchbook, and had been laughed at for.
 
-And which is the last thing that happened in Book One that is a *decision* rather than a *reaction*, and it is the reason a woman who had been Headmistress for six years spent the next nine days doing paperwork on purpose, with the door in the room, and is the reason a Registrar of sixty-eight was sixty-eight seconds ahead of everybody for eleven days, and is the reason there is a fifth board.
+And which is the last thing that happened in Book One that is a *decision* rather than a *reaction*, and it is the reason a woman who had been Headmistress for six years spent the next nine days doing paperwork on purpose, with the door in the room, and is the reason a Registrar of fifty-seven was sixty-eight seconds ahead of everybody for eleven days, and is the reason there is a fifth board.
 
 ---
 
@@ -4926,7 +4926,7 @@ And then a girl of nineteen with silver in her hair came through the door behind
 
 "I am the only person in this building whose clearance covers what is in that housing, and Dr. Chen has just asked me to witness it, so yes, I am." The girl's voice cracked in the middle of the word. "I'm sorry. I'm not — I'm sorry. I'm not any good at this."
 
-"You are the best in the building at it," said Mei-Hua Chen's voice from the line, and Lyra understood that this girl was Mei-Hua Chen's student, or her junior, or something that did not have a name, and that this was Lin's sister in a corridor at nine o'clock at night choosing a person to send.
+"You are the best in the building at it," said Mei-Hua Chen's voice from the line, and Lyra understood that this girl was Mei-Hua Chen's student, or her junior, or something that did not have a name, and that this was Lin's sister-in-law in a corridor at nine o'clock at night choosing a person to send.
 
 And Lyra said: "Wait."
 
@@ -8276,7 +8276,7 @@ Eli Park was on a train.
 
 Zara Washington was on a telephone in a car park, laughing about something, and would be on a plane in the morning, and neither of those facts was a metaphor for anything.
 
-Dr. Mei-Hua Chen was in her office with a book open in front of her that she had not read in four years and was reading now, and it was her sister's, and it was the fourth volume, and it was the one with the map in it.
+Dr. Mei-Hua Chen was in her office with a book open in front of her that she had not read in four years and was reading now, and it was her sister-in-law's, and it was the fourth volume, and it was the one with the map in it.
 
 And in a good room on Sub-level 2, a man of fifty-five with eleven months and a letter that had not been answered was watching a panel that showed a valley in the wrong weather, and had been watching it for fifty-four days, and had asked, in the last week, whether it could be fixed, and had been told, kindly, by a woman with a very good hand, that it could not, and had said: *I know. I have been reading it for two months as though it were a discipline. It is a panel. Somebody put it there because I was going to be in a room.*
 
