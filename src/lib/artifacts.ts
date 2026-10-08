@@ -51,8 +51,8 @@ const defs: Omit<Artifact, 'bytes'>[] = [
     format: 'PDF',
     locale: 'en',
     note: {
-      en: 'Print-ready archival edition · desktop reading and margins for annotation',
-      vi: 'Bản lưu trữ chuẩn in ấn · đọc trên màn hình lớn và chú thích',
+      en: 'Reading edition · laid out for desktop and tablet, with room for notes',
+      vi: 'Bản đọc · dàn trang cho máy tính và máy tính bảng, có lề để ghi chú',
     },
   },
   {
@@ -60,8 +60,8 @@ const defs: Omit<Artifact, 'bytes'>[] = [
     format: 'PDF',
     locale: 'vi',
     note: {
-      en: 'Vietnamese edition · print-ready archival PDF',
-      vi: 'Bản tiếng Việt · lưu trữ chuẩn in ấn, đọc trên máy tính',
+      en: 'Vietnamese edition · PDF reading copy for desktop and tablet',
+      vi: 'Bản tiếng Việt · bản đọc PDF cho máy tính và máy tính bảng',
     },
   },
   {

@@ -22,10 +22,10 @@ Credentials must be stored in `.env` (which is excluded in `.gitignore`):
 
 ```bash
 # Gemini API Configuration
-GEMINI_API_KEY=AQ.Ab8RN6K9WL-kXXDOvWwC9K7DBqhBCRRXQracZC2ne3SGTSydHQ
-GOOGLE_GENAI_API_KEY=AQ.Ab8RN6K9WL-kXXDOvWwC9K7DBqhBCRRXQracZC2ne3SGTSydHQ
-GEMINI_PROJECT_NAME=projects/550797633213
-GEMINI_PROJECT_NUMBER=550797633213
+GEMINI_API_KEY=xxx
+GOOGLE_GENAI_API_KEY=xxx
+GEMINI_PROJECT_NAME=projects/xxx
+GEMINI_PROJECT_NUMBER=xx
 ```
 
 ### 3. Generator Tooling (`scripts/gemini_tts.py`)
