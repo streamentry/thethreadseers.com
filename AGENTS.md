@@ -1,7 +1,7 @@
 # The Thread Seers — Agent Guidelines & Architecture
 
 ## Overview
-*The Thread Seers* (`thethreadseers.com`) is a bilingual (English and Vietnamese) static website built with Astro, Tailwind CSS, and TypeScript, dedicated to the YA fantasy novel series by Lê Việt Hồng.
+*The Thread Seers* (live at <https://streamentry.github.io/thethreadseers.com/>) is a bilingual (English and Vietnamese) static website built with Astro, Tailwind CSS, and TypeScript, dedicated to the YA fantasy novel series by Lê Việt Hồng.
 
 ---
 

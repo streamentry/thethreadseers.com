@@ -1,14 +1,13 @@
 // @ts-check
 import { defineConfig } from 'astro/config'
 
-// The site is served from two possible roots:
-//   - project pages: https://streamentry.github.io/thethreadseers.com/
-//   - custom domain: https://thethreadseers.com/   (via public/CNAME)
+// Primary host: https://streamentry.github.io/thethreadseers.com/ (GitHub
+// project pages, served under a subpath).
 //
 // Astro is built with a neutral base; scripts/postbuild.mjs rewrites every
-// emitted asset URL to a depth-relative path afterwards. That keeps a single
-// artifact working at either mount point — the same class of bug that took the
-// site down twice (PR #1, then the base:'/' regression in PR #3).
+// emitted asset URL to a depth-relative path afterwards, so the subpath never
+// has to be baked into asset URLs — the class of bug that took the site down
+// twice (PR #1, then the base:'/' regression in PR #3).
 export default defineConfig({
   site:
     process.env.SITE_URL || 'https://streamentry.github.io/thethreadseers.com',
