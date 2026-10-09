@@ -39,10 +39,9 @@ jobs:
       - name: Install dependencies
         run: pnpm install --frozen-lockfile
 
-      # Canonical origin. thethreadseers.com has no DNS record, so the GitHub
-      # project-pages URL is the only live host and the one all canonical URLs,
-      # hreflang, sitemap.xml and JSON-LD point at. Change this and SITE.url in
-      # src/lib/seo.ts together if the custom domain is pointed at Pages later.
+      # Primary host: the GitHub project-pages URL. All canonical URLs,
+      # hreflang, sitemap.xml and JSON-LD point at it. Keep in sync with
+      # SITE.url in src/lib/seo.ts.
       - name: Build
         env:
           SITE_URL: 'https://streamentry.github.io/thethreadseers.com'

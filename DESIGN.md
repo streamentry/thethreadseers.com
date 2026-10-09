@@ -1,6 +1,6 @@
 # Design System: The Thread Seers
 
-> Single source of truth for all screens on `thethreadseers.com`.
+> Single source of truth for all screens on the site (<https://streamentry.github.io/thethreadseers.com/>).
 > Distilled from the full Book One manuscript, series bible, and character
 > canon — every token below is traceable to the prose, not to a template.
 

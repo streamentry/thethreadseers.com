@@ -16,10 +16,9 @@ export const SITE = {
   author: 'Le Viet Hong',
   authorVi: 'Lê Việt Hồng',
   /**
-   * Canonical host. thethreadseers.com has no DNS record, so the GitHub
-   * project-pages URL is the only live origin and therefore the one canonical
-   * URLs, hreflang, sitemap and JSON-LD point at. Switch this single value if
-   * the custom domain is pointed at GitHub Pages later.
+   * Primary host: the GitHub project-pages URL. Canonical URLs, hreflang,
+   * sitemap and JSON-LD all point here. Keep in sync with SITE_URL in
+   * .github/workflows/deploy.yml and the fallback in astro.config.mjs.
    */
   url: 'https://streamentry.github.io/thethreadseers.com',
   publisher: 'Lumina Press',
@@ -43,6 +42,29 @@ export function absUrl(localePath: string): string {
   // served form or they point at a URL that 301s.
   const withSlash = localePath.endsWith('/') ? localePath : localePath + '/'
   return SITE.url + withSlash
+}
+
+/**
+ * Absolute URL for a static file under public/ (e.g. '/books/x.pdf'). Unlike
+ * absUrl it adds no locale prefix and no trailing slash: files are served
+ * once, at their own path.
+ */
+export function fileUrl(path: string): string {
+  return SITE.url + (path.startsWith('/') ? path : '/' + path)
+}
+
+/** Download files per edition, mirrored from src/lib/artifacts.ts. */
+const BOOK_FILES: Record<Locale, { epub: string; pdf: string; md: string }> = {
+  en: {
+    epub: '/books/the_thread_seers_epub3.epub',
+    pdf: '/books/the_thread_seers.pdf',
+    md: '/books/the_thread_seers.md',
+  },
+  vi: {
+    epub: '/books/the_thread_seers_sach_mot.epub',
+    pdf: '/books/the_thread_seers_sach_mot.pdf',
+    md: '/books/the_thread_seers_sach_mot.md',
+  },
 }
 
 /** Localized path: pass a path without a locale prefix, e.g. '/download'. */
@@ -223,18 +245,18 @@ export function jsonLd(input: JsonLdInput): string {
         {
           '@type': 'Book',
           bookFormat: 'https://schema.org/EBook',
-          url: absUrl(localePath(locale, '/books/the_thread_seers_epub3.epub')),
+          url: fileUrl(BOOK_FILES[locale].epub),
           potentialAction: { '@type': 'ReadAction', target: url },
         },
         {
           '@type': 'Book',
           bookFormat: 'https://schema.org/PDF',
-          url: absUrl(localePath(locale, '/books/the_thread_seers.pdf')),
+          url: fileUrl(BOOK_FILES[locale].pdf),
         },
         {
           '@type': 'Book',
           bookFormat: 'https://schema.org/Text',
-          url: absUrl(localePath(locale, '/books/the_thread_seers.md')),
+          url: fileUrl(BOOK_FILES[locale].md),
         },
       ],
     } as GraphNode)

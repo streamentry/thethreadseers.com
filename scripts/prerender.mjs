@@ -28,9 +28,9 @@ const CONTENT = join(ROOT, 'content', '03_BOOK_ONE')
 const SITE = {
   name: 'The Thread Seers',
   author: 'Le Viet Hong',
-  url: 'https://thethreadseers.com',
+  url: 'https://streamentry.github.io/thethreadseers.com',
   locale: 'en_US',
-  cover: 'https://thethreadseers.com/img/the_thread_seer_book1.jpg',
+  cover: 'https://streamentry.github.io/thethreadseers.com/img/the_thread_seer_book1.jpg',
   coverPath: '/img/the_thread_seer_book1.jpg',
   pdf: '/books/the_thread_seers.pdf',
   epub: '/books/the_thread_seers_epub3.epub',
@@ -612,7 +612,7 @@ function deriveDescription(chapter, paragraphs) {
 const FAQ = [
   [
     'Is The Thread Seers Book One free?',
-    'Yes. The complete Book One is free to read online at thethreadseers.com/series/book-one/read/prologue and free to download in EPUB3, PDF, and Markdown at thethreadseers.com/download. Every one of the 46 chapters is readable free online. There is no sample-only version and no paywall.',
+    'Yes. The complete Book One is free to read online at streamentry.github.io/thethreadseers.com/en/series/book-one/read/prologue/ and free to download in EPUB3, PDF, and Markdown at streamentry.github.io/thethreadseers.com/en/download/. Every one of the 46 chapters is readable free online. There is no sample-only version and no paywall.',
   ],
   [
     'Who wrote The Thread Seers?',
@@ -636,7 +636,7 @@ const FAQ = [
   ],
   [
     'Where can I buy The Thread Seers?',
-    'The full text is free at thethreadseers.com/download. The book is also listed on Amazon Kindle and Google Play Books.',
+    'The full text is free at streamentry.github.io/thethreadseers.com/en/download/. The book is also listed on Amazon Kindle and Google Play Books.',
   ],
 ]
 
