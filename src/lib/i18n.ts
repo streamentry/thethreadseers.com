@@ -190,7 +190,7 @@ const en: Dict = {
   'reader.progress': 'part {n} / {total}',
 
   'audio.title': 'Audiobook · AI Narration',
-  'audio.voice': 'Voiced by Aoede · Gemini 3.8 Flash',
+  'audio.voice': 'Voiced by Charon · Gemini 3.8 Flash',
   'audio.listenOnline': 'Listen online',
   'audio.downloadMp3': 'Download MP3',
   'audio.speed': 'Speed',
@@ -371,7 +371,7 @@ const vi: Dict = {
   'reader.progress': 'phần {n} / {total}',
 
   'audio.title': 'Sách nói · Giọng đọc AI',
-  'audio.voice': 'Giọng đọc Aoede · Gemini 3.8 Flash',
+  'audio.voice': 'Giọng đọc Charon · Gemini 3.8 Flash',
   'audio.listenOnline': 'Nghe trực tuyến',
   'audio.downloadMp3': 'Tải bản MP3',
   'audio.speed': 'Tốc độ',

@@ -12,7 +12,8 @@ The project incorporates native Vietnamese and English audiobook synthesis power
 ### 1. Model & Engine Specifications
 - **Model:** `gemini-3.8-flash-tts` (`models/gemini-3.8-flash-tts`)
 - **Fallback Models:** `gemini-3.8-flash-lite-tts`, `gemini-2.5-flash-preview-tts`
-- **Canon Voice Persona:** `Aoede` (pinned in `speechConfig.voiceConfig.prebuiltVoiceConfig.voiceName = "Aoede"` for consistent timbre and expressive audiobook narration)
+- **Canon Voice Persona:** `Charon` (deep warm baritone, expressive and captivating narration)
+- **Narration Style (`speech_metadata`):** `"Vietnamese male narrator, deep warm baritone, calm, dignified, expressive, and captivating. Moderate measured pace, never rushed, with rich emotional inflection, dynamic cadence, clear articulation, and natural pauses — engaging and vivid, never flat, monotone, or sleepy. No chanting, no music. Read every word exactly as written, preserve repetitions. Do not add commentary."`
 - **Audio Output:** Native 24,000 Hz, 16-bit mono PCM encapsulated in RIFF/WAVE (`audio/wav`)
 - **Distribution Format:** 192 kbps Constant Bitrate MP3 (`.mp3`) encoded via `lameenc` (pure portable C extension, zero system dependency on external ffmpeg)
 - **Target Location:** `public/audio/vi/` (Vietnamese) and `public/audio/en/` (English)

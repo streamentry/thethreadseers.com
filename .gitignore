@@ -125,3 +125,4 @@ Thumbs.db
 # Audio intermediate files
 *.wav
 *.pcm
+__pycache__
