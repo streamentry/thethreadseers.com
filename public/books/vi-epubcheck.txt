@@ -1,8 +1,8 @@
 EPUBCheck v5.4.0 against EPUB 3.4
 artifact: 03_BOOK_ONE_VIETNAMESE/edition/the_thread_seers_sach_mot.epub
-sha256:   f8c6b001aac96137e60ce8567a66f0eb8afdbecc9c91e3584277d9a5f90bfa57
-source commit: 38d5eadd5f1de99a7a44dbcc7299f8faa4612e34
-run:      2026-10-08T14:43:26Z
+sha256:   5b29c339fc133d43788db98695a22525d89877eb9115fe6e88d7b52a09f5e8fd
+source commit: 3e70a5387644dd8f9a2a16c9c339c59f34d1a6f7
+run:      2026-10-10T10:30:14Z
 
 Validating using EPUB version 3.4 rules.
 No errors or warnings detected.
